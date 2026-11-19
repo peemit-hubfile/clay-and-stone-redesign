@@ -1,0 +1,4810 @@
+{
+ "_meta": {
+  "description": "Inventory of every image, video and embed found on the live site. local_path is relative to /public. Files under /public/images/source and /public/videos/source are git-ignored until asset rights are confirmed.",
+  "extracted_on": "2026-11-20",
+  "counts": {
+   "images": 177,
+   "videos": 3,
+   "youtube_embeds": 7
+  }
+ },
+ "images": [
+  {
+   "id": "asset-001",
+   "original_url": "https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628298b20ae0236682d4b87f_Play-24.svg",
+   "local_path": "/images/source/misc/628298b20ae0236682d4b87f_Play-24.svg",
+   "category": "misc",
+   "pages": [
+    "https://www.clayandstone.co.th/en",
+    "https://www.clayandstone.co.th/th"
+   ],
+   "alt_text_original": [
+    "Play video"
+   ],
+   "context": [
+    [
+     "",
+     "Brand Vision"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 423,
+   "format": "svg",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-002",
+   "original_url": "https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628299f8aa233b83918e24fd_Pause.svg",
+   "local_path": "/images/source/misc/628299f8aa233b83918e24fd_Pause.svg",
+   "category": "misc",
+   "pages": [
+    "https://www.clayandstone.co.th/en",
+    "https://www.clayandstone.co.th/th"
+   ],
+   "alt_text_original": [
+    "Pause video"
+   ],
+   "context": [
+    [
+     "",
+     "Brand Vision"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 310,
+   "format": "svg",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-003",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e%2F69638ed4642e2f07b0d05f02_10%20Seconds%20Video_poster.0000000.jpg",
+   "local_path": "/images/source/home/69638ed4642e2f07b0d05f02_10-Seconds-Video_poster.0000000.jpg",
+   "category": "home",
+   "pages": [
+    "https://www.clayandstone.co.th/en",
+    "https://www.clayandstone.co.th/th"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "",
+     "Brand Vision"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 166324,
+   "width": 1280,
+   "height": 720,
+   "format": "JPEG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-004",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b18143bee7fe5a93a9_homepage-img-2.webp",
+   "local_path": "/images/source/home/694194b18143bee7fe5a93a9_homepage-img-2.webp",
+   "category": "home",
+   "pages": [
+    "https://www.clayandstone.co.th/en",
+    "https://www.clayandstone.co.th/en/products/upcoming-product",
+    "https://www.clayandstone.co.th/th",
+    "https://www.clayandstone.co.th/th/products/upcoming-product"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "After Sales You can Rely On",
+     "\"Precisely right, perfectly aligned in every detail.\""
+    ],
+    [
+     "Built True to Design",
+     "\"Precisely right, perfectly aligned in every detail.\""
+    ],
+    [
+     "Built True to Design",
+     "\"ตรงแบบ ตรงใจ ในทุกดีเทล\""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 24220,
+   "width": 640,
+   "height": 435,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-005",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b1ad7cfb0d64088813_icon-1.webp",
+   "local_path": "/images/source/icons/694194b1ad7cfb0d64088813_icon-1.webp",
+   "category": "icons",
+   "pages": [
+    "https://www.clayandstone.co.th/en",
+    "https://www.clayandstone.co.th/th"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "After Sales You can Rely On",
+     "Homes Beyond Prefab"
+    ],
+    [
+     "Why Choose a Clay & Stone Modular House?",
+     "Modular Homes Beyond Prefab"
+    ],
+    [
+     "ทำไมต้องเลือกบ้านสำเร็จรูปพร้อมติดตั้งจาก Clay & Stone?",
+     "มาตรฐานใหม่ของ \"บ้านสำเร็จรูป\""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 2396,
+   "width": 96,
+   "height": 96,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-006",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b1d34324d6970cc09e_icon-2.webp",
+   "local_path": "/images/source/icons/694194b1d34324d6970cc09e_icon-2.webp",
+   "category": "icons",
+   "pages": [
+    "https://www.clayandstone.co.th/en",
+    "https://www.clayandstone.co.th/th"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "\"A prefabricated home... unlike any other prefabricated home.\"",
+     "Built True to Design"
+    ],
+    [
+     "\"บ้านสำเร็จรูป....ที่ไม่เหมือนบ้านสำเร็จรูป\"",
+     "Built True to Design"
+    ],
+    [
+     "Modular Homes Beyond Prefab",
+     "Built True to Design"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 2548,
+   "width": 96,
+   "height": 96,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-007",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b1e651e419f2f6162b_homepage-img-3.webp",
+   "local_path": "/images/source/home/694194b1e651e419f2f6162b_homepage-img-3.webp",
+   "category": "home",
+   "pages": [
+    "https://www.clayandstone.co.th/en",
+    "https://www.clayandstone.co.th/en/process",
+    "https://www.clayandstone.co.th/th",
+    "https://www.clayandstone.co.th/th/process"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "After Sales You can Rely On",
+     "\"Peace of mind... that lasts beyond delivery.\""
+    ],
+    [
+     "After Sales You can Rely On",
+     "\"ความอุ่นใจ...ที่ยาวนานกว่าการส่งมอบ\""
+    ],
+    [
+     "บ้านสำเร็จรูปพร้อมติดตั้ง และบริการหลังการขายที่วางใจได้",
+     "\"ความอุ่นใจ...ที่ยาวนานกว่าการส่งมอบ\""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 44302,
+   "width": 640,
+   "height": 435,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-008",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b24da02e667081f97f_icon-3.webp",
+   "local_path": "/images/source/icons/694194b24da02e667081f97f_icon-3.webp",
+   "category": "icons",
+   "pages": [
+    "https://www.clayandstone.co.th/en",
+    "https://www.clayandstone.co.th/th"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "\"Precisely right, perfectly aligned in every detail.\"",
+     "After Sales You can Rely On"
+    ],
+    [
+     "\"ตรงแบบ ตรงใจ ในทุกดีเทล\"",
+     "After Sales You can Rely On"
+    ],
+    [
+     "Built True to Design",
+     "After Sales You can Rely On"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 2512,
+   "width": 96,
+   "height": 96,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-009",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2841123b22b146a53_homepage-img-4.webp",
+   "local_path": "/images/source/home/694194b2841123b22b146a53_homepage-img-4.webp",
+   "category": "home",
+   "pages": [
+    "https://www.clayandstone.co.th/en",
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Explore Our Modern Modular Houses",
+     "01/"
+    ],
+    [
+     "ตัวอย่างบ้านสำเร็จรูปที่ออกแบบเพื่อการอยู่อาศัยจริง จาก Clay & Stone",
+     "01/"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 66276,
+   "width": 453,
+   "height": 689,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-010",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b299c682e7e931a374_homepage-img-6.webp",
+   "local_path": "/images/source/home/694194b299c682e7e931a374_homepage-img-6.webp",
+   "category": "home",
+   "pages": [
+    "https://www.clayandstone.co.th/en",
+    "https://www.clayandstone.co.th/th"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind in Nonthaburi",
+     "02/"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 53034,
+   "width": 453,
+   "height": 689,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-011",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp",
+   "local_path": "/images/source/home/694194b2c60118ce26af07f4_homepage-img-1.webp",
+   "category": "home",
+   "pages": [
+    "https://www.clayandstone.co.th/en",
+    "https://www.clayandstone.co.th/en/about-us",
+    "https://www.clayandstone.co.th/en/blogs",
+    "https://www.clayandstone.co.th/en/contact-us",
+    "https://www.clayandstone.co.th/en/good-to-know",
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th",
+    "https://www.clayandstone.co.th/th/about-us",
+    "https://www.clayandstone.co.th/th/blogs",
+    "https://www.clayandstone.co.th/th/contact-us",
+    "https://www.clayandstone.co.th/th/good-to-know",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "After Sales You can Rely On",
+     "\"A prefabricated home... unlike any other prefabricated home.\""
+    ],
+    [
+     "Homes Beyond Prefab",
+     "\"A prefabricated home... unlike any other prefabricated home.\""
+    ],
+    [
+     "Homes Beyond Prefab",
+     "\"บ้านสำเร็จรูป....ที่ไม่เหมือนบ้านสำเร็จรูป\""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 52910,
+   "width": 640,
+   "height": 435,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-012",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2ef90983db1337f30_homepage-img-5.webp",
+   "local_path": "/images/source/home/694194b2ef90983db1337f30_homepage-img-5.webp",
+   "category": "home",
+   "pages": [
+    "https://www.clayandstone.co.th/en",
+    "https://www.clayandstone.co.th/th"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind in Prachinburi",
+     "03/"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 55824,
+   "width": 453,
+   "height": 689,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-013",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6946fb0249544502579b0ed9_team-img-1.webp",
+   "local_path": "/images/source/team/6946fb0249544502579b0ed9_team-img-1.webp",
+   "category": "team",
+   "pages": [
+    "https://www.clayandstone.co.th/en/about-us",
+    "https://www.clayandstone.co.th/th/about-us"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Our Team",
+     "Panita Rojanakansakun"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 10440,
+   "width": 617,
+   "height": 420,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-014",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6946fb02c4ba3d0d8abe8828_team-img-2.webp",
+   "local_path": "/images/source/team/6946fb02c4ba3d0d8abe8828_team-img-2.webp",
+   "category": "team",
+   "pages": [
+    "https://www.clayandstone.co.th/en/about-us",
+    "https://www.clayandstone.co.th/th/about-us"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "ผู้อำนวยการฝ่ายออกแบบ / สถาปนิก",
+     "Pornthep Rojanakansakun"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 8448,
+   "width": 617,
+   "height": 420,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-015",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6946fb02e1d72654dcae8b3b_team-img-3.webp",
+   "local_path": "/images/source/team/6946fb02e1d72654dcae8b3b_team-img-3.webp",
+   "category": "team",
+   "pages": [
+    "https://www.clayandstone.co.th/en/about-us",
+    "https://www.clayandstone.co.th/th/about-us"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "ผู้ก่อตั้ง / สถาปนิก",
+     "Apisit Sirikhwanwiwat"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 8422,
+   "width": 617,
+   "height": 420,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-016",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694714060e64d7ba7673369e_process-icon-4.webp",
+   "local_path": "/images/source/icons/694714060e64d7ba7673369e_process-icon-4.webp",
+   "category": "icons",
+   "pages": [
+    "https://www.clayandstone.co.th/en/process",
+    "https://www.clayandstone.co.th/th/process"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "04/",
+     "On-Site Assembly and Home Handover"
+    ],
+    [
+     "04/",
+     "ประกอบและส่งมอบบ้าน"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 2314,
+   "width": 120,
+   "height": 120,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-017",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694714063e7ac6bfe43e87fd_process-img-4.webp",
+   "local_path": "/images/source/process/694714063e7ac6bfe43e87fd_process-img-4.webp",
+   "category": "process",
+   "pages": [
+    "https://www.clayandstone.co.th/en/process",
+    "https://www.clayandstone.co.th/th/process"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "On-Site Assembly and Home Handover",
+     "Contact Us"
+    ],
+    [
+     "ประกอบและส่งมอบบ้าน",
+     "Contact Us"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 47282,
+   "width": 453,
+   "height": 453,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-018",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6947140666dfc1ae9d83bea0_process-icon-1.webp",
+   "local_path": "/images/source/icons/6947140666dfc1ae9d83bea0_process-icon-1.webp",
+   "category": "icons",
+   "pages": [
+    "https://www.clayandstone.co.th/en/process",
+    "https://www.clayandstone.co.th/th/process"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "01/",
+     "Begin a Design Tailored to Your Needs"
+    ],
+    [
+     "01/",
+     "เริ่มงานออกแบบให้ตรงใจ"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 2954,
+   "width": 120,
+   "height": 120,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-019",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6947140674a0c42e1ddd8700_process-img-3.webp",
+   "local_path": "/images/source/process/6947140674a0c42e1ddd8700_process-img-3.webp",
+   "category": "process",
+   "pages": [
+    "https://www.clayandstone.co.th/en/process",
+    "https://www.clayandstone.co.th/th/process"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Module Delivery to the Site",
+     "04/"
+    ],
+    [
+     "ขนส่งโมดูลถึงพื้นที่",
+     "04/"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 27366,
+   "width": 453,
+   "height": 453,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-020",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/69471406798f62cda028eef1_process-img-2.webp",
+   "local_path": "/images/source/process/69471406798f62cda028eef1_process-img-2.webp",
+   "category": "process",
+   "pages": [
+    "https://www.clayandstone.co.th/en/process",
+    "https://www.clayandstone.co.th/th/process"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Sign the Contract and Begin Production",
+     "03/"
+    ],
+    [
+     "เซ็นสัญญาและเริ่มผลิต",
+     "03/"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 40646,
+   "width": 453,
+   "height": 453,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-021",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/69471406a1a321bf471ee220_process-img-1.webp",
+   "local_path": "/images/source/process/69471406a1a321bf471ee220_process-img-1.webp",
+   "category": "process",
+   "pages": [
+    "https://www.clayandstone.co.th/en/process",
+    "https://www.clayandstone.co.th/th/process"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Begin a Design Tailored to Your Needs",
+     "02/"
+    ],
+    [
+     "เริ่มงานออกแบบให้ตรงใจ",
+     "02/"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 20062,
+   "width": 453,
+   "height": 453,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-022",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/69471406d3cb2cc7e68de651_process-icon-2.webp",
+   "local_path": "/images/source/icons/69471406d3cb2cc7e68de651_process-icon-2.webp",
+   "category": "icons",
+   "pages": [
+    "https://www.clayandstone.co.th/en/process",
+    "https://www.clayandstone.co.th/th/process"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "02/",
+     "Sign the Contract and Begin Production"
+    ],
+    [
+     "02/",
+     "เซ็นสัญญาและเริ่มผลิต"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 2140,
+   "width": 120,
+   "height": 120,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-023",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/69471406fac5dae6e8d555b0_process-icon-3.webp",
+   "local_path": "/images/source/icons/69471406fac5dae6e8d555b0_process-icon-3.webp",
+   "category": "icons",
+   "pages": [
+    "https://www.clayandstone.co.th/en/process",
+    "https://www.clayandstone.co.th/th/process"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "03/",
+     "Module Delivery to the Site"
+    ],
+    [
+     "03/",
+     "ขนส่งโมดูลถึงพื้นที่"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 2474,
+   "width": 120,
+   "height": 120,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-024",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6947227e5eaa2b1d7aede238_contact-img-2.webp",
+   "local_path": "/images/source/misc/6947227e5eaa2b1d7aede238_contact-img-2.webp",
+   "category": "misc",
+   "pages": [
+    "https://www.clayandstone.co.th/en/contact-us",
+    "https://www.clayandstone.co.th/th/contact-us"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "152/1, Soi Tiwanon 45, Ta Sai, Mueang Nonthaburi District, Nonthaburi 11000",
+     "Contact Us"
+    ],
+    [
+     "152/1, ซอยติวานนท์ 45, ตำบลท่าทราย, อำเภอเมืองนนทบุรี, จังหวัดนนทบุรี, 11000",
+     "Contact Us"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 31048,
+   "width": 345,
+   "height": 518,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-025",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6947227e8e251d0a6ad18993_contact-img-3.webp",
+   "local_path": "/images/source/misc/6947227e8e251d0a6ad18993_contact-img-3.webp",
+   "category": "misc",
+   "pages": [
+    "https://www.clayandstone.co.th/en/contact-us",
+    "https://www.clayandstone.co.th/th/contact-us"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "152/1, Soi Tiwanon 45, Ta Sai, Mueang Nonthaburi District, Nonthaburi 11000",
+     "Contact Us"
+    ],
+    [
+     "152/1, ซอยติวานนท์ 45, ตำบลท่าทราย, อำเภอเมืองนนทบุรี, จังหวัดนนทบุรี, 11000",
+     "Contact Us"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 23722,
+   "width": 345,
+   "height": 518,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-026",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6947227ec290d2303cbd848f_contact-img-1.webp",
+   "local_path": "/images/source/misc/6947227ec290d2303cbd848f_contact-img-1.webp",
+   "category": "misc",
+   "pages": [
+    "https://www.clayandstone.co.th/en/contact-us",
+    "https://www.clayandstone.co.th/th/contact-us"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "152/1, Soi Tiwanon 45, Ta Sai, Mueang Nonthaburi District, Nonthaburi 11000",
+     ""
+    ],
+    [
+     "152/1, ซอยติวานนท์ 45, ตำบลท่าทราย, อำเภอเมืองนนทบุรี, จังหวัดนนทบุรี, 11000",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 29078,
+   "width": 345,
+   "height": 518,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-027",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694722e5b5351c705601b75d_contact-banner.webp",
+   "local_path": "/images/source/misc/694722e5b5351c705601b75d_contact-banner.webp",
+   "category": "misc",
+   "pages": [
+    "https://www.clayandstone.co.th/en/contact-us",
+    "https://www.clayandstone.co.th/th/contact-us"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "",
+     "Contact Us"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 324970,
+   "width": 2160,
+   "height": 864,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-028",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b06c106e41ba3b29f_unwind-img-13.webp",
+   "local_path": "/images/source/unwind/694acd6b06c106e41ba3b29f_unwind-img-13.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Living & Dining Room",
+     "Family Room"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 132788,
+   "width": 615,
+   "height": 409,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-029",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b1ef20cb0f278b1db_unwind-img-23.webp",
+   "local_path": "/images/source/unwind/694acd6b1ef20cb0f278b1db_unwind-img-23.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Living / Dinning & Bedroom",
+     "Living / Dinning & Working Studio"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 26336,
+   "width": 696,
+   "height": 450,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-030",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b3012aeab9ff13f7d_unwind-img-14.webp",
+   "local_path": "/images/source/unwind/694acd6b3012aeab9ff13f7d_unwind-img-14.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Family Room",
+     "Working Studio"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 129530,
+   "width": 615,
+   "height": 403,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-031",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b56f80fe66b21adca_unwind-img-04.webp",
+   "local_path": "/images/source/unwind/694acd6b56f80fe66b21adca_unwind-img-04.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "03/ Wall Materials",
+     "Steel framing at 60 cm intervals provides strong, rigid walls with minimal movem"
+    ],
+    [
+     "03/ Wall Materials",
+     "ผนังโครงเหล็กวางระยะทุก 60 ซม. เพื่อความแข็งแรง ไม่สั่น ไม่ยวบ ใช้ Smart Board S"
+    ],
+    [
+     "06/ Roof Materials",
+     "Steel framing at 60 cm intervals provides strong, rigid walls with minimal movem"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 746876,
+   "width": 1104,
+   "height": 621,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-032",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b5b97450155199fe1_unwind-img-11.webp",
+   "local_path": "/images/source/unwind/694acd6b5b97450155199fe1_unwind-img-11.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Party Room",
+     "Kid’s room"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 105446,
+   "width": 615,
+   "height": 402,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-033",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b5d379c4f035c3fa8_unwind-img-15.webp",
+   "local_path": "/images/source/unwind/694acd6b5d379c4f035c3fa8_unwind-img-15.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Working Studio",
+     "A Modular Home You Can Customize"
+    ],
+    [
+     "Working Studio",
+     "บ้านโมดูลาร์ที่คุณปรับแต่งได้"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 131302,
+   "width": 615,
+   "height": 406,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-034",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b784db25ede0acc8d_unwind-img-03.webp",
+   "local_path": "/images/source/unwind/694acd6b784db25ede0acc8d_unwind-img-03.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "04/ Outdoor Terrace",
+     "Balcony floors and exterior ceilings are finished with premium WPC wood composit"
+    ],
+    [
+     "04/ Outdoor Terrace",
+     "พื้นระเบียงและฝ้าภายนอกปูด้วยไม้เทียม WPC เกรดพรีเมียม ทนแดด ทนฝนและคงรูปได้ดี เ"
+    ],
+    [
+     "06/ Roof Materials",
+     "Balcony floors and exterior ceilings are finished with premium WPC wood composit"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 624084,
+   "width": 1104,
+   "height": 621,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-035",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b802a0ed904111e67_unwind-img-06.webp",
+   "local_path": "/images/source/unwind/694acd6b802a0ed904111e67_unwind-img-06.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "01/ Structural System",
+     "Structural steel over 2.3 mm thick, certified to TIS standards and up to 1.4x th"
+    ],
+    [
+     "01/ Structural System",
+     "โครงสร้างเหล็กหนามากกว่า 2.3 มม. ได้มาตรฐาน มอก. และมีความหนามากกว่าทั่วไปถึง 1."
+    ],
+    [
+     "06/ Roof Materials",
+     "Built with heavy-duty structural steel over 2.3 mm thick, certified to TIS stand"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 683916,
+   "width": 1104,
+   "height": 621,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-036",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b82786849ab80c623_unwind-img-05.webp",
+   "local_path": "/images/source/unwind/694acd6b82786849ab80c623_unwind-img-05.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "02/ Flooring System",
+     "Steel floor joists are spaced at 40 cm for even load distribution and stability."
+    ],
+    [
+     "02/ Flooring System",
+     "โครงรับพื้นวางถี่ทุก 40 ซม. เพื่อการกระจายน้ำหนักที่สม่ำเสมอและมั่นคง ปิดผิวด้วย"
+    ],
+    [
+     "06/ Roof Materials",
+     "Steel floor joists are spaced at 40 cm for even load distribution and stability."
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 853168,
+   "width": 1104,
+   "height": 621,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-037",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b94f729a7be7b7276_unwind-img-20.webp",
+   "local_path": "/images/source/unwind/694acd6b94f729a7be7b7276_unwind-img-20.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Family & Party Room",
+     "Family & Kid’s Room"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 24504,
+   "width": 789,
+   "height": 356,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-038",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b9cd45665704b6a7a_unwind-img-01.webp",
+   "local_path": "/images/source/unwind/694acd6b9cd45665704b6a7a_unwind-img-01.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "06/ Roof Materials",
+     "The roof uses 0.4 mm metal sheets with 1-inch PU insulation, providing stronger "
+    ],
+    [
+     "06/ Roof Materials",
+     "หลังคา Metal Sheet หนา 0.4 มม. แข็งแรงกว่าทั่วไปถึง 1.35 เท่า ทนทานต่อแรงลมและฝน"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 884244,
+   "width": 1104,
+   "height": 621,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-039",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6baba2eeebae384e95_unwind-img-21.webp",
+   "local_path": "/images/source/unwind/694acd6baba2eeebae384e95_unwind-img-21.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Family & Working Studio",
+     "Family & Party Room"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 30838,
+   "width": 780,
+   "height": 450,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-040",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6bbdf13be6a0809bd0_unwind-img-08.webp",
+   "local_path": "/images/source/unwind/694acd6bbdf13be6a0809bd0_unwind-img-08.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Well-Proportioned Modular House Design",
+     "Flexible Function"
+    ],
+    [
+     "บ้านโมดูลาร์ที่ออกแบบมาอย่างได้สัดส่วน (Size & Dimension)",
+     "Flexible Function"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 120854,
+   "width": 942,
+   "height": 560,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-041",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6bc58fd9845d41a2f1_unwind-img-10.webp",
+   "local_path": "/images/source/unwind/694acd6bc58fd9845d41a2f1_unwind-img-10.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Bedroom",
+     "Bedroom & Kitchen Dining Room"
+    ],
+    [
+     "Bedroom",
+     "Party Room"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 107542,
+   "width": 615,
+   "height": 409,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-042",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6bcbb6eba505d5fbf8_unwind-img-22.webp",
+   "local_path": "/images/source/unwind/694acd6bcbb6eba505d5fbf8_unwind-img-22.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Living / Dinning & Working Studio",
+     "Family & Working Studio"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 25380,
+   "width": 872,
+   "height": 342,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-043",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6bd9f8bd55b66a2a58_unwind-img-09.webp",
+   "local_path": "/images/source/unwind/694acd6bd9f8bd55b66a2a58_unwind-img-09.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Well-Proportioned Modular House Design",
+     "Flexible Function"
+    ],
+    [
+     "บ้านโมดูลาร์ที่ออกแบบมาอย่างได้สัดส่วน (Size & Dimension)",
+     "Flexible Function"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 277770,
+   "width": 942,
+   "height": 780,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-044",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6be01a2b5b62d4abf3_unwind-img-16.webp",
+   "local_path": "/images/source/unwind/694acd6be01a2b5b62d4abf3_unwind-img-16.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "A Modular Home You Can Customize",
+     "Module Combination"
+    ],
+    [
+     "บ้านโมดูลาร์ที่คุณปรับแต่งได้",
+     "บ้านที่ปรับเปลี่ยนได้ตามความต้องการ"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 73610,
+   "width": 942,
+   "height": 448,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-045",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6bee21e205d0d78e70_unwind-img-12.webp",
+   "local_path": "/images/source/unwind/694acd6bee21e205d0d78e70_unwind-img-12.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Kid’s room",
+     "Living & Dining Room"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 105786,
+   "width": 615,
+   "height": 405,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-046",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6bf5bd4a8396d40ad1_unwind-img-02.webp",
+   "local_path": "/images/source/unwind/694acd6bf5bd4a8396d40ad1_unwind-img-02.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "05/ Door & Window",
+     "Wood-grain aluminum frames paired with 6 mm clear glass offer the look of wood w"
+    ],
+    [
+     "05/ Door & Window",
+     "ประตู–หน้าต่างอลูมิเนียมลายไม้ให้ความสวยงามเสมือนไม้จริงโดยไม่ซีดจาง ใช้กระจกใสห"
+    ],
+    [
+     "06/ Roof Materials",
+     "Wood-grain aluminum frames paired with 6 mm clear glass offer the look of wood w"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 735890,
+   "width": 1104,
+   "height": 621,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-047",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694e06c3033fd1da79ed18d9_bi-img-4.webp",
+   "local_path": "/images/source/series-identity/694e06c3033fd1da79ed18d9_bi-img-4.webp",
+   "category": "series-identity",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "' Homey '",
+     "' Harmony with Nature '"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 477808,
+   "width": 453,
+   "height": 996,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-048",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694e06c332789bcc8d3cd096_bi-img-2.webp",
+   "local_path": "/images/source/series-identity/694e06c332789bcc8d3cd096_bi-img-2.webp",
+   "category": "series-identity",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "' Simplicity '",
+     "' Comfort '"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 322534,
+   "width": 453,
+   "height": 996,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-049",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694e06c359f693d74fbc9624_bi-img-1.webp",
+   "local_path": "/images/source/series-identity/694e06c359f693d74fbc9624_bi-img-1.webp",
+   "category": "series-identity",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Why Choose the Unwind Series?",
+     "' Simplicity '"
+    ],
+    [
+     "จุดเด่นของบ้านโมดูลาร์ Unwind Series",
+     "' Simplicity '"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 305648,
+   "width": 453,
+   "height": 996,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-050",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6963ab7654c71bc7ec9d36c9_loft-4.webp",
+   "local_path": "/images/source/projects/6963ab7654c71bc7ec9d36c9_loft-4.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 915130,
+   "width": 1122,
+   "height": 1122,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-051",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6963ae4c608741b4a217121d_1bed-2bath-12.webp",
+   "local_path": "/images/source/projects/6963ae4c608741b4a217121d_1bed-2bath-12.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 982080,
+   "width": 1122,
+   "height": 1122,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-052",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6963ae4d516c536fe3ccc941_1bed-2bath-14.webp",
+   "local_path": "/images/source/projects/6963ae4d516c536fe3ccc941_1bed-2bath-14.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 1030670,
+   "width": 1122,
+   "height": 1122,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-053",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6963b907599c2da933680d0f_Mask%20group-1.png",
+   "local_path": "/images/source/misc/6963b907599c2da933680d0f_Mask-group-1.png",
+   "category": "misc",
+   "pages": [
+    "https://www.clayandstone.co.th/en/about-us",
+    "https://www.clayandstone.co.th/th/about-us"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Our Lovely Clients",
+     "Sujinda Limpanichpackdee"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 32277,
+   "width": 136,
+   "height": 136,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-054",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6963b907a0f413f269550cd6_Mask%20group.png",
+   "local_path": "/images/source/misc/6963b907a0f413f269550cd6_Mask-group.png",
+   "category": "misc",
+   "pages": [
+    "https://www.clayandstone.co.th/en/about-us",
+    "https://www.clayandstone.co.th/th/about-us"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Product",
+     "Wonngarm"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 8339,
+   "width": 136,
+   "height": 136,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-055",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/696c926e13e832bcb95bac6c_Frame%20205.webp",
+   "local_path": "/images/source/unwind/696c926e13e832bcb95bac6c_Frame-205.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "A Modular Home You Can Customize",
+     "Module Combination"
+    ],
+    [
+     "บ้านโมดูลาร์ที่คุณปรับแต่งได้",
+     "บ้านที่ปรับเปลี่ยนได้ตามความต้องการ"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 40716,
+   "width": 629,
+   "height": 668,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-056",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/696c94af40a2517c51c3fe0d_1%20Bed%202%20Bath.webp",
+   "local_path": "/images/source/misc/696c94af40a2517c51c3fe0d_1-Bed-2-Bath.webp",
+   "category": "misc",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "THB",
+     "1 Bed 2 Bath"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 555788,
+   "width": 1200,
+   "height": 959,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-057",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/696c94af7b535bb0f87f9deb_Standard%20Type.webp",
+   "local_path": "/images/source/projects/696c94af7b535bb0f87f9deb_Standard-Type.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/en/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "One-year warranty on general workmanship and a five-year warranty on structural ",
+     "Standard Type"
+    ],
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 547566,
+   "width": 1200,
+   "height": 959,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-058",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/696c94afbae329ca4a95543e_Loft%20Type.webp",
+   "local_path": "/images/source/projects/696c94afbae329ca4a95543e_Loft-Type.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "THB",
+     "Loft Type"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 611374,
+   "width": 1200,
+   "height": 959,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-059",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b6690794eb32539ccc80_standard-14.webp",
+   "local_path": "/images/source/projects/6973b6690794eb32539ccc80_standard-14.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 544528,
+   "width": 1512,
+   "height": 1134,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-060",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b66925559dec4803719e_standard-12.webp",
+   "local_path": "/images/source/projects/6973b66925559dec4803719e_standard-12.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 782234,
+   "width": 1512,
+   "height": 1134,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-061",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b66927cdf8ccb5137118_standard-01.webp",
+   "local_path": "/images/source/projects/6973b66927cdf8ccb5137118_standard-01.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     "Standard Type:"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 390510,
+   "width": 1152,
+   "height": 1536,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-062",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b6693b8e7980743e0415_standard-15.webp",
+   "local_path": "/images/source/projects/6973b6693b8e7980743e0415_standard-15.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 513040,
+   "width": 1152,
+   "height": 1536,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-063",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b66941412be4346387c5_standard-05.webp",
+   "local_path": "/images/source/projects/6973b66941412be4346387c5_standard-05.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 507316,
+   "width": 1152,
+   "height": 1536,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-064",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b6694d3ee8abaef6e46a_standard-02.webp",
+   "local_path": "/images/source/projects/6973b6694d3ee8abaef6e46a_standard-02.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 343830,
+   "width": 1152,
+   "height": 1536,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-065",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b6695263655c9f77d841_standard-11.webp",
+   "local_path": "/images/source/projects/6973b6695263655c9f77d841_standard-11.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 608642,
+   "width": 1512,
+   "height": 1134,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-066",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b669596c89c738b90a9c_standard-03.webp",
+   "local_path": "/images/source/projects/6973b669596c89c738b90a9c_standard-03.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 466356,
+   "width": 1152,
+   "height": 1536,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-067",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b66960cf52b8e61804f0_standard-09.webp",
+   "local_path": "/images/source/projects/6973b66960cf52b8e61804f0_standard-09.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 468370,
+   "width": 1152,
+   "height": 1536,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-068",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b6696b75b7769e8f9f4a_standard-06.webp",
+   "local_path": "/images/source/projects/6973b6696b75b7769e8f9f4a_standard-06.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 529126,
+   "width": 1152,
+   "height": 1536,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-069",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b66971953ef23c86ccdd_standard-10.webp",
+   "local_path": "/images/source/projects/6973b66971953ef23c86ccdd_standard-10.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 512332,
+   "width": 1512,
+   "height": 1134,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-070",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b669a3b0078fe042db67_standard-04.webp",
+   "local_path": "/images/source/projects/6973b669a3b0078fe042db67_standard-04.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 469158,
+   "width": 1152,
+   "height": 1536,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-071",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b669a84a9e740e476ed4_standard-07.webp",
+   "local_path": "/images/source/projects/6973b669a84a9e740e476ed4_standard-07.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 510628,
+   "width": 1152,
+   "height": 1536,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-072",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b669c5cc47abc184194b_standard-08.webp",
+   "local_path": "/images/source/projects/6973b669c5cc47abc184194b_standard-08.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 587434,
+   "width": 1152,
+   "height": 1536,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-073",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b669fbc3fdd253829882_standard-13.webp",
+   "local_path": "/images/source/projects/6973b669fbc3fdd253829882_standard-13.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 618772,
+   "width": 1512,
+   "height": 1134,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-074",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b8471c66218ce168170c_loft-03.webp",
+   "local_path": "/images/source/projects/6973b8471c66218ce168170c_loft-03.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 360270,
+   "width": 1512,
+   "height": 1134,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-075",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b8472c0b641bd8960e9a_loft-14.webp",
+   "local_path": "/images/source/projects/6973b8472c0b641bd8960e9a_loft-14.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 382490,
+   "width": 1122,
+   "height": 1122,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-076",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b847319537f555375dc0_loft-02.webp",
+   "local_path": "/images/source/projects/6973b847319537f555375dc0_loft-02.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 421734,
+   "width": 1152,
+   "height": 1536,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-077",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b8474458238b820645c1_loft-13.webp",
+   "local_path": "/images/source/projects/6973b8474458238b820645c1_loft-13.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 376412,
+   "width": 1122,
+   "height": 1122,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-078",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b84745b3bc110755548e_loft-01.webp",
+   "local_path": "/images/source/projects/6973b84745b3bc110755548e_loft-01.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     "Loft Type"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 308610,
+   "width": 1152,
+   "height": 1536,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-079",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b847607d9207d2a2a18c_loft-09.webp",
+   "local_path": "/images/source/projects/6973b847607d9207d2a2a18c_loft-09.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 309266,
+   "width": 1122,
+   "height": 1122,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-080",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b84760cf52b8e61855ab_loft-07.webp",
+   "local_path": "/images/source/projects/6973b84760cf52b8e61855ab_loft-07.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 380108,
+   "width": 1152,
+   "height": 1536,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-081",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b84766f394019dcd7f05_loft-06.webp",
+   "local_path": "/images/source/projects/6973b84766f394019dcd7f05_loft-06.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 455082,
+   "width": 1152,
+   "height": 1536,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-082",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b84785fe6f90ef551ccf_loft-12.webp",
+   "local_path": "/images/source/projects/6973b84785fe6f90ef551ccf_loft-12.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 329242,
+   "width": 1122,
+   "height": 1122,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-083",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b847be9db0cf140924a9_loft-04.webp",
+   "local_path": "/images/source/projects/6973b847be9db0cf140924a9_loft-04.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 431454,
+   "width": 1512,
+   "height": 1134,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-084",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b847cc0db2e223ae6c36_loft-08.webp",
+   "local_path": "/images/source/projects/6973b847cc0db2e223ae6c36_loft-08.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 505438,
+   "width": 1152,
+   "height": 1536,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-085",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b847f44a577ca1a7904b_loft-10.webp",
+   "local_path": "/images/source/projects/6973b847f44a577ca1a7904b_loft-10.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 439290,
+   "width": 1122,
+   "height": 1122,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-086",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b848b0cf551ef3dc2105_loft-05.webp",
+   "local_path": "/images/source/projects/6973b848b0cf551ef3dc2105_loft-05.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 497500,
+   "width": 1512,
+   "height": 1134,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-087",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab42483e43311742af3_1bed-2bath-16.webp",
+   "local_path": "/images/source/projects/6973bab42483e43311742af3_1bed-2bath-16.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 400742,
+   "width": 1512,
+   "height": 1134,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-088",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4492eae9d9dd1d19e_1bed-2bath-04.webp",
+   "local_path": "/images/source/projects/6973bab4492eae9d9dd1d19e_1bed-2bath-04.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 216948,
+   "width": 1122,
+   "height": 1122,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-089",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab45600efe57dc76332_1bed-2bath-06.webp",
+   "local_path": "/images/source/projects/6973bab45600efe57dc76332_1bed-2bath-06.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 614882,
+   "width": 1122,
+   "height": 1122,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-090",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab48ae039b4c0e3e8b9_1bed-2bath-01.webp",
+   "local_path": "/images/source/projects/6973bab48ae039b4c0e3e8b9_1bed-2bath-01.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     "1 Bed 2 Bath:"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 586870,
+   "width": 1152,
+   "height": 1536,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-091",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4a8948c7ddcd274a7_1bed-2bath-09.webp",
+   "local_path": "/images/source/projects/6973bab4a8948c7ddcd274a7_1bed-2bath-09.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 762174,
+   "width": 1122,
+   "height": 1122,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-092",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4bf231e1ab18a65e8_1bed-2bath-02.webp",
+   "local_path": "/images/source/projects/6973bab4bf231e1ab18a65e8_1bed-2bath-02.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 588506,
+   "width": 1152,
+   "height": 1536,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-093",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4cc0db2e223aef1a9_1bed-2bath-12.webp",
+   "local_path": "/images/source/projects/6973bab4cc0db2e223aef1a9_1bed-2bath-12.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 477104,
+   "width": 1512,
+   "height": 1134,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-094",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4d476f82d4bdef766_1bed-2bath-07.webp",
+   "local_path": "/images/source/projects/6973bab4d476f82d4bdef766_1bed-2bath-07.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 339914,
+   "width": 1122,
+   "height": 1122,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-095",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4f4d3090f50540ba0_1bed-2bath-11.webp",
+   "local_path": "/images/source/projects/6973bab4f4d3090f50540ba0_1bed-2bath-11.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 734670,
+   "width": 1122,
+   "height": 1122,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-096",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4fd3feb910ead7526_1bed-2bath-08.webp",
+   "local_path": "/images/source/projects/6973bab4fd3feb910ead7526_1bed-2bath-08.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 647048,
+   "width": 1122,
+   "height": 1122,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-097",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab501817e4632a32ccf_1bed-2bath-10.webp",
+   "local_path": "/images/source/projects/6973bab501817e4632a32ccf_1bed-2bath-10.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 823564,
+   "width": 1122,
+   "height": 1122,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-098",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab578367c101ea895f2_1bed-2bath-15.webp",
+   "local_path": "/images/source/projects/6973bab578367c101ea895f2_1bed-2bath-15.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 575768,
+   "width": 1512,
+   "height": 1134,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-099",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab596eb0953b6c83d71_1bed-2bath-14.webp",
+   "local_path": "/images/source/projects/6973bab596eb0953b6c83d71_1bed-2bath-14.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 451050,
+   "width": 1512,
+   "height": 1134,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-100",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab5b274825bcd905e0f_1bed-2bath-13.webp",
+   "local_path": "/images/source/projects/6973bab5b274825bcd905e0f_1bed-2bath-13.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 554170,
+   "width": 1512,
+   "height": 1134,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-101",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bd5e2146ef02e151edff_bi-img-3.webp",
+   "local_path": "/images/source/series-identity/6973bd5e2146ef02e151edff_bi-img-3.webp",
+   "category": "series-identity",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "' Comfort '",
+     "' Homey '"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 247346,
+   "width": 302,
+   "height": 664,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-102",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6974c69c094fb83e9a1511fc_Screenshot%202569-01-24%20at%2017.08.20.png",
+   "local_path": "/images/source/testimonials/6974c69c094fb83e9a1511fc_Screenshot-2569-01-24-at-17.08.20.png",
+   "category": "testimonials",
+   "pages": [
+    "https://www.clayandstone.co.th/en/about-us",
+    "https://www.clayandstone.co.th/th/about-us"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Product",
+     "K. Orachorn (K. Kae)"
+    ],
+    [
+     "Product",
+     "คุณอรชร (คุณเก๋)"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 952075,
+   "width": 700,
+   "height": 704,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-103",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6974c69c22bf4018cd646d94_Screenshot%202569-01-24%20at%2017.08.33.png",
+   "local_path": "/images/source/testimonials/6974c69c22bf4018cd646d94_Screenshot-2569-01-24-at-17.08.33.png",
+   "category": "testimonials",
+   "pages": [
+    "https://www.clayandstone.co.th/en/about-us",
+    "https://www.clayandstone.co.th/th/about-us"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Loft Type in Suphanburi",
+     "K. Ketskanok (K. Miew)"
+    ],
+    [
+     "Loft Type in Suphanburi",
+     "คุณเกศกนก (คุณเหมี่ยว)"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 868296,
+   "width": 712,
+   "height": 706,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-104",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6974c69c7a4fc9e79c618954_Screenshot%202569-01-24%20at%2017.08.26.png",
+   "local_path": "/images/source/testimonials/6974c69c7a4fc9e79c618954_Screenshot-2569-01-24-at-17.08.26.png",
+   "category": "testimonials",
+   "pages": [
+    "https://www.clayandstone.co.th/en/about-us",
+    "https://www.clayandstone.co.th/th/about-us"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "1 Bed 2 Bath Type in Suphanburi",
+     "K. Sujinda (K. Lek)"
+    ],
+    [
+     "1 Bed 2 Bath Type in Suphanburi",
+     "คุณสุจินดา (คุณเล็ก)"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 949135,
+   "width": 700,
+   "height": 698,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-105",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/69933e85dbadbf529b7d1171_1%20Bed%202%20Bath.webp",
+   "local_path": "/images/source/projects/69933e85dbadbf529b7d1171_1-Bed-2-Bath.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/products/unwind-series",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ],
+    [
+     "บาท",
+     "1 Bed 2 Bath"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 265620,
+   "width": 800,
+   "height": 639,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-106",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/69933e89074eec2249ff604a_2%20Bed%202%20Bath.webp",
+   "local_path": "/images/source/projects/69933e89074eec2249ff604a_2-Bed-2-Bath.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 225794,
+   "width": 800,
+   "height": 639,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-107",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/69933e8db80b846a019e665a_Loft%20Type.webp",
+   "local_path": "/images/source/projects/69933e8db80b846a019e665a_Loft-Type.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/products/unwind-series",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ],
+    [
+     "บาท",
+     "Loft Type"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 288300,
+   "width": 800,
+   "height": 639,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-108",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/69933e92cdc7bae1d8574028_Standard%20Type.webp",
+   "local_path": "/images/source/projects/69933e92cdc7bae1d8574028_Standard-Type.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/th/products/unwind-series",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ],
+    [
+     "พร้อมบริการหลังการขาย",
+     "Standard Type"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 261344,
+   "width": 800,
+   "height": 639,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-109",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/699387cc2d5fd10b98474aae_unwind-module-6.webp",
+   "local_path": "/images/source/unwind/699387cc2d5fd10b98474aae_unwind-module-6.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Family & Working Studio",
+     "Unwind Series Modular House Prices"
+    ],
+    [
+     "Family & Working Studio",
+     "ราคาและโปรโมชั่นบ้านโมดูลาร์"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 15546,
+   "width": 879,
+   "height": 450,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-110",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/699387cc32607bc55ce8be4e_unwind-module-1.webp",
+   "local_path": "/images/source/unwind/699387cc32607bc55ce8be4e_unwind-module-1.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Living / Dinning & Bedroom",
+     "Living / Dinning & Working Studio"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 14744,
+   "width": 878,
+   "height": 450,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-111",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/699387cc48316c52962b91b1_unwind-module-2.webp",
+   "local_path": "/images/source/unwind/699387cc48316c52962b91b1_unwind-module-2.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Living / Dinning & Working Studio",
+     "Family & Working Studio"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 14952,
+   "width": 878,
+   "height": 450,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-112",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/699387cc7a95b740193dc072_unwind-module-3.webp",
+   "local_path": "/images/source/unwind/699387cc7a95b740193dc072_unwind-module-3.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Family & Working Studio",
+     "Family & Party Room"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 17212,
+   "width": 878,
+   "height": 450,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-113",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/699387cc88fcb3f6fcddb5d8_unwind-module-5.webp",
+   "local_path": "/images/source/unwind/699387cc88fcb3f6fcddb5d8_unwind-module-5.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Family & Kid’s Room",
+     "Family & Working Studio"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 15610,
+   "width": 878,
+   "height": 450,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-114",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/699387ccd51e8b544ba5d1de_unwind-module-4.webp",
+   "local_path": "/images/source/unwind/699387ccd51e8b544ba5d1de_unwind-module-4.webp",
+   "category": "unwind",
+   "pages": [
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Family & Party Room",
+     "Family & Kid’s Room"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 13814,
+   "width": 878,
+   "height": 450,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-115",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/69ea4eede3bfbd091ca58b4c_2%20Bed%202%20Bath.webp",
+   "local_path": "/images/source/misc/69ea4eede3bfbd091ca58b4c_2-Bed-2-Bath.webp",
+   "category": "misc",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/unwind-series",
+    "https://www.clayandstone.co.th/th/products/unwind-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "THB",
+     "2 Bed 2 Bath"
+    ],
+    [
+     "บาท",
+     "2 Bed 2 Bath"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 227990,
+   "width": 800,
+   "height": 639,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-116",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a099502f71666e4fc49e86f_Line%20OA%20Chat%20260512.jpg",
+   "local_path": "/images/source/misc/6a099502f71666e4fc49e86f_Line-OA-Chat-260512.jpg",
+   "category": "misc",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/knockdown-house-ideas",
+    "https://www.clayandstone.co.th/en/blogs/modular-house-price",
+    "https://www.clayandstone.co.th/en/blogs/modular-house-rainy-season-problems",
+    "https://www.clayandstone.co.th/en/blogs/modular-vs-knockdown-house",
+    "https://www.clayandstone.co.th/en/blogs/prefab-homes-lifespan",
+    "https://www.clayandstone.co.th/th/blogs/knockdown-house-ideas",
+    "https://www.clayandstone.co.th/th/blogs/modular-house-price",
+    "https://www.clayandstone.co.th/th/blogs/modular-house-rainy-season-problems",
+    "https://www.clayandstone.co.th/th/blogs/modular-vs-knockdown-house",
+    "https://www.clayandstone.co.th/th/blogs/prefab-homes-lifespan"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "A Good Home Isn't Measured By How Many Years It Lasts",
+     "Panita Rojanakansakun"
+    ],
+    [
+     "A vacation home that is “easy to start and finish in one place”",
+     "Panita Rojanakansakun"
+    ],
+    [
+     "So Which Type of House Is Right for You?",
+     "Panita Rojanakansakun"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 69484,
+   "width": 750,
+   "height": 863,
+   "format": "JPEG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-117",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a128b720a2225ab7e6b04e6_03.webp",
+   "local_path": "/images/source/projects/6a128b720a2225ab7e6b04e6_03.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 498460,
+   "width": 1683,
+   "height": 935,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-118",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a128b72c517fb01f8baf43e_02.webp",
+   "local_path": "/images/source/projects/6a128b72c517fb01f8baf43e_02.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 416950,
+   "width": 1672,
+   "height": 941,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-119",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a128b7323be8647e99d22b2_01.webp",
+   "local_path": "/images/source/projects/6a128b7323be8647e99d22b2_01.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 497182,
+   "width": 1672,
+   "height": 941,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-120",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a128d53431c2637b7121eae_04.webp",
+   "local_path": "/images/source/projects/6a128d53431c2637b7121eae_04.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 395416,
+   "width": 1846,
+   "height": 852,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-121",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a128d535f224ee69d52ed7e_05.webp",
+   "local_path": "/images/source/projects/6a128d535f224ee69d52ed7e_05.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Unwind Series",
+     "2 Bed 2 Bath:"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 350098,
+   "width": 1672,
+   "height": 941,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-122",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12ad6bab3ec83c046b4912_bi-img-3.png",
+   "local_path": "/images/source/series-identity/6a12ad6bab3ec83c046b4912_bi-img-3.png",
+   "category": "series-identity",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/alive-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "' Compact '",
+     "' Active '"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 369967,
+   "width": 302,
+   "height": 664,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-123",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b0d422ff42301f738e89_bi-img-2.webp",
+   "local_path": "/images/source/series-identity/6a12b0d422ff42301f738e89_bi-img-2.webp",
+   "category": "series-identity",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/alive-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "' Dynamic '",
+     "' Compact '"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 44996,
+   "width": 302,
+   "height": 664,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-124",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b0d48f34ca7e12f75e4c_bi-img-4.webp",
+   "local_path": "/images/source/series-identity/6a12b0d48f34ca7e12f75e4c_bi-img-4.webp",
+   "category": "series-identity",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/alive-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "' Active '",
+     "' Outdoor Living '"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 48546,
+   "width": 302,
+   "height": 664,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-125",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b0d4a2474669906144bd_bi-img-1.webp",
+   "local_path": "/images/source/series-identity/6a12b0d4a2474669906144bd_bi-img-1.webp",
+   "category": "series-identity",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/alive-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Brand Identity",
+     "' Dynamic '"
+    ],
+    [
+     "จุดเด่นของบ้านโมดูลาร์ Alive Series",
+     "' Dynamic '"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 53636,
+   "width": 302,
+   "height": 664,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-126",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b15a9e8bf0a84961150a_2%20Bed%202%20Bath.webp",
+   "local_path": "/images/source/projects/6a12b15a9e8bf0a84961150a_2-Bed-2-Bath.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/products/alive-series",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Alive Series",
+     ""
+    ],
+    [
+     "One-year warranty on general workmanship and a five-year warranty on structural ",
+     "2 Bed 2 Bath"
+    ],
+    [
+     "พร้อมบริการหลังการขาย",
+     "2 Bed 2 Bath"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 39766,
+   "width": 800,
+   "height": 639,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-127",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bf37421d32569efbbf_07.webp",
+   "local_path": "/images/source/projects/6a12b4bf37421d32569efbbf_07.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Alive Series",
+     "FAQ"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 188356,
+   "width": 941,
+   "height": 1300,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-128",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bf4d223b41045aadfe_06.webp",
+   "local_path": "/images/source/projects/6a12b4bf4d223b41045aadfe_06.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Alive Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 277006,
+   "width": 1672,
+   "height": 941,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-129",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bfa24746699061a83e_03.webp",
+   "local_path": "/images/source/projects/6a12b4bfa24746699061a83e_03.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Alive Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 464140,
+   "width": 1672,
+   "height": 941,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-130",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bfb6e65cc6a38f53cb_05.webp",
+   "local_path": "/images/source/projects/6a12b4bfb6e65cc6a38f53cb_05.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Alive Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 209108,
+   "width": 1672,
+   "height": 941,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-131",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bfc517fb01f8bf8690_04.webp",
+   "local_path": "/images/source/projects/6a12b4bfc517fb01f8bf8690_04.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Alive Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 268678,
+   "width": 1672,
+   "height": 941,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-132",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bfc62e80f0d1f1506c_02.webp",
+   "local_path": "/images/source/projects/6a12b4bfc62e80f0d1f1506c_02.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Alive Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 304228,
+   "width": 1672,
+   "height": 941,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-133",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bffc3c68b362f659c1_01.webp",
+   "local_path": "/images/source/projects/6a12b4bffc3c68b362f659c1_01.webp",
+   "category": "projects",
+   "pages": [
+    "https://www.clayandstone.co.th/en/projects",
+    "https://www.clayandstone.co.th/th/projects"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Alive Series",
+     ""
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 414194,
+   "width": 1672,
+   "height": 941,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-134",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adbf5e2f003da1430a8548b_alive-ff-2-master-bedroom-living.webp",
+   "local_path": "/images/source/alive/6adbf5e2f003da1430a8548b_alive-ff-2-master-bedroom-living.webp",
+   "category": "alive",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/alive-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Master Bedroom & Living Room",
+     "Bedroom & Working Room"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 84852,
+   "width": 1200,
+   "height": 795,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-135",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adbf5e328b88f612a064de9_alive-ff-5-kids-kitchen.webp",
+   "local_path": "/images/source/alive/6adbf5e328b88f612a064de9_alive-ff-5-kids-kitchen.webp",
+   "category": "alive",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/alive-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Kids & Kitchen Room",
+     "2 Bedrooms"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 78574,
+   "width": 1200,
+   "height": 795,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-136",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adbf5e3668757140aa16d29_alive-ff-4-bedroom-working.webp",
+   "local_path": "/images/source/alive/6adbf5e3668757140aa16d29_alive-ff-4-bedroom-working.webp",
+   "category": "alive",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/alive-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Bedroom & Working Room",
+     "Kids & Kitchen Room"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 81930,
+   "width": 1200,
+   "height": 795,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-137",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adbf5e38dfea2e9e386db78_alive-ff-6-2-bedrooms.webp",
+   "local_path": "/images/source/alive/6adbf5e38dfea2e9e386db78_alive-ff-6-2-bedrooms.webp",
+   "category": "alive",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/alive-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "2 Bedrooms",
+     "Modules"
+    ],
+    [
+     "2 Bedrooms",
+     "บ้านโมดูลาร์ที่คุณปรับแต่งได้"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 81140,
+   "width": 1200,
+   "height": 795,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-138",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adbf5e3fa338d22ae3c174f_alive-ff-1-bedroom-kitchen-dining.webp",
+   "local_path": "/images/source/alive/6adbf5e3fa338d22ae3c174f_alive-ff-1-bedroom-kitchen-dining.webp",
+   "category": "alive",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/alive-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Bedroom & Kitchen Dining Room",
+     "Master Bedroom & Living Room"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 80790,
+   "width": 1200,
+   "height": 795,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-139",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adc06c332e4a685b69d6088_alive-cb-1-bedroom-kitchen-dining-bg.webp",
+   "local_path": "/images/source/alive/6adc06c332e4a685b69d6088_alive-cb-1-bedroom-kitchen-dining-bg.webp",
+   "category": "alive",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/alive-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "& Bedroom + Living",
+     "2 Bedroom &"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 33458,
+   "width": 1200,
+   "height": 631,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-140",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adc06c347f2c6a779723c61_alive-cb-4-bed-working-living-kitchen-bg.webp",
+   "local_path": "/images/source/alive/6adc06c347f2c6a779723c61_alive-cb-4-bed-working-living-kitchen-bg.webp",
+   "category": "alive",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/alive-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Living + Kitchen",
+     "Bedroom + Living &"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 31970,
+   "width": 1200,
+   "height": 631,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-141",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adc06c39c390f6d76b8f6fc_alive-cb-2-2bed-living-kitchen-bg.webp",
+   "local_path": "/images/source/alive/6adc06c39c390f6d76b8f6fc_alive-cb-2-2bed-living-kitchen-bg.webp",
+   "category": "alive",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/alive-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Living + Kitchen",
+     "Kids room + Kitchen &"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 30928,
+   "width": 1200,
+   "height": 631,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-142",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adc06c3d8c8836febd00722_alive-cb-3-kids-kitchen-master-living-bg.webp",
+   "local_path": "/images/source/alive/6adc06c3d8c8836febd00722_alive-cb-3-kids-kitchen-master-living-bg.webp",
+   "category": "alive",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/alive-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Bedroom + Living",
+     "Bedroom + Working &"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 33386,
+   "width": 1200,
+   "height": 631,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-143",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adc06c4613289a40425f83a_alive-cb-6-2bed-kids-kitchen-bg.webp",
+   "local_path": "/images/source/alive/6adc06c4613289a40425f83a_alive-cb-6-2bed-kids-kitchen-bg.webp",
+   "category": "alive",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/alive-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Kids room + Kitchen",
+     "Selling Price & Promotion"
+    ],
+    [
+     "Kids room + Kitchen",
+     "ราคาและโปรโมชั่นบ้านโมดูลาร์"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 29954,
+   "width": 1200,
+   "height": 631,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-144",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adc06c47a6046ce02bd81d3_alive-cb-5-master-living-bed-kitchen-bg.webp",
+   "local_path": "/images/source/alive/6adc06c47a6046ce02bd81d3_alive-cb-5-master-living-bed-kitchen-bg.webp",
+   "category": "alive",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/alive-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Bedroom + Dining Pantry",
+     "2 Bedroom &"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 30096,
+   "width": 1200,
+   "height": 631,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-145",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adc7a82201fda999cc46954_alive-module-plan-split-bg.webp",
+   "local_path": "/images/source/alive/6adc7a82201fda999cc46954_alive-module-plan-split-bg.webp",
+   "category": "alive",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/alive-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Modules",
+     "Module Combination"
+    ],
+    [
+     "บ้านโมดูลาร์ที่คุณปรับแต่งได้",
+     "บ้านที่ปรับเปลี่ยนได้ตามความต้องการ"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 41126,
+   "width": 1200,
+   "height": 1274,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-146",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adc7fa7eaf072fb5bde2abb_alive-module-isometric-tight.webp",
+   "local_path": "/images/source/alive/6adc7fa7eaf072fb5bde2abb_alive-module-isometric-tight.webp",
+   "category": "alive",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/alive-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Modules",
+     "Module Combination"
+    ],
+    [
+     "บ้านโมดูลาร์ที่คุณปรับแต่งได้",
+     "บ้านที่ปรับเปลี่ยนได้ตามความต้องการ"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 197856,
+   "width": 1600,
+   "height": 977,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-147",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adca2f3e65018171dadf46b_alive-size-plan.webp",
+   "local_path": "/images/source/alive/6adca2f3e65018171dadf46b_alive-size-plan.webp",
+   "category": "alive",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/alive-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Size & Dimension",
+     "Flexible Function"
+    ],
+    [
+     "บ้านโมดูลาร์ที่ออกแบบมาอย่างได้สัดส่วน (Size & Dimension)",
+     "Flexible Function"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 182476,
+   "width": 1884,
+   "height": 1560,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-148",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adca2f4744fdbb7b15d8c5a_alive-size-iso.webp",
+   "local_path": "/images/source/alive/6adca2f4744fdbb7b15d8c5a_alive-size-iso.webp",
+   "category": "alive",
+   "pages": [
+    "https://www.clayandstone.co.th/en/products/alive-series",
+    "https://www.clayandstone.co.th/th/products/alive-series"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Size & Dimension",
+     "Flexible Function"
+    ],
+    [
+     "บ้านโมดูลาร์ที่ออกแบบมาอย่างได้สัดส่วน (Size & Dimension)",
+     "Flexible Function"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 282148,
+   "width": 1884,
+   "height": 1120,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-149",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a099477cef91fd425327600_1.webp",
+   "local_path": "/images/source/blog/6a099477cef91fd425327600_1.webp",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/knockdown-house-ideas",
+    "https://www.clayandstone.co.th/th/blogs/knockdown-house-ideas"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "1) Standard Type: Simple but perfect for a private holiday",
+     "For those looking for a small knockdown home that feels peaceful and private, th"
+    ],
+    [
+     "1) Standard Type: เรียบง่ายแต่ลงตัว สำหรับวันพักผ่อนส่วนตัว",
+     "สำหรับใครที่มองหาบ้านน็อคดาวน์หลังเล็กที่ให้ความรู้สึกสงบและเป็นส่วนตัว Standard"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 118154,
+   "width": 846,
+   "height": 390,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-150",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a099488b1989f88efdfe9d6_2.webp",
+   "local_path": "/images/source/blog/6a099488b1989f88efdfe9d6_2.webp",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/knockdown-house-ideas",
+    "https://www.clayandstone.co.th/th/blogs/knockdown-house-ideas"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "2) Loft Type: Increase the living dimension with high frost design, airy, comfor",
+     "Loft Type is ideal for people who like the feeling of “breathing space”. Thanks "
+    ],
+    [
+     "2) Loft Type: เพิ่มมิติการอยู่อาศัย ด้วยดีไซน์ฝ้าสูง โปร่ง โล่ง สบาย",
+     "Loft Type เหมาะสำหรับคนที่ชอบความรู้สึกของ “พื้นที่หายใจ” ด้วยการออกแบบฝ้าเพดานส"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 113488,
+   "width": 846,
+   "height": 392,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-151",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a099497de3395691da2db36_3.webp",
+   "local_path": "/images/source/blog/6a099497de3395691da2db36_3.webp",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/knockdown-house-ideas",
+    "https://www.clayandstone.co.th/th/blogs/knockdown-house-ideas"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "3) 1 Bed 2 Bath: clearly proportioned, accommodates resort use",
+     "For those looking to elevate their living experience or plan to upgrade to a kno"
+    ],
+    [
+     "3) 1 Bed 2 Bath: แยกสัดส่วนชัดเจน รองรับการใช้งานแบบรีสอร์ท",
+     "สำหรับผู้ที่ต้องการยกระดับประสบการณ์การอยู่อาศัย หรือมีแผนต่อยอดเป็นบ้านน็อคดาวน"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 104252,
+   "width": 846,
+   "height": 392,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-152",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a0994a3f1a88a8406e68737_4.webp",
+   "local_path": "/images/source/blog/6a0994a3f1a88a8406e68737_4.webp",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/knockdown-house-ideas",
+    "https://www.clayandstone.co.th/th/blogs/knockdown-house-ideas"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "4) 2 Bed 2 Bath: Small family home in a cozy atmosphere",
+     "If you want to have a home where you can spend time with your family, 2 Bed 2 Ba"
+    ],
+    [
+     "4) 2 Bed 2 Bath: บ้านพักครอบครัวขนาดเล็ก ในบรรยากาศอบอุ่น",
+     "หากคุณอยากมีบ้านพักที่สามารถใช้เวลาร่วมกับครอบครัวได้ 2 Bed 2 Bath คือรูปแบบที่ต"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 111004,
+   "width": 845,
+   "height": 389,
+   "format": "WEBP",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-153",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a0a822e8ff272d9b4586c0c_4%20%E0%B9%84%E0%B8%AD%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%20%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B9%87%E0%B8%AD%E0%B8%84%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%20(1).png",
+   "local_path": "/images/source/blog/6a0a822e8ff272d9b4586c0c_4-1-.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs",
+    "https://www.clayandstone.co.th/en/blogs/knockdown-house-ideas",
+    "https://www.clayandstone.co.th/th/blogs",
+    "https://www.clayandstone.co.th/th/blogs/knockdown-house-ideas"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Beautiful finish in one back! 4 “Knockdown House” Resort-Style Ideas",
+     "Are you thinking of building a new house? This era tells us that there are a lot"
+    ],
+    [
+     "Modular House vs. Knockdown House: What's the Difference? Understanding Prefab H",
+     "October 10, 2023"
+    ],
+    [
+     "บ้านน็อคดาวน์ กับบ้านโมดูลาร์ ต่างกันอย่างไร? ทำความเข้าใจระบบบ้านสำเร็จรูปแต่ละ",
+     "October 10, 2023"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 411666,
+   "width": 1800,
+   "height": 1200,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-154",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a3259a22510ef80bdb3a2a8_%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B9%87%E0%B8%AD%E0%B8%84%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%20%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%A5%E0%B8%B2%E0%B8%A3%E0%B9%8C%20(2)%20(1).png",
+   "local_path": "/images/source/blog/6a3259a22510ef80bdb3a2a8_-2-1-.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs",
+    "https://www.clayandstone.co.th/en/blogs/modular-vs-knockdown-house",
+    "https://www.clayandstone.co.th/th/blogs",
+    "https://www.clayandstone.co.th/th/blogs/modular-vs-knockdown-house"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "How Much Does a Modular House Cost? Choosing the Right Size and Budgeting",
+     "June 16, 2026"
+    ],
+    [
+     "Modular House vs. Knockdown House: What's the Difference? Understanding Prefab H",
+     "If you're researching how to build a new house, there's a good chance you've com"
+    ],
+    [
+     "บ้านน็อคดาวน์ กับบ้านโมดูลาร์ ต่างกันอย่างไร? ทำความเข้าใจระบบบ้านสำเร็จรูปแต่ละ",
+     "หากคุณกำลังหาข้อมูลเพื่อสร้างบ้านหลังใหม่ มีโอกาสสูงเลยค่ะที่คุณจะเคยเจอทั้งคำว่"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 505023,
+   "width": 1800,
+   "height": 1200,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-155",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a3263b8e20ccff14d1cefb9_%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%A5%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%20(1).png",
+   "local_path": "/images/source/blog/6a3263b8e20ccff14d1cefb9_-1-.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs",
+    "https://www.clayandstone.co.th/en/blogs/modular-house-price",
+    "https://www.clayandstone.co.th/th/blogs",
+    "https://www.clayandstone.co.th/th/blogs/modular-house-price"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Can a Modular House Really Handle the Rainy Season? How to Design for Thailand's",
+     "June 17, 2026"
+    ],
+    [
+     "How Much Does a Modular House Cost? Choosing the Right Size and Budgeting",
+     "One of the most common questions the"
+    ],
+    [
+     "บ้านโมดูลาร์ราคาเท่าไหร่? เลือกขนาดบ้านอย่างไร และต้องเตรียมงบประมาณอะไรบ้าง",
+     "หนึ่งในคำถามที่ทีม"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 644480,
+   "width": 1800,
+   "height": 1200,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-156",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a326418487f2c32cfb724e5_1.png",
+   "local_path": "/images/source/blog/6a326418487f2c32cfb724e5_1.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/modular-house-price",
+    "https://www.clayandstone.co.th/th/blogs/modular-house-price"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "40-50 sqm Modular Houses",
+     "Around 80 sqm Modular Houses"
+    ],
+    [
+     "บ้านโมดูลาร์ขนาด 40-50 ตร.ม.",
+     "บ้านโมดูลาร์ขนาดประมาณ 80 ตร.ม."
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 1890429,
+   "width": 3540,
+   "height": 1497,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-157",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a32643f88129d7b4a9b1a84_2.png",
+   "local_path": "/images/source/blog/6a32643f88129d7b4a9b1a84_2.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/modular-house-price",
+    "https://www.clayandstone.co.th/th/blogs/modular-house-price"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Around 80 sqm Modular Houses",
+     "120+ sqm Modular Houses"
+    ],
+    [
+     "บ้านโมดูลาร์ขนาดประมาณ 80 ตร.ม.",
+     "บ้านโมดูลาร์ขนาด 120 ตร.ม. ขึ้นไป"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 2032024,
+   "width": 4131,
+   "height": 1747,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-158",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a326454d767842b39af706b_3.png",
+   "local_path": "/images/source/blog/6a326454d767842b39af706b_3.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/modular-house-price",
+    "https://www.clayandstone.co.th/th/blogs/modular-house-price"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "120+ sqm Modular Houses",
+     "Size and Function Comparison for Under-a-Million Budgets"
+    ],
+    [
+     "บ้านโมดูลาร์ขนาด 120 ตร.ม. ขึ้นไป",
+     "ตารางเปรียบเทียบขนาดและฟังก์ชันในงบไม่เกินล้าน"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 1845267,
+   "width": 3363,
+   "height": 1422,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-159",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a3266a44f1db6237383c18f_1.png",
+   "local_path": "/images/source/blog/6a3266a44f1db6237383c18f_1.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/modular-house-rainy-season-problems",
+    "https://www.clayandstone.co.th/th/blogs/modular-house-rainy-season-problems"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "1. Designing for Thailand's Climate Matters More Than the Construction System",
+     "2. Eaves and Roofing Are the First Line of Defense Against Rain"
+    ],
+    [
+     "1. การออกแบบเพื่อสภาพอากาศประเทศไทยสำคัญกว่าระบบก่อสร้าง",
+     "2. ชายคาและหลังคาคือด่านแรกในการป้องกันฝน"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 308250,
+   "width": 1600,
+   "height": 528,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-160",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a3266b0f5f949fd53847eac_2.png",
+   "local_path": "/images/source/blog/6a3266b0f5f949fd53847eac_2.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/modular-house-rainy-season-problems",
+    "https://www.clayandstone.co.th/th/blogs/modular-house-rainy-season-problems"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "2. Eaves and Roofing Are the First Line of Defense Against Rain",
+     "3. Joints and Waterproofing Need to Be Designed at the Factory"
+    ],
+    [
+     "2. ชายคาและหลังคาคือด่านแรกในการป้องกันฝน",
+     "3. รอยต่อและระบบกันซึมต้องถูกออกแบบตั้งแต่โรงงาน"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 356882,
+   "width": 1600,
+   "height": 463,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-161",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a3266be0aea4d354f778a8f_4.png",
+   "local_path": "/images/source/blog/6a3266be0aea4d354f778a8f_4.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/modular-house-rainy-season-problems",
+    "https://www.clayandstone.co.th/th/blogs/modular-house-rainy-season-problems"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "4. Structural Rust Protection Affects Long-Term Lifespan",
+     "5. Foundation and Water Management Matter as Much as the House Itself"
+    ],
+    [
+     "4. โครงสร้างและระบบป้องกันสนิมมีผลต่ออายุการใช้งาน",
+     "5. ฐานรากและการจัดการน้ำรอบบ้านสำคัญไม่แพ้ตัวบ้าน"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 485390,
+   "width": 1600,
+   "height": 848,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-162",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a3266d29dd1e3aef1e00f80_3.png",
+   "local_path": "/images/source/blog/6a3266d29dd1e3aef1e00f80_3.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/modular-house-rainy-season-problems",
+    "https://www.clayandstone.co.th/th/blogs/modular-house-rainy-season-problems"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "3. Joints and Waterproofing Need to Be Designed at the Factory",
+     "4. Structural Rust Protection Affects Long-Term Lifespan"
+    ],
+    [
+     "3. รอยต่อและระบบกันซึมต้องถูกออกแบบตั้งแต่โรงงาน",
+     "4. โครงสร้างและระบบป้องกันสนิมมีผลต่ออายุการใช้งาน"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 297927,
+   "width": 1600,
+   "height": 574,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-163",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a3266e87c898564a73941c3_5.png",
+   "local_path": "/images/source/blog/6a3266e87c898564a73941c3_5.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/modular-house-rainy-season-problems",
+    "https://www.clayandstone.co.th/th/blogs/modular-house-rainy-season-problems"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "5. Foundation and Water Management Matter as Much as the House Itself",
+     "6. Wall Materials Need to Suit Thailand's Hot, Humid Climate"
+    ],
+    [
+     "5. ฐานรากและการจัดการน้ำรอบบ้านสำคัญไม่แพ้ตัวบ้าน",
+     "6. วัสดุและผนังต้องเหมาะกับสภาพอากาศร้อนชื้น"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 485557,
+   "width": 1600,
+   "height": 608,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-164",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a3266f5fff5d1d45d1ae636_6.png",
+   "local_path": "/images/source/blog/6a3266f5fff5d1d45d1ae636_6.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/modular-house-rainy-season-problems",
+    "https://www.clayandstone.co.th/th/blogs/modular-house-rainy-season-problems"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "6. Wall Materials Need to Suit Thailand's Hot, Humid Climate",
+     "7. A Rain-Ready Home Starts With Design That Understands Real Living"
+    ],
+    [
+     "6. วัสดุและผนังต้องเหมาะกับสภาพอากาศร้อนชื้น",
+     "7. บ้านที่อยู่สบายในหน้าฝน ต้องเริ่มจากการออกแบบที่เข้าใจการอยู่อาศัยจริง"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 381435,
+   "width": 1600,
+   "height": 559,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-165",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a336193e306715b8932b647_%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%A5%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%9D%E0%B8%99%20(3)%20(1).png",
+   "local_path": "/images/source/blog/6a336193e306715b8932b647_-3-1-.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs",
+    "https://www.clayandstone.co.th/en/blogs/modular-house-rainy-season-problems",
+    "https://www.clayandstone.co.th/th/blogs",
+    "https://www.clayandstone.co.th/th/blogs/modular-house-rainy-season-problems"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Can a Modular House Really Handle the Rainy Season? How to Design for Thailand's",
+     "When it comes to"
+    ],
+    [
+     "How Long Do Prefab Homes Last? What You Really Need to Know",
+     "June 17, 2026"
+    ],
+    [
+     "บ้านสำเร็จรูปอยู่ได้กี่ปี? อายุการใช้งานจริงที่คุณควรรู้",
+     "June 17, 2026"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 489747,
+   "width": 1800,
+   "height": 1200,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-166",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a3361c94710f2213a712e02_1.png",
+   "local_path": "/images/source/blog/6a3361c94710f2213a712e02_1.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/modular-vs-knockdown-house",
+    "https://www.clayandstone.co.th/th/blogs/modular-vs-knockdown-house"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "What Is a Modular House?",
+     "‍"
+    ],
+    [
+     "บ้านโมดูลาร์ คืออะไร?",
+     "‍"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 654476,
+   "width": 1600,
+   "height": 1116,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-167",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a3362344483d3d7261e6016_3.png",
+   "local_path": "/images/source/blog/6a3362344483d3d7261e6016_3.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/modular-vs-knockdown-house",
+    "https://www.clayandstone.co.th/th/blogs/modular-vs-knockdown-house"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "So Which Type of House Is Right for You?",
+     "Author:"
+    ],
+    [
+     "แล้วบ้านแบบไหนเหมาะกับคุณ?",
+     "Author:"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 543229,
+   "width": 1600,
+   "height": 900,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-168",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a3b5a234445106dc944b5ad_04%20Revised%20(1).png",
+   "local_path": "/images/source/blog/6a3b5a234445106dc944b5ad_04-Revised-1-.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/modular-vs-knockdown-house",
+    "https://www.clayandstone.co.th/th/blogs/modular-vs-knockdown-house"
+   ],
+   "alt_text_original": [
+    "What is a prefab house",
+    "บ้านสำเร็จรูป คืออะไร"
+   ],
+   "context": [
+    [
+     "Modular House vs. Knockdown House: What's the Real Difference?",
+     "How Much Does a Knockdown House Cost? And What About a Modular House?"
+    ],
+    [
+     "บ้านโมดูลาร์ กับบ้านน็อคดาวน์ ต่างกันอย่างไร?",
+     "บ้านน็อคดาวน์ ราคาเท่าไหร่? แล้วบ้านโมดูลาร์ราคาประมาณไหน?"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 712983,
+   "width": 1254,
+   "height": 1254,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-169",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a3cfb3103d82aa06f2ac198_%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%9A%20(1)%20(1).png",
+   "local_path": "/images/source/blog/6a3cfb3103d82aa06f2ac198_-1-1-.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/modular-house-price",
+    "https://www.clayandstone.co.th/th/blogs/modular-house-price"
+   ],
+   "alt_text_original": [
+    "Modular house sizes - who each is suited for",
+    "บ้านโมดูลาร์แต่ละขนาด เหมาะกับใคร"
+   ],
+   "context": [
+    [
+     "Size and Function Comparison for Under-a-Million Budgets",
+     "What Factors Affect the Price of a Modular House?"
+    ],
+    [
+     "ตารางเปรียบเทียบขนาดและฟังก์ชันในงบไม่เกินล้าน",
+     "อะไรคือปัจจัยที่ส่งผลต่อราคาบ้านโมดูลาร์?"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 647986,
+   "width": 1672,
+   "height": 941,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-170",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a3cfb6c1c283dde6c69dca7_Untitled%20design%20(4)%20(1).png",
+   "local_path": "/images/source/blog/6a3cfb6c1c283dde6c69dca7_Untitled-design-4-1-.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/modular-house-price",
+    "https://www.clayandstone.co.th/th/blogs/modular-house-price"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Furniture and Appliances",
+     "How Much Extra Budget Should You Set Aside?"
+    ],
+    [
+     "เฟอร์นิเจอร์และเครื่องใช้ไฟฟ้า",
+     "ควรเผื่องบประมาณไว้เท่าไหร่?"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 1956993,
+   "width": 4411,
+   "height": 1061,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-171",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a4cbe2a634693c8f1c54fc5_%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%88%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B5%20(1).png",
+   "local_path": "/images/source/blog/6a4cbe2a634693c8f1c54fc5_-1-.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs",
+    "https://www.clayandstone.co.th/en/blogs/prefab-homes-lifespan",
+    "https://www.clayandstone.co.th/th/blogs",
+    "https://www.clayandstone.co.th/th/blogs/prefab-homes-lifespan"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "How Long Do Prefab Homes Last? What You Really Need to Know",
+     "When people think about building a house, they usually start with the design, th"
+    ],
+    [
+     "Prefabricated House Blog",
+     "July 7, 2026"
+    ],
+    [
+     "บทความบ้านสำเร็จรูป",
+     "July 7, 2026"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 530840,
+   "width": 1800,
+   "height": 1200,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-172",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a4cbe8a753361e1b7a73cfe_1%20(14).png",
+   "local_path": "/images/source/blog/6a4cbe8a753361e1b7a73cfe_1-14-.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/prefab-homes-lifespan",
+    "https://www.clayandstone.co.th/th/blogs/prefab-homes-lifespan"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "1. A Strong Structure Starts With the Right Materials",
+     "2. Thoughtfully Designed Wall Systems and Joint Details"
+    ],
+    [
+     "1. โครงสร้างที่แข็งแรง เริ่มต้นจากวัสดุที่เลือกใช้",
+     "2. ระบบผนังและรายละเอียดรอยต่อที่ได้รับการออกแบบอย่างใส่ใจ"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 822331,
+   "width": 2048,
+   "height": 1152,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-173",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a4cbeb43225164897efcc20_2%20(13).png",
+   "local_path": "/images/source/blog/6a4cbeb43225164897efcc20_2-13-.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/prefab-homes-lifespan",
+    "https://www.clayandstone.co.th/th/blogs/prefab-homes-lifespan"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "2. Thoughtfully Designed Wall Systems and Joint Details",
+     "3. Designed for Thailand's Climate"
+    ],
+    [
+     "2. ระบบผนังและรายละเอียดรอยต่อที่ได้รับการออกแบบอย่างใส่ใจ",
+     "3. การออกแบบที่เหมาะกับสภาพอากาศของประเทศไทย"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 609109,
+   "width": 2048,
+   "height": 1152,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-174",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a4cbee140c3b471dd90deb4_3%20(13).png",
+   "local_path": "/images/source/blog/6a4cbee140c3b471dd90deb4_3-13-.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/prefab-homes-lifespan",
+    "https://www.clayandstone.co.th/th/blogs/prefab-homes-lifespan"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "3. Designed for Thailand's Climate",
+     "4. A Solid Foundation Keeps the Home Stable From Day One"
+    ],
+    [
+     "3. การออกแบบที่เหมาะกับสภาพอากาศของประเทศไทย",
+     "4. ฐานรากที่ได้มาตรฐาน ช่วยให้บ้านมั่นคงตั้งแต่เริ่มต้น"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 786583,
+   "width": 2048,
+   "height": 1152,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-175",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a4cbeeedd2163b309cd9829_4%20(16).png",
+   "local_path": "/images/source/blog/6a4cbeeedd2163b309cd9829_4-16-.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/prefab-homes-lifespan",
+    "https://www.clayandstone.co.th/th/blogs/prefab-homes-lifespan"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "4. A Solid Foundation Keeps the Home Stable From Day One",
+     "5. Regular Maintenance Extends a Home's Lifespan"
+    ],
+    [
+     "4. ฐานรากที่ได้มาตรฐาน ช่วยให้บ้านมั่นคงตั้งแต่เริ่มต้น",
+     "5. การดูแลรักษาอย่างสม่ำเสมอ ช่วยยืดอายุการใช้งานของบ้าน"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 491031,
+   "width": 1600,
+   "height": 690,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-176",
+   "original_url": "https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a4cbefc847c9a992459565d_06)%20%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%88%E0%B8%A3%E0%B8%B9%E0%B8%9B.png",
+   "local_path": "/images/source/blog/6a4cbefc847c9a992459565d_06-.png",
+   "category": "blog",
+   "pages": [
+    "https://www.clayandstone.co.th/en/blogs/prefab-homes-lifespan",
+    "https://www.clayandstone.co.th/th/blogs/prefab-homes-lifespan"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "5 Questions to Ask Before Choosing a Prefab Home Builder",
+     "How to Maintain a Prefab Home for Long-Term Use"
+    ],
+    [
+     "ก่อนเลือกบ้านสำเร็จรูป ลองถามผู้ผลิต 5 ข้อนี้",
+     "วิธีดูแลบ้านสำเร็จรูปให้ใช้งานได้ยาวนาน"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "bytes": 644008,
+   "width": 1086,
+   "height": 1448,
+   "format": "PNG",
+   "download": "ok",
+   "type": "image"
+  },
+  {
+   "id": "asset-177",
+   "original_url": "https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+   "local_path": "/images/source/misc/placeholder.60f9b1840c.svg",
+   "category": "misc",
+   "pages": [
+    "https://www.clayandstone.co.th/en/about-us",
+    "https://www.clayandstone.co.th/th/about-us"
+   ],
+   "alt_text_original": null,
+   "context": [
+    [
+     "Standard Type in Saraburi",
+     "K. Pornsak (K. Pok)"
+    ],
+    [
+     "Standard Type in Saraburi",
+     "คุณพรศักดิ์ (คุณป๊อก)"
+    ]
+   ],
+   "rights_status": "unverified - client approval required",
+   "download": "failed: HTTP Error 403: Forbidden",
+   "type": "image"
+  }
+ ],
+ "videos": [
+  {
+   "id": "video-001",
+   "type": "video",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e%2F69638ed4642e2f07b0d05f02_10%20Seconds%20Video_mp4.mp4",
+   "local_path": "/videos/source/home-10s-video.mp4",
+   "pages": [
+    "/th",
+    "/en"
+   ],
+   "category": "home-hero",
+   "bytes": 2833777,
+   "rights_status": "unverified - client approval required"
+  },
+  {
+   "id": "video-002",
+   "type": "video",
+   "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e%2F69638ed4642e2f07b0d05f02_10%20Seconds%20Video_webm.webm",
+   "local_path": "/videos/source/home-10s-video.webm",
+   "pages": [
+    "/th",
+    "/en"
+   ],
+   "category": "home-hero",
+   "bytes": 2988418,
+   "rights_status": "unverified - client approval required"
+  },
+  {
+   "id": "video-003",
+   "type": "video",
+   "original_url": "https://stupendous-trifle-c7ed75.netlify.app/home-bg-video.mp4",
+   "local_path": "/videos/source/home-bg-video-netlify.mp4",
+   "pages": [
+    "/th",
+    "/en (referenced in page code)"
+   ],
+   "category": "home-hero",
+   "bytes": 13403564,
+   "rights_status": "unverified - hosted on a third-party Netlify subdomain",
+   "notes": "Loaded by custom code from a non-Clay & Stone domain."
+  }
+ ],
+ "youtube": [
+  {
+   "id": "youtube-001",
+   "type": "youtube-embed",
+   "youtube_id": "Uo16eHa15rk",
+   "original_url": "https://www.youtube.com/watch?v=Uo16eHa15rk",
+   "local_path": null,
+   "pages": [
+    "/th/good-to-know",
+    "/en/good-to-know"
+   ]
+  },
+  {
+   "id": "youtube-002",
+   "type": "youtube-embed",
+   "youtube_id": "wrJKrBmhS58",
+   "original_url": "https://www.youtube.com/watch?v=wrJKrBmhS58",
+   "local_path": null,
+   "pages": [
+    "/th/good-to-know",
+    "/en/good-to-know"
+   ]
+  },
+  {
+   "id": "youtube-003",
+   "type": "youtube-embed",
+   "youtube_id": "gJMY5oSiwbQ",
+   "original_url": "https://www.youtube.com/watch?v=gJMY5oSiwbQ",
+   "local_path": null,
+   "pages": [
+    "/th/good-to-know",
+    "/en/good-to-know"
+   ]
+  },
+  {
+   "id": "youtube-004",
+   "type": "youtube-embed",
+   "youtube_id": "oUIimGhSgyA",
+   "original_url": "https://www.youtube.com/watch?v=oUIimGhSgyA",
+   "local_path": null,
+   "pages": [
+    "/th/good-to-know",
+    "/en/good-to-know"
+   ]
+  },
+  {
+   "id": "youtube-005",
+   "type": "youtube-embed",
+   "youtube_id": "0MDRduX63pY",
+   "original_url": "https://www.youtube.com/watch?v=0MDRduX63pY",
+   "local_path": null,
+   "pages": [
+    "/th/good-to-know",
+    "/en/good-to-know"
+   ]
+  },
+  {
+   "id": "youtube-006",
+   "type": "youtube-embed",
+   "youtube_id": "G8_2lxRIVV4",
+   "original_url": "https://www.youtube.com/watch?v=G8_2lxRIVV4",
+   "local_path": null,
+   "pages": [
+    "/th/good-to-know",
+    "/en/good-to-know"
+   ]
+  },
+  {
+   "id": "youtube-007",
+   "type": "youtube-embed",
+   "youtube_id": "Y3KcE5FpbS4",
+   "original_url": "https://www.youtube.com/watch?v=Y3KcE5FpbS4",
+   "local_path": null,
+   "pages": [
+    "/th/good-to-know",
+    "/en/good-to-know"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+META {
+ "lang": "th-TH",
+ "description": "เตรียมพบ Humble Series บ้านสำเร็จรูประบบโมดูลาร์รุ่นใหม่จาก Clay & Stone ออกแบบโดยสถาปนิก ผลิตจากโรงงาน ติดตั้งเร็ว ติดต่อสอบถามข้อมูลล่วงหน้าได้แล้ววันนี้",
+ "og:title": "Humble Series บ้านสำเร็จรูปรุ่นใหม่ เร็วๆ นี้ | Clay & Stone",
+ "og:description": "เตรียมพบ Humble Series บ้านสำเร็จรูประบบโมดูลาร์รุ่นใหม่จาก Clay & Stone ออกแบบโดยสถาปนิก ผลิตจากโรงงาน ติดตั้งเร็ว ติดต่อสอบถามข้อมูลล่วงหน้าได้แล้ววันนี้",
+ "og:image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b18143bee7fe5a93a9_homepage-img-2.webp",
+ "twitter:title": "Humble Series บ้านสำเร็จรูปรุ่นใหม่ เร็วๆ นี้ | Clay & Stone",
+ "twitter:description": "เตรียมพบ Humble Series บ้านสำเร็จรูประบบโมดูลาร์รุ่นใหม่จาก Clay & Stone ออกแบบโดยสถาปนิก ผลิตจากโรงงาน ติดตั้งเร็ว ติดต่อสอบถามข้อมูลล่วงหน้าได้แล้ววันนี้",
+ "og:type": "website",
+ "twitter:card": "summary_large_image",
+ "viewport": "width=device-width, initial-scale=1",
+ "google-site-verification": "_0Lh__7EFJwDXwb8lb-4kPwXPdbKFdH9otSM8xOdgws",
+ "generator": "Webflow",
+ "title": "Humble Series บ้านสำเร็จรูปรุ่นใหม่ เร็วๆ นี้ | Clay & Stone"
+}
+HREFLANG [["x-default", "https://www.clayandstone.co.th/th/products/upcoming-product"], ["th-TH", "https://www.clayandstone.co.th/th/products/upcoming-product"], ["en-US", "https://www.clayandstone.co.th/en/products/upcoming-product"]]
+JSONLD []
+VIDEOS ["iframe:https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7"]
+BGS []
+-----
+Humble Series บ้านสำเร็จรูปรุ่นใหม่ เร็วๆ นี้ | Clay & Stone
+Skip to main content
+  -> (#main)
+  -> (/th)
+หน้าแรก
+  -> (/th)
+เกี่ยวกับเรา
+  -> (/th/about-us)
+สินค้า
+Unwind
+Series
+  -> (/th/products/unwind-series)
+Alive
+Series
+  -> (/th/products/alive-series)
+โปรเจค
+  -> (/th/projects)
+กระบวนการ
+  -> (/th/process)
+สิ่งที่ควรรู้
+  -> (/th/good-to-know)
+บล็อก
+  -> (/th/blogs)
+ติดต่อเรา
+  -> (/th/contact-us)
+TH
+Thai
+  -> (/th/products/upcoming-product)
+English
+  -> (/en/products/upcoming-product)
+สอบถามข้อมูล
+  -> (https://linktr.ee/clayandstone.official)
+สอบถามข้อมูล
+  -> (/th)
+หน้าแรก
+  -> (/th)
+เกี่ยวกับเรา
+  -> (/th/about-us)
+สินค้า
+Unwind
+Series
+  -> (/th/products/unwind-series)
+Alive
+Series
+  -> (/th/products/alive-series)
+โปรเจค
+  -> (/th/projects)
+กระบวนการ
+  -> (/th/process)
+สิ่งที่ควรรู้
+  -> (/th/good-to-know)
+บล็อก
+  -> (/th/blogs)
+ติดต่อเรา
+  -> (/th/contact-us)
+TH
+Thai
+  -> (/th/products/upcoming-product)
+English
+  -> (/en/products/upcoming-product)
+สอบถามข้อมูล
+  -> (https://linktr.ee/clayandstone.official)
+สอบถามข้อมูล
+## Humble is Coming Soon
+Contact Us
+#### Talk to Clay & Stone Today
+#### สนใจบ้านสำเร็จรูปหรืออยากดูแบบบ้านโมดูลาร์เพิ่มเติม?
+#### ติดต่อทีมงานได้เลยวันนี้
+#### Email :
+#### clay.panitar@gmail.com
+  -> (mailto:clay.panitar@gmail.com)
+#### Tel :
+#### 086-3822116
+  -> (tel:+66863822116)
+#### Line :
+#### @claystone
+  -> (https://lin.ee/5oKztUS)
+ติดต่อเรา
+  -> (https://linktr.ee/clayandstone.official)
+ติดต่อเรา
+Clay & Stone Office and Showroom
+152/1, ซอยติวานนท์ 45, ตำบลท่าทราย, อำเภอเมืองนนทบุรี, จังหวัดนนทบุรี, 11000
+LINE : @claystone
+Email : clay.panitar@gmail.com
+Tel : 086-3822116
+หน้าแรก
+  -> (/th)
+เกี่ยวกับเรา
+  -> (/th/about-us)
+Unwind Series
+  -> (/th/products/unwind-series)
+Alive Series
+  -> (/th/products/alive-series)
+โปรเจค
+  -> (/th/projects)
+กระบวนการ
+  -> (/th/process)
+สิ่งที่ควรรู้
+  -> (/th/good-to-know)
+บล็อก
+  -> (/th/blogs)
+ติดต่อเรา
+  -> (/th/contact-us)
+  -> (https://web.facebook.com/ClayxStone/)
+  -> (https://www.instagram.com/clay_andstone/)
+  -> (https://lin.ee/5oKztUS)
+[IFRAME] https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7

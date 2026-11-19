@@ -1,0 +1,216 @@
+META {
+ "lang": "en-US",
+ "description": "Experience the future of living with premium modular homes and modern modular house designs featuring precision engineering and trusted quality.",
+ "og:title": "Modern Modular House | High-Standard Modular House Builder Thailand",
+ "og:description": "Experience the future of living with premium modular homes and modern modular house designs featuring precision engineering and trusted quality.",
+ "og:image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp",
+ "twitter:title": "Modern Modular House | High-Standard Modular House Builder Thailand",
+ "twitter:description": "Experience the future of living with premium modular homes and modern modular house designs featuring precision engineering and trusted quality.",
+ "og:type": "website",
+ "twitter:card": "summary_large_image",
+ "viewport": "width=device-width, initial-scale=1",
+ "google-site-verification": "_0Lh__7EFJwDXwb8lb-4kPwXPdbKFdH9otSM8xOdgws",
+ "generator": "Webflow",
+ "title": "Modern Modular House | High-Standard Modular House Builder Thailand"
+}
+HREFLANG [["x-default", "https://www.clayandstone.co.th/th"], ["th-TH", "https://www.clayandstone.co.th/th"], ["en-US", "https://www.clayandstone.co.th/en"]]
+JSONLD []
+VIDEOS ["https://cdn.prod.website-files.com/693f3e67a692e733b206630e%2F69638ed4642e2f07b0d05f02_10%20Seconds%20Video_mp4.mp4,https://cdn.prod.website-files.com/693f3e67a692e733b206630e%2F69638ed4642e2f07b0d05f02_10%20Seconds%20Video_webm.webm", "poster:https://cdn.prod.website-files.com/693f3e67a692e733b206630e%2F69638ed4642e2f07b0d05f02_10%20Seconds%20Video_poster.0000000.jpg", "https://cdn.prod.website-files.com/693f3e67a692e733b206630e%2F69638ed4642e2f07b0d05f02_10%20Seconds%20Video_mp4.mp4", "https://cdn.prod.website-files.com/693f3e67a692e733b206630e%2F69638ed4642e2f07b0d05f02_10%20Seconds%20Video_webm.webm", "https://stupendous-trifle-c7ed75.netlify.app/home-bg-video.mp4", "iframe:https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7"]
+BGS ["https://cdn.prod.website-files.com/693f3e67a692e733b206630e%2F69638ed4642e2f07b0d05f02_10%20Seconds%20Video_poster.0000000.jpg"]
+-----
+Modern Modular House | High-Standard Modular House Builder Thailand
+Skip to main content
+  -> (#main)
+  -> (/en)
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Products
+Unwind
+Series
+  -> (/en/products/unwind-series)
+Alive
+Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+EN
+Thai
+  -> (/th)
+English
+  -> (/en)
+Book Consultation
+  -> (https://linktr.ee/clayandstone.official)
+Book Consultation
+  -> (/en)
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Products
+Unwind
+Series
+  -> (/en/products/unwind-series)
+Alive
+Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+EN
+Thai
+  -> (/th)
+English
+  -> (/en)
+Book Consultation
+  -> (https://linktr.ee/clayandstone.official)
+Book Consultation
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e%2F69638ed4642e2f07b0d05f02_10%20Seconds%20Video_poster.0000000.jpg
+[IMG alt="Pause video"] https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628299f8aa233b83918e24fd_Pause.svg
+[IMG alt="Play video"] https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628298b20ae0236682d4b87f_Play-24.svg
+Brand Vision
+# We create thoughtfully designed modular homes that elevate modern living and make quality accessible for everyone in Thailand.
+Experience a higher standard of living with Clay & Stone. We are a modular prefab house builder focused on thoughtful design and lasting quality. Every home we create balances architectural aesthetics with structural integrity, delivering spaces that are both beautiful and built to last. Whether you are looking for a primary residence, a resort retreat, or a private studio, our modular homes are designed to support the way you truly live.
+Our modern modular house designs go beyond conventional factory-built construction. Each modular house is engineered in a controlled environment and assembled on-site with precision, ensuring quality and consistency throughout the process. The result is a home that feels elevated, thoughtfully designed, and far beyond traditional expectations of prefab living. If you've been searching for a modular house in Thailand that you can be proud of, this is it. Explore our
+modular home building process
+  -> (https://www.clayandstone.co.th/en/process)
+!
+Key Strengths
+## Why Choose a Clay & Stone Modular House?
+When people think of prefab houses, they often imagine simple, boxy structures. At Clay & Stone, we take a different approach, creating modular houses that combine thoughtful design, quality materials, and architecture that goes beyond conventional prefab living.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b1ad7cfb0d64088813_icon-1.webp
+### Modular Homes Beyond Prefab
+Clay & Stone designs prefabricated homes that are unlike anything you've seen before featuring extended roof overhangs, spacious verandas, and beautifully balanced designs that truly respond to the real lifestyles of Thai people in every dimension.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b1d34324d6970cc09e_icon-2.webp
+### Built True to Design
+Every stage of your modern modular house design, construction, and factory installation is overseen by professional architects and engineers. This ensures that every structure is strong, meticulously finished, and exactly as envisioned.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b24da02e667081f97f_icon-3.webp
+### After Sales You can Rely On
+After-sales service is provided directly by the Clay & Stone team. Not just at handover, but through continuous care throughout the entire lifespan of your home.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp
+"A prefabricated home... unlike any other prefabricated home."
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b18143bee7fe5a93a9_homepage-img-2.webp
+"Precisely right, perfectly aligned in every detail."
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b1e651e419f2f6162b_homepage-img-3.webp
+"Peace of mind... that lasts beyond delivery."
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b1ad7cfb0d64088813_icon-1.webp
+##### Homes Beyond Prefab
+Clay & Stone designs prefabricated homes that are unlike anything you've seen before featuring extended roof overhangs, spacious verandas, and beautifully balanced designs that truly respond to the real lifestyles of Thai people in every dimension.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp
+##### "A prefabricated home... unlike any other prefabricated home."
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b1d34324d6970cc09e_icon-2.webp
+##### Built True to Design
+Every stage of design, construction, and installation is overseen by professional architects and engineers.This ensures that every home is strong, meticulously finished, and exactly as envisioned.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b18143bee7fe5a93a9_homepage-img-2.webp
+##### "Precisely right, perfectly aligned in every detail."
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b24da02e667081f97f_icon-3.webp
+##### After Sales You can Rely On
+After-sales service is provided directly by the Clay & Stone team. Not just at handover, but through continuous care throughout the entire lifespan of your home.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b1e651e419f2f6162b_homepage-img-3.webp
+##### "Peace of mind... that lasts beyond delivery."
+Explore More
+  -> (/en/about-us)
+Explore More
+Highlighted Projects
+## Explore Our Modern Modular Houses
+Explore modular house installations by Clay & Stone across a variety of styles, designed to serve as the perfect blueprint for a modern modular house where you can ‘live comfortably every single day.'
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2841123b22b146a53_homepage-img-4.webp
+#### 01/
+### Standard Type
+###### Unwind in Nonthaburi
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b299c682e7e931a374_homepage-img-6.webp
+#### 02/
+### Loft Type
+###### Unwind in Prachinburi
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2ef90983db1337f30_homepage-img-5.webp
+#### 03/
+### 1 Bed 2 Bath
+###### Unwind in Suphanburi
+Explore More
+  -> (/en/projects)
+Explore More
+FAQ
+## Frequently Asked Questions
+##### 1. What is a prefab home?
+A
+modular prefab home
+  -> (https://youtu.be/Uo16eHa15rk?si=PHymmVjCB_HOAjRE)
+is a construction method where the main components are manufactured in a factory under controlled conditions, then assembled on-site. At Clay & Stone, our modular prefab house builds use a steel frame structure as the core, which is strong, durable, and well-suited to factory production. This means every home comes out precise and consistent, not dependent on site conditions or the weather. Once production is complete, components are transported and installed on-site in around 15 days before the finishing and handover stages begin.
+‍
+##### 2. How is a prefab home different from conventional construction?
+The primary differences lie in the construction methodology and quality control. Traditional on-site construction happens sequentially outdoors, making it highly vulnerable to weather delays and inconsistent labor quality. In contrast, a Clay & Stone modern modular house is precision-built inside a factory by a dedicated team of professionals monitoring every stage. This minimizes structural errors, guarantees uniform quality, and ensures a highly predictable, accurate delivery timeline that conventional builds simply cannot match.
+‍
+##### 3. How strong is a Clay & Stone prefab home?
+When considering the
+strength of prefab houses
+  -> (https://youtu.be/gJMY5oSiwbQ?si=fTxp-1qL5mLzb3mW)
+, structural integrity is often a major concern for homebuyers. At Clay & Stone, engineering strength is our top priority. Every modular house we build features a high-grade, structurally engineered steel frame paired with carefully selected wall materials designed for long-term performance. This engineering approach allows our homes to withstand high wind loads and seismic vibrations while delivering long-term durability, safety, and permanence comparable to a traditional brick-and-mortar house.
+‍
+##### 4. What modular house designs does Clay & Stone offer?
+Clay & Stone currently offers two signature modular house collections: the
+Unwind Series
+  -> (https://www.clayandstone.co.th/en/products/unwind-series)
+and the Alive Series, each designed to support different lifestyles and ways of living. Homeowners can choose from a range of layouts, including Standard and Loft configurations, with both 1-bedroom and 2-bedroom options available across selected models.
+Every modern modular house design is thoughtfully developed for Thailand’s climate, incorporating features such as extended roof overhangs, functional verandas, and design details that elevate the living experience beyond what is typically found in the prefab market.
+‍
+##### 5. What does after-sales service and warranty look like?
+You're covered. After-sales care is something we take seriously at Clay & Stone, and we handle it directly, not passed off to outside contractors. Every customer who builds a modular house in Thailand can rely on us being reachable long after handover. If something comes up after you've moved in, our technical team will come out, inspect, and sort it out.
+‍
+Contact Us
+### Talk to Clay & Stone Today
+#### ติดต่อทีมงานได้เลยวันนี้
+#### Email :
+#### clay.panitar@gmail.com
+  -> (mailto:clay.panitar@gmail.com)
+#### Tel :
+#### 086-3822116
+  -> (tel:+66863822116)
+#### Line :
+#### @claystone
+  -> (https://lin.ee/5oKztUS)
+Contact Us
+  -> (https://linktr.ee/clayandstone.official)
+Contact Us
+Clay & Stone Office and Showroom
+152/1, Soi Tiwanon 45, Ta Sai, Mueang Nonthaburi District, Nonthaburi 11000
+LINE : @claystone
+Email : clay.panitar@gmail.com
+Tel : 086-3822116
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Unwind Series
+  -> (/en/products/unwind-series)
+Alive Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+  -> (https://web.facebook.com/ClayxStone/)
+  -> (https://www.instagram.com/clay_andstone/)
+  -> (https://lin.ee/5oKztUS)
+[IFRAME] https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7

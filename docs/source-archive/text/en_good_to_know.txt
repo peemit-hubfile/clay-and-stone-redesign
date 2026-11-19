@@ -1,0 +1,147 @@
+META {
+ "lang": "en-US",
+ "description": "Get insider tips and expert advice on High-Standard Modular living. Watch our latest videos covering Knockdown home innovations, premium materials, and professional tips from the Clay and Stone team.",
+ "og:title": "Modular Home Guides | Everything You Need to Know by Clay and Stone",
+ "og:description": "Get insider tips and expert advice on High-Standard Modular living. Watch our latest videos covering Knockdown home innovations, premium materials, and professional tips from the Clay and Stone team.",
+ "og:image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp",
+ "twitter:title": "Modular Home Guides | Everything You Need to Know by Clay and Stone",
+ "twitter:description": "Get insider tips and expert advice on High-Standard Modular living. Watch our latest videos covering Knockdown home innovations, premium materials, and professional tips from the Clay and Stone team.",
+ "og:type": "website",
+ "twitter:card": "summary_large_image",
+ "viewport": "width=device-width, initial-scale=1",
+ "google-site-verification": "_0Lh__7EFJwDXwb8lb-4kPwXPdbKFdH9otSM8xOdgws",
+ "generator": "Webflow",
+ "title": "Modular Home Guides | Everything You Need to Know by Clay and Stone"
+}
+HREFLANG [["x-default", "https://www.clayandstone.co.th/th/good-to-know"], ["th-TH", "https://www.clayandstone.co.th/th/good-to-know"], ["en-US", "https://www.clayandstone.co.th/en/good-to-know"]]
+JSONLD []
+VIDEOS ["iframe://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FUo16eHa15rk%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUo16eHa15rk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FUo16eHa15rk%2Fhqdefault.jpg&type=text%2Fhtml&schema=youtube", "iframe://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FwrJKrBmhS58%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwrJKrBmhS58&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FwrJKrBmhS58%2Fhqdefault.jpg&type=text%2Fhtml&schema=youtube", "iframe://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FgJMY5oSiwbQ%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgJMY5oSiwbQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FgJMY5oSiwbQ%2Fhqdefault.jpg&type=text%2Fhtml&schema=youtube", "iframe://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FoUIimGhSgyA%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoUIimGhSgyA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoUIimGhSgyA%2Fhqdefault.jpg&type=text%2Fhtml&schema=youtube", "iframe://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F0MDRduX63pY%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0MDRduX63pY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F0MDRduX63pY%2Fhqdefault.jpg&type=text%2Fhtml&schema=youtube", "iframe://cdn.embedly.com/widgets/media.html?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DG8_2lxRIVV4&type=text%2Fhtml&schema=youtube&display_name=YouTube&src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FG8_2lxRIVV4%3Ffeature%3Doembed", "iframe://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FY3KcE5FpbS4%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DY3KcE5FpbS4&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FY3KcE5FpbS4%2Fhqdefault.jpg&type=text%2Fhtml&schema=youtube", "iframe:https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7"]
+BGS []
+-----
+Modular Home Guides | Everything You Need to Know by Clay and Stone
+Skip to main content
+  -> (#main)
+  -> (/en)
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Products
+Unwind
+Series
+  -> (/en/products/unwind-series)
+Alive
+Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+EN
+Thai
+  -> (/th/good-to-know)
+English
+  -> (/en/good-to-know)
+Book Consultation
+  -> (https://linktr.ee/clayandstone.official)
+Book Consultation
+  -> (/en)
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Products
+Unwind
+Series
+  -> (/en/products/unwind-series)
+Alive
+Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+EN
+Thai
+  -> (/th/good-to-know)
+English
+  -> (/en/good-to-know)
+Book Consultation
+  -> (https://linktr.ee/clayandstone.official)
+Book Consultation
+### Good to Know
+[IFRAME] //cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FUo16eHa15rk%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUo16eHa15rk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FUo16eHa15rk%2Fhqdefault.jpg&type=text%2Fhtml&schema=youtube
+##### EP.1: Modular House
+###### Educational Video
+[IFRAME] //cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FwrJKrBmhS58%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwrJKrBmhS58&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FwrJKrBmhS58%2Fhqdefault.jpg&type=text%2Fhtml&schema=youtube
+##### EP.2: Prefab Homes vs Traditional
+###### Educational Video
+[IFRAME] //cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FgJMY5oSiwbQ%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgJMY5oSiwbQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FgJMY5oSiwbQ%2Fhqdefault.jpg&type=text%2Fhtml&schema=youtube
+##### EP.3 : Strength of Prefab Houses
+###### Educational Video
+[IFRAME] //cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FoUIimGhSgyA%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoUIimGhSgyA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoUIimGhSgyA%2Fhqdefault.jpg&type=text%2Fhtml&schema=youtube
+##### EP.4 : Water Leak Prevention
+###### Educational Video
+[IFRAME] //cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F0MDRduX63pY%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0MDRduX63pY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F0MDRduX63pY%2Fhqdefault.jpg&type=text%2Fhtml&schema=youtube
+##### EP.5 : From a Module... to a Complete Home
+###### Educational Video
+[IFRAME] //cdn.embedly.com/widgets/media.html?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DG8_2lxRIVV4&type=text%2Fhtml&schema=youtube&display_name=YouTube&src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FG8_2lxRIVV4%3Ffeature%3Doembed
+##### EP.6: Experience Unwind 1 Bed 2 Bath Type
+###### Educational Video
+[IFRAME] //cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FY3KcE5FpbS4%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DY3KcE5FpbS4&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FY3KcE5FpbS4%2Fhqdefault.jpg&type=text%2Fhtml&schema=youtube
+##### EP.7 : Precast Footing System
+###### Educational Video
+Contact Us
+### Talk to Clay & Stone Today
+#### ติดต่อทีมงานได้เลยวันนี้
+#### Email :
+#### clay.panitar@gmail.com
+  -> (mailto:clay.panitar@gmail.com)
+#### Tel :
+#### 086-3822116
+  -> (tel:+66863822116)
+#### Line :
+#### @claystone
+  -> (https://lin.ee/5oKztUS)
+Contact Us
+  -> (https://linktr.ee/clayandstone.official)
+Contact Us
+Clay & Stone Office and Showroom
+152/1, Soi Tiwanon 45, Ta Sai, Mueang Nonthaburi District, Nonthaburi 11000
+LINE : @claystone
+Email : clay.panitar@gmail.com
+Tel : 086-3822116
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Unwind Series
+  -> (/en/products/unwind-series)
+Alive Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+  -> (https://web.facebook.com/ClayxStone/)
+  -> (https://www.instagram.com/clay_andstone/)
+  -> (https://lin.ee/5oKztUS)
+[IFRAME] https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7

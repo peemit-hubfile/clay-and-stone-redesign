@@ -1,0 +1,318 @@
+META {
+ "lang": "en-US",
+ "description": "Explore contemporary modular house design crafted for slow living and nature retreats. View premium layouts, custom features, and transparent modular house prices.",
+ "og:title": "Unwind Series Modular House Design | Modular Homes for Sale",
+ "og:description": "Explore contemporary modular house design crafted for slow living and nature retreats. View premium layouts, custom features, and transparent modular house prices.",
+ "og:image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2841123b22b146a53_homepage-img-4.webp",
+ "twitter:title": "Unwind Series Modular House Design | Modular Homes for Sale",
+ "twitter:description": "Explore contemporary modular house design crafted for slow living and nature retreats. View premium layouts, custom features, and transparent modular house prices.",
+ "og:type": "website",
+ "twitter:card": "summary_large_image",
+ "viewport": "width=device-width, initial-scale=1",
+ "google-site-verification": "_0Lh__7EFJwDXwb8lb-4kPwXPdbKFdH9otSM8xOdgws",
+ "generator": "Webflow",
+ "title": "Unwind Series Modular House Design | Modular Homes for Sale"
+}
+HREFLANG [["x-default", "https://www.clayandstone.co.th/th/products/unwind-series"], ["th-TH", "https://www.clayandstone.co.th/th/products/unwind-series"], ["en-US", "https://www.clayandstone.co.th/en/products/unwind-series"]]
+JSONLD []
+VIDEOS ["iframe:https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7"]
+BGS []
+-----
+Unwind Series Modular House Design | Modular Homes for Sale
+Skip to main content
+  -> (#main)
+  -> (/en)
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Products
+Unwind
+Series
+  -> (/en/products/unwind-series)
+Alive
+Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+EN
+Thai
+  -> (/th/products/unwind-series)
+English
+  -> (/en/products/unwind-series)
+Book Consultation
+  -> (https://linktr.ee/clayandstone.official)
+Book Consultation
+  -> (/en)
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Products
+Unwind
+Series
+  -> (/en/products/unwind-series)
+Alive
+Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+EN
+Thai
+  -> (/th/products/unwind-series)
+English
+  -> (/en/products/unwind-series)
+Book Consultation
+  -> (https://linktr.ee/clayandstone.official)
+Book Consultation
+# Returning Nature to Living
+# A modular home designed to connect you with nature.
+The Unwind Series by
+Clay & Stone
+  -> (https://www.clayandstone.co.th/en)
+is a collection of modular homes for sale built around one simple idea: living well means living close to nature. Designed using a standardized modular system, each home allows for faster construction, predictable costs, and the flexibility to adapt as life evolves. Whether you're looking for a weekend retreat, a second home on your land, or a resort unit, the Unwind Series offers a modular house design that balances warmth, simplicity, and lasting quality.
+‍
+Brand Concept
+## Why Choose the Unwind Series?
+Slow Living, Quiet Moments: Designed for those who seek calm in nature.
+The Unwind Series is thoughtfully created for rest, simplicity, and living in harmony with nature. Every design is guided by the four core principles Clay & Stone has believed in from day one, helping you choose with confidence. Explore and compare each home type within the Unwind Series to discover the one that feels truly right for you.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694e06c359f693d74fbc9624_bi-img-1.webp
+#### ' Simplicity '
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694e06c332789bcc8d3cd096_bi-img-2.webp
+#### ' Comfort '
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bd5e2146ef02e151edff_bi-img-3.webp
+#### ' Homey '
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694e06c3033fd1da79ed18d9_bi-img-4.webp
+#### ' Harmony with Nature '
+## Well-Proportioned Modular House Design
+Every dimension and material size is engineered on a standardized modular system, reducing construction waste and saving time. Built to be completely flexible, each module can be disassembled and expanded at any time, allowing you to adapt your home to your life, not your life to your home.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6bbdf13be6a0809bd0_unwind-img-08.webp
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6bd9f8bd55b66a2a58_unwind-img-09.webp
+## Flexible Function
+The main 3 × 6 meter modular space can be flexibly customized to support a variety of functions according to individual needs.
+Previous
+  -> (#)
+Previous
+Next
+  -> (#)
+Next
+##### Bedroom
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6bc58fd9845d41a2f1_unwind-img-10.webp
+##### Party Room
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b5b97450155199fe1_unwind-img-11.webp
+##### Kid’s room
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6bee21e205d0d78e70_unwind-img-12.webp
+##### Living & Dining Room
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b06c106e41ba3b29f_unwind-img-13.webp
+##### Family Room
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b3012aeab9ff13f7d_unwind-img-14.webp
+##### Working Studio
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b5d379c4f035c3fa8_unwind-img-15.webp
+## A Modular Home You Can Customize
+The Unwind Series is far from a one-size-fits-all solution. Built on a flexible modular system, it allows you to freely combine individual modules to match your exact lifestyle. Whether you want to add an extra bedroom or expand your outdoor living terrace, the design can adapt seamlessly without the need for a full reconstruction. Plus, every module is engineered for easy relocation, allowing you to disassemble and reinstall your home in a brand-new location whenever you choose.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6be01a2b5b62d4abf3_unwind-img-16.webp
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/696c926e13e832bcb95bac6c_Frame%20205.webp
+#### Module Combination
+In addition, all modules are designed to expand and connect, giving you the flexibility to grow or adapt your home as your needs change over time.
+Previous
+  -> (#)
+Previous
+Next
+  -> (#)
+Next
+##### Living / Dinning & Bedroom
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b1ef20cb0f278b1db_unwind-img-23.webp
+##### Living / Dinning & Working Studio
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6bcbb6eba505d5fbf8_unwind-img-22.webp
+##### Family & Working Studio
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6baba2eeebae384e95_unwind-img-21.webp
+##### Family & Party Room
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b94f729a7be7b7276_unwind-img-20.webp
+##### Family & Kid’s Room
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/699387cc88fcb3f6fcddb5d8_unwind-module-5.webp
+##### Family & Working Studio
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/699387cc2d5fd10b98474aae_unwind-module-6.webp
+## Unwind Series Modular House Prices
+Own your dream modular home starting at just 830,000 THB (incl. VAT)! Explore our completed
+modular home projects
+  -> (https://www.clayandstone.co.th/en/projects)
+.
+##### 1.
+##### Free wallpaper for all interior areas.
+##### 2.
+##### Free installation service within a 200 km radius of our facility.
+##### 3.
+##### One-year warranty on general workmanship and a five-year warranty on structural components, including after-sales service.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/696c94af7b535bb0f87f9deb_Standard%20Type.webp
+### Standard Type
+#### 849,000
+##### THB
+(inclu. VAT)
+Usable Area : 43.5 sqm.
+﻿﻿- Interior + Toilet 23 sqm.﻿﻿
+- Outdoor Terrace 21 sqm.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/696c94afbae329ca4a95543e_Loft%20Type.webp
+### Loft Type
+#### 1,210,000
+##### THB
+(inclu. VAT)
+Usable Area : 47 sqm.
+﻿﻿- Interior + Toilet 26 sqm.﻿﻿
+- Outdoor Terrace 15.5 sqm.﻿﻿
+- Outdoor Pet House 5.5 sqm.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/696c94af40a2517c51c3fe0d_1%20Bed%202%20Bath.webp
+### 1 Bed 2 Bath
+#### 1,690,000
+##### THB
+(inclu. VAT)
+Usable Area : 82 sqm.
+- Interior + Toilet 45.5 sqm.
+- ﻿﻿Outdoor Terrace 36.5 sqm.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/69ea4eede3bfbd091ca58b4c_2%20Bed%202%20Bath.webp
+### 2 Bed 2 Bath
+#### 2,690,000
+##### THB
+(inclu. VAT)
+Usable Area : 123 sqm.
+- Interior + Toilet 72 sqm.
+- ﻿﻿Outdoor Terrace 51 sqm.
+## Materials
+Every single material in the Unwind Series is handpicked for long-term durability and comfort, not just initial aesthetic appeal. Each component is engineered to work together as a synchronized system, perfectly mirroring our
+modular construction process
+  -> (https://www.clayandstone.co.th/en/process)
+, where every step is designed to connect with absolute precision.
+##### 01/ Structural System
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b802a0ed904111e67_unwind-img-06.webp
+Structural steel over 2.3 mm thick, certified to TIS standards and up to 1.4x thicker than typical specifications, ensuring long-term strength. Protected with high-performance anti-corrosion coatings from BEGER, and designed and supervised by licensed architects and engineers.
+##### 02/ Flooring System
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b82786849ab80c623_unwind-img-05.webp
+Steel floor joists are spaced at 40 cm for even load distribution and stability. Finished with 20 mm SCG Smart Board and 5 mm SCG SPC Click Lock flooring, creating a solid and firm surface that feels stable and comfortable underfoot.
+##### 03/ Wall Materials
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b56f80fe66b21adca_unwind-img-04.webp
+Steel framing at 60 cm intervals provides strong, rigid walls with minimal movement. SCG Smart Board is used at 8 mm inside and 10 mm outside, thicker than standard, with 2-inch foil-faced insulation inside the external walls to reduce heat.
+##### 04/ Outdoor Terrace
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b784db25ede0acc8d_unwind-img-03.webp
+Balcony floors and exterior ceilings are finished with premium WPC wood composite for durability against sun and rain. CONWOOD / SHERA panels are used at wall joints for a clean finish and long-term water protection.
+##### 05/ Door & Window
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6bf5bd4a8396d40ad1_unwind-img-02.webp
+Wood-grain aluminum frames paired with 6 mm clear glass offer the look of wood with better durability, sound reduction, and strength. Built-in rain barriers keep interiors quiet and dry.
+##### 06/ Roof Materials
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b9cd45665704b6a7a_unwind-img-01.webp
+The roof uses 0.4 mm metal sheets with 1-inch PU insulation, providing stronger weather resistance, reduced heat, and less rain noise, all with a clean, modern profile.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b802a0ed904111e67_unwind-img-06.webp
+Built with heavy-duty structural steel over 2.3 mm thick, certified to TIS standards, and up to 1.4 times thicker than typical specifications, our modular homes are engineered for long-term structural performance. The entire steel system is protected with premium-grade anti-corrosion coatings from BEGER, utilizing the GLIPTECH system together with a two-layer protective topcoat for enhanced durability and long-lasting protection. Formally supervised by licensed architects and professional engineers, every home is built with structural integrity, strength, and lasting reliability in mind.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b82786849ab80c623_unwind-img-05.webp
+Steel floor joists are spaced at 40 cm for even load distribution and stability. Finished with 20 mm SCG Smart Board and 5 mm SCG SPC Click Lock flooring, creating a solid and firm surface that feels stable and comfortable underfoot.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b56f80fe66b21adca_unwind-img-04.webp
+Steel framing at 60 cm intervals provides strong, rigid walls with minimal movement. SCG Smart Board is used at 8 mm inside and 10 mm outside, thicker than standard, with 2-inch foil-faced insulation inside the external walls to reduce heat.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b784db25ede0acc8d_unwind-img-03.webp
+Balcony floors and exterior ceilings are finished with premium WPC wood composite for durability against sun and rain. CONWOOD / SHERA panels are used at wall joints for a clean finish and long-term water protection.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6bf5bd4a8396d40ad1_unwind-img-02.webp
+Wood-grain aluminum frames paired with 6 mm clear glass offer the look of wood with better durability, sound reduction, and strength. Built-in rain barriers keep interiors quiet and dry.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b9cd45665704b6a7a_unwind-img-01.webp
+The roof uses 0.4 mm metal sheets with 1-inch PU insulation, providing stronger weather resistance, reduced heat, and less rain noise, all with a clean, modern profile.
+##### 01/ Structural System
+##### 02/ Flooring System
+##### 03/ Wall Materials
+##### 04/ Outdoor Terrace
+##### 05/ Door & Window
+##### 06/ Roof Materials
+FAQ
+### Frequently Asked Questions
+##### 1. Why choose the Unwind Series modular home?
+The Unwind Series is envisioned and crafted under the concept of true relaxation. It features an open, airy modular house design that seamlessly connects your indoor living space with the natural beauty outside. It is perfect as a vacation home, a boutique resort villa, or a private sanctuary in your backyard garden.
+##### 2. What are the modular house prices, and what types are available?
+For Clay & Stone's Unwind Series, we offer a diverse range of sizes engineered to match your specific plot and budget requirements. Our transparent, fixed modular house prices are detailed below (all prices include 7% VAT):
+‍
+Standard Type:
+830,000 THB (Usable Area: 43.5 sqm)
+Loft Type:
+1,190,000 THB (Usable Area: 47 sqm)
+1-Bed, 2-Bath Type:
+1,660,000 THB (Total Usable Area: 82 sqm)
+2-Bed, 2-Bath Type:
+2,660,000 THB (Spacious Usable Area: 123 sqm)
+‍
+Investing in a modular system not only guarantees premium-grade materials, but it also eliminates unexpected budget overruns and saves a massive amount of construction time compared to conventional brick-and-mortar builds.
+##### 3. Which type works best for a small family?
+We highly recommend our most popular model:
+the Unwind 1-Bed, 2-Bath
+  -> (https://youtu.be/G8_2lxRIVV4?si=7aPKjFsS-APmXwD9)
+. The layout is beautifully proportioned and zoned for daily life. It features a master bedroom with an en-suite bathroom, a guest restroom, a central living area for family bonding, and a dedicated kitchen space. It perfectly suits small families seeking both daily convenience and personal privacy.
+##### 4. Can modular homes be installed on any plot of land? Can they be relocated in the future?
+Yes! Clay & Stone modular homes are designed to be transported and installed almost anywhere in Thailand as long as crane or truck access is available. Our engineering team assesses every site before installation to ensure a smooth and safe process. If you ever need to move the home to a new plot, the
+modular system
+  -> (https://youtu.be/0MDRduX63pY?si=TyG9_q_u4MesLR_j)
+allows full disassembly and reinstallation, no demolition required. That flexibility is one of the core advantages of the Unwind Series.
+##### 5. How long does the process take from order to move-in?
+The primary benefits of our prefabricated homes are speed, structural consistency, and strict quality control. The Clay & Stone delivery process is broken down into 4 clear phases:
+‍
+Step 1: Tailored Customization:
+Our architectural team works closely with you to adjust and finalize your layout, ensuring the final layout supports your functional needs perfectly before purchase.
+‍
+Step 2: Agreement & Off-Site Production:
+Once the contract is signed, precision manufacturing begins inside our factory right away (taking roughly 60 - 90 days depending on the current production queue). Factory building ensures flawless craftsmanship unaffected by unpredictable weather conditions, keeping our timelines perfectly on track.
+Step 3: Transporting the Modules:
+When factory production reaches approximately 70% completion, the structural modules are carefully transported to your land. Because the heavy lifting is handled off-site, there is no need for messy, massive construction works on your property, drastically reducing dust, noise, and environmental disturbance to your neighbors.
+Step 4: On-Site Assembly & Handover:
+Our specialized crew handles the final installation, structural sealing, and utility connections on-site. Within just 15 days, your turn-key home is completely ready for move-in.
+‍
+With this system, you will never have to worry about the stressful delays, unreliable contractors, or budget uncertainties of traditional construction.
+Contact Us
+### Talk to Clay & Stone Today
+#### ติดต่อทีมงานได้เลยวันนี้
+#### Email :
+#### clay.panitar@gmail.com
+  -> (mailto:clay.panitar@gmail.com)
+#### Tel :
+#### 086-3822116
+  -> (tel:+66863822116)
+#### Line :
+#### @claystone
+  -> (https://lin.ee/5oKztUS)
+Contact Us
+  -> (https://linktr.ee/clayandstone.official)
+Contact Us
+Clay & Stone Office and Showroom
+152/1, Soi Tiwanon 45, Ta Sai, Mueang Nonthaburi District, Nonthaburi 11000
+LINE : @claystone
+Email : clay.panitar@gmail.com
+Tel : 086-3822116
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Unwind Series
+  -> (/en/products/unwind-series)
+Alive Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+  -> (https://web.facebook.com/ClayxStone/)
+  -> (https://www.instagram.com/clay_andstone/)
+  -> (https://lin.ee/5oKztUS)
+[IFRAME] https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7

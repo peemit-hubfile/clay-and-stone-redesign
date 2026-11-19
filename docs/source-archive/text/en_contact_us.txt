@@ -1,0 +1,136 @@
+META {
+ "lang": "en-US",
+ "description": "Get in touch with Clay and Stone today. Our experts are ready to assist you with Modular home designs, technical specifications, and personalized consultations. Let’s bring your dream project to life together.",
+ "og:title": "Contact Us | Start Your Modular Home Journey with Clay and Stone",
+ "og:description": "Get in touch with Clay and Stone today. Our experts are ready to assist you with Modular home designs, technical specifications, and personalized consultations. Let’s bring your dream project to life together.",
+ "og:image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp",
+ "twitter:title": "Contact Us | Start Your Modular Home Journey with Clay and Stone",
+ "twitter:description": "Get in touch with Clay and Stone today. Our experts are ready to assist you with Modular home designs, technical specifications, and personalized consultations. Let’s bring your dream project to life together.",
+ "og:type": "website",
+ "twitter:card": "summary_large_image",
+ "viewport": "width=device-width, initial-scale=1",
+ "google-site-verification": "_0Lh__7EFJwDXwb8lb-4kPwXPdbKFdH9otSM8xOdgws",
+ "generator": "Webflow",
+ "title": "Contact Us | Start Your Modular Home Journey with Clay and Stone"
+}
+HREFLANG [["x-default", "https://www.clayandstone.co.th/th/contact-us"], ["th-TH", "https://www.clayandstone.co.th/th/contact-us"], ["en-US", "https://www.clayandstone.co.th/en/contact-us"]]
+JSONLD []
+VIDEOS ["iframe:https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3873.158040524964!2d100.50236037554204!3d13.889496686516871!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e2850064f9566d%3A0x5c41ba4727a57f2e!2sClay%20and%20Stone%20Co.%2C%20Ltd!5e0!3m2!1sen!2sth!4v1766300410396!5m2!1sen!2sth", "iframe:https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7"]
+BGS []
+-----
+Contact Us | Start Your Modular Home Journey with Clay and Stone
+Skip to main content
+  -> (#main)
+  -> (/en)
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Products
+Unwind
+Series
+  -> (/en/products/unwind-series)
+Alive
+Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+EN
+Thai
+  -> (/th/contact-us)
+English
+  -> (/en/contact-us)
+Book Consultation
+  -> (https://linktr.ee/clayandstone.official)
+Book Consultation
+  -> (/en)
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Products
+Unwind
+Series
+  -> (/en/products/unwind-series)
+Alive
+Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+EN
+Thai
+  -> (/th/contact-us)
+English
+  -> (/en/contact-us)
+Book Consultation
+  -> (https://linktr.ee/clayandstone.official)
+Book Consultation
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694722e5b5351c705601b75d_contact-banner.webp
+## Contact Us
+##### Clay & Stone Office and Showroom
+###### 152/1, Soi Tiwanon 45, Ta Sai, Mueang Nonthaburi District, Nonthaburi 11000
+LINE : @claystone
+Email : clay.panitar@gmail.com
+Tel : 086-3822116
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6947227ec290d2303cbd848f_contact-img-1.webp
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6947227e5eaa2b1d7aede238_contact-img-2.webp
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6947227e8e251d0a6ad18993_contact-img-3.webp
+[IFRAME] https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3873.158040524964!2d100.50236037554204!3d13.889496686516871!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e2850064f9566d%3A0x5c41ba4727a57f2e!2sClay%20and%20Stone%20Co.%2C%20Ltd!5e0!3m2!1sen!2sth!4v1766300410396!5m2!1sen!2sth
+Contact Us
+### Talk to Clay & Stone Today
+#### ติดต่อทีมงานได้เลยวันนี้
+#### Email :
+#### clay.panitar@gmail.com
+  -> (mailto:clay.panitar@gmail.com)
+#### Tel :
+#### 086-3822116
+  -> (tel:+66863822116)
+#### Line :
+#### @claystone
+  -> (https://lin.ee/5oKztUS)
+Contact Us
+  -> (https://linktr.ee/clayandstone.official)
+Contact Us
+Clay & Stone Office and Showroom
+152/1, Soi Tiwanon 45, Ta Sai, Mueang Nonthaburi District, Nonthaburi 11000
+LINE : @claystone
+Email : clay.panitar@gmail.com
+Tel : 086-3822116
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Unwind Series
+  -> (/en/products/unwind-series)
+Alive Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+  -> (https://web.facebook.com/ClayxStone/)
+  -> (https://www.instagram.com/clay_andstone/)
+  -> (https://lin.ee/5oKztUS)
+[IFRAME] https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7

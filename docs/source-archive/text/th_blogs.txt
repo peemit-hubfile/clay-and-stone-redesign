@@ -1,0 +1,157 @@
+META {
+ "lang": "th-TH",
+ "description": "รวมไอเดียและบทความบ้านสำเร็จรูป น่ารู้! อัปเดตแบบบ้านสำเร็จรูปดีไซน์โมเดิร์น และข้อควรรู้ก่อนสร้างบ้าน เพื่อให้ได้บ้านในฝันที่ตอบโจทย์คุณที่สุด",
+ "og:title": "สาระน่ารู้บ้านสำเร็จรูป ไอเดียแบบบ้านและเทคนิคสร้างบ้าน | Clay & Stone",
+ "og:description": "รวมไอเดียและบทความบ้านสำเร็จรูป น่ารู้! อัปเดตแบบบ้านสำเร็จรูปดีไซน์โมเดิร์น และข้อควรรู้ก่อนสร้างบ้าน เพื่อให้ได้บ้านในฝันที่ตอบโจทย์คุณที่สุด",
+ "og:image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp",
+ "twitter:title": "สาระน่ารู้บ้านสำเร็จรูป ไอเดียแบบบ้านและเทคนิคสร้างบ้าน | Clay & Stone",
+ "twitter:description": "รวมไอเดียและบทความบ้านสำเร็จรูป น่ารู้! อัปเดตแบบบ้านสำเร็จรูปดีไซน์โมเดิร์น และข้อควรรู้ก่อนสร้างบ้าน เพื่อให้ได้บ้านในฝันที่ตอบโจทย์คุณที่สุด",
+ "og:type": "website",
+ "twitter:card": "summary_large_image",
+ "viewport": "width=device-width, initial-scale=1",
+ "google-site-verification": "_0Lh__7EFJwDXwb8lb-4kPwXPdbKFdH9otSM8xOdgws",
+ "generator": "Webflow",
+ "title": "สาระน่ารู้บ้านสำเร็จรูป ไอเดียแบบบ้านและเทคนิคสร้างบ้าน | Clay & Stone"
+}
+HREFLANG [["x-default", "https://www.clayandstone.co.th/th/blogs"], ["th-TH", "https://www.clayandstone.co.th/th/blogs"], ["en-US", "https://www.clayandstone.co.th/en/blogs"]]
+JSONLD []
+VIDEOS ["iframe:https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7"]
+BGS []
+-----
+สาระน่ารู้บ้านสำเร็จรูป ไอเดียแบบบ้านและเทคนิคสร้างบ้าน | Clay & Stone
+Skip to main content
+  -> (#main)
+  -> (/th)
+หน้าแรก
+  -> (/th)
+เกี่ยวกับเรา
+  -> (/th/about-us)
+สินค้า
+Unwind
+Series
+  -> (/th/products/unwind-series)
+Alive
+Series
+  -> (/th/products/alive-series)
+โปรเจค
+  -> (/th/projects)
+กระบวนการ
+  -> (/th/process)
+สิ่งที่ควรรู้
+  -> (/th/good-to-know)
+บล็อก
+  -> (/th/blogs)
+ติดต่อเรา
+  -> (/th/contact-us)
+TH
+Thai
+  -> (/th/blogs)
+English
+  -> (/en/blogs)
+สอบถามข้อมูล
+  -> (https://linktr.ee/clayandstone.official)
+สอบถามข้อมูล
+  -> (/th)
+หน้าแรก
+  -> (/th)
+เกี่ยวกับเรา
+  -> (/th/about-us)
+สินค้า
+Unwind
+Series
+  -> (/th/products/unwind-series)
+Alive
+Series
+  -> (/th/products/alive-series)
+โปรเจค
+  -> (/th/projects)
+กระบวนการ
+  -> (/th/process)
+สิ่งที่ควรรู้
+  -> (/th/good-to-know)
+บล็อก
+  -> (/th/blogs)
+ติดต่อเรา
+  -> (/th/contact-us)
+TH
+Thai
+  -> (/th/blogs)
+English
+  -> (/en/blogs)
+สอบถามข้อมูล
+  -> (https://linktr.ee/clayandstone.official)
+สอบถามข้อมูล
+# บทความบ้านสำเร็จรูป
+[IMG alt=""] https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a4cbe2a634693c8f1c54fc5_%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%88%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B5%20(1).png
+July 7, 2026
+###### บ้านสำเร็จรูปอยู่ได้กี่ปี? อายุการใช้งานจริงที่คุณควรรู้
+คลายทุกข้อสงสัย บ้านสำเร็จรูปอยู่ได้กี่ปี? พบคำตอบเรื่องความทนทาน ปัจจัยที่ส่งผลต่อโครงสร้างพร้อมเทคนิคการเลือกซื้อบ้านสำเร็จรูปให้คุ้มค่าที่สุด
+Educated / Informative
+  -> (/th/blogs/prefab-homes-lifespan)
+[IMG alt=""] https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a336193e306715b8932b647_%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%A5%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%9D%E0%B8%99%20(3)%20(1).png
+June 17, 2026
+###### บ้านโมดูลาร์อยู่หน้าฝนได้จริงไหม? ออกแบบอย่างไรให้อยู่สบายในสภาพอากาศประเทศไทย
+สรุปครบทุกคำตอบหน้าฝนนี้บ้านโมดูลาร์จะรอดไหม? ไม่ว่าจะเป็นเรื่องความชื้น น้ำซึม หรือฐานรากในพื้นที่น้ำขัง บทความนี้ตอบครบในที่เดียว
+Educated / Informative
+  -> (/th/blogs/modular-house-rainy-season-problems)
+[IMG alt=""] https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a3263b8e20ccff14d1cefb9_%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%A5%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%20(1).png
+June 17, 2026
+###### บ้านโมดูลาร์ราคาเท่าไหร่? เลือกขนาดบ้านอย่างไร และต้องเตรียมงบประมาณอะไรบ้าง
+อยากสร้างบ้านโมดูลาร์? เช็กราคาอัปเดตล่าสุด เทคนิคการเลือกขนาดบ้านให้เหมาะกับคุณ พร้อมเจาะลึกงบประมาณแฝงที่ต้องเตรียมก่อนเริ่มสร้าง คลิกเลย!
+Educated / Informative
+  -> (/th/blogs/modular-house-price)
+[IMG alt=""] https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a3259a22510ef80bdb3a2a8_%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B9%87%E0%B8%AD%E0%B8%84%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%20%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%A5%E0%B8%B2%E0%B8%A3%E0%B9%8C%20(2)%20(1).png
+June 16, 2026
+###### บ้านน็อคดาวน์ กับบ้านโมดูลาร์ ต่างกันอย่างไร? ทำความเข้าใจระบบบ้านสำเร็จรูปแต่ละประเภทก่อนตัดสินใจสร้างบ้าน
+สรุปชัด! บ้านโมดูลาร์ และบ้านน็อคดาวน์ คืออะไร? ต่างกันตรงไหน พร้อมเช็คราคาและข้อดีข้อเสีย ให้คุณเลือกบ้านที่ใช่และตกแต่งได้สวยถูกใจ
+Educated / Informative
+  -> (/th/blogs/modular-vs-knockdown-house)
+[IMG alt=""] https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a0a822e8ff272d9b4586c0c_4%20%E0%B9%84%E0%B8%AD%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%20%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B9%87%E0%B8%AD%E0%B8%84%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%20(1).png
+October 10, 2023
+###### สวยจบในหลังเดียว! 4 ไอเดีย “บ้านน็อคดาวน์” สไตล์รีสอร์ท
+บ้านแบบ Knock-Down กำลังเป็นที่นิยมมากขึ้นในปัจจุบัน เนื่องจากความสะดวกในการสร้างและการย้ายที่ตั้ง
+Idea/Inspiration
+  -> (/th/blogs/knockdown-house-ideas)
+Contact Us
+#### Talk to Clay & Stone Today
+#### สนใจบ้านสำเร็จรูปหรืออยากดูแบบบ้านโมดูลาร์เพิ่มเติม?
+#### ติดต่อทีมงานได้เลยวันนี้
+#### Email :
+#### clay.panitar@gmail.com
+  -> (mailto:clay.panitar@gmail.com)
+#### Tel :
+#### 086-3822116
+  -> (tel:+66863822116)
+#### Line :
+#### @claystone
+  -> (https://lin.ee/5oKztUS)
+ติดต่อเรา
+  -> (https://linktr.ee/clayandstone.official)
+ติดต่อเรา
+Clay & Stone Office and Showroom
+152/1, ซอยติวานนท์ 45, ตำบลท่าทราย, อำเภอเมืองนนทบุรี, จังหวัดนนทบุรี, 11000
+LINE : @claystone
+Email : clay.panitar@gmail.com
+Tel : 086-3822116
+หน้าแรก
+  -> (/th)
+เกี่ยวกับเรา
+  -> (/th/about-us)
+Unwind Series
+  -> (/th/products/unwind-series)
+Alive Series
+  -> (/th/products/alive-series)
+โปรเจค
+  -> (/th/projects)
+กระบวนการ
+  -> (/th/process)
+สิ่งที่ควรรู้
+  -> (/th/good-to-know)
+บล็อก
+  -> (/th/blogs)
+ติดต่อเรา
+  -> (/th/contact-us)
+  -> (https://web.facebook.com/ClayxStone/)
+  -> (https://www.instagram.com/clay_andstone/)
+  -> (https://lin.ee/5oKztUS)
+[IFRAME] https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7

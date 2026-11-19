@@ -1,0 +1,929 @@
+[
+ {
+  "vp": "desktop",
+  "page": "th",
+  "loadMs": 1697,
+  "reqs": 57,
+  "kb": 16887,
+  "errors": [],
+  "failed": [],
+  "thirdParty": [
+   "cdn.prod.website-files.com",
+   "cdn.jsdelivr.net",
+   "use.typekit.net",
+   "d3e54v103j8qbb.cloudfront.net",
+   "www.googletagmanager.com",
+   "j44tmv.csb.app",
+   "www.google-analytics.com",
+   "p.typekit.net",
+   "stupendous-trifle-c7ed75.netlify.app"
+  ],
+  "lcp": 568,
+  "cls": 0,
+  "docH": 5150,
+  "overflowX": false,
+  "h1": [
+   "เรามุ่งมั่นสร้างสรรค์ “บ้านสำเร็จรูป” ที่ผ่านการออกแบบอย่างพิถีพิถัน เพื่อยกระดั"
+  ],
+  "hidden_h1": 0,
+  "imgsNoAlt": 15,
+  "imgs": 17,
+  "lazy": 17,
+  "smallTap": 6,
+  "fonts": [
+   "aktiv-grotesk-thai, sans-serif",
+   ""
+  ],
+  "heroText": "",
+  "skipLink": true,
+  "mainLandmark": true,
+  "navAria": 7,
+  "langAttr": "th-TH",
+  "buttonsNoName": 9
+ },
+ {
+  "vp": "desktop",
+  "page": "en",
+  "loadMs": 1234,
+  "reqs": 57,
+  "kb": 16887,
+  "errors": [],
+  "failed": [],
+  "thirdParty": [
+   "cdn.prod.website-files.com",
+   "d3e54v103j8qbb.cloudfront.net",
+   "use.typekit.net",
+   "cdn.jsdelivr.net",
+   "www.googletagmanager.com",
+   "j44tmv.csb.app",
+   "p.typekit.net",
+   "www.google-analytics.com",
+   "stupendous-trifle-c7ed75.netlify.app"
+  ],
+  "lcp": 484,
+  "cls": 0,
+  "docH": 5198,
+  "overflowX": false,
+  "h1": [
+   "We create thoughtfully designed modular homes that elevate modern living and mak"
+  ],
+  "hidden_h1": 0,
+  "imgsNoAlt": 15,
+  "imgs": 17,
+  "lazy": 17,
+  "smallTap": 4,
+  "fonts": [
+   "aktiv-grotesk-thai, sans-serif",
+   ""
+  ],
+  "heroText": "",
+  "skipLink": true,
+  "mainLandmark": true,
+  "navAria": 7,
+  "langAttr": "en-US",
+  "buttonsNoName": 9
+ },
+ {
+  "vp": "desktop",
+  "page": "th/products/unwind-series",
+  "loadMs": 970,
+  "reqs": 62,
+  "kb": 6657,
+  "errors": [],
+  "failed": [],
+  "thirdParty": [
+   "cdn.prod.website-files.com",
+   "use.typekit.net",
+   "d3e54v103j8qbb.cloudfront.net",
+   "cdn.jsdelivr.net",
+   "www.googletagmanager.com",
+   "j44tmv.csb.app",
+   "p.typekit.net",
+   "www.google-analytics.com"
+  ],
+  "lcp": 560,
+  "cls": 0,
+  "docH": 8328,
+  "overflowX": false,
+  "h1": [
+   "Returning Nature to Living\n\nบ้านโมดูลาร์เพื่อการอยู่อาศัยที่เชื่อมโยงกับธรรมชาติ"
+  ],
+  "hidden_h1": 0,
+  "imgsNoAlt": 36,
+  "imgs": 36,
+  "lazy": 36,
+  "smallTap": 12,
+  "fonts": [
+   "aktiv-grotesk-thai, sans-serif"
+  ],
+  "heroText": "บ้านโมดูลาร์เพื่อการอยู่อาศัยที่เชื่อมโยงกับธรรมชาติ",
+  "skipLink": true,
+  "mainLandmark": true,
+  "navAria": 7,
+  "langAttr": "th-TH",
+  "buttonsNoName": 9
+ },
+ {
+  "vp": "desktop",
+  "page": "en/products/alive-series",
+  "loadMs": 1026,
+  "reqs": 66,
+  "kb": 5716,
+  "errors": [],
+  "failed": [],
+  "thirdParty": [
+   "cdn.prod.website-files.com",
+   "use.typekit.net",
+   "d3e54v103j8qbb.cloudfront.net",
+   "cdn.jsdelivr.net",
+   "j44tmv.csb.app",
+   "www.googletagmanager.com",
+   "p.typekit.net",
+   "www.google-analytics.com"
+  ],
+  "lcp": 772,
+  "cls": 0,
+  "docH": 8288,
+  "overflowX": false,
+  "h1": [
+   "Returning Nature to Living\n\nบ้านโมดูลาร์เพื่อการอยู่อาศัยที่เชื่อมโยงกับธรรมชาติ"
+  ],
+  "hidden_h1": 0,
+  "imgsNoAlt": 33,
+  "imgs": 33,
+  "lazy": 33,
+  "smallTap": 12,
+  "fonts": [
+   "aktiv-grotesk-thai, sans-serif"
+  ],
+  "heroText": "บ้านโมดูลาร์เพื่อการอยู่อาศัยที่เชื่อมโยงกับธรรมชาติ",
+  "skipLink": true,
+  "mainLandmark": true,
+  "navAria": 7,
+  "langAttr": "en-US",
+  "buttonsNoName": 9
+ },
+ {
+  "vp": "desktop",
+  "page": "th/projects",
+  "loadMs": 818,
+  "reqs": 66,
+  "kb": 1936,
+  "errors": [],
+  "failed": [],
+  "thirdParty": [
+   "cdn.prod.website-files.com",
+   "use.typekit.net",
+   "d3e54v103j8qbb.cloudfront.net",
+   "cdn.jsdelivr.net",
+   "www.googletagmanager.com",
+   "j44tmv.csb.app",
+   "p.typekit.net",
+   "www.google-analytics.com"
+  ],
+  "lcp": 488,
+  "cls": 0,
+  "docH": 3905,
+  "overflowX": false,
+  "h1": [
+   "Our Modular House Project"
+  ],
+  "hidden_h1": 0,
+  "imgsNoAlt": 62,
+  "imgs": 62,
+  "lazy": 62,
+  "smallTap": 24,
+  "fonts": [
+   "aktiv-grotesk-thai, sans-serif"
+  ],
+  "heroText": "ปลดปล่อยความเหนื่อยล้าไปกับ Unwind Series ซีรีส์โครงการที่ออกแบบมาเพื่อการพักผ่อนอย่างแท้จริง เน้นงานดีไซน์ที่โปร่งโล่ง ",
+  "skipLink": true,
+  "mainLandmark": true,
+  "navAria": 7,
+  "langAttr": "th-TH",
+  "buttonsNoName": 9
+ },
+ {
+  "vp": "desktop",
+  "page": "th/about-us",
+  "loadMs": 723,
+  "reqs": 61,
+  "kb": 1486,
+  "errors": [],
+  "failed": [],
+  "thirdParty": [
+   "cdn.prod.website-files.com",
+   "d3e54v103j8qbb.cloudfront.net",
+   "use.typekit.net",
+   "cdn.jsdelivr.net",
+   "www.googletagmanager.com",
+   "j44tmv.csb.app",
+   "p.typekit.net",
+   "www.google-analytics.com"
+  ],
+  "lcp": 436,
+  "cls": 0,
+  "docH": 5226,
+  "overflowX": false,
+  "h1": [],
+  "hidden_h1": 0,
+  "imgsNoAlt": 9,
+  "imgs": 9,
+  "lazy": 9,
+  "smallTap": 2,
+  "fonts": [
+   "aktiv-grotesk-thai, sans-serif"
+  ],
+  "heroText": "Clay & Stone\nis a prefabricated home builder\n\nก่อตั้งโดยทีมออกแบบและก่อสร้างมืออาชีพที่รวมสถาปนิก วิศวกร และผู้รับเหมามา",
+  "skipLink": true,
+  "mainLandmark": true,
+  "navAria": 7,
+  "langAttr": "th-TH",
+  "buttonsNoName": 9
+ },
+ {
+  "vp": "desktop",
+  "page": "th/process",
+  "loadMs": 1389,
+  "reqs": 61,
+  "kb": 16783,
+  "errors": [],
+  "failed": [],
+  "thirdParty": [
+   "cdn.prod.website-files.com",
+   "d3e54v103j8qbb.cloudfront.net",
+   "use.typekit.net",
+   "cdn.jsdelivr.net",
+   "www.googletagmanager.com",
+   "j44tmv.csb.app",
+   "p.typekit.net",
+   "www.google-analytics.com",
+   "stupendous-trifle-c7ed75.netlify.app"
+  ],
+  "lcp": 484,
+  "cls": 0,
+  "docH": 3357,
+  "overflowX": false,
+  "h1": [],
+  "hidden_h1": 0,
+  "imgsNoAlt": 8,
+  "imgs": 8,
+  "lazy": 8,
+  "smallTap": 0,
+  "fonts": [
+   "aktiv-grotesk-thai, sans-serif"
+  ],
+  "heroText": "",
+  "skipLink": true,
+  "mainLandmark": true,
+  "navAria": 7,
+  "langAttr": "th-TH",
+  "buttonsNoName": 9
+ },
+ {
+  "vp": "desktop",
+  "page": "th/contact-us",
+  "loadMs": 785,
+  "reqs": 73,
+  "kb": 1699,
+  "errors": [],
+  "failed": [],
+  "thirdParty": [
+   "cdn.prod.website-files.com",
+   "cdn.jsdelivr.net",
+   "d3e54v103j8qbb.cloudfront.net",
+   "use.typekit.net",
+   "www.googletagmanager.com",
+   "www.google.com",
+   "j44tmv.csb.app",
+   "maps.gstatic.com",
+   "maps.googleapis.com",
+   "p.typekit.net",
+   "www.google-analytics.com",
+   "fonts.googleapis.com"
+  ],
+  "lcp": 436,
+  "cls": 0.458,
+  "docH": 3202,
+  "overflowX": false,
+  "h1": [],
+  "hidden_h1": 0,
+  "imgsNoAlt": 4,
+  "imgs": 4,
+  "lazy": 4,
+  "smallTap": 0,
+  "fonts": [
+   "aktiv-grotesk-thai, sans-serif"
+  ],
+  "heroText": "Contact Us",
+  "skipLink": true,
+  "mainLandmark": true,
+  "navAria": 7,
+  "langAttr": "th-TH",
+  "buttonsNoName": 9
+ },
+ {
+  "vp": "desktop",
+  "page": "th/good-to-know",
+  "loadMs": 3052,
+  "reqs": 186,
+  "kb": 9164,
+  "errors": [],
+  "failed": [],
+  "thirdParty": [
+   "cdn.prod.website-files.com",
+   "use.typekit.net",
+   "d3e54v103j8qbb.cloudfront.net",
+   "cdn.jsdelivr.net",
+   "cdn.embedly.com",
+   "j44tmv.csb.app",
+   "www.googletagmanager.com",
+   "p.typekit.net",
+   "www.youtube.com",
+   "www.google-analytics.com",
+   "fonts.gstatic.com",
+   "static.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "www.google.com",
+   "i.ytimg.com",
+   "www.gstatic.com",
+   "jnn-pa.googleapis.com",
+   "yt3.ggpht.com"
+  ],
+  "lcp": 908,
+  "cls": 0,
+  "docH": 3870,
+  "overflowX": false,
+  "h1": [],
+  "hidden_h1": 0,
+  "imgsNoAlt": 0,
+  "imgs": 0,
+  "lazy": 0,
+  "smallTap": 0,
+  "fonts": [
+   "aktiv-grotesk-thai, sans-serif"
+  ],
+  "heroText": "EP.1 : บ้านสำเร็จรูป\nEducational Video\nEP.2 : บ้านสำเร็จรูปแตกต่างจากบ้านทั่วไปยังไง\nEducational Video\nEP.3 : ความแข็งแร",
+  "skipLink": true,
+  "mainLandmark": true,
+  "navAria": 7,
+  "langAttr": "th-TH",
+  "buttonsNoName": 9
+ },
+ {
+  "vp": "desktop",
+  "page": "th/blogs/modular-house-price",
+  "loadMs": 1094,
+  "reqs": 57,
+  "kb": 7854,
+  "errors": [],
+  "failed": [],
+  "thirdParty": [
+   "cdn.prod.website-files.com",
+   "use.typekit.net",
+   "d3e54v103j8qbb.cloudfront.net",
+   "cdn.jsdelivr.net",
+   "j44tmv.csb.app",
+   "www.googletagmanager.com",
+   "p.typekit.net",
+   "www.google-analytics.com"
+  ],
+  "lcp": 840,
+  "cls": 0.104,
+  "docH": 8398,
+  "overflowX": false,
+  "h1": [
+   "บ้านโมดูลาร์ราคาเท่าไหร่? เลือกขนาดบ้านอย่างไร และต้องเตรียมงบประมาณอะไรบ้าง"
+  ],
+  "hidden_h1": 0,
+  "imgsNoAlt": 6,
+  "imgs": 7,
+  "lazy": 7,
+  "smallTap": 4,
+  "fonts": [
+   "aktiv-grotesk-thai, sans-serif"
+  ],
+  "heroText": "June 17, 2026\nบ้านโมดูลาร์ราคาเท่าไหร่? เลือกขนาดบ้านอย่างไร และต้องเตรียมงบประมาณอะไรบ้าง\n\nหนึ่งในคำถามที่ทีม Clay & St",
+  "skipLink": true,
+  "mainLandmark": false,
+  "navAria": 7,
+  "langAttr": "th-TH",
+  "buttonsNoName": 12
+ },
+ {
+  "vp": "desktop",
+  "page": "en/products/upcoming-product",
+  "loadMs": 4359,
+  "reqs": 50,
+  "kb": 1023,
+  "errors": [
+   "Failed to load resource: net::ERR_UNKNOWN_URL_SCHEME"
+  ],
+  "failed": [
+   "https://p.typekit.net/p.gif?s=1&k=ght4vkk&ht=tk&h=www.clayandstone.co.th&f=46179.46180.46181.46182.54841.54842.54843.54844.54845.54846.54847.54848.548 net::ERR_ABORTED",
+   "about:blank net::ERR_UNKNOWN_URL_SCHEME"
+  ],
+  "thirdParty": [
+   "cdn.prod.website-files.com",
+   "d3e54v103j8qbb.cloudfront.net",
+   "use.typekit.net",
+   "cdn.jsdelivr.net",
+   "j44tmv.csb.app",
+   "www.googletagmanager.com"
+  ],
+  "lcp": 1040,
+  "cls": 0.001,
+  "docH": 2188,
+  "overflowX": false,
+  "h1": [],
+  "hidden_h1": 0,
+  "imgsNoAlt": 0,
+  "imgs": 0,
+  "lazy": 0,
+  "smallTap": 0,
+  "fonts": [
+   "aktiv-grotesk-thai, sans-serif"
+  ],
+  "heroText": "Humble is Coming Soon",
+  "skipLink": true,
+  "mainLandmark": true,
+  "navAria": 7,
+  "langAttr": "en-US",
+  "buttonsNoName": 9
+ },
+ {
+  "vp": "mobile",
+  "page": "th",
+  "loadMs": 9981,
+  "reqs": 55,
+  "kb": 16937,
+  "errors": [
+   "pageerror: Uncaught (in promise) TypeError: Cannot read properties of null (reading '1')",
+   "Failed to load resource: net::ERR_UNKNOWN_URL_SCHEME"
+  ],
+  "failed": [
+   "https://p.typekit.net/p.gif?s=1&k=ght4vkk&ht=tk&h=www.clayandstone.co.th&f=46179.46180.46181.46182.54841.54842.54843.54844.54845.54846.54847.54848.548 net::ERR_ABORTED",
+   "about:blank net::ERR_UNKNOWN_URL_SCHEME"
+  ],
+  "thirdParty": [
+   "cdn.prod.website-files.com",
+   "use.typekit.net",
+   "d3e54v103j8qbb.cloudfront.net",
+   "cdn.jsdelivr.net",
+   "j44tmv.csb.app",
+   "www.googletagmanager.com",
+   "stupendous-trifle-c7ed75.netlify.app",
+   "www.google-analytics.com"
+  ],
+  "lcp": 0,
+  "cls": 0,
+  "docH": 6326,
+  "overflowX": false,
+  "h1": [
+   "เรามุ่งมั่นสร้างสรรค์ “บ้านสำเร็จรูป” ที่ผ่านการออกแบบอย่างพิถีพิถัน เพื่อยกระดั"
+  ],
+  "hidden_h1": 0,
+  "imgsNoAlt": 15,
+  "imgs": 17,
+  "lazy": 17,
+  "smallTap": 7,
+  "fonts": [
+   "aktiv-grotesk-thai, sans-serif",
+   ""
+  ],
+  "heroText": "",
+  "skipLink": true,
+  "mainLandmark": true,
+  "navAria": 7,
+  "langAttr": "th-TH",
+  "buttonsNoName": 5
+ },
+ {
+  "vp": "mobile",
+  "page": "en",
+  "loadMs": 6941,
+  "reqs": 54,
+  "kb": 16883,
+  "errors": [
+   "pageerror: Uncaught (in promise) TypeError: Cannot read properties of null (reading '1')"
+  ],
+  "failed": [],
+  "thirdParty": [
+   "cdn.prod.website-files.com",
+   "cdn.jsdelivr.net",
+   "use.typekit.net",
+   "d3e54v103j8qbb.cloudfront.net",
+   "www.googletagmanager.com",
+   "stupendous-trifle-c7ed75.netlify.app",
+   "j44tmv.csb.app",
+   "p.typekit.net",
+   "www.google-analytics.com"
+  ],
+  "lcp": 0,
+  "cls": 0,
+  "docH": 6845,
+  "overflowX": false,
+  "h1": [
+   "We create thoughtfully designed modular homes that elevate modern living and mak"
+  ],
+  "hidden_h1": 0,
+  "imgsNoAlt": 15,
+  "imgs": 17,
+  "lazy": 17,
+  "smallTap": 6,
+  "fonts": [
+   "aktiv-grotesk-thai, sans-serif",
+   ""
+  ],
+  "heroText": "",
+  "skipLink": true,
+  "mainLandmark": true,
+  "navAria": 7,
+  "langAttr": "en-US",
+  "buttonsNoName": 5
+ },
+ {
+  "vp": "mobile",
+  "page": "th/products/unwind-series",
+  "loadMs": 696,
+  "reqs": 59,
+  "kb": 6267,
+  "errors": [
+   "pageerror: Uncaught (in promise) TypeError: Cannot read properties of null (reading '1')"
+  ],
+  "failed": [],
+  "thirdParty": [
+   "cdn.prod.website-files.com",
+   "cdn.jsdelivr.net",
+   "d3e54v103j8qbb.cloudfront.net",
+   "use.typekit.net",
+   "www.googletagmanager.com",
+   "j44tmv.csb.app",
+   "p.typekit.net",
+   "www.google-analytics.com"
+  ],
+  "lcp": 524,
+  "cls": 0,
+  "docH": 9466,
+  "overflowX": false,
+  "h1": [
+   "Returning Nature to Living\n\nบ้านโมดูลาร์เพื่อการอยู่อาศัยที่เชื่อมโยงกับธรรมชาติ"
+  ],
+  "hidden_h1": 0,
+  "imgsNoAlt": 36,
+  "imgs": 36,
+  "lazy": 36,
+  "smallTap": 18,
+  "fonts": [
+   "aktiv-grotesk-thai, sans-serif"
+  ],
+  "heroText": "Returning Nature to Living\n\nบ้านโมดูลาร์เพื่อการอยู่อาศัยที่เชื่อมโยงกับธรรมชาติ\n\nบ้านโมดูลาร์จาก Clay & Stone ที่ออกแบบ",
+  "skipLink": true,
+  "mainLandmark": true,
+  "navAria": 7,
+  "langAttr": "th-TH",
+  "buttonsNoName": 5
+ },
+ {
+  "vp": "mobile",
+  "page": "en/products/alive-series",
+  "loadMs": 794,
+  "reqs": 61,
+  "kb": 5527,
+  "errors": [
+   "pageerror: Uncaught (in promise) TypeError: Cannot read properties of null (reading '1')"
+  ],
+  "failed": [],
+  "thirdParty": [
+   "cdn.prod.website-files.com",
+   "cdn.jsdelivr.net",
+   "d3e54v103j8qbb.cloudfront.net",
+   "use.typekit.net",
+   "www.googletagmanager.com",
+   "j44tmv.csb.app",
+   "www.google-analytics.com",
+   "p.typekit.net"
+  ],
+  "lcp": 460,
+  "cls": 0,
+  "docH": 9066,
+  "overflowX": false,
+  "h1": [
+   "Returning Nature to Living\n\nบ้านโมดูลาร์เพื่อการอยู่อาศัยที่เชื่อมโยงกับธรรมชาติ"
+  ],
+  "hidden_h1": 0,
+  "imgsNoAlt": 33,
+  "imgs": 33,
+  "lazy": 33,
+  "smallTap": 18,
+  "fonts": [
+   "aktiv-grotesk-thai, sans-serif"
+  ],
+  "heroText": "Returning Nature to Living\n\nบ้านโมดูลาร์เพื่อการอยู่อาศัยที่เชื่อมโยงกับธรรมชาติ\n\nบ้านโมดูลาร์จาก Clay & Stone ที่ออกแบบ",
+  "skipLink": true,
+  "mainLandmark": true,
+  "navAria": 7,
+  "langAttr": "en-US",
+  "buttonsNoName": 5
+ },
+ {
+  "vp": "mobile",
+  "page": "th/projects",
+  "loadMs": 676,
+  "reqs": 59,
+  "kb": 1223,
+  "errors": [
+   "pageerror: Uncaught (in promise) TypeError: Cannot read properties of null (reading '1')"
+  ],
+  "failed": [],
+  "thirdParty": [
+   "cdn.prod.website-files.com",
+   "d3e54v103j8qbb.cloudfront.net",
+   "use.typekit.net",
+   "cdn.jsdelivr.net",
+   "www.googletagmanager.com",
+   "j44tmv.csb.app",
+   "p.typekit.net",
+   "www.google-analytics.com"
+  ],
+  "lcp": 400,
+  "cls": 0,
+  "docH": 4967,
+  "overflowX": false,
+  "h1": [
+   "Our Modular House Project"
+  ],
+  "hidden_h1": 0,
+  "imgsNoAlt": 62,
+  "imgs": 62,
+  "lazy": 62,
+  "smallTap": 53,
+  "fonts": [
+   "aktiv-grotesk-thai, sans-serif"
+  ],
+  "heroText": "Unwind Series\n\nปลดปล่อยความเหนื่อยล้าไปกับ Unwind Series ซีรีส์โครงการที่ออกแบบมาเพื่อการพักผ่อนอย่างแท้จริง เน้นงานดีไซ",
+  "skipLink": true,
+  "mainLandmark": true,
+  "navAria": 7,
+  "langAttr": "th-TH",
+  "buttonsNoName": 29
+ },
+ {
+  "vp": "mobile",
+  "page": "th/about-us",
+  "loadMs": 634,
+  "reqs": 57,
+  "kb": 1459,
+  "errors": [
+   "pageerror: Uncaught (in promise) TypeError: Cannot read properties of null (reading '1')"
+  ],
+  "failed": [],
+  "thirdParty": [
+   "cdn.prod.website-files.com",
+   "d3e54v103j8qbb.cloudfront.net",
+   "use.typekit.net",
+   "cdn.jsdelivr.net",
+   "www.googletagmanager.com",
+   "j44tmv.csb.app",
+   "p.typekit.net",
+   "www.google-analytics.com"
+  ],
+  "lcp": 388,
+  "cls": 0,
+  "docH": 4875,
+  "overflowX": false,
+  "h1": [],
+  "hidden_h1": 0,
+  "imgsNoAlt": 9,
+  "imgs": 9,
+  "lazy": 9,
+  "smallTap": 7,
+  "fonts": [
+   "aktiv-grotesk-thai, sans-serif"
+  ],
+  "heroText": "Clay & Stone\nis a prefabricated home builder\n\nก่อตั้งโดยทีมออกแบบและก่อสร้างมืออาชีพที่รวมสถาปนิก วิศวกร และผู้รับเหมามา",
+  "skipLink": true,
+  "mainLandmark": true,
+  "navAria": 7,
+  "langAttr": "th-TH",
+  "buttonsNoName": 5
+ },
+ {
+  "vp": "mobile",
+  "page": "th/process",
+  "loadMs": 1204,
+  "reqs": 60,
+  "kb": 16783,
+  "errors": [
+   "pageerror: Uncaught (in promise) TypeError: Cannot read properties of null (reading '1')"
+  ],
+  "failed": [],
+  "thirdParty": [
+   "cdn.prod.website-files.com",
+   "use.typekit.net",
+   "d3e54v103j8qbb.cloudfront.net",
+   "cdn.jsdelivr.net",
+   "www.googletagmanager.com",
+   "j44tmv.csb.app",
+   "p.typekit.net",
+   "www.google-analytics.com",
+   "stupendous-trifle-c7ed75.netlify.app"
+  ],
+  "lcp": 0,
+  "cls": 0,
+  "docH": 4619,
+  "overflowX": false,
+  "h1": [],
+  "hidden_h1": 0,
+  "imgsNoAlt": 8,
+  "imgs": 8,
+  "lazy": 8,
+  "smallTap": 3,
+  "fonts": [
+   "aktiv-grotesk-thai, sans-serif"
+  ],
+  "heroText": "",
+  "skipLink": true,
+  "mainLandmark": true,
+  "navAria": 7,
+  "langAttr": "th-TH",
+  "buttonsNoName": 5
+ },
+ {
+  "vp": "mobile",
+  "page": "th/contact-us",
+  "loadMs": 951,
+  "reqs": 91,
+  "kb": 1850,
+  "errors": [
+   "pageerror: Uncaught (in promise) TypeError: Cannot read properties of null (reading '1')"
+  ],
+  "failed": [],
+  "thirdParty": [
+   "cdn.prod.website-files.com",
+   "d3e54v103j8qbb.cloudfront.net",
+   "use.typekit.net",
+   "cdn.jsdelivr.net",
+   "j44tmv.csb.app",
+   "www.googletagmanager.com",
+   "p.typekit.net",
+   "www.google.com",
+   "maps.gstatic.com",
+   "maps.googleapis.com",
+   "www.google-analytics.com",
+   "fonts.googleapis.com",
+   "fonts.gstatic.com"
+  ],
+  "lcp": 960,
+  "cls": 0,
+  "docH": 2379,
+  "overflowX": false,
+  "h1": [],
+  "hidden_h1": 0,
+  "imgsNoAlt": 4,
+  "imgs": 4,
+  "lazy": 4,
+  "smallTap": 3,
+  "fonts": [
+   "aktiv-grotesk-thai, sans-serif"
+  ],
+  "heroText": "152/1, ซอยติวานนท์ 45, ตำบลท่าทราย, อำเภอเมืองนนทบุรี, จังหวัดนนทบุรี, 11000",
+  "skipLink": true,
+  "mainLandmark": true,
+  "navAria": 7,
+  "langAttr": "th-TH",
+  "buttonsNoName": 5
+ },
+ {
+  "vp": "mobile",
+  "page": "th/good-to-know",
+  "loadMs": 2837,
+  "reqs": 181,
+  "kb": 8159,
+  "errors": [
+   "pageerror: Uncaught (in promise) TypeError: Cannot read properties of null (reading '1')"
+  ],
+  "failed": [],
+  "thirdParty": [
+   "cdn.prod.website-files.com",
+   "d3e54v103j8qbb.cloudfront.net",
+   "use.typekit.net",
+   "cdn.jsdelivr.net",
+   "cdn.embedly.com",
+   "www.googletagmanager.com",
+   "j44tmv.csb.app",
+   "p.typekit.net",
+   "www.youtube.com",
+   "www.google-analytics.com",
+   "fonts.gstatic.com",
+   "static.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "www.google.com",
+   "i.ytimg.com",
+   "www.gstatic.com",
+   "yt3.ggpht.com",
+   "jnn-pa.googleapis.com"
+  ],
+  "lcp": 508,
+  "cls": 0,
+  "docH": 3677,
+  "overflowX": false,
+  "h1": [],
+  "hidden_h1": 0,
+  "imgsNoAlt": 0,
+  "imgs": 0,
+  "lazy": 0,
+  "smallTap": 3,
+  "fonts": [
+   "aktiv-grotesk-thai, sans-serif"
+  ],
+  "heroText": "EP.1 : บ้านสำเร็จรูป",
+  "skipLink": true,
+  "mainLandmark": true,
+  "navAria": 7,
+  "langAttr": "th-TH",
+  "buttonsNoName": 5
+ },
+ {
+  "vp": "mobile",
+  "page": "th/blogs/modular-house-price",
+  "loadMs": 1118,
+  "reqs": 56,
+  "kb": 7442,
+  "errors": [
+   "pageerror: Uncaught (in promise) TypeError: Cannot read properties of null (reading '1')"
+  ],
+  "failed": [],
+  "thirdParty": [
+   "cdn.prod.website-files.com",
+   "d3e54v103j8qbb.cloudfront.net",
+   "use.typekit.net",
+   "cdn.jsdelivr.net",
+   "j44tmv.csb.app",
+   "www.googletagmanager.com",
+   "p.typekit.net",
+   "www.google-analytics.com"
+  ],
+  "lcp": 692,
+  "cls": 0,
+  "docH": 7521,
+  "overflowX": false,
+  "h1": [
+   "บ้านโมดูลาร์ราคาเท่าไหร่? เลือกขนาดบ้านอย่างไร และต้องเตรียมงบประมาณอะไรบ้าง"
+  ],
+  "hidden_h1": 0,
+  "imgsNoAlt": 6,
+  "imgs": 7,
+  "lazy": 7,
+  "smallTap": 6,
+  "fonts": [
+   "aktiv-grotesk-thai, sans-serif"
+  ],
+  "heroText": "June 17, 2026\nบ้านโมดูลาร์ราคาเท่าไหร่? เลือกขนาดบ้านอย่างไร และต้องเตรียมงบประมาณอะไรบ้าง\n\nหนึ่งในคำถามที่ทีม Clay & St",
+  "skipLink": true,
+  "mainLandmark": false,
+  "navAria": 7,
+  "langAttr": "th-TH",
+  "buttonsNoName": 8
+ },
+ {
+  "vp": "mobile",
+  "page": "en/products/upcoming-product",
+  "loadMs": 586,
+  "reqs": 51,
+  "kb": 1023,
+  "errors": [
+   "pageerror: Uncaught (in promise) TypeError: Cannot read properties of null (reading '1')"
+  ],
+  "failed": [],
+  "thirdParty": [
+   "cdn.prod.website-files.com",
+   "d3e54v103j8qbb.cloudfront.net",
+   "use.typekit.net",
+   "cdn.jsdelivr.net",
+   "j44tmv.csb.app",
+   "www.googletagmanager.com",
+   "p.typekit.net",
+   "www.google-analytics.com"
+  ],
+  "lcp": 568,
+  "cls": 0,
+  "docH": 1875,
+  "overflowX": false,
+  "h1": [],
+  "hidden_h1": 0,
+  "imgsNoAlt": 0,
+  "imgs": 0,
+  "lazy": 0,
+  "smallTap": 3,
+  "fonts": [
+   "aktiv-grotesk-thai, sans-serif"
+  ],
+  "heroText": "Humble is Coming Soon",
+  "skipLink": true,
+  "mainLandmark": true,
+  "navAria": 7,
+  "langAttr": "en-US",
+  "buttonsNoName": 5
+ }
+]

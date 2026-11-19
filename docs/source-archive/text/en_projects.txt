@@ -1,0 +1,331 @@
+META {
+ "lang": "en-US",
+ "description": "Browse our modular house project series. Engineered for rapid installation and long-term durability, these prefab homes offer seamless indoor-outdoor living.",
+ "og:title": "Our Modular House Project | Clay and Stone",
+ "og:description": "Browse our modular house project series. Engineered for rapid installation and long-term durability, these prefab homes offer seamless indoor-outdoor living.",
+ "og:image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp",
+ "twitter:title": "Our Modular House Project | Clay and Stone",
+ "twitter:description": "Browse our modular house project series. Engineered for rapid installation and long-term durability, these prefab homes offer seamless indoor-outdoor living.",
+ "og:type": "website",
+ "twitter:card": "summary_large_image",
+ "viewport": "width=device-width, initial-scale=1",
+ "google-site-verification": "_0Lh__7EFJwDXwb8lb-4kPwXPdbKFdH9otSM8xOdgws",
+ "generator": "Webflow",
+ "title": "Our Modular House Project | Clay and Stone"
+}
+HREFLANG [["x-default", "https://www.clayandstone.co.th/th/projects"], ["th-TH", "https://www.clayandstone.co.th/th/projects"], ["en-US", "https://www.clayandstone.co.th/en/projects"]]
+JSONLD []
+VIDEOS ["iframe:https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7"]
+BGS []
+-----
+Our Modular House Project | Clay and Stone
+Skip to main content
+  -> (#main)
+  -> (/en)
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Products
+Unwind
+Series
+  -> (/en/products/unwind-series)
+Alive
+Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+EN
+Thai
+  -> (/th/projects)
+English
+  -> (/en/projects)
+Book Consultation
+  -> (https://linktr.ee/clayandstone.official)
+Book Consultation
+  -> (/en)
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Products
+Unwind
+Series
+  -> (/en/products/unwind-series)
+Alive
+Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+EN
+Thai
+  -> (/th/projects)
+English
+  -> (/en/projects)
+Book Consultation
+  -> (https://linktr.ee/clayandstone.official)
+Book Consultation
+# Our Modular House Project
+Welcome to the
+Clay & Stone
+  -> (https://www.clayandstone.co.th/en)
+showcase. Every modular house project we deliver is guided by one core philosophy: “Homes Beyond Prefab.” We move beyond conventional knock-down houses through thoughtful architecture, integrating generous terraces, deep roof overhangs, and layouts designed for Thailand’s tropical climate and contemporary living.
+Explore our completed projects and architectural series below to discover how Clay & Stone combines structural precision with thoughtful design.
+## Unwind Series
+Release the weight of everyday life with the
+Unwind Series
+  -> (https://www.clayandstone.co.th/en/products/unwind-series)
+. This modular house collection is designed for rest and slow living, with airy layouts, natural light, and seamless indoor-outdoor connections. Created to suit different lifestyles, every space is designed to feel calm, comfortable, and close to nature.
+Standard Type
+Loft type
+1 Bed 2 Bath
+2 Bed 2 Bath
+Previous
+  -> (#)
+Previous
+Next
+  -> (#)
+Next
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/696c94af7b535bb0f87f9deb_Standard%20Type.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b6693b8e7980743e0415_standard-15.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b6690794eb32539ccc80_standard-14.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b669fbc3fdd253829882_standard-13.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b66925559dec4803719e_standard-12.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b6695263655c9f77d841_standard-11.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b66971953ef23c86ccdd_standard-10.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b66960cf52b8e61804f0_standard-09.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b669c5cc47abc184194b_standard-08.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b669a84a9e740e476ed4_standard-07.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b6696b75b7769e8f9f4a_standard-06.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b66941412be4346387c5_standard-05.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b669a3b0078fe042db67_standard-04.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b669596c89c738b90a9c_standard-03.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b6694d3ee8abaef6e46a_standard-02.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b66927cdf8ccb5137118_standard-01.webp
+  -> (#)
+Standard Type:
+A compact single-story modular home designed around simplicity and space efficiency. Thoughtfully planned to include only the essentials, this layout is ideal for a cozy retreat, private studio, or weekend getaway, creating a comfortable space that feels open, functional, and easy to live in.
+Previous
+  -> (#)
+Previous
+Next
+  -> (#)
+Next
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/69933e8db80b846a019e665a_Loft%20Type.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b8472c0b641bd8960e9a_loft-14.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b8474458238b820645c1_loft-13.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b84785fe6f90ef551ccf_loft-12.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6963ab7654c71bc7ec9d36c9_loft-4.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b847f44a577ca1a7904b_loft-10.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b847607d9207d2a2a18c_loft-09.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b847cc0db2e223ae6c36_loft-08.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b84760cf52b8e61855ab_loft-07.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b84766f394019dcd7f05_loft-06.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b848b0cf551ef3dc2105_loft-05.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b847be9db0cf140924a9_loft-04.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b8471c66218ce168170c_loft-03.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b847319537f555375dc0_loft-02.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b84745b3bc110755548e_loft-01.webp
+  -> (#)
+Loft Type
+: Elevate your living experience with a 2-story, loft-style prefab home. By expanding vertically, this design delivers an incredibly airy, modern feel, making it the ideal solution for limited land plots that require extra private space. Built with innovative prefabrication techniques, it guarantees rapid installation on-site while maintaining absolute structural strength in every detail.
+Previous
+  -> (#)
+Previous
+Next
+  -> (#)
+Next
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/69933e85dbadbf529b7d1171_1%20Bed%202%20Bath.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab42483e43311742af3_1bed-2bath-16.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab578367c101ea895f2_1bed-2bath-15.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab596eb0953b6c83d71_1bed-2bath-14.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab5b274825bcd905e0f_1bed-2bath-13.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4cc0db2e223aef1a9_1bed-2bath-12.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4f4d3090f50540ba0_1bed-2bath-11.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab501817e4632a32ccf_1bed-2bath-10.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4a8948c7ddcd274a7_1bed-2bath-09.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4fd3feb910ead7526_1bed-2bath-08.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4d476f82d4bdef766_1bed-2bath-07.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab45600efe57dc76332_1bed-2bath-06.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6963ae4c608741b4a217121d_1bed-2bath-12.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4492eae9d9dd1d19e_1bed-2bath-04.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6963ae4d516c536fe3ccc941_1bed-2bath-14.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4bf231e1ab18a65e8_1bed-2bath-02.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab48ae039b4c0e3e8b9_1bed-2bath-01.webp
+  -> (#)
+1 Bed 2 Bath:
+Designed as a compact layout with complete living functionality, this modular home combines smart planning with everyday comfort. A separate bedroom, two bathrooms, kitchen space, and dedicated laundry area create a home that supports real family living, thoughtfully designed to feel efficient, comfortable, and easy to live in.
+Previous
+  -> (#)
+Previous
+Next
+  -> (#)
+Next
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/69933e89074eec2249ff604a_2%20Bed%202%20Bath.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a128b7323be8647e99d22b2_01.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a128b72c517fb01f8baf43e_02.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a128b720a2225ab7e6b04e6_03.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a128d53431c2637b7121eae_04.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a128d535f224ee69d52ed7e_05.webp
+  -> (#)
+2 Bed 2 Bath:
+The ideal starter prefab home for families looking for a fully functional, long-term living space. With a perfectly optimized 2-bedroom, 2-bathroom layout, this home is manufactured under strict factory standards. Delivered as a complete, ready-to-move-in modular house project, it allows you to begin the next chapter of your life immediately.
+## Alive Series
+2 Bed 2 Bath
+Previous
+  -> (#)
+Previous
+Next
+  -> (#)
+Next
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b15a9e8bf0a84961150a_2%20Bed%202%20Bath.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bffc3c68b362f659c1_01.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bfc62e80f0d1f1506c_02.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bfa24746699061a83e_03.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bfc517fb01f8bf8690_04.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bfb6e65cc6a38f53cb_05.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bf4d223b41045aadfe_06.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bf37421d32569efbbf_07.webp
+  -> (#)
+FAQ
+### Frequently Asked Questions
+##### 1. How durable are Clay & Stone modular homes?
+When it comes to the
+strength of prefab houses
+  -> (https://youtu.be/gJMY5oSiwbQ?si=AmrcADIHOv4hs50K)
+, structural integrity is the foundation of everything we build. Our modular homes use high-grade steel frames engineered and stress-tested by professional structural engineers. Wall and roof panels are designed with built-in thermal insulation and strong wind resistance, giving our homes a lifespan and stability comparable to traditional concrete construction, with the added advantage of faster, more precise installation.
+##### 2. Are modular homes really waterproof, especially during the rainy season?
+Water leak prevention
+  -> (https://youtu.be/oUIimGhSgyA?si=kX-_3EWJtxRv4xsB)
+and waterproofing are things you won't need to worry about with a Clay & Stone home. Every joint and assembly point is sealed using a purpose-designed sealing system and premium-grade weatherproof sealant built to handle Thailand's climate, heavy rain, and high humidity. Each home also goes through strict QC testing before delivery, making our modular builds more consistently leak-resistant than traditional on-site construction.
+##### 3. What types of land can a modular home be built on?
+Our modular homes are highly adaptable to different site conditions. For low-lying plots or areas prone to waterlogging, we offer an elevated foundation solution that improves airflow underneath the structure and protects against standing water, keeping your home dry and well-ventilated year-round.
+##### 4. What does "move-in ready" actually include with Clay & Stone?
+A Clay & Stone move-in-ready
+modular home
+  -> (https://youtu.be/wrJKrBmhS58?si=4CVWkjqVxD8ViiY6)
+is a fully completed structure; framework, walls, roof, flooring, internal electrical system, and plumbing are all included. All you need to prepare is the foundation and external utility connections (water and electricity). Once those are in place, you can move in immediately.
+##### 5. Do you offer site surveys and foundation work?
+Yes, our specialist team provides full site consultation. We typically conduct an on-site visit to assess the installation point and vehicle access routes for delivery. For foundation work, you can engage a local contractor using the specifications we provide or ask us to coordinate that process on your behalf, whichever works best for you.
+##### 6. How customizable are Clay & Stone modular house designs?
+Our modular house designs go beyond standard templates. While we offer proven base structures to choose from, you can customize the layout, room placement, and functional details to match how you actually live. Our design team works with you throughout the process, adjusting floor plans and adding bespoke features, so your prefab home fits your lifestyle perfectly before production begins.
+##### 7. Is there a showroom where I can see a modular home in person before deciding?
+Yes.
+Clay & Stone has an office and showroom in Nonthaburi
+  -> (https://www.clayandstone.co.th/th/contact-us)
+where you can experience the materials, construction quality, and overall feel of our modular homes firsthand. Visits are by appointment, and you're welcome to browse completed project references on-site to help inform your decision.
+Contact Us
+### Talk to Clay & Stone Today
+#### ติดต่อทีมงานได้เลยวันนี้
+#### Email :
+#### clay.panitar@gmail.com
+  -> (mailto:clay.panitar@gmail.com)
+#### Tel :
+#### 086-3822116
+  -> (tel:+66863822116)
+#### Line :
+#### @claystone
+  -> (https://lin.ee/5oKztUS)
+Contact Us
+  -> (https://linktr.ee/clayandstone.official)
+Contact Us
+Clay & Stone Office and Showroom
+152/1, Soi Tiwanon 45, Ta Sai, Mueang Nonthaburi District, Nonthaburi 11000
+LINE : @claystone
+Email : clay.panitar@gmail.com
+Tel : 086-3822116
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Unwind Series
+  -> (/en/products/unwind-series)
+Alive Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+  -> (https://web.facebook.com/ClayxStone/)
+  -> (https://www.instagram.com/clay_andstone/)
+  -> (https://lin.ee/5oKztUS)
+[IFRAME] https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7

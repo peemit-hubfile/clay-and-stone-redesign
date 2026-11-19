@@ -1,0 +1,330 @@
+META {
+ "lang": "th-TH",
+ "description": "ดูผลงานจริงของบ้านสำเร็จรูปพร้อมอยู่ ทั้งบ้านสำเร็จรูปชั้นเดียว บ้านสำเร็จรูป 2 ชั้น และแบบบ้านโมดูลาร์ยกสูง บ้านประกอบสำเร็จรูปที่ส่งมอบแล้วจริงทุกหลังที่นี่",
+ "og:title": "ดูตัวอย่างแบบบ้านสำเร็จรูป บ้านโมดูลาร์ พร้อมอยู่ | Clay & Stone",
+ "og:description": "ดูผลงานจริงของบ้านสำเร็จรูปพร้อมอยู่ ทั้งบ้านสำเร็จรูปชั้นเดียว บ้านสำเร็จรูป 2 ชั้น และแบบบ้านโมดูลาร์ยกสูง บ้านประกอบสำเร็จรูปที่ส่งมอบแล้วจริงทุกหลังที่นี่",
+ "og:image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp",
+ "twitter:title": "ดูตัวอย่างแบบบ้านสำเร็จรูป บ้านโมดูลาร์ พร้อมอยู่ | Clay & Stone",
+ "twitter:description": "ดูผลงานจริงของบ้านสำเร็จรูปพร้อมอยู่ ทั้งบ้านสำเร็จรูปชั้นเดียว บ้านสำเร็จรูป 2 ชั้น และแบบบ้านโมดูลาร์ยกสูง บ้านประกอบสำเร็จรูปที่ส่งมอบแล้วจริงทุกหลังที่นี่",
+ "og:type": "website",
+ "twitter:card": "summary_large_image",
+ "viewport": "width=device-width, initial-scale=1",
+ "google-site-verification": "_0Lh__7EFJwDXwb8lb-4kPwXPdbKFdH9otSM8xOdgws",
+ "generator": "Webflow",
+ "title": "ดูตัวอย่างแบบบ้านสำเร็จรูป บ้านโมดูลาร์ พร้อมอยู่ | Clay & Stone"
+}
+HREFLANG [["x-default", "https://www.clayandstone.co.th/th/projects"], ["th-TH", "https://www.clayandstone.co.th/th/projects"], ["en-US", "https://www.clayandstone.co.th/en/projects"]]
+JSONLD []
+VIDEOS ["iframe:https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7"]
+BGS []
+-----
+ดูตัวอย่างแบบบ้านสำเร็จรูป บ้านโมดูลาร์ พร้อมอยู่ | Clay & Stone
+Skip to main content
+  -> (#main)
+  -> (/th)
+หน้าแรก
+  -> (/th)
+เกี่ยวกับเรา
+  -> (/th/about-us)
+สินค้า
+Unwind
+Series
+  -> (/th/products/unwind-series)
+Alive
+Series
+  -> (/th/products/alive-series)
+โปรเจค
+  -> (/th/projects)
+กระบวนการ
+  -> (/th/process)
+สิ่งที่ควรรู้
+  -> (/th/good-to-know)
+บล็อก
+  -> (/th/blogs)
+ติดต่อเรา
+  -> (/th/contact-us)
+TH
+Thai
+  -> (/th/projects)
+English
+  -> (/en/projects)
+สอบถามข้อมูล
+  -> (https://linktr.ee/clayandstone.official)
+สอบถามข้อมูล
+  -> (/th)
+หน้าแรก
+  -> (/th)
+เกี่ยวกับเรา
+  -> (/th/about-us)
+สินค้า
+Unwind
+Series
+  -> (/th/products/unwind-series)
+Alive
+Series
+  -> (/th/products/alive-series)
+โปรเจค
+  -> (/th/projects)
+กระบวนการ
+  -> (/th/process)
+สิ่งที่ควรรู้
+  -> (/th/good-to-know)
+บล็อก
+  -> (/th/blogs)
+ติดต่อเรา
+  -> (/th/contact-us)
+TH
+Thai
+  -> (/th/projects)
+English
+  -> (/en/projects)
+สอบถามข้อมูล
+  -> (https://linktr.ee/clayandstone.official)
+สอบถามข้อมูล
+# Our Modular House Project
+เปิดประสบการณ์การอยู่อาศัยที่เหนือระดับกับโครงการจาก
+Clay and Stone
+  -> (https://www.clayandstone.co.th/th)
+ศูนย์รวมผลงานการสร้างที่อยู่อาศัยยุคใหม่ที่เราภาคภูมิใจ ในฐานะผู้เชี่ยวชาญด้านการออกแบบและติดตั้งบ้านประกอบสำเร็จรูปที่ผสานความสวยงามเข้ากับโครงสร้างที่ทนทาน ไม่ว่าจะเป็นบ้านสำเร็จรูปชั้นเดียวที่เน้นความอบอุ่นเรียบง่าย หรือบ้านสำเร็จรูป 2 ชั้นที่ตอบโจทย์การใช้ชีวิตของครอบครัวใหญ่ เราพร้อมเปลี่ยนแบบบ้านโมดูลาร์ให้กลายเป็นพื้นที่ใช้สอยและตอบโจทย์การใช้งานจริงในทุกตารางเมตร
+## Unwind Series
+ปลดปล่อยความเหนื่อยล้าไปกับ
+Unwind Series
+  -> (https://www.clayandstone.co.th/th/products/unwind-series)
+ซีรีส์โครงการที่ออกแบบมาเพื่อการพักผ่อนอย่างแท้จริง เน้นงานดีไซน์ที่โปร่งโล่ง รับแสงธรรมชาติ และเชื่อมต่อพื้นที่ภายในสู่ภายนอกได้อย่างไร้รอยต่อ โดยมีรูปแบบให้เลือกสรรตามความต้องการของคุณ
+Standard Type
+Loft type
+1 Bed 2 Bath
+2 Bed 2 Bath
+Previous
+  -> (#)
+Previous
+Next
+  -> (#)
+Next
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/69933e92cdc7bae1d8574028_Standard%20Type.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b6693b8e7980743e0415_standard-15.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b6690794eb32539ccc80_standard-14.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b669fbc3fdd253829882_standard-13.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b66925559dec4803719e_standard-12.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b6695263655c9f77d841_standard-11.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b66971953ef23c86ccdd_standard-10.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b66960cf52b8e61804f0_standard-09.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b669c5cc47abc184194b_standard-08.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b669a84a9e740e476ed4_standard-07.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b6696b75b7769e8f9f4a_standard-06.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b66941412be4346387c5_standard-05.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b669a3b0078fe042db67_standard-04.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b669596c89c738b90a9c_standard-03.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b6694d3ee8abaef6e46a_standard-02.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b66927cdf8ccb5137118_standard-01.webp
+  -> (#)
+Standard Type:
+บ้านสำเร็จรูปชั้นเดียว ที่ถูกออกแบบมาเพื่อการใช้สอยพื้นที่อย่างคุ้มค่าสูงสุด เหมาะสำหรับที่ดินขนาดกลางหรือผู้ที่มองหา บ้านสำเร็จรูปพร้อมอยู่ ที่ไม่ต้องเสียเวลารอนาน เราคัดสรรฟังก์ชันการใช้งานที่ครบครัน เพื่อให้ทุกตารางเมตรกลายเป็นพื้นที่พักผ่อนที่สมบูรณ์แบบสำหรับคุณ
+Previous
+  -> (#)
+Previous
+Next
+  -> (#)
+Next
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/69933e8db80b846a019e665a_Loft%20Type.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b8472c0b641bd8960e9a_loft-14.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b8474458238b820645c1_loft-13.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b84785fe6f90ef551ccf_loft-12.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6963ab7654c71bc7ec9d36c9_loft-4.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b847f44a577ca1a7904b_loft-10.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b847607d9207d2a2a18c_loft-09.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b847cc0db2e223ae6c36_loft-08.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b84760cf52b8e61855ab_loft-07.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b84766f394019dcd7f05_loft-06.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b848b0cf551ef3dc2105_loft-05.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b847be9db0cf140924a9_loft-04.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b8471c66218ce168170c_loft-03.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b847319537f555375dc0_loft-02.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b84745b3bc110755548e_loft-01.webp
+  -> (#)
+Loft Type
+: ยกระดับการอยู่อาศัยด้วยบ้านสำเร็จรูป 2 ชั้นในสไตล์ Loft ด้วยการเพิ่มพื้นที่ใช้สอยด้านบน มอบความรู้สึกโปร่งโล่งและทันสมัย ตอบโจทย์ที่ดินจำกัดแต่ต้องการพื้นที่ส่วนตัวเพิ่มขึ้น ด้วยนวัตกรรมบ้านประกอบสำเร็จรูปที่เน้นความรวดเร็วในการติดตั้งแต่ยังคงความแข็งแรงในทุกรายละเอียด
+Previous
+  -> (#)
+Previous
+Next
+  -> (#)
+Next
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/69933e85dbadbf529b7d1171_1%20Bed%202%20Bath.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab42483e43311742af3_1bed-2bath-16.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab578367c101ea895f2_1bed-2bath-15.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab596eb0953b6c83d71_1bed-2bath-14.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab5b274825bcd905e0f_1bed-2bath-13.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4cc0db2e223aef1a9_1bed-2bath-12.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4f4d3090f50540ba0_1bed-2bath-11.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab501817e4632a32ccf_1bed-2bath-10.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4a8948c7ddcd274a7_1bed-2bath-09.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4fd3feb910ead7526_1bed-2bath-08.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4d476f82d4bdef766_1bed-2bath-07.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab45600efe57dc76332_1bed-2bath-06.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6963ae4c608741b4a217121d_1bed-2bath-12.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4492eae9d9dd1d19e_1bed-2bath-04.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6963ae4d516c536fe3ccc941_1bed-2bath-14.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4bf231e1ab18a65e8_1bed-2bath-02.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab48ae039b4c0e3e8b9_1bed-2bath-01.webp
+  -> (#)
+1 Bed 2 Bath:
+แบบบ้านโมดูลาร์ ขนาดกะทัดรัดที่มาพร้อมฟังก์ชัน 1 ห้องนอน 2 ห้องน้ำ ออกแบบมาเพื่อผู้ที่หลงใหลในบ้านหลังเล็กคุณภาพพรีเมียม ไม่ว่าจะให้เป็นบ้านพักตากอากาศสุดหรู บ้านสวนส่วนตัว หรือที่พักอาศัยในต่างจังหวัดที่เน้นความสะดวกสบายและดีไซน์ที่โดดเด่น
+Previous
+  -> (#)
+Previous
+Next
+  -> (#)
+Next
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/69933e89074eec2249ff604a_2%20Bed%202%20Bath.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a128b7323be8647e99d22b2_01.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a128b72c517fb01f8baf43e_02.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a128b720a2225ab7e6b04e6_03.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a128d53431c2637b7121eae_04.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a128d535f224ee69d52ed7e_05.webp
+  -> (#)
+2 Bed 2 Bath:
+บ้านสำเร็จรูป ขนาดเริ่มต้นสำหรับครอบครัวที่รองรับการอยู่อาศัยจริงได้อย่างเต็มรูปแบบ ด้วยฟังก์ชัน 2 ห้องนอน 2 ห้องน้ำ ที่จัดวางเลย์เอาต์อย่างลงตัว ผ่านกระบวนการผลิตที่ได้มาตรฐานจากโรงงาน และส่งมอบในฐานะบ้านประกอบสำเร็จรูปพร้อมอยู่ที่พร้อมให้คุณเริ่มต้นบทใหม่ของชีวิตได้ทันที
+## Alive Series
+2 Bed 2 Bath
+Previous
+  -> (#)
+Previous
+Next
+  -> (#)
+Next
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b15a9e8bf0a84961150a_2%20Bed%202%20Bath.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bffc3c68b362f659c1_01.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bfc62e80f0d1f1506c_02.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bfa24746699061a83e_03.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bfc517fb01f8bf8690_04.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bfb6e65cc6a38f53cb_05.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bf4d223b41045aadfe_06.webp
+  -> (#)
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bf37421d32569efbbf_07.webp
+  -> (#)
+FAQ
+### ทุกเรื่องที่คุณต้องรู้
+##### 1. บ้านสำเร็จรูปของ Clay & Stone มีความแข็งแรงทนทานแค่ไหน?
+ความแข็งแรงของบ้านสำเร็จรูป
+  -> (https://youtu.be/gJMY5oSiwbQ?si=CPzuh8eiwO3ucRvs)
+ที่ Clay & Stone คือมาตรฐานหลักที่เรายึดถือครับ เราเลือกใช้โครงสร้างเหล็กคุณภาพสูงที่ผ่านการคำนวณกำลังวัสดุโดยวิศวกรมืออาชีพอย่างละเอียด วัสดุผนังและหลังคามีคุณสมบัติเป็นฉนวนกันความร้อนและทนทานต่อแรงลมได้ดีเยี่ยม ทำให้บ้านสำเร็จรูปของเรามีอายุการใช้งานยาวนานและมั่นคงไม่ต่างจากบ้านปูนทั่วไป แต่โดดเด่นกว่าด้วยการติดตั้งที่รวดเร็วและแม่นยำครับ
+##### 2. บ้านสำเร็จรูปกันน้ำรั่วได้จริงไหม โดยเฉพาะในหน้าฝน?
+หมดกังวลเรื่อง
+การป้องกันน้ำรั่ว
+  -> (https://youtu.be/oUIimGhSgyA?si=kX-_3EWJtxRv4xsB)
+ได้เลยครับ เพราะเราใช้ระบบรอยต่อที่ออกแบบมาเป็นพิเศษ (Sealing System) และมีการทดสอบ QC อย่างเข้มงวดก่อนส่งมอบ งานประกอบทุกจุดถูกปิดรอยต่อด้วยวัสดุยาแนวเกรดพรีเมียมที่ทนต่อสภาพอากาศเมืองไทย โดยเฉพาะ ทั้งฝนหนักและความชื้นสูง ลดปัญหาจุกจิกเรื่องน้ำรั่วซึมได้ดีกว่างานก่อสร้างหน้างานแบบเดิมๆ
+##### 3. บ้านประกอบสำเร็จรูปสามาร สร้างในพื้นที่ลักษณะไหนได้บ้าง?
+บ้านประกอบสำเร็จรูปของเรามีความยืดหยุ่นสูงครับ หากพื้นที่ของคุณเป็นที่ลุ่มหรือต้องการความเป็นระเบียบ เรามีโซลูชันบ้านสำเร็จรูปยกสูง ซึ่งช่วยในเรื่องการระบายอากาศและป้องกันปัญหาน้ำท่วมขังใต้ตัวบ้านได้เป็นอย่างดี
+##### 4. คำว่า "บ้านสำเร็จรูปพร้อมอยู่" ของ Clay & Stone รวมอะไรบ้าง?
+บ้านสำเร็จรูปพร้อมอยู่
+  -> (https://youtu.be/wrJKrBmhS58?si=4CVWkjqVxD8ViiY6)
+ของเราคือการส่งมอบบ้านที่เสร็จสมบูรณ์ ทั้งโครงสร้าง ผนัง หลังคา พื้น งานระบบไฟฟ้า และระบบสุขาภิบาลภายในบ้าน ลูกค้าเพียงแค่เตรียมพื้นที่ฐานรากและเชื่อมต่อระบบน้ำ-ไฟภายนอก ก็สามารถเข้าอยู่ได้ทันทีครับ
+##### 5. มีบริการดูหน้างานและทำฐานรากให้ด้วยไหม?
+เรามีทีมผู้เชี่ยวชาญคอยให้คำปรึกษาเรื่องการเตรียมพื้นที่ครับ โดยปกติเราจะส่งทีมเข้าไปสำรวจหน้างานเพื่อดูจุดติดตั้งและทางเข้า-ออกของรถขนส่ง ส่วนงานฐานราก ลูกค้าสามารถเลือกจ้างผู้รับเหมาในพื้นที่ตามแบบที่เราให้ไป หรือปรึกษาให้เราจัดการประสานงานให้ได้เช่นกันครับ
+##### 6. แบบบ้านโมดูลาร์ปรับแต่งได้แค่ไหน หรือต้องเลือกตามแบบที่มีเท่านั้น?
+แบบบ้านโมดูลาร์ของ Clay & Stone ไม่ได้จำกัดอยู่แค่ดีไซน์มาตรฐานครับ แม้เราจะมีโครงสร้างหลักที่เป็นต้นแบบให้เลือก แต่คุณยังสามารถปรับเปลี่ยนฟังก์ชันและรายละเอียดได้ตามความต้องการจริง ไม่ว่าจะเป็นการปรับผัง (Layout) การจัดวางตำแหน่งห้อง หรือการเพิ่มฟังก์ชันเฉพาะจุดให้ตอบโจทย์การใช้งาน ทีมออกแบบของเราพร้อมให้คำปรึกษาและร่วมพัฒนาแบบไปกับคุณ เพื่อให้มั่นใจว่า บ้านประกอบสำเร็จรูป หลังนี้จะลงตัวกับไลฟ์สไตล์ของคุณที่สุดก่อนเริ่มกระบวนการผลิตครับ
+##### 7. มีโชว์รูมให้ไปดูตัวอย่างบ้านสำเร็จรูปจริงได้ไหม ก่อนตัดสินใจ?
+มี Clay & Stone มี
+Office and Showroom
+  -> (https://www.clayandstone.co.th/th/contact-us)
+ที่นนทบุรี สามารถนัดเข้าชมได้เพื่อสัมผัสวัสดุ งานก่อสร้าง และฟีลของบ้านระบบโมดูลาร์จริงๆ ก่อนตัดสินใจ นอกจากนี้ยังสามารถดูผลงานโปรเจคต่างๆ เพื่อประกอบการตัดสินใจได้เลย
+Contact Us
+#### Talk to Clay & Stone Today
+#### สนใจบ้านสำเร็จรูปหรืออยากดูแบบบ้านโมดูลาร์เพิ่มเติม?
+#### ติดต่อทีมงานได้เลยวันนี้
+#### Email :
+#### clay.panitar@gmail.com
+  -> (mailto:clay.panitar@gmail.com)
+#### Tel :
+#### 086-3822116
+  -> (tel:+66863822116)
+#### Line :
+#### @claystone
+  -> (https://lin.ee/5oKztUS)
+ติดต่อเรา
+  -> (https://linktr.ee/clayandstone.official)
+ติดต่อเรา
+Clay & Stone Office and Showroom
+152/1, ซอยติวานนท์ 45, ตำบลท่าทราย, อำเภอเมืองนนทบุรี, จังหวัดนนทบุรี, 11000
+LINE : @claystone
+Email : clay.panitar@gmail.com
+Tel : 086-3822116
+หน้าแรก
+  -> (/th)
+เกี่ยวกับเรา
+  -> (/th/about-us)
+Unwind Series
+  -> (/th/products/unwind-series)
+Alive Series
+  -> (/th/products/alive-series)
+โปรเจค
+  -> (/th/projects)
+กระบวนการ
+  -> (/th/process)
+สิ่งที่ควรรู้
+  -> (/th/good-to-know)
+บล็อก
+  -> (/th/blogs)
+ติดต่อเรา
+  -> (/th/contact-us)
+  -> (https://web.facebook.com/ClayxStone/)
+  -> (https://www.instagram.com/clay_andstone/)
+  -> (https://lin.ee/5oKztUS)
+[IFRAME] https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7

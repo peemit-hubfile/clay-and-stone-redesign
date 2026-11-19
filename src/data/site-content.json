@@ -1,0 +1,1367 @@
+{
+  "_meta": {
+    "description": "Site-wide content extracted from https://www.clayandstone.co.th (TH + EN). Each block lists its source page. Text is kept verbatim (including original typos) so changes can be reviewed against the source.",
+    "extracted_on": "2026-11-20"
+  },
+  "brand": {
+    "name": "Clay & Stone",
+    "name_variants_on_site": [
+      "Clay & Stone",
+      "Clay and Stone",
+      "CLAY & STONE",
+      "Clay and Stone Co., Ltd (Google Maps embed label)"
+    ],
+    "legal_name": {
+      "value": null,
+      "status": "missing",
+      "notes": "Google Maps embed is labelled 'Clay and Stone Co., Ltd'. Registered company name, tax ID and founding year are not on the site."
+    },
+    "positioning": {
+      "en": "We create thoughtfully designed modular homes that elevate modern living and make quality accessible for everyone in Thailand.",
+      "th": "เรามุ่งมั่นสร้างสรรค์ “บ้านสำเร็จรูป” ที่ผ่านการออกแบบอย่างพิถีพิถัน เพื่อยกระดับการอยู่อาศัยในแบบบ้านสำเร็จรูปโมเดิร์น ให้เข้าถึงง่ายสำหรับทุกคน",
+      "source": "/en, /th (Brand Vision H1)"
+    },
+    "philosophy": {
+      "en": "Homes Beyond Prefab",
+      "source": "/en/projects, /en (Key Strengths)"
+    },
+    "taglines": [
+      {
+        "en": "\"A prefabricated home... unlike any other prefabricated home.\"",
+        "th": "\"บ้านสำเร็จรูป....ที่ไม่เหมือนบ้านสำเร็จรูป\""
+      },
+      {
+        "en": "\"Precisely right, perfectly aligned in every detail.\"",
+        "th": "\"ตรงแบบ ตรงใจ ในทุกดีเทล\""
+      },
+      {
+        "en": "\"Peace of mind... that lasts beyond delivery.\"",
+        "th": "\"ความอุ่นใจ...ที่ยาวนานกว่าการส่งมอบ\""
+      }
+    ],
+    "description": {
+      "en": "Experience a higher standard of living with Clay & Stone. We are a modular prefab house builder focused on thoughtful design and lasting quality. Every home we create balances architectural aesthetics with structural integrity, delivering spaces that are both beautiful and built to last. Whether you are looking for a primary residence, a resort retreat, or a private studio, our modular homes are designed to support the way you truly live.",
+      "th": "สัมผัสประสบการณ์การอยู่อาศัยที่เหนือระดับกับ Clay & Stone บริษัทสร้างบ้านโมดูลาร์ บ้านสำเร็จรูป ที่มุ่งมั่นออกแบบบ้านด้วยนวัตกรรมที่ตอบโจทย์ไลฟ์สไตล์ยุคใหม่ เรานำเสนอบ้านสำเร็จรูปที่ผสมผสานความสวยงามและความทนทานเข้าด้วยกันอย่างลงตัว ไม่ว่าคุณจะมองหาที่พักอาศัย รีสอร์ท หรือสตูดิโอส่วนตัว",
+      "source": "/en, /th"
+    },
+    "logo": {
+      "status": "No standalone logo file extracted (rendered inline). Request master logo files (SVG) from client."
+    },
+    "existing_design_tokens": {
+      "font": "aktiv-grotesk-thai (Adobe Fonts kit ght4vkk) - licensed per domain",
+      "weights": [
+        300,
+        400,
+        500
+      ],
+      "colors": {
+        "brand-500": "#484848",
+        "dark-900": "#1f1d1e",
+        "dark-800": "#2f2b2d",
+        "light-200": "#ededed"
+      },
+      "framework": "Webflow Lumos v2.2.1 (fluid clamp() type scale)",
+      "source": "Webflow CSS"
+    }
+  },
+  "contact": {
+    "office_showroom": {
+      "label": {
+        "en": "Clay & Stone Office and Showroom",
+        "th": "Clay & Stone Office and Showroom"
+      },
+      "address": {
+        "en": "152/1, Soi Tiwanon 45, Ta Sai, Mueang Nonthaburi District, Nonthaburi 11000",
+        "th": "152/1, ซอยติวานนท์ 45, ตำบลท่าทราย, อำเภอเมืองนนทบุรี, จังหวัดนนทบุรี, 11000"
+      },
+      "geo": {
+        "lat": 13.8894967,
+        "lng": 100.5023604,
+        "source": "Google Maps embed on /contact-us (approximate pin)"
+      },
+      "visits": {
+        "en": "Visits are by appointment.",
+        "source": "/en/projects (FAQ 7)"
+      },
+      "opening_hours": {
+        "value": null,
+        "status": "missing"
+      }
+    },
+    "phone": {
+      "display": "086-3822116",
+      "href": "tel:+66863822116"
+    },
+    "email": {
+      "display": "clay.panitar@gmail.com",
+      "href": "mailto:clay.panitar@gmail.com",
+      "notes": "Gmail address used as the business contact; a domain email is a client decision."
+    },
+    "line": {
+      "display": "@claystone",
+      "href": "https://lin.ee/5oKztUS"
+    },
+    "facebook": "https://web.facebook.com/ClayxStone/",
+    "instagram": "https://www.instagram.com/clay_andstone/",
+    "linktree": "https://linktr.ee/clayandstone.official",
+    "youtube": {
+      "value": null,
+      "status": "missing",
+      "notes": "Videos are embedded from YouTube but the channel URL is not linked."
+    },
+    "factory_location": {
+      "value": null,
+      "status": "missing"
+    },
+    "contact_form": {
+      "exists": false,
+      "notes": "No on-site form; contact page shows details, a Google Map and a Linktree button."
+    },
+    "cta_labels": {
+      "header": {
+        "th": "สอบถามข้อมูล",
+        "en": "Book Consultation"
+      },
+      "section": {
+        "th": "ติดต่อเรา",
+        "en": "Contact Us"
+      },
+      "explore": {
+        "th": "ดูเพิ่มเติม",
+        "en": "Explore More"
+      },
+      "contact_heading": {
+        "en": "Talk to Clay & Stone Today",
+        "th": "สนใจบ้านสำเร็จรูปหรืออยากดูแบบบ้านโมดูลาร์เพิ่มเติม? ติดต่อทีมงานได้เลยวันนี้"
+      }
+    }
+  },
+  "home": {
+    "hero": {
+      "type": "background video",
+      "video": {
+        "webflow_mp4": "/videos/source/home-10s-video.mp4",
+        "webflow_webm": "/videos/source/home-10s-video.webm",
+        "netlify_mp4": "/videos/source/home-bg-video-netlify.mp4",
+        "poster": "/images/source/home/69638ed4642e2f07b0d05f02_10-Seconds-Video_poster.0000000.jpg"
+      },
+      "headline": null,
+      "cta": null,
+      "notes": "Hero has no headline, value proposition or CTA: a logo-only video."
+    },
+    "key_strengths": {
+      "eyebrow": "Key Strengths",
+      "heading": {
+        "en": "Why Choose a Clay & Stone Modular House?",
+        "th": "ทำไมต้องเลือกบ้านสำเร็จรูปพร้อมติดตั้งจาก Clay & Stone?"
+      },
+      "intro": {
+        "en": "When people think of prefab houses, they often imagine simple, boxy structures. At Clay & Stone, we take a different approach, creating modular houses that combine thoughtful design, quality materials, and architecture that goes beyond conventional prefab living.",
+        "th": "เพราะเราไม่ใช่แค่ผู้รับเหมา แต่เราคือผู้เชี่ยวชาญด้านบ้านสำเร็จรูปที่ดูแลคุณตั้งแต่ขั้นตอนการเลือกแบบบ้านไปจนถึงการส่งมอบงาน ด้วยระบบการจัดการที่ได้มาตรฐาน ทำให้การสร้างบ้านไม่ใช่เรื่องยากอีกต่อไป"
+      },
+      "items": [
+        {
+          "title": {
+            "en": "Modular Homes Beyond Prefab",
+            "th": "มาตรฐานใหม่ของ \"บ้านสำเร็จรูป\""
+          },
+          "text": {
+            "en": "Clay & Stone designs prefabricated homes that are unlike anything you've seen before featuring extended roof overhangs, spacious verandas, and beautifully balanced designs that truly respond to the real lifestyles of Thai people in every dimension.",
+            "th": "Clay & Stone ออกแบบบ้านสำเร็จรูปที่ฉีกทุกกฎเดิมๆ ด้วยดีไซน์โดดเด่น ทั้งชายคายื่นยาว ระเบียงกว้าง และฟังก์ชันที่สวยงามลงตัว เราสร้างสรรค์บ้านสำเร็จรูปโมเดิร์นที่ตอบโจทย์วิถีชีวิตจริงของคนไทยในทุกมิติ"
+          },
+          "image": "/images/source/home/694194b2c60118ce26af07f4_homepage-img-1.webp",
+          "icon": "/images/source/icons/694194b1ad7cfb0d64088813_icon-1.webp"
+        },
+        {
+          "title": {
+            "en": "Built True to Design",
+            "th": "งานได้มาตรฐาน ตรงตามแบบที่เลือก"
+          },
+          "text": {
+            "en": "Every stage of your modern modular house design, construction, and factory installation is overseen by professional architects and engineers. This ensures that every structure is strong, meticulously finished, and exactly as envisioned.",
+            "th": "ทุกขั้นตอนการออกแบบและก่อสร้าง อยู่ภายใต้การดูแลของสถาปนิกและวิศวกรมืออาชีพ เพื่อให้แบบบ้านสำเร็จรูปทุกหลังแข็งแรง เรียบร้อย และสวยงามตรงปกตามที่คุณตั้งใจ พร้อมส่งมอบความเป็นเลิศในฐานะบริษัทสร้างบ้านสำเร็จรูปชั้นนำ"
+          },
+          "image": "/images/source/home/694194b18143bee7fe5a93a9_homepage-img-2.webp",
+          "icon": "/images/source/icons/694194b1d34324d6970cc09e_icon-2.webp"
+        },
+        {
+          "title": {
+            "en": "After Sales You can Rely On",
+            "th": "บ้านสำเร็จรูปพร้อมติดตั้ง และบริการหลังการขายที่วางใจได้"
+          },
+          "text": {
+            "en": "After-sales service is provided directly by the Clay & Stone team. Not just at handover, but through continuous care throughout the entire lifespan of your home.",
+            "th": "มั่นใจกว่าด้วยบริการดูแลหลังการขายจากทีม Clay & Stone โดยตรง เพราะสำหรับเราการส่งมอบบ้านไม่ใช่จุดสิ้นสุด แต่คือจุดเริ่มต้นของการดูแลอย่างต่อเนื่อง เพื่อให้คุณอุ่นใจตลอดการใช้งานในบ้านสำเร็จรูปของเรา"
+          },
+          "image": "/images/source/home/694194b1e651e419f2f6162b_homepage-img-3.webp",
+          "icon": "/images/source/icons/694194b24da02e667081f97f_icon-3.webp"
+        }
+      ],
+      "source": "/en, /th"
+    },
+    "highlighted_projects": {
+      "heading": {
+        "en": "Explore Our Modern Modular Houses",
+        "th": "ตัวอย่างบ้านสำเร็จรูปที่ออกแบบเพื่อการอยู่อาศัยจริง จาก Clay & Stone"
+      },
+      "ref": "projects.json#locations_mentioned"
+    },
+    "faq_ref": "faq.json (source_page = home)"
+  },
+  "about": {
+    "heading": {
+      "en": "Clay & Stone is a prefabricated home builder",
+      "th": "Clay & Stone is a prefabricated home builder"
+    },
+    "intro": {
+      "en": "Founded by a professional team of architects, engineers, and construction specialists, Clay & Stone brings design and build expertise together under one roof. We focus on every detail — from functional planning and aesthetics to long-term durability — to create homes that are truly comfortable, lasting, and designed for real living.",
+      "th": "ก่อตั้งโดยทีมออกแบบและก่อสร้างมืออาชีพที่รวมสถาปนิก วิศวกร และผู้รับเหมามากประสบการณ์ไว้ในทีมเดียวกัน เราใส่ใจทุกรายละเอียดตั้งแต่การออกแบบฟังก์ชันการใช้งาน ความสวยงาม ไปจนถึงความคงทนของบ้าน เพื่อให้ทุกคนได้เข้าถึงบ้านที่ทั้งน่าอยู่และคู่ควรกับการใช้ชีวิตอย่างแท้จริง"
+    },
+    "what_we_do": [
+      {
+        "en": "Homes designed using a standardized modular system.",
+        "th": "ออกแบบบ้านด้วยระบบโมดูลาร์ที่มีมาตรฐาน"
+      },
+      {
+        "en": "Home modules manufactured in a factory with consistent quality standards.",
+        "th": "ผลิตชิ้นส่วนบ้านในโรงงาน"
+      },
+      {
+        "en": "Modules transported to the site in one complete delivery.",
+        "th": "ขนส่งโมดูลครั้งเดียว"
+      },
+      {
+        "en": "On-site assembly and final installation.",
+        "th": "ประกอบติดตั้งที่หน้างาน"
+      }
+    ],
+    "team": [
+      {
+        "name": "Panita Rojanakansakun",
+        "role": {
+          "th": "ผู้อำนวยการฝ่ายออกแบบ / สถาปนิก",
+          "en": null,
+          "en_blog_byline": "Co-Founder & Design Director of Clay & Stone"
+        },
+        "credentials_th": [
+          "อาจารย์พิเศษ คณะสถาปัตยกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย",
+          "ปริญญาโท สาขาการออกแบบอย่างยั่งยืนขั้นสูง (Advanced Sustainable Design), มหาวิทยาลัยเอดินบะระ สหราชอาณาจักร",
+          "มีประสบการณ์มากกว่า 15 ปี ด้านการออกแบบสถาปัตยกรรม ที่ปรึกษาด้านอาคารเขียว และการพัฒนาโครงการ"
+        ],
+        "photo": "/images/source/team/6946fb0249544502579b0ed9_team-img-1.webp"
+      },
+      {
+        "name": "Pornthep Rojanakansakun",
+        "role": {
+          "th": "ผู้ก่อตั้ง / สถาปนิก",
+          "en": null
+        },
+        "credentials_th": [
+          "ปริญญาโท สาขาธุรกิจอสังหาริมทรัพย์ (MRE), มหาวิทยาลัยธรรมศาสตร์",
+          "มีประสบการณ์มากกว่า 15 ปี ด้านการออกแบบสถาปัตยกรรมและการพัฒนาโครงการที่พักอาศัย"
+        ],
+        "photo": "/images/source/team/6946fb02c4ba3d0d8abe8828_team-img-2.webp"
+      },
+      {
+        "name": "Apisit Sirikhwanwiwat",
+        "role": {
+          "th": "ผู้อำนวยการฝ่ายก่อสร้าง / สถาปนิก",
+          "en": null
+        },
+        "credentials_th": [
+          "ปริญญาตรี สถาปัตยกรรมศาสตรบัณฑิต, มหาวิทยาลัยศิลปากร",
+          "มีประสบการณ์มากกว่า 15 ปี ด้านการบริหารจัดการงานก่อสร้างและการก่อสร้าง"
+        ],
+        "photo": "/images/source/team/6946fb02e1d72654dcae8b3b_team-img-3.webp"
+      }
+    ],
+    "team_notes": "Team roles and credentials are shown in Thai on the EN page (no English translation). No structural engineer is listed in the team section although copy refers to licensed engineers.",
+    "source": "/en/about-us, /th/about-us"
+  },
+  "testimonials": {
+    "_notes": "Published on /about-us. Names are already public on the live site; republishing still needs client confirmation of consent. One entry uses the Webflow placeholder image.",
+    "items": [
+      {
+        "id": "t1",
+        "name": "Sujinda Limpanichpackdee",
+        "label": "Product",
+        "quote": {
+          "en": "Professional team! I visited the showroom and met an architect (I believe he is the owner) he provided all information and explained every single detail which I wondered about",
+          "th": null
+        },
+        "photo": "/images/source/misc/6963b907599c2da933680d0f_Mask-group-1.png",
+        "origin": "Format suggests an imported online review - unconfirmed. Same English text on TH page."
+      },
+      {
+        "id": "t2",
+        "name": "Wonngarm",
+        "label": "Product",
+        "quote": {
+          "en": "Beautiful house with high-quality materials. I love the veranda and would like to have one in my garden.",
+          "th": null
+        },
+        "photo": "/images/source/misc/6963b907a0f413f269550cd6_Mask-group.png",
+        "origin": "Format suggests an imported online review - unconfirmed. Same English text on TH page."
+      },
+      {
+        "id": "t3",
+        "name": {
+          "en": "K. Orachorn (K. Kae)",
+          "th": "คุณอรชร (คุณเก๋)"
+        },
+        "model": "unwind-1bed-2bath",
+        "location": "Suphanburi",
+        "quote": {
+          "en": "I loved the design of the house from the very beginning, as it perfectly matched the concept I was looking for. Visiting the show house with the owner and architect of Clay & Stone gave me confidence in the quality of the materials, as well as the reasonable construction timeline. It made me feel assured that I would receive a high-quality home at a fair price. I have never regretted my decision. The house is comfortable, functional, and truly livable, with outstanding after-sales service.",
+          "th": "ชอบรูปลักษณ์ของตัวบ้านตั้งแต่แรกเพราะตรงกับคอนเซ็ปต์ที่อยากได้พอดี และการได้บ้านตัวอย่างกับเจ้าของและสถาปนิกของ Clay & Stone โดยตรงทำให้มั่นใจในคุณภาพ รวมถึงระยะเวลาการก่อสร้างที่สมเหตุสมผล จึงเชื่อว่าจะได้บ้านที่มีคุณภาพในราคาที่ยุติธรรมค่ะ ไม่ผิดหวังที่ได้เป็นลูกค้าค่ะ ทุกวันนี้ยังมีเพื่อนบ้านทั้งในและนอกโครงการมาสอบถามรายละเอียดของบ้านอยู่ตลอด บ้านอยู่ได้จริง อยู่สบาย พร้อมฟังก์ชันที่รองรับการใช้งานได้อย่างคุ้มค่าและที่สำคัญคือบริการหลังการขายที่ดีเยี่ยมมากค่ะ"
+        },
+        "photo": "/images/source/testimonials/6974c69c094fb83e9a1511fc_Screenshot-2569-01-24-at-17.08.20.png"
+      },
+      {
+        "id": "t4",
+        "name": {
+          "en": "K. Sujinda (K. Lek)",
+          "th": "คุณสุจินดา (คุณเล็ก)"
+        },
+        "model": "unwind-loft",
+        "location": "Suphanburi",
+        "quote": {
+          "en": "Speaking directly with the company owner, who oversees both design and construction, gave me clear and thorough information. It also allowed me to see the brand's attitude, design philosophy, and attention to detail, which made me confident in my decision to choose CLAY & STONE. After the handover, I felt proud of my decision and reassured by the continued care and support after sales.",
+          "th": "ได้พูดคุยกับเจ้าของบริษัทโดยตรง ซึ่งเป็นผู้ออกแบบและควบคุมงาน ทำให้ได้ข้อมูลที่ชัดเจนรวมทั้งได้เห็นถึง ทัศนคติ แนวคิด และความละเอียดของเจ้าของแบรนด์จึงทำให้มั่นใจในการตัดสินใจซื้อ CLAY & STONE หลังได้รับมอบบ้านรู้สึกภูมิใจที่ตัดสินใจให้ CLAY & STONE สร้างบ้านให้ และสบายใจที่บริษัทยังคงติดตามดูแลอย่างต่อเนื่องแม้หลังการขาย"
+        },
+        "photo": "/images/source/testimonials/6974c69c7a4fc9e79c618954_Screenshot-2569-01-24-at-17.08.26.png"
+      },
+      {
+        "id": "t5",
+        "name": {
+          "en": "K. Ketskanok (K. Miew)",
+          "th": "คุณเกศกนก (คุณเหมี่ยว)"
+        },
+        "model": "unwind-standard",
+        "location": "Saraburi",
+        "quote": {
+          "en": "The house features a stylish yet simple design, built with high-standard materials. It feels solid, comfortable, and well insulated, making it suitable for long-term living. The company is responsible and attentive, offering reliable after-sales care and consultation. Many thanks to Khun Thep and the Clay & Stone team for delivering a quality home.",
+          "th": "บ้านออกแบบได้อย่างมีสไตล์ ทันสมัย เรียบง่าย และเลือกใช้วัสดุที่ได้มาตรฐาน เป็นบ้านสำเร็จรูปที่อยู่อาศัยได้อย่างมั่นใจ พื้นแน่น กันความร้อนได้ดีไม่ต้องกังวลปัญหาในระยะยาว บริษัทรับผิดชอบ ดูแล และให้คำปรึกษาหลังการขายเป็นอย่างดี ขอขอบคุณคุณเทพและทีมงาน Clay & Stone ที่ส่งมอบบ้านที่มีคุณภาพให้นะคะ"
+        },
+        "photo": "/images/source/testimonials/6974c69c22bf4018cd646d94_Screenshot-2569-01-24-at-17.08.33.png"
+      },
+      {
+        "id": "t6",
+        "name": {
+          "en": "K. Pornsak (K. Pok)",
+          "th": "คุณพรศักดิ์ (คุณป๊อก)"
+        },
+        "model": "unwind-standard",
+        "location": "Bangkok",
+        "quote": {
+          "en": "The house design and materials were interesting. When we visited the show house, Khun Thep was able to answer our questions clearly and provided helpful assistance and advice. This made us feel confident in choosing Clay & Stone.",
+          "th": "เห็นแบบบ้านและวัสดุที่ใช้ก็น่าสนใจ เมื่อตอนไปดูแบบบ้าน คุณเทพสามารถตอบข้อสงสัยต่างๆ ได้ชัดเจน พร้อมให้ความช่วยเหลือและคำแนะนำเป็นอย่างดีจึงทำให้ตัดสินใจเลือก Clay & Stone อย่างมั่นใจ"
+        },
+        "photo": null,
+        "notes": "Live site shows the Webflow placeholder image."
+      }
+    ]
+  },
+  "process": {
+    "heading": {
+      "en": "Process",
+      "th": "Process"
+    },
+    "steps": [
+      {
+        "n": 1,
+        "title": {
+          "en": "Begin a Design Tailored to Your Needs",
+          "th": "เริ่มงานออกแบบให้ตรงใจ"
+        },
+        "text": {
+          "en": "Tell us how you want to live, and our design team will turn your ideas into a home that truly fits you - before you even place an order.",
+          "th": "แจ้งความต้องการและระบุฟังก์ชันที่อยากได้ ทีมออกแบบจะทำงานร่วมกับคุณอย่างใกล้ชิด เพื่อพัฒนาแบบบ้านให้ตรงตามความต้องการก่อนสั่งซื้อ"
+        },
+        "image": "/images/source/process/69471406a1a321bf471ee220_process-img-1.webp",
+        "duration": null
+      },
+      {
+        "n": 2,
+        "title": {
+          "en": "Sign the Contract and Begin Production",
+          "th": "เซ็นสัญญาและเริ่มผลิต"
+        },
+        "text": {
+          "en": "Once the contract is signed and the initial payment is completed, our team begins manufacturing your home at the factory based on the finalized design.",
+          "th": "เซ็นสัญญาสั่งผลิตและชำระเงินงวดแรก จากนั้นทีมงานเริ่มกระบวนการผลิตที่โรงงานตามแบบที่อนุมัติ"
+        },
+        "image": "/images/source/process/69471406798f62cda028eef1_process-img-2.webp",
+        "duration": "60-90 days (from Unwind FAQ 5; depends on production queue)"
+      },
+      {
+        "n": 3,
+        "title": {
+          "en": "Module Delivery to the Site",
+          "th": "ขนส่งโมดูลถึงพื้นที่"
+        },
+        "text": {
+          "en": "Once manufacturing is about 70% complete, your home modules are delivered to the site, ready for onsite assembly.",
+          "th": "เมื่อการผลิตเสร็จสมบูรณ์ประมาณ 70% โมดูลของบ้านจะถูกขนส่งไปยังที่ดินของคุณเพื่อเตรียมประกอบหน้างาน"
+        },
+        "image": "/images/source/process/6947140674a0c42e1ddd8700_process-img-3.webp",
+        "duration": null
+      },
+      {
+        "n": 4,
+        "title": {
+          "en": "On-Site Assembly and Home Handover",
+          "th": "ประกอบและส่งมอบบ้าน"
+        },
+        "text": {
+          "en": "All modules are assembled on-site in about 15 days, delivering a fully completed home that's ready for you to move in.",
+          "th": "ติดตั้งและประกอบโมดูลทั้งหมดที่หน้างาน ใช้เวลาประมาณ 15 วัน ก่อนส่งมอบบ้านสำเร็จรูปที่เสร็จสมบูรณ์พร้อมเข้าอยู่"
+        },
+        "image": "/images/source/process/694714063e7ac6bfe43e87fd_process-img-4.webp",
+        "duration": "~15 days"
+      }
+    ],
+    "payment_terms": {
+      "value": null,
+      "status": "missing",
+      "notes": "Only 'initial payment' is mentioned; instalment schedule is not published."
+    },
+    "source": "/en/process, /th/process"
+  },
+  "good_to_know_videos": [
+    {
+      "ep": 1,
+      "youtube_id": "Uo16eHa15rk",
+      "title": {
+        "en": "EP.1: Modular House",
+        "th": "EP.1 : บ้านสำเร็จรูป"
+      }
+    },
+    {
+      "ep": 2,
+      "youtube_id": "wrJKrBmhS58",
+      "title": {
+        "en": "EP.2: Prefab Homes vs Traditional",
+        "th": "EP.2 : บ้านสำเร็จรูปแตกต่างจากบ้านทั่วไปยังไง"
+      }
+    },
+    {
+      "ep": 3,
+      "youtube_id": "gJMY5oSiwbQ",
+      "title": {
+        "en": "EP.3 : Strength of Prefab Houses",
+        "th": "EP.3 : ความแข็งแรงของบ้านสำเร็จรูป"
+      }
+    },
+    {
+      "ep": 4,
+      "youtube_id": "oUIimGhSgyA",
+      "title": {
+        "en": "EP.4 : Water Leak Prevention",
+        "th": "EP.4 : การป้องกันน้ำรั่ว"
+      }
+    },
+    {
+      "ep": 5,
+      "youtube_id": "0MDRduX63pY",
+      "title": {
+        "en": "EP.5 : From a Module... to a Complete Home",
+        "th": "EP.5 : จากโมดูล...สู่บ้านทั้งหลัง"
+      }
+    },
+    {
+      "ep": 6,
+      "youtube_id": "G8_2lxRIVV4",
+      "title": {
+        "en": "EP.6: Experience Unwind 1 Bed 2 Bath Type",
+        "th": "EP.6 : พาชมบรรยากาศ Unwind 1 Bed 2 Bath Type"
+      }
+    },
+    {
+      "ep": 7,
+      "youtube_id": "Y3KcE5FpbS4",
+      "title": {
+        "en": "EP.7 : Precast Footing System",
+        "th": "EP.7 : Precast Footing System"
+      }
+    }
+  ],
+  "blog": {
+    "index_heading": {
+      "en": "Prefabricated House Blog",
+      "th": "บทความบ้านสำเร็จรูป"
+    },
+    "author": {
+      "name": "Panita Rojanakansakun",
+      "byline_en": "Co-Founder & Design Director of Clay & Stone",
+      "photo": "/images/source/author/6a099502f71666e4fc49e86f_Line-OA-Chat-260512.jpg"
+    },
+    "articles": [
+      {
+        "slug": "prefab-homes-lifespan",
+        "date": "2026-07-07",
+        "category": "Educated / Informative",
+        "title": {
+          "en": "How Long Do Prefab Homes Last? What You Really Need to Know",
+          "th": "บ้านสำเร็จรูปอยู่ได้กี่ปี? อายุการใช้งานจริงที่คุณควรรู้"
+        }
+      },
+      {
+        "slug": "modular-house-rainy-season-problems",
+        "date": "2026-06-17",
+        "category": "Educated / Informative",
+        "title": {
+          "en": "Can a Modular House Really Handle the Rainy Season? How to Design for Thailand's Climate",
+          "th": "บ้านโมดูลาร์อยู่หน้าฝนได้จริงไหม? ออกแบบอย่างไรให้อยู่สบายในสภาพอากาศประเทศไทย"
+        }
+      },
+      {
+        "slug": "modular-house-price",
+        "date": "2026-06-17",
+        "category": "Educated / Informative",
+        "title": {
+          "en": "How Much Does a Modular House Cost? Choosing the Right Size and Budgeting",
+          "th": "บ้านโมดูลาร์ราคาเท่าไหร่? เลือกขนาดบ้านอย่างไร และต้องเตรียมงบประมาณอะไรบ้าง"
+        }
+      },
+      {
+        "slug": "modular-vs-knockdown-house",
+        "date": "2026-06-16",
+        "category": "Educated / Informative",
+        "title": {
+          "en": "Modular House vs. Knockdown House: What's the Difference? Understanding Prefab Home Types Before You Build",
+          "th": "บ้านน็อคดาวน์ กับบ้านโมดูลาร์ ต่างกันอย่างไร? ทำความเข้าใจระบบบ้านสำเร็จรูปแต่ละประเภทก่อนตัดสินใจ"
+        }
+      },
+      {
+        "slug": "knockdown-house-ideas",
+        "date": "2023-10-10",
+        "category": "Idea/Inspiration",
+        "title": {
+          "en": "Beautiful finish in one back! 4 “Knockdown House” Resort-Style Ideas",
+          "th": "สวยจบในหลังเดียว! 4 ไอเดีย “บ้านน็อคดาวน์” สไตล์รีสอร์ท"
+        },
+        "notes": "EN version reads as machine-translated; EN page carries the Thai SEO title and description."
+      }
+    ],
+    "notes": "Full article bodies are kept in the crawl archive (docs/source-archive) and are not duplicated here."
+  },
+  "seo_current": {
+    "/en": {
+      "title": "Modern Modular House | High-Standard Modular House Builder Thailand",
+      "description": "Experience the future of living with premium modular homes and modern modular house designs featuring precision engineering and trusted quality.",
+      "og_title": "Modern Modular House | High-Standard Modular House Builder Thailand",
+      "og_image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp",
+      "html_lang": "en-US",
+      "h1": [
+        "We create thoughtfully designed modular homes that elevate modern living and make quality accessible for everyone in Thailand."
+      ],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/en/about-us": {
+      "title": "About Us | Clay and Stone - Redefining Modular Home Excellence",
+      "description": "Behind every Clay and Stone home is a dedication to engineering excellence. Explore our story, our innovative Modular construction process, and why we are the trusted partner for modern, durable knockdown homes.",
+      "og_title": "About Us | Clay and Stone - Redefining Modular Home Excellence",
+      "og_image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp",
+      "html_lang": "en-US",
+      "h1": [],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/about-us"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/about-us"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/about-us"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/en/blogs": {
+      "title": "Prefabricated House Blog | Clay & Stone",
+      "description": "Thinking of building a modular home? Read our comprehensive prefab house articles covering budget planning, construction benefits, and vital tips before you build.",
+      "og_title": "Prefabricated House Blog | Clay & Stone",
+      "og_image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp",
+      "html_lang": "en-US",
+      "h1": [
+        "Prefabricated House Blog"
+      ],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/blogs"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/blogs"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/blogs"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/en/blogs/knockdown-house-ideas": {
+      "title": "4 ไอเดียน็อคดาวน์สไตล์รีสอร์ทที่คุณไม่ควรพลาด! | Clay and Stone",
+      "description": "รวมไอเดียแต่งบ้านน็อคดาวน์ สไตล์รีสอร์ท ให้สวยหรูดูแพง ด้วยวัสดุตกแต่งที่คัดมาเพื่อคุณ เปลี่ยนบ้านน็อคดาวน์ธรรมดาให้เป็นที่พักในฝัน",
+      "og_title": null,
+      "og_image": null,
+      "html_lang": "en-US",
+      "h1": [
+        "Beautiful finish in one back! 4 “Knockdown House” Resort-Style Ideas"
+      ],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/blogs/knockdown-house-ideas"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/blogs/knockdown-house-ideas"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/blogs/knockdown-house-ideas"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/en/blogs/modular-house-price": {
+      "title": "How Much Does a Modular House Cost? | Clay and Stone",
+      "description": "Planning to build a modular house? Check the latest pricing, tips for choosing the right size for your needs, and a breakdown of the hidden costs you should budget for before you start.",
+      "og_title": null,
+      "og_image": null,
+      "html_lang": "en-US",
+      "h1": [
+        "How Much Does a Modular House Cost? Choosing the Right Size and Budgeting"
+      ],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/blogs/modular-house-price"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/blogs/modular-house-price"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/blogs/modular-house-price"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/en/blogs/modular-house-rainy-season-problems": {
+      "title": "Can a Modular House Handle the Rainy Season? | Clay and Stone",
+      "description": "Will your modular house survive the rainy season? Everything you need to know about humidity, water leaks, and foundations in flood-prone areas, all in one place.",
+      "og_title": null,
+      "og_image": null,
+      "html_lang": "en-US",
+      "h1": [
+        "Can a Modular House Really Handle the Rainy Season? How to Design for Thailand's Climate"
+      ],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/blogs/modular-house-rainy-season-problems"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/blogs/modular-house-rainy-season-problems"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/blogs/modular-house-rainy-season-problems"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/en/blogs/modular-vs-knockdown-house": {
+      "title": "Modular House vs. Knockdown House: What's the Difference? | Clay and Stone",
+      "description": "A clear breakdown: what are modular houses and knockdown houses, and how do they differ? Compare pricing and pros and cons to help you choose the right home and decorate it beautifully.",
+      "og_title": null,
+      "og_image": null,
+      "html_lang": "en-US",
+      "h1": [
+        "Modular House vs. Knockdown House: What's the Difference? Understanding Prefab Home Types Before You Build"
+      ],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/blogs/modular-vs-knockdown-house"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/blogs/modular-vs-knockdown-house"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/blogs/modular-vs-knockdown-house"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/en/blogs/prefab-homes-lifespan": {
+      "title": "How Long Do Prefab Homes Last? | Clay and Stone",
+      "description": "Curious how long a prefab home really lasts? Discover the truth about durability, the factors that affect structural longevity, and tips for choosing a prefab home that's built to last.",
+      "og_title": null,
+      "og_image": null,
+      "html_lang": "en-US",
+      "h1": [
+        "How Long Do Prefab Homes Last? What You Really Need to Know"
+      ],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/blogs/prefab-homes-lifespan"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/blogs/prefab-homes-lifespan"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/blogs/prefab-homes-lifespan"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/en/contact-us": {
+      "title": "Contact Us | Start Your Modular Home Journey with Clay and Stone",
+      "description": "Get in touch with Clay and Stone today. Our experts are ready to assist you with Modular home designs, technical specifications, and personalized consultations. Let’s bring your dream project to life together.",
+      "og_title": "Contact Us | Start Your Modular Home Journey with Clay and Stone",
+      "og_image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp",
+      "html_lang": "en-US",
+      "h1": [],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/contact-us"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/contact-us"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/contact-us"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/en/good-to-know": {
+      "title": "Modular Home Guides | Everything You Need to Know by Clay and Stone",
+      "description": "Get insider tips and expert advice on High-Standard Modular living. Watch our latest videos covering Knockdown home innovations, premium materials, and professional tips from the Clay and Stone team.",
+      "og_title": "Modular Home Guides | Everything You Need to Know by Clay and Stone",
+      "og_image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp",
+      "html_lang": "en-US",
+      "h1": [],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/good-to-know"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/good-to-know"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/good-to-know"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/en/process": {
+      "title": "4 Steps to Your Dream Home | Clay and Stone's Modular Building Process",
+      "description": "Experience a smarter way to build. Explore our step-by-step Modular home process: standardized factory engineering, efficient logistics, and expert installation designed to deliver your perfect home without the traditional delays.",
+      "og_title": "4 Steps to Your Dream Home | Clay and Stone's Modular Building Process",
+      "og_image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b1e651e419f2f6162b_homepage-img-3.webp",
+      "html_lang": "en-US",
+      "h1": [],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/process"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/process"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/process"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/en/products/alive-series": {
+      "title": "Alive Series Modular Home | Prefab House from 1.69M THB - Clay & Stone",
+      "description": "Alive Series: a compact prefab modular home designed for active, outdoor living. 2 bedrooms, 2 bathrooms, 68 sq.m., starting at 1,690,000 THB (incl. VAT) with free installation within 200 km.",
+      "og_title": "Alive Series Modular Home | Prefab House from 1.69M THB - Clay & Stone",
+      "og_image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b0d4a2474669906144bd_bi-img-1.webp",
+      "html_lang": "en-US",
+      "h1": [
+        "Returning Nature to Living",
+        "บ้านโมดูลาร์เพื่อการอยู่อาศัยที่เชื่อมโยงกับธรรมชาติ"
+      ],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/products/alive-series"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/products/alive-series"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/products/alive-series"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/en/products/unwind-series": {
+      "title": "Unwind Series Modular House Design | Modular Homes for Sale",
+      "description": "Explore contemporary modular house design crafted for slow living and nature retreats. View premium layouts, custom features, and transparent modular house prices.",
+      "og_title": "Unwind Series Modular House Design | Modular Homes for Sale",
+      "og_image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2841123b22b146a53_homepage-img-4.webp",
+      "html_lang": "en-US",
+      "h1": [
+        "Returning Nature to Living",
+        "A modular home designed to connect you with nature."
+      ],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/products/unwind-series"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/products/unwind-series"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/products/unwind-series"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/en/products/upcoming-product": {
+      "title": "Humble Series - New Prefab Modular Home Coming Soon | Clay & Stone",
+      "description": "Humble Series, the next prefab modular home from Clay & Stone, is coming soon. Architect-designed, factory-built and quick to install. Contact us for early information.",
+      "og_title": "Humble Series - New Prefab Modular Home Coming Soon | Clay & Stone",
+      "og_image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b18143bee7fe5a93a9_homepage-img-2.webp",
+      "html_lang": "en-US",
+      "h1": [],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/products/upcoming-product"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/products/upcoming-product"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/products/upcoming-product"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/en/projects": {
+      "title": "Our Modular House Project | Clay and Stone",
+      "description": "Browse our modular house project series. Engineered for rapid installation and long-term durability, these prefab homes offer seamless indoor-outdoor living.",
+      "og_title": "Our Modular House Project | Clay and Stone",
+      "og_image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp",
+      "html_lang": "en-US",
+      "h1": [
+        "Our Modular House Project"
+      ],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/projects"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/projects"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/projects"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/en/search": {
+      "title": "Search Results",
+      "description": null,
+      "og_title": "Search Results",
+      "og_image": null,
+      "html_lang": "en-US",
+      "h1": [
+        "Search results"
+      ],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/search"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/search"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/search"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/th": {
+      "title": "บ้านโมดูลาร์ บ้านสำเร็จรูป ดีไซน์โมเดิร์น พร้อมติดตั้ง | Clay & Stone",
+      "description": "เลือกชมแบบบ้านสำเร็จรูป หลากหลายสไตล์ในระบบ Modular มาตรฐานจากบริษัทสร้างบ้านสำเร็จรูปพร้อมติดตั้งที่ตอบโจทย์ทุกการอยู่อาศัย",
+      "og_title": "บ้านโมดูลาร์ บ้านสำเร็จรูป ดีไซน์โมเดิร์น พร้อมติดตั้ง | Clay & Stone",
+      "og_image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp",
+      "html_lang": "th-TH",
+      "h1": [
+        "เรามุ่งมั่นสร้างสรรค์ “บ้านสำเร็จรูป” ที่ผ่านการออกแบบอย่างพิถีพิถัน เพื่อยกระดับการอยู่อาศัยในแบบบ้านสำเร็จรูปโมเดิร์น ให้เข้าถึงง่ายสำหรับทุกคน"
+      ],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/th/about-us": {
+      "title": "เกี่ยวกับเรา | Clay and Stone ผู้นำนวัตกรรมบ้าน Modular มาตรฐานสากล",
+      "description": "เบื้องหลังความสำเร็จของ Clay and Stone จากจุดเริ่มต้นที่เน้นคุณภาพและการออกแบบที่ยั่งยืน พบกับทีมงานผู้เชี่ยวชาญด้านบ้านโมดูลาร์ที่ใส่ใจทุกขั้นตอน ตั้งแต่โรงงานผลิตจนถึงการส่งมอบบ้านที่สมบูรณ์แบบ",
+      "og_title": "เกี่ยวกับเรา | Clay and Stone ผู้นำนวัตกรรมบ้าน Modular มาตรฐานสากล",
+      "og_image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp",
+      "html_lang": "th-TH",
+      "h1": [],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/about-us"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/about-us"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/about-us"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/th/blogs": {
+      "title": "สาระน่ารู้บ้านสำเร็จรูป ไอเดียแบบบ้านและเทคนิคสร้างบ้าน | Clay & Stone",
+      "description": "รวมไอเดียและบทความบ้านสำเร็จรูป น่ารู้! อัปเดตแบบบ้านสำเร็จรูปดีไซน์โมเดิร์น และข้อควรรู้ก่อนสร้างบ้าน เพื่อให้ได้บ้านในฝันที่ตอบโจทย์คุณที่สุด",
+      "og_title": "สาระน่ารู้บ้านสำเร็จรูป ไอเดียแบบบ้านและเทคนิคสร้างบ้าน | Clay & Stone",
+      "og_image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp",
+      "html_lang": "th-TH",
+      "h1": [
+        "บทความบ้านสำเร็จรูป"
+      ],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/blogs"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/blogs"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/blogs"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/th/blogs/knockdown-house-ideas": {
+      "title": "4 ไอเดียน็อคดาวน์สไตล์รีสอร์ทที่คุณไม่ควรพลาด! | Clay and Stone",
+      "description": "รวมไอเดียแต่งบ้านน็อคดาวน์ สไตล์รีสอร์ท ให้สวยหรูดูแพง ด้วยวัสดุตกแต่งที่คัดมาเพื่อคุณ เปลี่ยนบ้านน็อคดาวน์ธรรมดาให้เป็นที่พักในฝัน",
+      "og_title": null,
+      "og_image": null,
+      "html_lang": "th-TH",
+      "h1": [
+        "สวยจบในหลังเดียว! 4 ไอเดีย “บ้านน็อคดาวน์” สไตล์รีสอร์ท"
+      ],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/blogs/knockdown-house-ideas"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/blogs/knockdown-house-ideas"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/blogs/knockdown-house-ideas"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/th/blogs/modular-house-price": {
+      "title": "บ้านโมดูลาร์ราคาเท่าไหร่? | Clay and Stone",
+      "description": "อยากสร้างบ้านโมดูลาร์? เช็กราคาอัปเดตล่าสุด เทคนิคการเลือกขนาดบ้านให้เหมาะกับคุณ พร้อมเจาะลึกงบประมาณแฝงที่ต้องเตรียมก่อนเริ่มสร้าง คลิกเลย!",
+      "og_title": null,
+      "og_image": null,
+      "html_lang": "th-TH",
+      "h1": [
+        "บ้านโมดูลาร์ราคาเท่าไหร่? เลือกขนาดบ้านอย่างไร และต้องเตรียมงบประมาณอะไรบ้าง"
+      ],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/blogs/modular-house-price"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/blogs/modular-house-price"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/blogs/modular-house-price"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/th/blogs/modular-house-rainy-season-problems": {
+      "title": "บ้านโมดูลาร์กับปัญหาหน้าฝนต้องระวังอะไรบ้าง? | Clay and Stone",
+      "description": "สรุปครบทุกคำตอบหน้าฝนนี้บ้านโมดูลาร์จะรอดไหม? ไม่ว่าจะเป็นเรื่องความชื้น น้ำซึม หรือฐานรากในพื้นที่น้ำขัง บทความนี้ตอบครบในที่เดียว",
+      "og_title": null,
+      "og_image": null,
+      "html_lang": "th-TH",
+      "h1": [
+        "บ้านโมดูลาร์อยู่หน้าฝนได้จริงไหม? ออกแบบอย่างไรให้อยู่สบายในสภาพอากาศประเทศไทย"
+      ],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/blogs/modular-house-rainy-season-problems"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/blogs/modular-house-rainy-season-problems"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/blogs/modular-house-rainy-season-problems"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/th/blogs/modular-vs-knockdown-house": {
+      "title": "บ้านโมดูลาร์ กับบ้านน็อคดาวน์ ต่างกันอย่างไร? | Clay and Stone",
+      "description": "สรุปชัด! บ้านโมดูลาร์ และบ้านน็อคดาวน์ คืออะไร? ต่างกันตรงไหน พร้อมเช็คราคาและข้อดีข้อเสีย ให้คุณเลือกบ้านที่ใช่และตกแต่งได้สวยถูกใจ",
+      "og_title": null,
+      "og_image": null,
+      "html_lang": "th-TH",
+      "h1": [
+        "บ้านน็อคดาวน์ กับบ้านโมดูลาร์ ต่างกันอย่างไร? ทำความเข้าใจระบบบ้านสำเร็จรูปแต่ละประเภทก่อนตัดสินใจสร้างบ้าน"
+      ],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/blogs/modular-vs-knockdown-house"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/blogs/modular-vs-knockdown-house"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/blogs/modular-vs-knockdown-house"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/th/blogs/prefab-homes-lifespan": {
+      "title": "บ้านสำเร็จรูปอยู่ได้กี่ปี? | Clay and Stone",
+      "description": "คลายทุกข้อสงสัย บ้านสำเร็จรูปอยู่ได้กี่ปี? พบคำตอบเรื่องความทนทาน ปัจจัยที่ส่งผลต่อโครงสร้างพร้อมเทคนิคการเลือกซื้อบ้านสำเร็จรูปให้คุ้มค่าที่สุด",
+      "og_title": null,
+      "og_image": null,
+      "html_lang": "th-TH",
+      "h1": [
+        "บ้านสำเร็จรูปอยู่ได้กี่ปี? อายุการใช้งานจริงที่คุณควรรู้"
+      ],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/blogs/prefab-homes-lifespan"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/blogs/prefab-homes-lifespan"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/blogs/prefab-homes-lifespan"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/th/contact-us": {
+      "title": "ติดต่อเรา | ปรึกษาเรื่องบ้าน Modular และนัดชมโครงการ - Clay and Stone",
+      "description": "เริ่มต้นสร้างบ้านในฝันของคุณกับ Clay and Stone ติดต่อสอบถามข้อมูลบ้าน Modular ปรึกษาเรื่องการออกแบบ หรือนัดหมายเข้าชมโครงการ ทีมงานมืออาชีพของเราพร้อมให้คำปรึกษาและดูแลคุณในทุกขั้นตอน",
+      "og_title": "ติดต่อเรา | ปรึกษาเรื่องบ้าน Modular และนัดชมโครงการ - Clay and Stone",
+      "og_image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp",
+      "html_lang": "th-TH",
+      "h1": [],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/contact-us"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/contact-us"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/contact-us"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/th/good-to-know": {
+      "title": "รอบรู้เรื่องบ้านกับ Clay and Stone | เจาะลึกวัสดุและข้อดีของบ้านระบบโมดูลาร์",
+      "description": "ไขทุกข้อสงสัยเรื่องบ้านโมดูลาร์กับ Clay and Stone ในหน้า Good to Know พบกับวิดีโอแนะนำนวัตกรรมการผลิต วัสดุที่เลือกใช้ และทำไมระบบ Modular ถึงตอบโจทย์การอยู่อาศัยยุคใหม่ได้ดีที่สุด",
+      "og_title": "รอบรู้เรื่องบ้านกับ Clay and Stone | เจาะลึกวัสดุและข้อดีของบ้านระบบโมดูลาร์",
+      "og_image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp",
+      "html_lang": "th-TH",
+      "h1": [],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/good-to-know"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/good-to-know"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/good-to-know"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/th/process": {
+      "title": "สร้างบ้านง่ายๆ ใน 4 ขั้นตอน | กระบวนการสร้างบ้านระบบโมดูลาร์ - Clay and Stone",
+      "description": "เปลี่ยนการสร้างบ้านให้เป็นเรื่องง่ายด้วย 4 ขั้นตอนจาก Clay and Stone พบกับนวัตกรรมการผลิตชิ้นส่วนจากโรงงานที่ช่วยคุมงบประมาณและเวลาได้แม่นยำ ติดตั้งไวในครั้งเดียว พร้อมส่งมอบบ้านคุณภาพถึงมือคุณ",
+      "og_title": "สร้างบ้านง่ายๆ ใน 4 ขั้นตอน | กระบวนการสร้างบ้านระบบโมดูลาร์ - Clay and Stone",
+      "og_image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b1e651e419f2f6162b_homepage-img-3.webp",
+      "html_lang": "th-TH",
+      "h1": [],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/process"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/process"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/process"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/th/products/alive-series": {
+      "title": "แบบบ้านโมดูลาร์ Alive Series | บ้านสำเร็จรูป 2 ห้องนอน เริ่ม 1.69 ล้าน",
+      "description": "บ้านสำเร็จรูประบบโมดูลาร์ Alive Series ดีไซน์ Compact ใกล้ชิดธรรมชาติ 2 ห้องนอน 2 ห้องน้ำ 68 ตร.ม. ราคาเริ่มต้น 1,690,000 บาท (รวม VAT) ติดตั้งฟรีในระยะ 200 กม.",
+      "og_title": "แบบบ้านโมดูลาร์ Alive Series | บ้านสำเร็จรูป 2 ห้องนอน เริ่ม 1.69 ล้าน",
+      "og_image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b0d4a2474669906144bd_bi-img-1.webp",
+      "html_lang": "th-TH",
+      "h1": [
+        "Returning Nature to Living",
+        "บ้านโมดูลาร์เพื่อการอยู่อาศัยที่เชื่อมโยงกับธรรมชาติ"
+      ],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/products/alive-series"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/products/alive-series"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/products/alive-series"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/th/products/unwind-series": {
+      "title": "แบบบ้านโมดูลาร์ Unwind Series | บ้านระบบโมดูลาร์พร้อมติดตั้ง",
+      "description": "มองหาบ้านโมดูลาร์ราคาคุ้มค่าอยู่ใช่ไหม? แบบบ้านโมดูลาร์ดีไซน์กลมกลืนธรรมชาติ พร้อมวัสดุคุณภาพสูง เลือกดูบ้านโมดูลาร์ของคุณวันนี้",
+      "og_title": "แบบบ้านโมดูลาร์ Unwind Series | บ้านระบบโมดูลาร์พร้อมติดตั้ง",
+      "og_image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2841123b22b146a53_homepage-img-4.webp",
+      "html_lang": "th-TH",
+      "h1": [
+        "Returning Nature to Living",
+        "บ้านโมดูลาร์เพื่อการอยู่อาศัยที่เชื่อมโยงกับธรรมชาติ"
+      ],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/products/unwind-series"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/products/unwind-series"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/products/unwind-series"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/th/products/upcoming-product": {
+      "title": "Humble Series บ้านสำเร็จรูปรุ่นใหม่ เร็วๆ นี้ | Clay & Stone",
+      "description": "เตรียมพบ Humble Series บ้านสำเร็จรูประบบโมดูลาร์รุ่นใหม่จาก Clay & Stone ออกแบบโดยสถาปนิก ผลิตจากโรงงาน ติดตั้งเร็ว ติดต่อสอบถามข้อมูลล่วงหน้าได้แล้ววันนี้",
+      "og_title": "Humble Series บ้านสำเร็จรูปรุ่นใหม่ เร็วๆ นี้ | Clay & Stone",
+      "og_image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b18143bee7fe5a93a9_homepage-img-2.webp",
+      "html_lang": "th-TH",
+      "h1": [],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/products/upcoming-product"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/products/upcoming-product"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/products/upcoming-product"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/th/projects": {
+      "title": "ดูตัวอย่างแบบบ้านสำเร็จรูป บ้านโมดูลาร์ พร้อมอยู่ | Clay & Stone",
+      "description": "ดูผลงานจริงของบ้านสำเร็จรูปพร้อมอยู่ ทั้งบ้านสำเร็จรูปชั้นเดียว บ้านสำเร็จรูป 2 ชั้น และแบบบ้านโมดูลาร์ยกสูง บ้านประกอบสำเร็จรูปที่ส่งมอบแล้วจริงทุกหลังที่นี่",
+      "og_title": "ดูตัวอย่างแบบบ้านสำเร็จรูป บ้านโมดูลาร์ พร้อมอยู่ | Clay & Stone",
+      "og_image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp",
+      "html_lang": "th-TH",
+      "h1": [
+        "Our Modular House Project"
+      ],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/projects"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/projects"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/projects"
+        ]
+      ],
+      "json_ld_blocks": 0
+    },
+    "/th/search": {
+      "title": "Search Results",
+      "description": null,
+      "og_title": "Search Results",
+      "og_image": null,
+      "html_lang": "th-TH",
+      "h1": [
+        "Search results"
+      ],
+      "canonical": null,
+      "hreflang": [
+        [
+          "x-default",
+          "https://www.clayandstone.co.th/th/search"
+        ],
+        [
+          "th-TH",
+          "https://www.clayandstone.co.th/th/search"
+        ],
+        [
+          "en-US",
+          "https://www.clayandstone.co.th/en/search"
+        ]
+      ],
+      "json_ld_blocks": 0
+    }
+  }
+}

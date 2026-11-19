@@ -1,0 +1,133 @@
+META {
+ "lang": "en-US",
+ "og:title": "Search Results",
+ "twitter:title": "Search Results",
+ "viewport": "width=device-width, initial-scale=1",
+ "google-site-verification": "_0Lh__7EFJwDXwb8lb-4kPwXPdbKFdH9otSM8xOdgws",
+ "generator": "Webflow",
+ "title": "Search Results"
+}
+HREFLANG [["x-default", "https://www.clayandstone.co.th/th/search"], ["th-TH", "https://www.clayandstone.co.th/th/search"], ["en-US", "https://www.clayandstone.co.th/en/search"]]
+JSONLD []
+VIDEOS ["iframe:https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7"]
+BGS []
+-----
+Search Results
+Skip to main content
+  -> (#main)
+  -> (/en)
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Products
+Unwind
+Series
+  -> (/en/products/unwind-series)
+Alive
+Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+EN
+Thai
+  -> (/th/search)
+English
+  -> (/en/search)
+Book Consultation
+  -> (https://linktr.ee/clayandstone.official)
+Book Consultation
+  -> (/en)
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Products
+Unwind
+Series
+  -> (/en/products/unwind-series)
+Alive
+Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+EN
+Thai
+  -> (/th/search)
+English
+  -> (/en/search)
+Book Consultation
+  -> (https://linktr.ee/clayandstone.official)
+Book Consultation
+# Search results
+[FORM name=None action=/en/search]
+Search
+[FIELD input search name=query ph=Search…]
+[FIELD input submit name=None ph=None]
+No matching results.
+## Footer
+  -> (/en)
+### Follow us
+  -> (#)
+### Heading
+Link Text
+  -> (#)
+Link Text Here
+  -> (#)
+Link Text Goes Here
+  -> (#)
+Link Text
+  -> (#)
+### Heading Text
+Link Text Here
+  -> (#)
+Link Text Goes Here
+  -> (#)
+Link Text
+  -> (#)
+Link Text Goes Here
+  -> (#)
+Link Text Here
+  -> (#)
+### Heading Text
+Link Text Goes Here
+  -> (#)
+Link Text
+  -> (#)
+Link Text Here
+  -> (#)
+### Heading
+Link Text Here
+  -> (#)
+Link Text
+  -> (#)
+Link Text Goes Here
+  -> (#)
+Link Text Here
+  -> (#)
+©
+{{year}}
+Copyright. All Rights Reserved.
+Privacy Policy
+  -> (#)
+Terms & Conditions
+  -> (#)
+Site Map
+  -> (#)
+[IFRAME] https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7

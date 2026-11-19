@@ -1,0 +1,339 @@
+{
+  "_meta": {
+    "description": "Clay & Stone house series and models, extracted from the live website. Source of truth for the prototype. Every value carries a source; values with conflicting sources are kept side by side and flagged until the client confirms.",
+    "extracted_on": "2026-11-20",
+    "source_site": "https://www.clayandstone.co.th",
+    "currency": "THB",
+    "price_basis": "All published prices are stated as including 7% VAT.",
+    "verification_legend": {
+      "extracted": "Copied from the live site; consistent across TH/EN and across pages.",
+      "conflict": "Different values appear on the live site. See docs/content-verification.md. Do not publish either value as final until the client confirms.",
+      "derived": "Calculated or read from a floor-plan image, not stated as text. Needs client confirmation.",
+      "missing": "Not available on the live site. Do not invent."
+    }
+  },
+  "shared": {
+    "module_system": {
+      "main_module_size_m": "3 x 6",
+      "text": {
+        "en": "The main 3 × 6 meter modular space can be flexibly customized to support a variety of functions according to individual needs.",
+        "th": "ภายในพื้นที่โมดูลหลักขนาด 3 x 6 เมตร สามารถปรับแต่งให้รองรับฟังก์ชันการใช้งานได้หลากหลายตามความต้องการ"
+      },
+      "relocatable": true,
+      "expandable": true,
+      "source": ["/en/products/unwind-series", "/th/products/unwind-series", "/en/products/alive-series"],
+      "status": "extracted"
+    },
+    "promotions": {
+      "items": [
+        { "en": "Free wallpaper for all interior areas.", "th": "วอลเปเปอร์ภายในตัวบ้านทั้งหมด ฟรี" },
+        { "en": "Free installation service within a 200 km radius of our facility.", "th": "บริการติดตั้งฟรีในระยะทางไม่เกิน 200 กม. จากบริษัท" },
+        { "en": "One-year warranty on general workmanship and a five-year warranty on structural components, including after-sales service.", "th": "รับประกันงานทั่วไป 1 ปี และงานโครงสร้าง 5 ปี พร้อมบริการหลังการขาย" }
+      ],
+      "notes": "Shown on both Unwind and Alive pages. Whether these are time-limited promotions or standing terms is not stated. The 200 km reference point is 'our facility' (EN) vs 'จากบริษัท / from the company' (TH); factory vs office location is not specified.",
+      "source": ["/en/products/unwind-series", "/th/products/unwind-series", "/en/products/alive-series", "/th/products/alive-series"],
+      "status": "extracted"
+    },
+    "warranty": {
+      "general_workmanship_years": 1,
+      "structural_years": 5,
+      "after_sales": "Provided directly by the Clay & Stone team (not outsourced).",
+      "source": ["/en/products/unwind-series", "/en (FAQ 5)"],
+      "status": "extracted"
+    },
+    "included_in_move_in_ready": {
+      "en": ["Structure / framework", "Walls", "Roof", "Flooring", "Internal electrical system", "Plumbing (internal)"],
+      "th": ["โครงสร้าง", "ผนัง", "หลังคา", "พื้น", "งานระบบไฟฟ้า", "ระบบสุขาภิบาลภายในบ้าน"],
+      "customer_prepares": {
+        "en": ["Foundation", "External utility connections (water and electricity)"],
+        "th": ["พื้นที่ฐานราก", "เชื่อมต่อระบบน้ำ-ไฟภายนอก"]
+      },
+      "source": ["/en/projects (FAQ 4)", "/th/projects (FAQ 4)"],
+      "status": "extracted"
+    },
+    "foundation": {
+      "en": "Customer can engage a local contractor using Clay & Stone specifications, or ask Clay & Stone to coordinate. Blog articles state Clay & Stone offers a factory-made precast foundation (footing) system. An elevated foundation solution is offered for low-lying or waterlogging-prone plots.",
+      "source": ["/en/projects (FAQ 3, FAQ 5)", "/en/blogs/modular-house-price", "/en/good-to-know (EP.7 Precast Footing System)"],
+      "pricing": "missing",
+      "status": "extracted"
+    },
+    "site_requirements": {
+      "en": "Installable almost anywhere in Thailand as long as crane or truck access is available. Engineering team assesses every site before installation.",
+      "th": "ขนส่งและติดตั้งได้เกือบทุกพื้นที่ทั่วประเทศ เพียงแค่มีทางเข้าที่รถเครนหรือรถบรรทุกสามารถเข้าถึงได้ ทีมวิศวกรจะเข้าประเมินหน้างานก่อน",
+      "minimum_land_size": "missing",
+      "source": ["/en/products/unwind-series (FAQ 4)", "/th/products/unwind-series (FAQ 4)"],
+      "status": "extracted"
+    },
+    "budget_guidance": {
+      "en": "As a general rule, set aside an additional 20-30% of the cost of the house itself for site preparation, foundation work, utility systems, and related outdoor work.",
+      "source": ["/en/blogs/modular-house-price"],
+      "status": "extracted",
+      "notes": "General guidance from a blog article, not a quote."
+    },
+    "timeline": {
+      "design_phase": { "duration": "missing", "en": "Architectural team adjusts and finalizes the layout before purchase." },
+      "factory_production_days": { "min": 60, "max": 90, "condition": "depending on the current production queue", "source": "/en/products/unwind-series (FAQ 5)" },
+      "delivery_trigger": { "en": "Modules are transported when factory production reaches approximately 70% completion.", "source": "/en/process" },
+      "onsite_assembly_days": { "approx": 15, "source": ["/en/process", "/en (FAQ 1)", "/en/products/unwind-series (FAQ 5)"] },
+      "total_order_to_move_in": "missing (not stated as a single figure; production 60-90 days + ~15 days on site, design and foundation time not stated)",
+      "status": "extracted"
+    },
+    "materials": [
+      {
+        "id": "structural-system",
+        "label": { "en": "Structural System", "th": "Structural System" },
+        "text": {
+          "en": "Structural steel over 2.3 mm thick, certified to TIS standards and up to 1.4x thicker than typical specifications, ensuring long-term strength. Protected with high-performance anti-corrosion coatings from BEGER, and designed and supervised by licensed architects and engineers.",
+          "th": "โครงสร้างเหล็กหนามากกว่า 2.3 มม. ได้มาตรฐาน มอก. และมีความหนามากกว่าทั่วไปถึง 1.4 เท่า เคลือบสีกันสนิมเกรดสูงจาก BEGER ทั้งระบบ GLIPTECH และ RUST GUARD (Epoxy) ในจุดที่สัมผัสแดดและฝน ควบคุมงานโดยสถาปนิกและวิศวกรระดับสามัญ จึงมั่นใจได้ในคุณภาพของโครงสร้าง ความแข็งแรง และความทนทานในระยะยาว"
+        },
+        "image": "/images/source/unwind/694acd6b802a0ed904111e67_unwind-img-06.webp",
+        "status": "conflict",
+        "notes": "TH mentions RUST GUARD (Epoxy) and 'วิศวกรระดับสามัญ' (senior-level licence) not in EN; the detail panel says 'from 2.3 mm' (ตั้งแต่) vs 'over 2.3 mm'. EN detail panel adds 'GLIPTECH system together with a two-layer protective topcoat'."
+      },
+      {
+        "id": "flooring-system",
+        "label": { "en": "Flooring System", "th": "Flooring System" },
+        "text": {
+          "en": "Steel floor joists are spaced at 40 cm for even load distribution and stability. Finished with 20 mm SCG Smart Board and 5 mm SCG SPC Click Lock flooring, creating a solid and firm surface that feels stable and comfortable underfoot.",
+          "th": "โครงรับพื้นวางถี่ทุก 40 ซม. เพื่อการกระจายน้ำหนักที่สม่ำเสมอและมั่นคง ปิดผิวด้วย Smart Board SCG หนา 20 มม. และ SPC Click Lock SCG หนา 5 มม. ช่วยให้พื้นแน่น แข็งแรง และเดินได้อย่างมั่นใจ"
+        },
+        "image": "/images/source/unwind/694acd6b82786849ab80c623_unwind-img-05.webp",
+        "status": "extracted"
+      },
+      {
+        "id": "wall-materials",
+        "label": { "en": "Wall Materials", "th": "Wall Materials" },
+        "text": {
+          "en": "Steel framing at 60 cm intervals provides strong, rigid walls with minimal movement. SCG Smart Board is used at 8 mm inside and 10 mm outside, thicker than standard, with 2-inch foil-faced insulation inside the external walls to reduce heat.",
+          "th": "ผนังโครงเหล็กวางระยะทุก 60 ซม. เพื่อความแข็งแรง ไม่สั่น ไม่ยวบ ใช้ Smart Board SCG หนา 8 มม. สำหรับผนังภายใน และหนา 10 มม. สำหรับผนังภายนอกซึ่งหนากว่าระดับทั่วไป ช่วยให้ผนังแน่น แข็งแรง ไม่เปราะบาง เสริมด้วยฉนวนใยแก้วหุ้มฟอยล์หนา 2 นิ้ว ซ่อนภายในผนังภายนอก ช่วยลดความร้อนจากภายนอกได้อย่างมีประสิทธิภาพ"
+        },
+        "image": "/images/source/unwind/694acd6b56f80fe66b21adca_unwind-img-04.webp",
+        "status": "extracted"
+      },
+      {
+        "id": "outdoor-terrace",
+        "label": { "en": "Outdoor Terrace", "th": "Outdoor Terrace" },
+        "text": {
+          "en": "Balcony floors and exterior ceilings are finished with premium WPC wood composite for durability against sun and rain. CONWOOD / SHERA panels are used at wall joints for a clean finish and long-term water protection.",
+          "th": "พื้นระเบียงและฝ้าภายนอกปูด้วยไม้เทียม WPC เกรดพรีเมียม ทนแดด ทนฝนและคงรูปได้ดี เก็บรอยต่อผนังด้วย CONWOOD / SHERA เพื่อความเรียบร้อยและช่วยป้องกันปัญหาน้ำซึมในระยะยาว"
+        },
+        "image": "/images/source/unwind/694acd6b784db25ede0acc8d_unwind-img-03.webp",
+        "status": "extracted"
+      },
+      {
+        "id": "door-window",
+        "label": { "en": "Door & Window", "th": "Door & Window" },
+        "text": {
+          "en": "Wood-grain aluminum frames paired with 6 mm clear glass offer the look of wood with better durability, sound reduction, and strength. Built-in rain barriers keep interiors quiet and dry.",
+          "th": "ประตู–หน้าต่างอลูมิเนียมลายไม้ให้ความสวยงามเสมือนไม้จริงโดยไม่ซีดจาง ใช้กระจกใสหนา 6 มม. ช่วยลดเสียงรบกวนและเพิ่มความแข็งแรง พร้อมรางลดระดับป้องกันน้ำฝนเข้าสู่ภายในเพื่อความเงียบ สบาย และแห้งสนิทในทุกสภาพอากาศ"
+        },
+        "image": "/images/source/unwind/694acd6bf5bd4a8396d40ad1_unwind-img-02.webp",
+        "status": "extracted"
+      },
+      {
+        "id": "roof-materials",
+        "label": { "en": "Roof Materials", "th": "Roof Materials" },
+        "text": {
+          "en": "The roof uses 0.4 mm metal sheets with 1-inch PU insulation, providing stronger weather resistance, reduced heat, and less rain noise, all with a clean, modern profile.",
+          "th": "หลังคา Metal Sheet หนา 0.4 มม. แข็งแรงกว่าทั่วไปถึง 1.35 เท่า ทนทานต่อแรงลมและฝนได้ดีพร้อมฉนวน PU หนา 1 นิ้ว ในตัวแผ่นช่วยลดทั้งความร้อนและเสียงจากฝนกระทบ ดีไซน์ลอนพิเศษช่วยเสริมภาพลักษณ์เรียบหรู มอบบรรยากาศภายในที่เย็นสบายและเงียบกว่าหลังคาทั่วไป"
+        },
+        "image": "/images/source/unwind/694acd6b9cd45665704b6a7a_unwind-img-01.webp",
+        "status": "conflict",
+        "notes": "TH claims '1.35x stronger than typical'; EN does not. Comparative claims need a client-supplied basis before reuse."
+      }
+    ],
+    "materials_applies_to": "The Alive Series page reuses the Unwind materials block verbatim (including the sentence 'every material in the Unwind Series'). Whether Alive uses identical specs is not confirmed."
+  },
+  "series": [
+    {
+      "id": "unwind",
+      "slug": "unwind-series",
+      "name": "Unwind Series",
+      "status": "available",
+      "source_url": { "en": "https://www.clayandstone.co.th/en/products/unwind-series", "th": "https://www.clayandstone.co.th/th/products/unwind-series" },
+      "concept": { "en": "Returning Nature to Living", "th": "Returning Nature to Living" },
+      "tagline": { "en": "Slow Living, Quiet Moments: Designed for those who seek calm in nature.", "th": "Slow Living, Quiet Moments: Designed for those who seek calm in nature." },
+      "headline": { "en": "A modular home designed to connect you with nature.", "th": "บ้านโมดูลาร์เพื่อการอยู่อาศัยที่เชื่อมโยงกับธรรมชาติ" },
+      "intro": {
+        "en": "The Unwind Series by Clay & Stone is a collection of modular homes for sale built around one simple idea: living well means living close to nature. Designed using a standardized modular system, each home allows for faster construction, predictable costs, and the flexibility to adapt as life evolves. Whether you're looking for a weekend retreat, a second home on your land, or a resort unit, the Unwind Series offers a modular house design that balances warmth, simplicity, and lasting quality.",
+        "th": "บ้านโมดูลาร์จาก Clay & Stone ที่ออกแบบภายใต้แนวคิด \"Returning Nature to Living\" ผสานความเรียบง่าย สบาย และกลมกลืนกับธรรมชาติ บ้านทุกหลังถูกสร้างด้วย ระบบโมดูลาร์ (Modular System) มาตรฐาน ทำให้ก่อสร้างเร็ว คุ้มค่า และปรับต่อเติมได้ในอนาคต เหมาะสำหรับผู้ที่ต้องการ Modular House ที่มีคุณภาพ ในราคาที่จับต้องได้"
+      },
+      "values": ["Simplicity", "Comfort", "Homey", "Harmony with Nature"],
+      "intended_use": {
+        "en": ["Weekend retreat", "Second home on your land", "Resort unit", "Vacation home", "Boutique resort villa", "Private sanctuary in your backyard garden"],
+        "source": "/en/products/unwind-series (intro, FAQ 1)"
+      },
+      "starting_price_thb": { "value_intro_and_faq": 830000, "value_lowest_price_card": 849000, "status": "conflict" },
+      "flexible_functions": ["Bedroom", "Party Room", "Kid's room", "Living & Dining Room", "Family Room", "Working Studio"],
+      "module_combinations": ["Living / Dining & Bedroom", "Living / Dining & Working Studio", "Family & Working Studio", "Family & Party Room", "Family & Kid's Room", "Family & Working Studio (listed twice on source)"],
+      "images": {
+        "identity": [
+          "/images/source/series-identity/694e06c359f693d74fbc9624_bi-img-1.webp",
+          "/images/source/series-identity/694e06c332789bcc8d3cd096_bi-img-2.webp",
+          "/images/source/series-identity/6973bd5e2146ef02e151edff_bi-img-3.webp",
+          "/images/source/series-identity/694e06c3033fd1da79ed18d9_bi-img-4.webp"
+        ],
+        "size_diagram": ["/images/source/unwind/694acd6bbdf13be6a0809bd0_unwind-img-08.webp", "/images/source/unwind/694acd6bd9f8bd55b66a2a58_unwind-img-09.webp"],
+        "module_diagram": "/images/source/unwind/696c926e13e832bcb95bac6c_Frame-205.webp"
+      },
+      "models": [
+        {
+          "id": "unwind-standard",
+          "name": "Standard Type",
+          "series": "unwind",
+          "storeys": 1,
+          "storeys_source": "/en/projects ('A compact single-story modular home')",
+          "bedrooms": { "value": 0, "label": "Studio (open main module, no separate bedroom)", "status": "derived", "source": "Floor-plan image + projects description" },
+          "bathrooms": { "value": 1, "status": "derived", "source": "Floor-plan image shows one 4.5 sqm toilet module" },
+          "price_thb": {
+            "price_card": 849000,
+            "intro_faq_and_blogs": 830000,
+            "status": "conflict",
+            "vat_included": true
+          },
+          "usable_area_sqm": 43.5,
+          "area_breakdown_sqm": { "interior_and_toilet": 23, "outdoor_terrace": 21 },
+          "area_notes": "23 + 21 = 44, not 43.5. The module diagram shows Main Module 18 + Toilet 4.5 = 22.5 sqm interior, which makes 43.5 consistent. The Unwind size diagram labels 'Total terrace area 23 sqm', which conflicts with 21 sqm.",
+          "area_status": "conflict",
+          "footprint_m": { "status": "derived", "value": "Main module 6.0 x 2.9 m + 1.5 m toilet module; terrace ~4.2 + 4.5 m wide x 2.5 m (from floor-plan image)" },
+          "description": {
+            "en": "A compact single-story modular home designed around simplicity and space efficiency. Thoughtfully planned to include only the essentials, this layout is ideal for a cozy retreat, private studio, or weekend getaway, creating a comfortable space that feels open, functional, and easy to live in.",
+            "th": "บ้านสำเร็จรูปชั้นเดียว ที่ถูกออกแบบมาเพื่อการใช้สอยพื้นที่อย่างคุ้มค่าสูงสุด เหมาะสำหรับที่ดินขนาดกลางหรือผู้ที่มองหา บ้านสำเร็จรูปพร้อมอยู่ ที่ไม่ต้องเสียเวลารอนาน เราคัดสรรฟังก์ชันการใช้งานที่ครบครัน เพื่อให้ทุกตารางเมตรกลายเป็นพื้นที่พักผ่อนที่สมบูรณ์แบบสำหรับคุณ"
+          },
+          "suitable_for": { "en": ["Cozy retreat", "Private studio", "Weekend getaway"], "source": "/en/projects" },
+          "floor_plan_image": "/images/source/projects/696c94af7b535bb0f87f9deb_Standard-Type.webp",
+          "gallery_ref": "projects.json#unwind-standard",
+          "source_url": "https://www.clayandstone.co.th/en/products/unwind-series"
+        },
+        {
+          "id": "unwind-loft",
+          "name": "Loft Type",
+          "series": "unwind",
+          "storeys": 2,
+          "storeys_source": "/en/projects ('a 2-story, loft-style prefab home')",
+          "bedrooms": { "value": null, "label": "Loft sleeping level (exact room count not stated)", "status": "missing" },
+          "bathrooms": { "value": 1, "status": "derived", "source": "Floor-plan image" },
+          "price_thb": { "price_card": 1210000, "intro_faq_and_blogs": 1190000, "status": "conflict", "vat_included": true },
+          "usable_area_sqm": 47,
+          "area_breakdown_sqm": { "interior_and_toilet": 26, "outdoor_terrace": 15.5, "outdoor_pet_house": 5.5 },
+          "area_status": "extracted",
+          "description": {
+            "en": "Elevate your living experience with a 2-story, loft-style prefab home. By expanding vertically, this design delivers an incredibly airy, modern feel, making it the ideal solution for limited land plots that require extra private space. Built with innovative prefabrication techniques, it guarantees rapid installation on-site while maintaining absolute structural strength in every detail.",
+            "th": "ยกระดับการอยู่อาศัยด้วยบ้านสำเร็จรูป 2 ชั้นในสไตล์ Loft ด้วยการเพิ่มพื้นที่ใช้สอยด้านบน มอบความรู้สึกโปร่งโล่งและทันสมัย ตอบโจทย์ที่ดินจำกัดแต่ต้องการพื้นที่ส่วนตัวเพิ่มขึ้น ด้วยนวัตกรรมบ้านประกอบสำเร็จรูปที่เน้นความรวดเร็วในการติดตั้งแต่ยังคงความแข็งแรงในทุกรายละเอียด"
+          },
+          "suitable_for": { "en": ["Limited land plots that require extra private space"], "source": "/en/projects" },
+          "floor_plan_image": "/images/source/projects/696c94afbae329ca4a95543e_Loft-Type.webp",
+          "gallery_ref": "projects.json#unwind-loft",
+          "source_url": "https://www.clayandstone.co.th/en/products/unwind-series"
+        },
+        {
+          "id": "unwind-1bed-2bath",
+          "name": "1 Bed 2 Bath",
+          "series": "unwind",
+          "storeys": 1,
+          "storeys_source": "derived from floor-plan image",
+          "bedrooms": { "value": 1, "status": "extracted" },
+          "bathrooms": { "value": 2, "status": "extracted" },
+          "price_thb": { "price_card": 1690000, "intro_faq_and_blogs": 1660000, "status": "conflict", "vat_included": true },
+          "usable_area_sqm": 82,
+          "area_breakdown_sqm": { "interior_and_toilet": 45.5, "outdoor_terrace": 36.5 },
+          "area_status": "extracted",
+          "features": { "en": ["Master bedroom with en-suite bathroom", "Guest restroom", "Central living area", "Dedicated kitchen space", "Dedicated laundry area"], "source": "/en/products/unwind-series (FAQ 3), /en/projects" },
+          "claims": [{ "en": "Our most popular model", "source": "/en/products/unwind-series (FAQ 3)", "status": "unverified-claim" }],
+          "description": {
+            "en": "Designed as a compact layout with complete living functionality, this modular home combines smart planning with everyday comfort. A separate bedroom, two bathrooms, kitchen space, and dedicated laundry area create a home that supports real family living, thoughtfully designed to feel efficient, comfortable, and easy to live in.",
+            "th": "แบบบ้านโมดูลาร์ ขนาดกะทัดรัดที่มาพร้อมฟังก์ชัน 1 ห้องนอน 2 ห้องน้ำ ออกแบบมาเพื่อผู้ที่หลงใหลในบ้านหลังเล็กคุณภาพพรีเมียม ไม่ว่าจะให้เป็นบ้านพักตากอากาศสุดหรู บ้านสวนส่วนตัว หรือที่พักอาศัยในต่างจังหวัดที่เน้นความสะดวกสบายและดีไซน์ที่โดดเด่น"
+          },
+          "suitable_for": { "en": ["Small families", "Couples", "Retirees", "Long-term second home"], "source": "/en/products/unwind-series (FAQ 3), /en/blogs/modular-house-price" },
+          "video": "https://youtu.be/G8_2lxRIVV4",
+          "floor_plan_image": "/images/source/misc/696c94af40a2517c51c3fe0d_1-Bed-2-Bath.webp",
+          "gallery_ref": "projects.json#unwind-1bed-2bath",
+          "source_url": "https://www.clayandstone.co.th/en/products/unwind-series"
+        },
+        {
+          "id": "unwind-2bed-2bath",
+          "name": "2 Bed 2 Bath",
+          "series": "unwind",
+          "storeys": 1,
+          "storeys_source": "derived from floor-plan image",
+          "bedrooms": { "value": 2, "status": "extracted" },
+          "bathrooms": { "value": 2, "status": "extracted" },
+          "price_thb": { "price_card": 2690000, "intro_faq_and_blogs": 2660000, "status": "conflict", "vat_included": true },
+          "usable_area_sqm": 123,
+          "area_breakdown_sqm": { "interior_and_toilet": 72, "outdoor_terrace": 51 },
+          "area_status": "extracted",
+          "description": {
+            "en": "The ideal starter prefab home for families looking for a fully functional, long-term living space. With a perfectly optimized 2-bedroom, 2-bathroom layout, this home is manufactured under strict factory standards. Delivered as a complete, ready-to-move-in modular house project, it allows you to begin the next chapter of your life immediately.",
+            "th": "บ้านสำเร็จรูป ขนาดเริ่มต้นสำหรับครอบครัวที่รองรับการอยู่อาศัยจริงได้อย่างเต็มรูปแบบ ด้วยฟังก์ชัน 2 ห้องนอน 2 ห้องน้ำ ที่จัดวางเลย์เอาต์อย่างลงตัว ผ่านกระบวนการผลิตที่ได้มาตรฐานจากโรงงาน และส่งมอบในฐานะบ้านประกอบสำเร็จรูปพร้อมอยู่ที่พร้อมให้คุณเริ่มต้นบทใหม่ของชีวิตได้ทันที"
+          },
+          "suitable_for": { "en": ["Families", "Long-term living", "Family getaway home"], "source": "/en/projects, /en/blogs/modular-house-price" },
+          "floor_plan_image": "/images/source/misc/69ea4eede3bfbd091ca58b4c_2-Bed-2-Bath.webp",
+          "gallery_ref": "projects.json#unwind-2bed-2bath",
+          "source_url": "https://www.clayandstone.co.th/en/products/unwind-series"
+        }
+      ]
+    },
+    {
+      "id": "alive",
+      "slug": "alive-series",
+      "name": "Alive Series",
+      "status": "available",
+      "source_url": { "en": "https://www.clayandstone.co.th/en/products/alive-series", "th": "https://www.clayandstone.co.th/th/products/alive-series" },
+      "concept": { "en": "Returning Nature to Living", "th": "Returning Nature to Living", "notes": "Same H1 as Unwind; may be a template carry-over." },
+      "tagline": { "en": "Compact living, expanded experiences : designed for those who feel most alive outside.", "th": "Compact living, expanded experiences : designed for those who feel most alive outside." },
+      "headline": { "en": null, "th": "บ้านที่ออกแบบเพื่อการใช้ชีวิตอย่างคล่องตัว ใกล้ชิดธรรมชาติ และเปิดรับประสบการณ์ใหม่", "notes": "The EN page shows the Unwind Thai H1 and Thai intro (untranslated copy). No English Alive intro exists." },
+      "seo_description": {
+        "en": "Alive Series: a compact prefab modular home designed for active, outdoor living. 2 bedrooms, 2 bathrooms, 68 sq.m., starting at 1,690,000 THB (incl. VAT) with free instal...",
+        "source": "meta description on /en/products/alive-series"
+      },
+      "values": ["Dynamic", "Compact", "Active", "Outdoor Living"],
+      "intended_use": { "en": ["Active, outdoor living (from tagline and meta description)"], "status": "extracted", "notes": "No dedicated use-case copy for Alive." },
+      "starting_price_thb": { "value": 1690000, "status": "extracted" },
+      "flexible_functions": ["Bedroom", "Bedroom & Kitchen Dining Room", "Master Bedroom & Living Room", "Bedroom & Working Room", "Kids & Kitchen Room", "2 Bedrooms"],
+      "module_combinations": ["Bedroom + Dining Pantry & Bedroom + Living", "2 Bedroom & Living + Kitchen", "Kids room + Kitchen & Bedroom + Living", "Bedroom + Working & Living + Kitchen", "Bedroom + Living & Bedroom + Dining Pantry", "2 Bedroom & Kids room + Kitchen"],
+      "images": {
+        "identity": [
+          "/images/source/series-identity/6a12b0d4a2474669906144bd_bi-img-1.webp",
+          "/images/source/series-identity/6a12b0d422ff42301f738e89_bi-img-2.webp",
+          "/images/source/series-identity/6a12ad6bab3ec83c046b4912_bi-img-3.png",
+          "/images/source/series-identity/6a12b0d48f34ca7e12f75e4c_bi-img-4.webp"
+        ],
+        "size_diagram": ["/images/source/alive/6adca2f4744fdbb7b15d8c5a_alive-size-iso.webp", "/images/source/alive/6adca2f3e65018171dadf46b_alive-size-plan.webp"],
+        "module_diagram": ["/images/source/alive/6adc7fa7eaf072fb5bde2abb_alive-module-isometric-tight.webp", "/images/source/alive/6adc7a82201fda999cc46954_alive-module-plan-split-bg.webp"]
+      },
+      "models": [
+        {
+          "id": "alive-2bed-2bath",
+          "name": "2 Bed 2 Bath",
+          "series": "alive",
+          "storeys": 1,
+          "storeys_source": "derived from floor-plan image",
+          "bedrooms": { "value": 2, "status": "extracted" },
+          "bathrooms": { "value": 2, "status": "extracted" },
+          "price_thb": { "price_card": 1690000, "status": "extracted", "vat_included": true },
+          "usable_area_sqm": 68,
+          "area_breakdown_sqm": { "interior_and_toilet": 45, "outdoor_terrace": 23 },
+          "area_status": "extracted",
+          "description": { "en": null, "th": null, "notes": "No model description on the live site." },
+          "floor_plan_image": "/images/source/projects/6a12b15a9e8bf0a84961150a_2-Bed-2-Bath.webp",
+          "gallery_ref": "projects.json#alive-2bed-2bath",
+          "source_url": "https://www.clayandstone.co.th/en/products/alive-series"
+        }
+      ]
+    },
+    {
+      "id": "humble",
+      "slug": "upcoming-product",
+      "name": "Humble Series",
+      "status": "coming-soon",
+      "source_url": { "en": "https://www.clayandstone.co.th/en/products/upcoming-product", "th": "https://www.clayandstone.co.th/th/products/upcoming-product" },
+      "page_text": { "en": "Humble is Coming Soon", "th": "Humble is Coming Soon" },
+      "seo_description": {
+        "en": "Humble Series, the next prefab modular home from Clay & Stone, is coming soon. Architect-designed, factory-built and quick to install. Contact us for early information.",
+        "th": "เตรียมพบ Humble Series บ้านสำเร็จรูประบบโมดูลาร์รุ่นใหม่จาก Clay & Stone ออกแบบโดยสถาปนิก ผลิตจากโรงงาน ติดตั้งเร็ว ติดต่อสอบถามข้อมูลล่วงหน้าได้แล้ววันนี้"
+      },
+      "models": [],
+      "notes": "Page is in sitemap but not linked from navigation. No specs, price, imagery or launch date. Must not be used in the Home Finder."
+    }
+  ]
+}

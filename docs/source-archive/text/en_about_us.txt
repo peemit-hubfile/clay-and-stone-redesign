@@ -1,0 +1,196 @@
+META {
+ "lang": "en-US",
+ "description": "Behind every Clay and Stone home is a dedication to engineering excellence. Explore our story, our innovative Modular construction process, and why we are the trusted partner for modern, durable knockdown homes.",
+ "og:title": "About Us | Clay and Stone - Redefining Modular Home Excellence",
+ "og:description": "Behind every Clay and Stone home is a dedication to engineering excellence. Explore our story, our innovative Modular construction process, and why we are the trusted partner for modern, durable knockdown homes.",
+ "og:image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp",
+ "twitter:title": "About Us | Clay and Stone - Redefining Modular Home Excellence",
+ "twitter:description": "Behind every Clay and Stone home is a dedication to engineering excellence. Explore our story, our innovative Modular construction process, and why we are the trusted partner for modern, durable knockdown homes.",
+ "og:type": "website",
+ "twitter:card": "summary_large_image",
+ "viewport": "width=device-width, initial-scale=1",
+ "google-site-verification": "_0Lh__7EFJwDXwb8lb-4kPwXPdbKFdH9otSM8xOdgws",
+ "generator": "Webflow",
+ "title": "About Us | Clay and Stone - Redefining Modular Home Excellence"
+}
+HREFLANG [["x-default", "https://www.clayandstone.co.th/th/about-us"], ["th-TH", "https://www.clayandstone.co.th/th/about-us"], ["en-US", "https://www.clayandstone.co.th/en/about-us"]]
+JSONLD []
+VIDEOS ["iframe:https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7"]
+BGS []
+-----
+About Us | Clay and Stone - Redefining Modular Home Excellence
+Skip to main content
+  -> (#main)
+  -> (/en)
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Products
+Unwind
+Series
+  -> (/en/products/unwind-series)
+Alive
+Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+EN
+Thai
+  -> (/th/about-us)
+English
+  -> (/en/about-us)
+Book Consultation
+  -> (https://linktr.ee/clayandstone.official)
+Book Consultation
+  -> (/en)
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Products
+Unwind
+Series
+  -> (/en/products/unwind-series)
+Alive
+Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+EN
+Thai
+  -> (/th/about-us)
+English
+  -> (/en/about-us)
+Book Consultation
+  -> (https://linktr.ee/clayandstone.official)
+Book Consultation
+## Clay & Stone
+### is a prefabricated home builder
+Founded by a professional team of architects, engineers, and construction specialists, Clay & Stone brings design and build expertise together under one roof. We focus on every detail — from functional planning and aesthetics to long-term durability — to create homes that are truly comfortable, lasting, and designed for real living.
+### What We Do
+## 01
+#### Homes designed using a standardized modular system.
+## 02
+#### Home modules manufactured in a factory with consistent quality standards.
+## 03
+#### Modules transported to the site in one complete delivery.
+## 04
+#### On-site assembly and final installation.
+### Our Team
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6946fb0249544502579b0ed9_team-img-1.webp
+##### Panita Rojanakansakun
+###### ผู้อำนวยการฝ่ายออกแบบ / สถาปนิก
+อาจารย์พิเศษ คณะสถาปัตยกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย
+ปริญญาโท สาขาการออกแบบอย่างยั่งยืนขั้นสูง (Advanced Sustainable Design),
+มหาวิทยาลัยเอดินบะระ สหราชอาณาจักร
+มีประสบการณ์มากกว่า 15 ปี ด้านการออกแบบสถาปัตยกรรม ที่ปรึกษาด้านอาคารเขียว และการพัฒนาโครงการ
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6946fb02c4ba3d0d8abe8828_team-img-2.webp
+##### Pornthep Rojanakansakun
+###### ผู้ก่อตั้ง / สถาปนิก
+ปริญญาโท สาขาธุรกิจอสังหาริมทรัพย์ (MRE),
+มหาวิทยาลัยธรรมศาสตร์
+มีประสบการณ์มากกว่า 15 ปี ด้านการออกแบบสถาปัตยกรรมและการพัฒนาโครงการที่พักอาศัย
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6946fb02e1d72654dcae8b3b_team-img-3.webp
+##### Apisit Sirikhwanwiwat
+###### ผู้อำนวยการฝ่ายก่อสร้าง / สถาปนิก
+ปริญญาตรี สถาปัตยกรรมศาสตรบัณฑิต,
+มหาวิทยาลัยศิลปากร
+มีประสบการณ์มากกว่า 15 ปี ด้านการบริหารจัดการงานก่อสร้างและการก่อสร้าง
+### Our Lovely Clients
+Previous
+  -> (#)
+Previous
+Next
+  -> (#)
+Next
+Professional team!
+‍
+I visited the showroom and met an architect (I believe he is the owner) he provided all information and explained every single detail which I wondered about
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6963b907599c2da933680d0f_Mask%20group-1.png
+###### Sujinda Limpanichpackdee
+###### Product
+Beautiful house with high-quality materials. I love the veranda and would like to have one in my garden.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6963b907a0f413f269550cd6_Mask%20group.png
+###### Wonngarm
+###### Product
+I loved the design of the house from the very beginning, as it perfectly matched the concept I was looking for.
+Visiting the show house with the owner and architect of Clay & Stone gave me confidence in the quality of the materials, as well as the reasonable construction timeline. It made me feel assured that I would receive a high-quality home at a fair price.
+I have never regretted my decision. The house is comfortable, functional, and truly livable, with outstanding after-sales service.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6974c69c094fb83e9a1511fc_Screenshot%202569-01-24%20at%2017.08.20.png
+###### K. Orachorn (K. Kae)
+###### 1 Bed 2 Bath Type in Suphanburi
+Speaking directly with the company owner, who oversees both design and construction, gave me clear and thorough information. It also allowed me to see the brand's attitude, design philosophy, and attention to detail, which made me confident in my decision to choose CLAY & STONE.
+After the handover, I felt proud of my decision and reassured by the continued care and support after sales.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6974c69c7a4fc9e79c618954_Screenshot%202569-01-24%20at%2017.08.26.png
+###### K. Sujinda (K. Lek)
+###### Loft Type in Suphanburi
+The house features a stylish yet simple design, built with high-standard materials. It feels solid, comfortable, and well insulated, making it suitable for long-term living.
+The company is responsible and attentive, offering reliable after-sales care and consultation.
+Many thanks to Khun Thep and the Clay & Stone team for delivering a quality home.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6974c69c22bf4018cd646d94_Screenshot%202569-01-24%20at%2017.08.33.png
+###### K. Ketskanok (K. Miew)
+###### Standard Type in Saraburi
+The house design and materials were interesting.
+When we visited the show house, Khun Thep was able to answer our questions clearly and provided helpful assistance and advice. This made us feel confident in choosing Clay & Stone.
+[IMG alt=""] https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg
+###### K. Pornsak (K. Pok)
+###### Standard Type in Bangkok
+Contact Us
+### Talk to Clay & Stone Today
+#### ติดต่อทีมงานได้เลยวันนี้
+#### Email :
+#### clay.panitar@gmail.com
+  -> (mailto:clay.panitar@gmail.com)
+#### Tel :
+#### 086-3822116
+  -> (tel:+66863822116)
+#### Line :
+#### @claystone
+  -> (https://lin.ee/5oKztUS)
+Contact Us
+  -> (https://linktr.ee/clayandstone.official)
+Contact Us
+Clay & Stone Office and Showroom
+152/1, Soi Tiwanon 45, Ta Sai, Mueang Nonthaburi District, Nonthaburi 11000
+LINE : @claystone
+Email : clay.panitar@gmail.com
+Tel : 086-3822116
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Unwind Series
+  -> (/en/products/unwind-series)
+Alive Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+  -> (https://web.facebook.com/ClayxStone/)
+  -> (https://www.instagram.com/clay_andstone/)
+  -> (https://lin.ee/5oKztUS)
+[IFRAME] https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7

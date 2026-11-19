@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "description": "Navigation as it exists on the live site (current) and the proposed prototype navigation (proposed). Proposed labels reuse existing wording where possible; new labels are marked status: 'proposed-new-label' and need client sign-off.",
+    "extracted_on": "2026-11-20",
+    "source": "Header and footer of https://www.clayandstone.co.th/th and /en"
+  },
+  "current": {
+    "header": [
+      { "id": "home", "href": { "th": "/th", "en": "/en" }, "label": { "th": "หน้าแรก", "en": "Home" } },
+      { "id": "about", "href": { "th": "/th/about-us", "en": "/en/about-us" }, "label": { "th": "เกี่ยวกับเรา", "en": "About Us" } },
+      {
+        "id": "products",
+        "label": { "th": "สินค้า", "en": "Products" },
+        "href": null,
+        "children": [
+          { "id": "unwind", "href": { "th": "/th/products/unwind-series", "en": "/en/products/unwind-series" }, "label": { "th": "Unwind Series", "en": "Unwind Series" } },
+          { "id": "alive", "href": { "th": "/th/products/alive-series", "en": "/en/products/alive-series" }, "label": { "th": "Alive Series", "en": "Alive Series" } }
+        ]
+      },
+      { "id": "projects", "href": { "th": "/th/projects", "en": "/en/projects" }, "label": { "th": "โปรเจค", "en": "Projects" } },
+      { "id": "process", "href": { "th": "/th/process", "en": "/en/process" }, "label": { "th": "กระบวนการ", "en": "Process" } },
+      { "id": "good-to-know", "href": { "th": "/th/good-to-know", "en": "/en/good-to-know" }, "label": { "th": "สิ่งที่ควรรู้", "en": "Good to Know" } },
+      { "id": "blogs", "href": { "th": "/th/blogs", "en": "/en/blogs" }, "label": { "th": "บล็อก", "en": "Blogs" } },
+      { "id": "contact", "href": { "th": "/th/contact-us", "en": "/en/contact-us" }, "label": { "th": "ติดต่อเรา", "en": "Contact Us" } }
+    ],
+    "header_cta": {
+      "label": { "th": "สอบถามข้อมูล", "en": "Book Consultation" },
+      "href": "https://linktr.ee/clayandstone.official",
+      "notes": "Primary CTA leaves the site to a Linktree page. TH and EN labels differ in meaning (TH = 'Enquire', EN = 'Book Consultation')."
+    },
+    "language_switcher": { "options": [{ "code": "th", "label": "Thai" }, { "code": "en", "label": "English" }], "display": "TH / EN dropdown" },
+    "footer": {
+      "columns": [
+        ["Home", "About Us", "Unwind Series", "Alive Series", "Projects"],
+        ["Process", "Good to Know", "Blogs", "Contact Us"]
+      ],
+      "social": [
+        { "id": "facebook", "href": "https://web.facebook.com/ClayxStone/" },
+        { "id": "instagram", "href": "https://www.instagram.com/clay_andstone/" },
+        { "id": "line", "href": "https://lin.ee/5oKztUS" }
+      ]
+    },
+    "orphan_pages": [
+      { "path": "/th/products/upcoming-product", "notes": "In sitemap, not in navigation (Humble Series - coming soon)." },
+      { "path": "/th/search", "notes": "In sitemap; no visible search entry point found in header." }
+    ]
+  },
+  "proposed": {
+    "status": "draft - for review at Stage 1 gate",
+    "header": [
+      { "id": "homes", "label": { "th": "แบบบ้าน", "en": "Our Homes" }, "status": "proposed-new-label", "href": { "th": "/th/homes", "en": "/en/homes" },
+        "children": [
+          { "id": "unwind", "label": { "th": "Unwind Series", "en": "Unwind Series" }, "href": { "th": "/th/homes/unwind-series", "en": "/en/homes/unwind-series" } },
+          { "id": "alive", "label": { "th": "Alive Series", "en": "Alive Series" }, "href": { "th": "/th/homes/alive-series", "en": "/en/homes/alive-series" } },
+          { "id": "compare", "label": { "th": "เปรียบเทียบแบบบ้าน", "en": "Compare Homes" }, "status": "proposed-new-label", "href": { "th": "/th/homes/compare", "en": "/en/homes/compare" } },
+          { "id": "finder", "label": { "th": "ค้นหาบ้านที่ใช่", "en": "Home Finder" }, "status": "proposed-new-label", "href": { "th": "/th/home-finder", "en": "/en/home-finder" } }
+        ] },
+      { "id": "projects", "label": { "th": "โปรเจค", "en": "Projects" }, "href": { "th": "/th/projects", "en": "/en/projects" } },
+      { "id": "how-we-build", "label": { "th": "กระบวนการ", "en": "How We Build" }, "status": "proposed-new-label (EN)", "href": { "th": "/th/process", "en": "/en/process" } },
+      { "id": "knowledge", "label": { "th": "สิ่งที่ควรรู้", "en": "Good to Know" }, "href": { "th": "/th/good-to-know", "en": "/en/good-to-know" },
+        "notes": "Merges FAQ + educational videos + blog index into one Knowledge Center." },
+      { "id": "about", "label": { "th": "เกี่ยวกับเรา", "en": "About" }, "href": { "th": "/th/about-us", "en": "/en/about-us" } }
+    ],
+    "header_cta": { "label": { "th": "นัดปรึกษา", "en": "Book a Consultation" }, "status": "proposed-new-label (TH)", "href": { "th": "/th/contact-us", "en": "/en/contact-us" }, "notes": "Keep users on-site; contact page offers LINE / phone / email / showroom visit." },
+    "utility": ["Language switch (TH/EN, same-page)", "LINE quick action (mobile)"]
+  }
+}

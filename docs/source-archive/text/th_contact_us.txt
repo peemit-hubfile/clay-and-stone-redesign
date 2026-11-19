@@ -1,0 +1,137 @@
+META {
+ "lang": "th-TH",
+ "description": "เริ่มต้นสร้างบ้านในฝันของคุณกับ Clay and Stone ติดต่อสอบถามข้อมูลบ้าน Modular ปรึกษาเรื่องการออกแบบ หรือนัดหมายเข้าชมโครงการ ทีมงานมืออาชีพของเราพร้อมให้คำปรึกษาและดูแลคุณในทุกขั้นตอน",
+ "og:title": "ติดต่อเรา | ปรึกษาเรื่องบ้าน Modular และนัดชมโครงการ - Clay and Stone",
+ "og:description": "เริ่มต้นสร้างบ้านในฝันของคุณกับ Clay and Stone ติดต่อสอบถามข้อมูลบ้าน Modular ปรึกษาเรื่องการออกแบบ หรือนัดหมายเข้าชมโครงการ ทีมงานมืออาชีพของเราพร้อมให้คำปรึกษาและดูแลคุณในทุกขั้นตอน",
+ "og:image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp",
+ "twitter:title": "ติดต่อเรา | ปรึกษาเรื่องบ้าน Modular และนัดชมโครงการ - Clay and Stone",
+ "twitter:description": "เริ่มต้นสร้างบ้านในฝันของคุณกับ Clay and Stone ติดต่อสอบถามข้อมูลบ้าน Modular ปรึกษาเรื่องการออกแบบ หรือนัดหมายเข้าชมโครงการ ทีมงานมืออาชีพของเราพร้อมให้คำปรึกษาและดูแลคุณในทุกขั้นตอน",
+ "og:type": "website",
+ "twitter:card": "summary_large_image",
+ "viewport": "width=device-width, initial-scale=1",
+ "google-site-verification": "_0Lh__7EFJwDXwb8lb-4kPwXPdbKFdH9otSM8xOdgws",
+ "generator": "Webflow",
+ "title": "ติดต่อเรา | ปรึกษาเรื่องบ้าน Modular และนัดชมโครงการ - Clay and Stone"
+}
+HREFLANG [["x-default", "https://www.clayandstone.co.th/th/contact-us"], ["th-TH", "https://www.clayandstone.co.th/th/contact-us"], ["en-US", "https://www.clayandstone.co.th/en/contact-us"]]
+JSONLD []
+VIDEOS ["iframe:https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3873.158040524964!2d100.50236037554204!3d13.889496686516871!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e2850064f9566d%3A0x5c41ba4727a57f2e!2sClay%20and%20Stone%20Co.%2C%20Ltd!5e0!3m2!1sen!2sth!4v1766300410396!5m2!1sen!2sth", "iframe:https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7"]
+BGS []
+-----
+ติดต่อเรา | ปรึกษาเรื่องบ้าน Modular และนัดชมโครงการ - Clay and Stone
+Skip to main content
+  -> (#main)
+  -> (/th)
+หน้าแรก
+  -> (/th)
+เกี่ยวกับเรา
+  -> (/th/about-us)
+สินค้า
+Unwind
+Series
+  -> (/th/products/unwind-series)
+Alive
+Series
+  -> (/th/products/alive-series)
+โปรเจค
+  -> (/th/projects)
+กระบวนการ
+  -> (/th/process)
+สิ่งที่ควรรู้
+  -> (/th/good-to-know)
+บล็อก
+  -> (/th/blogs)
+ติดต่อเรา
+  -> (/th/contact-us)
+TH
+Thai
+  -> (/th/contact-us)
+English
+  -> (/en/contact-us)
+สอบถามข้อมูล
+  -> (https://linktr.ee/clayandstone.official)
+สอบถามข้อมูล
+  -> (/th)
+หน้าแรก
+  -> (/th)
+เกี่ยวกับเรา
+  -> (/th/about-us)
+สินค้า
+Unwind
+Series
+  -> (/th/products/unwind-series)
+Alive
+Series
+  -> (/th/products/alive-series)
+โปรเจค
+  -> (/th/projects)
+กระบวนการ
+  -> (/th/process)
+สิ่งที่ควรรู้
+  -> (/th/good-to-know)
+บล็อก
+  -> (/th/blogs)
+ติดต่อเรา
+  -> (/th/contact-us)
+TH
+Thai
+  -> (/th/contact-us)
+English
+  -> (/en/contact-us)
+สอบถามข้อมูล
+  -> (https://linktr.ee/clayandstone.official)
+สอบถามข้อมูล
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694722e5b5351c705601b75d_contact-banner.webp
+## Contact Us
+##### Clay & Stone Office and Showroom
+###### 152/1, ซอยติวานนท์ 45, ตำบลท่าทราย, อำเภอเมืองนนทบุรี, จังหวัดนนทบุรี, 11000
+LINE : @claystone
+Email : clay.panitar@gmail.com
+Tel : 086-3822116
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6947227ec290d2303cbd848f_contact-img-1.webp
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6947227e5eaa2b1d7aede238_contact-img-2.webp
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6947227e8e251d0a6ad18993_contact-img-3.webp
+[IFRAME] https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3873.158040524964!2d100.50236037554204!3d13.889496686516871!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e2850064f9566d%3A0x5c41ba4727a57f2e!2sClay%20and%20Stone%20Co.%2C%20Ltd!5e0!3m2!1sen!2sth!4v1766300410396!5m2!1sen!2sth
+Contact Us
+#### Talk to Clay & Stone Today
+#### สนใจบ้านสำเร็จรูปหรืออยากดูแบบบ้านโมดูลาร์เพิ่มเติม?
+#### ติดต่อทีมงานได้เลยวันนี้
+#### Email :
+#### clay.panitar@gmail.com
+  -> (mailto:clay.panitar@gmail.com)
+#### Tel :
+#### 086-3822116
+  -> (tel:+66863822116)
+#### Line :
+#### @claystone
+  -> (https://lin.ee/5oKztUS)
+ติดต่อเรา
+  -> (https://linktr.ee/clayandstone.official)
+ติดต่อเรา
+Clay & Stone Office and Showroom
+152/1, ซอยติวานนท์ 45, ตำบลท่าทราย, อำเภอเมืองนนทบุรี, จังหวัดนนทบุรี, 11000
+LINE : @claystone
+Email : clay.panitar@gmail.com
+Tel : 086-3822116
+หน้าแรก
+  -> (/th)
+เกี่ยวกับเรา
+  -> (/th/about-us)
+Unwind Series
+  -> (/th/products/unwind-series)
+Alive Series
+  -> (/th/products/alive-series)
+โปรเจค
+  -> (/th/projects)
+กระบวนการ
+  -> (/th/process)
+สิ่งที่ควรรู้
+  -> (/th/good-to-know)
+บล็อก
+  -> (/th/blogs)
+ติดต่อเรา
+  -> (/th/contact-us)
+  -> (https://web.facebook.com/ClayxStone/)
+  -> (https://www.instagram.com/clay_andstone/)
+  -> (https://lin.ee/5oKztUS)
+[IFRAME] https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7

@@ -1,0 +1,216 @@
+META {
+ "lang": "th-TH",
+ "description": "เลือกชมแบบบ้านสำเร็จรูป หลากหลายสไตล์ในระบบ Modular มาตรฐานจากบริษัทสร้างบ้านสำเร็จรูปพร้อมติดตั้งที่ตอบโจทย์ทุกการอยู่อาศัย",
+ "og:title": "บ้านโมดูลาร์ บ้านสำเร็จรูป ดีไซน์โมเดิร์น พร้อมติดตั้ง | Clay & Stone",
+ "og:description": "เลือกชมแบบบ้านสำเร็จรูป หลากหลายสไตล์ในระบบ Modular มาตรฐานจากบริษัทสร้างบ้านสำเร็จรูปพร้อมติดตั้งที่ตอบโจทย์ทุกการอยู่อาศัย",
+ "og:image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp",
+ "twitter:title": "บ้านโมดูลาร์ บ้านสำเร็จรูป ดีไซน์โมเดิร์น พร้อมติดตั้ง | Clay & Stone",
+ "twitter:description": "เลือกชมแบบบ้านสำเร็จรูป หลากหลายสไตล์ในระบบ Modular มาตรฐานจากบริษัทสร้างบ้านสำเร็จรูปพร้อมติดตั้งที่ตอบโจทย์ทุกการอยู่อาศัย",
+ "og:type": "website",
+ "twitter:card": "summary_large_image",
+ "viewport": "width=device-width, initial-scale=1",
+ "google-site-verification": "_0Lh__7EFJwDXwb8lb-4kPwXPdbKFdH9otSM8xOdgws",
+ "generator": "Webflow",
+ "title": "บ้านโมดูลาร์ บ้านสำเร็จรูป ดีไซน์โมเดิร์น พร้อมติดตั้ง | Clay & Stone"
+}
+HREFLANG [["x-default", "https://www.clayandstone.co.th/th"], ["th-TH", "https://www.clayandstone.co.th/th"], ["en-US", "https://www.clayandstone.co.th/en"]]
+JSONLD []
+VIDEOS ["https://cdn.prod.website-files.com/693f3e67a692e733b206630e%2F69638ed4642e2f07b0d05f02_10%20Seconds%20Video_mp4.mp4,https://cdn.prod.website-files.com/693f3e67a692e733b206630e%2F69638ed4642e2f07b0d05f02_10%20Seconds%20Video_webm.webm", "poster:https://cdn.prod.website-files.com/693f3e67a692e733b206630e%2F69638ed4642e2f07b0d05f02_10%20Seconds%20Video_poster.0000000.jpg", "https://cdn.prod.website-files.com/693f3e67a692e733b206630e%2F69638ed4642e2f07b0d05f02_10%20Seconds%20Video_mp4.mp4", "https://cdn.prod.website-files.com/693f3e67a692e733b206630e%2F69638ed4642e2f07b0d05f02_10%20Seconds%20Video_webm.webm", "https://stupendous-trifle-c7ed75.netlify.app/home-bg-video.mp4", "iframe:https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7"]
+BGS ["https://cdn.prod.website-files.com/693f3e67a692e733b206630e%2F69638ed4642e2f07b0d05f02_10%20Seconds%20Video_poster.0000000.jpg"]
+-----
+บ้านโมดูลาร์ บ้านสำเร็จรูป ดีไซน์โมเดิร์น พร้อมติดตั้ง | Clay & Stone
+Skip to main content
+  -> (#main)
+  -> (/th)
+หน้าแรก
+  -> (/th)
+เกี่ยวกับเรา
+  -> (/th/about-us)
+สินค้า
+Unwind
+Series
+  -> (/th/products/unwind-series)
+Alive
+Series
+  -> (/th/products/alive-series)
+โปรเจค
+  -> (/th/projects)
+กระบวนการ
+  -> (/th/process)
+สิ่งที่ควรรู้
+  -> (/th/good-to-know)
+บล็อก
+  -> (/th/blogs)
+ติดต่อเรา
+  -> (/th/contact-us)
+TH
+Thai
+  -> (/th)
+English
+  -> (/en)
+สอบถามข้อมูล
+  -> (https://linktr.ee/clayandstone.official)
+สอบถามข้อมูล
+  -> (/th)
+หน้าแรก
+  -> (/th)
+เกี่ยวกับเรา
+  -> (/th/about-us)
+สินค้า
+Unwind
+Series
+  -> (/th/products/unwind-series)
+Alive
+Series
+  -> (/th/products/alive-series)
+โปรเจค
+  -> (/th/projects)
+กระบวนการ
+  -> (/th/process)
+สิ่งที่ควรรู้
+  -> (/th/good-to-know)
+บล็อก
+  -> (/th/blogs)
+ติดต่อเรา
+  -> (/th/contact-us)
+TH
+Thai
+  -> (/th)
+English
+  -> (/en)
+สอบถามข้อมูล
+  -> (https://linktr.ee/clayandstone.official)
+สอบถามข้อมูล
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e%2F69638ed4642e2f07b0d05f02_10%20Seconds%20Video_poster.0000000.jpg
+[IMG alt="Pause video"] https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628299f8aa233b83918e24fd_Pause.svg
+[IMG alt="Play video"] https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628298b20ae0236682d4b87f_Play-24.svg
+Brand Vision
+# เรามุ่งมั่นสร้างสรรค์ “บ้านสำเร็จรูป” ที่ผ่านการออกแบบอย่างพิถีพิถัน เพื่อยกระดับการอยู่อาศัยในแบบบ้านสำเร็จรูปโมเดิร์น ให้เข้าถึงง่ายสำหรับทุกคน
+สัมผัสประสบการณ์การอยู่อาศัยที่เหนือระดับกับ Clay & Stone บริษัทสร้างบ้านโมดูลาร์ บ้านสำเร็จรูป ที่มุ่งมั่นออกแบบบ้านด้วยนวัตกรรมที่ตอบโจทย์ไลฟ์สไตล์ยุคใหม่ เรานำเสนอบ้านสำเร็จรูปที่ผสมผสานความสวยงามและความทนทานเข้าด้วยกันอย่างลงตัว ไม่ว่าคุณจะมองหาที่พักอาศัย รีสอร์ท หรือสตูดิโอส่วนตัว
+Key Strengths
+## ทำไมต้องเลือกบ้านสำเร็จรูปพร้อมติดตั้งจาก Clay & Stone?
+เพราะเราไม่ใช่แค่ผู้รับเหมา แต่เราคือผู้เชี่ยวชาญด้านบ้านสำเร็จรูปที่ดูแลคุณตั้งแต่ขั้นตอนการเลือกแบบบ้านไปจนถึงการส่งมอบงาน ด้วยระบบการจัดการที่ได้มาตรฐาน ทำให้การสร้างบ้านไม่ใช่เรื่องยากอีกต่อไป ศึกษา
+กระบวนการสร้างบ้านโมดูลาร์
+  -> (https://www.clayandstone.co.th/th/process)
+ของเราได้เลย
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b1ad7cfb0d64088813_icon-1.webp
+### มาตรฐานใหม่ของ "บ้านสำเร็จรูป"
+Clay & Stone ออกแบบบ้านสำเร็จรูปที่ฉีกทุกกฎเดิมๆ ด้วยดีไซน์โดดเด่น ทั้งชายคายื่นยาว ระเบียงกว้าง และฟังก์ชันที่สวยงามลงตัว เราสร้างสรรค์บ้านสำเร็จรูปโมเดิร์นที่ตอบโจทย์วิถีชีวิตจริงของคนไทยในทุกมิติ
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b1d34324d6970cc09e_icon-2.webp
+### งานได้มาตรฐาน ตรงตามแบบที่เลือก
+ทุกขั้นตอนการออกแบบและก่อสร้าง อยู่ภายใต้การดูแลของสถาปนิกและวิศวกรมืออาชีพ เพื่อให้
+แบบบ้านสำเร็จรูป
+  -> (https://www.clayandstone.co.th/th/products/unwind-series)
+ทุกหลังแข็งแรง เรียบร้อย และสวยงามตรงปกตามที่คุณตั้งใจ พร้อมส่งมอบความเป็นเลิศในฐานะบริษัทสร้างบ้านสำเร็จรูปชั้นนำ
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b24da02e667081f97f_icon-3.webp
+### บ้านสำเร็จรูปพร้อมติดตั้ง และบริการหลังการขายที่วางใจได้
+มั่นใจกว่าด้วยบริการดูแลหลังการขายจากทีม Clay & Stone โดยตรง เพราะสำหรับเราการส่งมอบบ้านไม่ใช่จุดสิ้นสุด แต่คือจุดเริ่มต้นของการดูแลอย่างต่อเนื่อง เพื่อให้คุณอุ่นใจตลอดการใช้งานในบ้านสำเร็จรูปของเรา
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp
+"บ้านสำเร็จรูป....ที่ไม่เหมือนบ้านสำเร็จรูป"
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b18143bee7fe5a93a9_homepage-img-2.webp
+"ตรงแบบ ตรงใจ ในทุกดีเทล""
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b1e651e419f2f6162b_homepage-img-3.webp
+"ความอุ่นใจ...ที่ยาวนานกว่าการส่งมอบ"
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b1ad7cfb0d64088813_icon-1.webp
+##### Homes Beyond Prefab
+Clay & Stone ออกแบบบ้านสำเร็จรูปที่แตกต่างจากที่คุณเคยเห็น ทั้งชายคายื่นยาว ระเบียงใหญ่ และดีไซน์ที่สวยงามลงตัวตอบโจทย์วิถีชีวิตจริงของคนไทยในทุกมิติ
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp
+##### "บ้านสำเร็จรูป....ที่ไม่เหมือนบ้านสำเร็จรูป"
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b1d34324d6970cc09e_icon-2.webp
+##### Built True to Design
+ทุกขั้นตอนการออกแบบก่อสร้างและติดตั้ง อยู่ภายใต้การดูแลของสถาปนิกและวิศวกรมืออาชีพ บ้านทุกหลังจึงแข็งแรง เรียบร้อย และตรงปกตามที่คุณตั้งใจ
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b18143bee7fe5a93a9_homepage-img-2.webp
+##### "ตรงแบบ ตรงใจ ในทุกดีเทล"
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b24da02e667081f97f_icon-3.webp
+##### After Sales You can Rely On
+บริการหลังการขายจากทีม Clay & Stone โดยตรง ไม่ใช่แค่การส่งมอบแต่คือการดูแลอย่างต่อเนื่องไปตลอดการใช้งาน
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b1e651e419f2f6162b_homepage-img-3.webp
+##### "ความอุ่นใจ...ที่ยาวนานกว่าการส่งมอบ"
+ดูเพิ่มเติม
+  -> (/th/about-us)
+ดูเพิ่มเติม
+Highlighted Projects
+## ตัวอย่างบ้านสำเร็จรูปที่ออกแบบเพื่อการอยู่อาศัยจริง จาก Clay & Stone
+ชมผลงานติดตั้งจริงจาก Unwind Series ในหลากหลายรูปแบบ พร้อมเป็นต้นแบบให้บ้านที่ “อยู่สบายได้ในทุกวัน” ของคุณ
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2841123b22b146a53_homepage-img-4.webp
+#### 01/
+### Standard Type
+###### Unwind in Nonthaburi
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b299c682e7e931a374_homepage-img-6.webp
+#### 02/
+### Loft Type
+###### Unwind in Prachinburi
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2ef90983db1337f30_homepage-img-5.webp
+#### 03/
+### 1 Bed 2 Bath
+###### Unwind in Suphanburi
+ดูเพิ่มเติม
+  -> (/th/projects)
+ดูเพิ่มเติม
+FAQ
+## ทุกเรื่องที่คุณต้องรู้
+##### 1. บ้านสำเร็จรูป คืออะไร?
+บ้านสำเร็จรูป (Prefab Home)
+  -> (https://youtu.be/Uo16eHa15rk?si=N34xtJDIWxKs3Rst)
+คือรูปแบบการก่อสร้างที่ผลิตชิ้นส่วนหลักจากโรงงานภายใต้มาตรฐานที่ควบคุมได้ แล้วจึงนำไปติดตั้งหน้างาน สำหรับ Clay & Stone บ้านสำเร็จรูปของเราใช้โครงสร้างเหล็กเป็นหลัก ซึ่งมีความแข็งแรง ทนทาน และเหมาะกับการผลิตในระบบโรงงาน ทำให้ได้งานที่แม่นยำและมีคุณภาพสม่ำเสมอในทุกหลัง เมื่อผลิตเสร็จ ชิ้นส่วนจะถูกขนส่งไปติดตั้งที่หน้างาน โดยใช้เวลาเพียงประมาณ 15 วัน ก่อนเข้าสู่ขั้นตอนเก็บรายละเอียดและส่งมอบ
+##### 2. บ้านสำเร็จรูปแตกต่างจากบ้านก่อสร้างทั่วไปอย่างไร?
+ความแตกต่างหลักอยู่ที่ “วิธีการก่อสร้าง” และ “การควบคุมคุณภาพ” บ้านก่อสร้างทั่วไปจะดำเนินงานทีละขั้นตอนที่หน้างาน ซึ่งอาจได้รับผลกระทบจากสภาพอากาศและการควบคุมงานในแต่ละช่วง ขณะที่บ้านสำเร็จรูปโมดูลาร์ของ Clay & Stone ใช้การผลิตในโรงงานเป็นหลัก พร้อมทีมงานมืออาชีพดูแลทุกขั้นตอน จึงช่วยลดความคลาดเคลื่อนของงาน และควบคุมคุณภาพได้อย่างสม่ำเสมอ ผลลัพธ์คือ บ้านที่ได้มาตรฐานเดียวกันในทุกหลัง พร้อมระยะเวลาก่อสร้างที่ชัดเจนและคาดการณ์ได้
+‍
+##### 3. บ้านสำเร็จรูปของ Clay & Stone มีความแข็งแรงแค่ไหน?
+หลายคนกังวลเรื่องโครงสร้าง แต่สำหรับ Clay & Stone เราเน้น
+ความแข็งแรงของบ้านสำเร็จรูป
+  -> (https://youtu.be/gJMY5oSiwbQ?si=drhfsx3sAUI6L2tA)
+เป็นอันดับหนึ่ง เราเลือกใช้โครงสร้างเหล็กคุณภาพสูงที่ผ่านการคำนวณทางวิศวกรรมมาอย่างดี ผสานกับวัสดุผนังที่มีความทนทานสูง รับแรงลมและแรงสั่นสะเทือนได้ดีเยี่ยม ไม่ต่างจากการสร้างบ้านแบบก่ออิฐฉาบปูน
+##### 4. แบบบ้านสำเร็จรูปของ Clay & Stone มีให้เลือกแบบไหนบ้าง?
+ปัจจุบัน Clay & Stone มีแบบบ้านใน
+Unwind Series
+  -> (https://www.clayandstone.co.th/th/products/unwind-series)
+ซึ่งออกแบบมาให้เลือกได้หลากหลายตามไลฟ์สไตล์ ทั้งแบบ Standard Type และ Loft Type รวมถึงฟังก์ชัน 1 Bedroom และ 2 Bedroom ทุกแบบถูกออกแบบโดยคำนึงถึงการอยู่อาศัยจริงในสภาพอากาศเมืองไทย เช่น ชายคาที่ยื่นยาว พื้นที่ระเบียงที่ใช้งานได้จริง และรายละเอียดงานดีไซน์ที่ให้ความรู้สึกแตกต่างจากบ้านสำเร็จรูปทั่วไปในท้องตลาด
+##### 5. บริการหลังการขายและการรับประกันเป็นอย่างไร?
+ดูแลแน่นอนครับ เราให้ความสำคัญกับบริการหลังการขายเป็นพิเศษ โดยทีมงานดูแลลูกค้าโดยตรง ไม่ได้โอนความรับผิดชอบไปให้ผู้รับเหมาภายนอก ทำให้ลูกค้าที่เลือก
+บ้านสำเร็จรูปกับ Clay & Stone
+  -> (https://www.clayandstone.co.th/th/projects)
+ได้รับความอุ่นใจที่ต่อเนื่องไปตลอดการใช้งาน หากพบปัญหาหลังเข้าอยู่ ทีมช่างเทคนิคของเราพร้อมเข้าตรวจสอบและแก้ไขให้ทันที
+Contact Us
+#### Talk to Clay & Stone Today
+#### สนใจบ้านสำเร็จรูปหรืออยากดูแบบบ้านโมดูลาร์เพิ่มเติม?
+#### ติดต่อทีมงานได้เลยวันนี้
+#### Email :
+#### clay.panitar@gmail.com
+  -> (mailto:clay.panitar@gmail.com)
+#### Tel :
+#### 086-3822116
+  -> (tel:+66863822116)
+#### Line :
+#### @claystone
+  -> (https://lin.ee/5oKztUS)
+ติดต่อเรา
+  -> (https://linktr.ee/clayandstone.official)
+ติดต่อเรา
+Clay & Stone Office and Showroom
+152/1, ซอยติวานนท์ 45, ตำบลท่าทราย, อำเภอเมืองนนทบุรี, จังหวัดนนทบุรี, 11000
+LINE : @claystone
+Email : clay.panitar@gmail.com
+Tel : 086-3822116
+หน้าแรก
+  -> (/th)
+เกี่ยวกับเรา
+  -> (/th/about-us)
+Unwind Series
+  -> (/th/products/unwind-series)
+Alive Series
+  -> (/th/products/alive-series)
+โปรเจค
+  -> (/th/projects)
+กระบวนการ
+  -> (/th/process)
+สิ่งที่ควรรู้
+  -> (/th/good-to-know)
+บล็อก
+  -> (/th/blogs)
+ติดต่อเรา
+  -> (/th/contact-us)
+  -> (https://web.facebook.com/ClayxStone/)
+  -> (https://www.instagram.com/clay_andstone/)
+  -> (https://lin.ee/5oKztUS)
+[IFRAME] https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7

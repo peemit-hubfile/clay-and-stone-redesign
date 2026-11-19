@@ -1,0 +1,147 @@
+META {
+ "lang": "th-TH",
+ "description": "เปลี่ยนการสร้างบ้านให้เป็นเรื่องง่ายด้วย 4 ขั้นตอนจาก Clay and Stone พบกับนวัตกรรมการผลิตชิ้นส่วนจากโรงงานที่ช่วยคุมงบประมาณและเวลาได้แม่นยำ ติดตั้งไวในครั้งเดียว พร้อมส่งมอบบ้านคุณภาพถึงมือคุณ",
+ "og:title": "สร้างบ้านง่ายๆ ใน 4 ขั้นตอน | กระบวนการสร้างบ้านระบบโมดูลาร์ - Clay and Stone",
+ "og:description": "เปลี่ยนการสร้างบ้านให้เป็นเรื่องง่ายด้วย 4 ขั้นตอนจาก Clay and Stone พบกับนวัตกรรมการผลิตชิ้นส่วนจากโรงงานที่ช่วยคุมงบประมาณและเวลาได้แม่นยำ ติดตั้งไวในครั้งเดียว พร้อมส่งมอบบ้านคุณภาพถึงมือคุณ",
+ "og:image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b1e651e419f2f6162b_homepage-img-3.webp",
+ "twitter:title": "สร้างบ้านง่ายๆ ใน 4 ขั้นตอน | กระบวนการสร้างบ้านระบบโมดูลาร์ - Clay and Stone",
+ "twitter:description": "เปลี่ยนการสร้างบ้านให้เป็นเรื่องง่ายด้วย 4 ขั้นตอนจาก Clay and Stone พบกับนวัตกรรมการผลิตชิ้นส่วนจากโรงงานที่ช่วยคุมงบประมาณและเวลาได้แม่นยำ ติดตั้งไวในครั้งเดียว พร้อมส่งมอบบ้านคุณภาพถึงมือคุณ",
+ "og:type": "website",
+ "twitter:card": "summary_large_image",
+ "viewport": "width=device-width, initial-scale=1",
+ "google-site-verification": "_0Lh__7EFJwDXwb8lb-4kPwXPdbKFdH9otSM8xOdgws",
+ "generator": "Webflow",
+ "title": "สร้างบ้านง่ายๆ ใน 4 ขั้นตอน | กระบวนการสร้างบ้านระบบโมดูลาร์ - Clay and Stone"
+}
+HREFLANG [["x-default", "https://www.clayandstone.co.th/th/process"], ["th-TH", "https://www.clayandstone.co.th/th/process"], ["en-US", "https://www.clayandstone.co.th/en/process"]]
+JSONLD []
+VIDEOS ["https://stupendous-trifle-c7ed75.netlify.app/process-bg-video.mp4", "iframe:https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7"]
+BGS []
+-----
+สร้างบ้านง่ายๆ ใน 4 ขั้นตอน | กระบวนการสร้างบ้านระบบโมดูลาร์ - Clay and Stone
+Skip to main content
+  -> (#main)
+  -> (/th)
+หน้าแรก
+  -> (/th)
+เกี่ยวกับเรา
+  -> (/th/about-us)
+สินค้า
+Unwind
+Series
+  -> (/th/products/unwind-series)
+Alive
+Series
+  -> (/th/products/alive-series)
+โปรเจค
+  -> (/th/projects)
+กระบวนการ
+  -> (/th/process)
+สิ่งที่ควรรู้
+  -> (/th/good-to-know)
+บล็อก
+  -> (/th/blogs)
+ติดต่อเรา
+  -> (/th/contact-us)
+TH
+Thai
+  -> (/th/process)
+English
+  -> (/en/process)
+สอบถามข้อมูล
+  -> (https://linktr.ee/clayandstone.official)
+สอบถามข้อมูล
+  -> (/th)
+หน้าแรก
+  -> (/th)
+เกี่ยวกับเรา
+  -> (/th/about-us)
+สินค้า
+Unwind
+Series
+  -> (/th/products/unwind-series)
+Alive
+Series
+  -> (/th/products/alive-series)
+โปรเจค
+  -> (/th/projects)
+กระบวนการ
+  -> (/th/process)
+สิ่งที่ควรรู้
+  -> (/th/good-to-know)
+บล็อก
+  -> (/th/blogs)
+ติดต่อเรา
+  -> (/th/contact-us)
+TH
+Thai
+  -> (/th/process)
+English
+  -> (/en/process)
+สอบถามข้อมูล
+  -> (https://linktr.ee/clayandstone.official)
+สอบถามข้อมูล
+### Process
+#### 01/
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6947140666dfc1ae9d83bea0_process-icon-1.webp
+##### เริ่มงานออกแบบให้ตรงใจ
+แจ้งความต้องการและระบุฟังก์ชันที่อยากได้ ทีมออกแบบจะทำงานร่วมกับคุณอย่างใกล้ชิด เพื่อพัฒนาแบบบ้านให้ตรงตามความต้องการก่อนสั่งซื้อ
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/69471406a1a321bf471ee220_process-img-1.webp
+#### 02/
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/69471406d3cb2cc7e68de651_process-icon-2.webp
+##### เซ็นสัญญาและเริ่มผลิต
+เซ็นสัญญาสั่งผลิตและชำระเงินงวดแรก จากนั้นทีมงานเริ่มกระบวนการผลิตที่โรงงานตามแบบที่อนุมัติ
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/69471406798f62cda028eef1_process-img-2.webp
+#### 03/
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/69471406fac5dae6e8d555b0_process-icon-3.webp
+##### ขนส่งโมดูลถึงพื้นที่
+เมื่อการผลิตเสร็จสมบูรณ์ประมาณ 70% โมดูลของบ้านจะถูกขนส่งไปยังที่ดินของคุณเพื่อเตรียมประกอบหน้างาน
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6947140674a0c42e1ddd8700_process-img-3.webp
+#### 04/
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694714060e64d7ba7673369e_process-icon-4.webp
+##### ประกอบและส่งมอบบ้าน
+ติดตั้งและประกอบโมดูลทั้งหมดที่หน้างาน ใช้เวลาประมาณ 15 วัน ก่อนส่งมอบบ้านสำเร็จรูปที่เสร็จสมบูรณ์พร้อมเข้าอยู่
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694714063e7ac6bfe43e87fd_process-img-4.webp
+Contact Us
+#### Talk to Clay & Stone Today
+#### สนใจบ้านสำเร็จรูปหรืออยากดูแบบบ้านโมดูลาร์เพิ่มเติม?
+#### ติดต่อทีมงานได้เลยวันนี้
+#### Email :
+#### clay.panitar@gmail.com
+  -> (mailto:clay.panitar@gmail.com)
+#### Tel :
+#### 086-3822116
+  -> (tel:+66863822116)
+#### Line :
+#### @claystone
+  -> (https://lin.ee/5oKztUS)
+ติดต่อเรา
+  -> (https://linktr.ee/clayandstone.official)
+ติดต่อเรา
+Clay & Stone Office and Showroom
+152/1, ซอยติวานนท์ 45, ตำบลท่าทราย, อำเภอเมืองนนทบุรี, จังหวัดนนทบุรี, 11000
+LINE : @claystone
+Email : clay.panitar@gmail.com
+Tel : 086-3822116
+หน้าแรก
+  -> (/th)
+เกี่ยวกับเรา
+  -> (/th/about-us)
+Unwind Series
+  -> (/th/products/unwind-series)
+Alive Series
+  -> (/th/products/alive-series)
+โปรเจค
+  -> (/th/projects)
+กระบวนการ
+  -> (/th/process)
+สิ่งที่ควรรู้
+  -> (/th/good-to-know)
+บล็อก
+  -> (/th/blogs)
+ติดต่อเรา
+  -> (/th/contact-us)
+  -> (https://web.facebook.com/ClayxStone/)
+  -> (https://www.instagram.com/clay_andstone/)
+  -> (https://lin.ee/5oKztUS)
+[IFRAME] https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7

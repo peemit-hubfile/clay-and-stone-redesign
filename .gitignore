@@ -1,0 +1,25 @@
+# Dependencies & build
+node_modules/
+dist/
+.vercel/
+.env
+.env.*
+!.env.example
+
+# Client media: rights unverified, repository is public.
+# Kept locally for prototyping only. See docs/asset-inventory.md.
+public/images/source/
+public/videos/source/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Test output
+test-results/
+playwright-report/
+
+# Audit screenshots contain client photography (rights unverified)
+docs/audit-evidence/screenshots/

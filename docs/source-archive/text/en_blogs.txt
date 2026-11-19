@@ -1,0 +1,156 @@
+META {
+ "lang": "en-US",
+ "description": "Thinking of building a modular home? Read our comprehensive prefab house articles covering budget planning, construction benefits, and vital tips before you build.",
+ "og:title": "Prefabricated House Blog | Clay & Stone",
+ "og:description": "Thinking of building a modular home? Read our comprehensive prefab house articles covering budget planning, construction benefits, and vital tips before you build.",
+ "og:image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694194b2c60118ce26af07f4_homepage-img-1.webp",
+ "twitter:title": "Prefabricated House Blog | Clay & Stone",
+ "twitter:description": "Thinking of building a modular home? Read our comprehensive prefab house articles covering budget planning, construction benefits, and vital tips before you build.",
+ "og:type": "website",
+ "twitter:card": "summary_large_image",
+ "viewport": "width=device-width, initial-scale=1",
+ "google-site-verification": "_0Lh__7EFJwDXwb8lb-4kPwXPdbKFdH9otSM8xOdgws",
+ "generator": "Webflow",
+ "title": "Prefabricated House Blog | Clay & Stone"
+}
+HREFLANG [["x-default", "https://www.clayandstone.co.th/th/blogs"], ["th-TH", "https://www.clayandstone.co.th/th/blogs"], ["en-US", "https://www.clayandstone.co.th/en/blogs"]]
+JSONLD []
+VIDEOS ["iframe:https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7"]
+BGS []
+-----
+Prefabricated House Blog | Clay & Stone
+Skip to main content
+  -> (#main)
+  -> (/en)
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Products
+Unwind
+Series
+  -> (/en/products/unwind-series)
+Alive
+Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+EN
+Thai
+  -> (/th/blogs)
+English
+  -> (/en/blogs)
+Book Consultation
+  -> (https://linktr.ee/clayandstone.official)
+Book Consultation
+  -> (/en)
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Products
+Unwind
+Series
+  -> (/en/products/unwind-series)
+Alive
+Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+EN
+Thai
+  -> (/th/blogs)
+English
+  -> (/en/blogs)
+Book Consultation
+  -> (https://linktr.ee/clayandstone.official)
+Book Consultation
+# Prefabricated House Blog
+[IMG alt=""] https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a4cbe2a634693c8f1c54fc5_%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%88%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B5%20(1).png
+July 7, 2026
+###### How Long Do Prefab Homes Last? What You Really Need to Know
+Curious how long a prefab home really lasts? Discover the truth about durability, the factors that affect structural longevity, and tips for choosing a prefab home that's built to last.
+Educated / Informative
+  -> (/en/blogs/prefab-homes-lifespan)
+[IMG alt=""] https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a336193e306715b8932b647_%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%A5%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%9D%E0%B8%99%20(3)%20(1).png
+June 17, 2026
+###### Can a Modular House Really Handle the Rainy Season? How to Design for Thailand's Climate
+Will your modular house survive the rainy season? Everything you need to know about humidity, water leaks, and foundations in flood-prone areas, all in one place.
+Educated / Informative
+  -> (/en/blogs/modular-house-rainy-season-problems)
+[IMG alt=""] https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a3263b8e20ccff14d1cefb9_%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%A5%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%20(1).png
+June 17, 2026
+###### How Much Does a Modular House Cost? Choosing the Right Size and Budgeting
+Planning to build a modular house? Check the latest pricing, tips for choosing the right size for your needs, and a breakdown of the hidden costs you should budget for before you start.
+Educated / Informative
+  -> (/en/blogs/modular-house-price)
+[IMG alt=""] https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a3259a22510ef80bdb3a2a8_%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B9%87%E0%B8%AD%E0%B8%84%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%20%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%A5%E0%B8%B2%E0%B8%A3%E0%B9%8C%20(2)%20(1).png
+June 16, 2026
+###### Modular House vs. Knockdown House: What's the Difference? Understanding Prefab Home Types Before You Build
+A clear breakdown: what are modular houses and knockdown houses, and how do they differ? Compare pricing and pros and cons to help you choose the right home and decorate it beautifully.
+Educated / Informative
+  -> (/en/blogs/modular-vs-knockdown-house)
+[IMG alt=""] https://cdn.prod.website-files.com/6a09582bef83c88724230a19/6a0a822e8ff272d9b4586c0c_4%20%E0%B9%84%E0%B8%AD%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%20%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B9%87%E0%B8%AD%E0%B8%84%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%20(1).png
+October 10, 2023
+###### Beautiful finish in one back! 4 “Knockdown House” Resort-Style Ideas
+Knock-Down houses are becoming increasingly popular today due to their ease of construction and relocation.
+Idea/Inspiration
+  -> (/en/blogs/knockdown-house-ideas)
+Contact Us
+### Talk to Clay & Stone Today
+#### ติดต่อทีมงานได้เลยวันนี้
+#### Email :
+#### clay.panitar@gmail.com
+  -> (mailto:clay.panitar@gmail.com)
+#### Tel :
+#### 086-3822116
+  -> (tel:+66863822116)
+#### Line :
+#### @claystone
+  -> (https://lin.ee/5oKztUS)
+Contact Us
+  -> (https://linktr.ee/clayandstone.official)
+Contact Us
+Clay & Stone Office and Showroom
+152/1, Soi Tiwanon 45, Ta Sai, Mueang Nonthaburi District, Nonthaburi 11000
+LINE : @claystone
+Email : clay.panitar@gmail.com
+Tel : 086-3822116
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Unwind Series
+  -> (/en/products/unwind-series)
+Alive Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+  -> (https://web.facebook.com/ClayxStone/)
+  -> (https://www.instagram.com/clay_andstone/)
+  -> (https://lin.ee/5oKztUS)
+[IFRAME] https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7

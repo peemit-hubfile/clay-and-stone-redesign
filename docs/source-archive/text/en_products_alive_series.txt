@@ -1,0 +1,296 @@
+META {
+ "lang": "en-US",
+ "description": "Alive Series: a compact prefab modular home designed for active, outdoor living. 2 bedrooms, 2 bathrooms, 68 sq.m., starting at 1,690,000 THB (incl. VAT) with free installation within 200 km.",
+ "og:title": "Alive Series Modular Home | Prefab House from 1.69M THB - Clay & Stone",
+ "og:description": "Alive Series: a compact prefab modular home designed for active, outdoor living. 2 bedrooms, 2 bathrooms, 68 sq.m., starting at 1,690,000 THB (incl. VAT) with free installation within 200 km.",
+ "og:image": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b0d4a2474669906144bd_bi-img-1.webp",
+ "twitter:title": "Alive Series Modular Home | Prefab House from 1.69M THB - Clay & Stone",
+ "twitter:description": "Alive Series: a compact prefab modular home designed for active, outdoor living. 2 bedrooms, 2 bathrooms, 68 sq.m., starting at 1,690,000 THB (incl. VAT) with free installation within 200 km.",
+ "og:type": "website",
+ "twitter:card": "summary_large_image",
+ "viewport": "width=device-width, initial-scale=1",
+ "google-site-verification": "_0Lh__7EFJwDXwb8lb-4kPwXPdbKFdH9otSM8xOdgws",
+ "generator": "Webflow",
+ "title": "Alive Series Modular Home | Prefab House from 1.69M THB - Clay & Stone"
+}
+HREFLANG [["x-default", "https://www.clayandstone.co.th/th/products/alive-series"], ["th-TH", "https://www.clayandstone.co.th/th/products/alive-series"], ["en-US", "https://www.clayandstone.co.th/en/products/alive-series"]]
+JSONLD []
+VIDEOS ["iframe:https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7"]
+BGS []
+-----
+Alive Series Modular Home | Prefab House from 1.69M THB - Clay & Stone
+Skip to main content
+  -> (#main)
+  -> (/en)
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Products
+Unwind
+Series
+  -> (/en/products/unwind-series)
+Alive
+Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+EN
+Thai
+  -> (/th/products/alive-series)
+English
+  -> (/en/products/alive-series)
+Book Consultation
+  -> (https://linktr.ee/clayandstone.official)
+Book Consultation
+  -> (/en)
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Products
+Unwind
+Series
+  -> (/en/products/unwind-series)
+Alive
+Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+EN
+Thai
+  -> (/th/products/alive-series)
+English
+  -> (/en/products/alive-series)
+Book Consultation
+  -> (https://linktr.ee/clayandstone.official)
+Book Consultation
+# Returning Nature to Living
+# บ้านโมดูลาร์เพื่อการอยู่อาศัยที่เชื่อมโยงกับธรรมชาติ
+บ้านโมดูลาร์จาก
+Clay & Stone
+  -> (https://www.clayandstone.co.th/th)
+ที่ออกแบบภายใต้แนวคิด "Returning Nature to Living" ผสานความเรียบง่าย สบาย และกลมกลืนกับธรรมชาติ บ้านทุกหลังถูกสร้างด้วย ระบบโมดูลาร์ (Modular System) มาตรฐาน ทำให้ก่อสร้างเร็ว คุ้มค่า และปรับต่อเติมได้ในอนาคต เหมาะสำหรับผู้ที่ต้องการ Modular House ที่มีคุณภาพ ในราคาที่จับต้องได้
+Brand Concept
+## Brand Identity
+Compact living, expanded experiences : designed for those who feel most alive outside.
+บ้านที่ออกแบบเพื่อการใช้ชีวิตอย่างคล่องตัว ใกล้ชิดธรรมชาติ และเปิดรับประสบการณ์ใหม่
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b0d4a2474669906144bd_bi-img-1.webp
+#### ' Dynamic '
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b0d422ff42301f738e89_bi-img-2.webp
+#### ' Compact '
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12ad6bab3ec83c046b4912_bi-img-3.png
+#### ' Active '
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b0d48f34ca7e12f75e4c_bi-img-4.webp
+#### ' Outdoor Living '
+## Size & Dimension
+All dimensions and material sizes are based on a standardized modular system, allowing for cost-efficiency, faster construction, and flexibility for future expansion or modification.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adca2f4744fdbb7b15d8c5a_alive-size-iso.webp
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adca2f3e65018171dadf46b_alive-size-plan.webp
+## Flexible Function
+The main 3 × 6 meter modular space can be flexibly customized to support a variety of functions according to individual needs.
+Previous
+  -> (#)
+Previous
+Next
+  -> (#)
+Next
+##### Bedroom
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6bc58fd9845d41a2f1_unwind-img-10.webp
+##### Bedroom & Kitchen Dining Room
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adbf5e3fa338d22ae3c174f_alive-ff-1-bedroom-kitchen-dining.webp
+##### Master Bedroom & Living Room
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adbf5e2f003da1430a8548b_alive-ff-2-master-bedroom-living.webp
+##### Bedroom & Working Room
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adbf5e3668757140aa16d29_alive-ff-4-bedroom-working.webp
+##### Kids & Kitchen Room
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adbf5e328b88f612a064de9_alive-ff-5-kids-kitchen.webp
+##### 2 Bedrooms
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adbf5e38dfea2e9e386db78_alive-ff-6-2-bedrooms.webp
+## Modules
+Our homes are composed of multiple modular components that can be selected and combined to suit individual needs. Each module is designed for easy disassembly and reassembly, allowing the home to be relocated and installed at different locations when required.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adc7fa7eaf072fb5bde2abb_alive-module-isometric-tight.webp
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adc7a82201fda999cc46954_alive-module-plan-split-bg.webp
+#### Module Combination
+In addition, all modules are designed to expand and connect, giving you the flexibility to grow or adapt your home as your needs change over time.
+Previous
+  -> (#)
+Previous
+Next
+  -> (#)
+Next
+##### Bedroom + Dining Pantry
+##### & Bedroom + Living
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adc06c332e4a685b69d6088_alive-cb-1-bedroom-kitchen-dining-bg.webp
+##### 2 Bedroom &
+##### Living + Kitchen
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adc06c39c390f6d76b8f6fc_alive-cb-2-2bed-living-kitchen-bg.webp
+##### Kids room + Kitchen &
+##### Bedroom + Living
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adc06c3d8c8836febd00722_alive-cb-3-kids-kitchen-master-living-bg.webp
+##### Bedroom + Working &
+##### Living + Kitchen
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adc06c347f2c6a779723c61_alive-cb-4-bed-working-living-kitchen-bg.webp
+##### Bedroom + Living &
+##### Bedroom + Dining Pantry
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adc06c47a6046ce02bd81d3_alive-cb-5-master-living-bed-kitchen-bg.webp
+##### 2 Bedroom &
+##### Kids room + Kitchen
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6adc06c4613289a40425f83a_alive-cb-6-2bed-kids-kitchen-bg.webp
+## Selling Price & Promotion
+Own an Alive Series modular home starting at just 1,690,000 THB (incl. VAT)! Explore our
+completed modular home projects
+  -> (https://www.clayandstone.co.th/en/projects)
+.
+##### 1.
+##### Free wallpaper for all interior areas.
+##### 2.
+##### Free installation service within a 200 km radius of our facility.
+##### 3.
+##### One-year warranty on general workmanship and a five-year warranty on structural components, including after-sales service.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b15a9e8bf0a84961150a_2%20Bed%202%20Bath.webp
+### 2 Bed 2 Bath
+#### 1,690,000
+##### THB
+(inclu. VAT)
+Usable Area : 68 sqm.
+- Interior + Toilet 45 sqm.
+- Outdoor Terrace 23 sqm.
+## Materials
+วัสดุทุกชิ้นใน Unwind Series เลือกมาเพื่อความทนทานและความสบายในระยะยาว ไม่ใช่แค่ความสวยงามตอนแรกเห็น แต่ละส่วนทำงานร่วมกันเป็นระบบ เช่นเดียวกับ
+กระบวนการสร้างบ้านโมดูลาร์
+  -> (https://www.clayandstone.co.th/th/process)
+ที่ออกแบบมาให้ทุกขั้นตอนเชื่อมกันอย่างแม่นยำ
+##### 01/ Structural System
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b802a0ed904111e67_unwind-img-06.webp
+Structural steel over 2.3 mm thick, certified to TIS standards and up to 1.4x thicker than typical specifications, ensuring long-term strength. Protected with high-performance anti-corrosion coatings from BEGER, and designed and supervised by licensed architects and engineers.
+##### 02/ Flooring System
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b82786849ab80c623_unwind-img-05.webp
+Steel floor joists are spaced at 40 cm for even load distribution and stability. Finished with 20 mm SCG Smart Board and 5 mm SCG SPC Click Lock flooring, creating a solid and firm surface that feels stable and comfortable underfoot.
+##### 03/ Wall Materials
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b56f80fe66b21adca_unwind-img-04.webp
+Steel framing at 60 cm intervals provides strong, rigid walls with minimal movement. SCG Smart Board is used at 8 mm inside and 10 mm outside, thicker than standard, with 2-inch foil-faced insulation inside the external walls to reduce heat.
+##### 04/ Outdoor Terrace
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b784db25ede0acc8d_unwind-img-03.webp
+Balcony floors and exterior ceilings are finished with premium WPC wood composite for durability against sun and rain. CONWOOD / SHERA panels are used at wall joints for a clean finish and long-term water protection.
+##### 05/ Door & Window
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6bf5bd4a8396d40ad1_unwind-img-02.webp
+Wood-grain aluminum frames paired with 6 mm clear glass offer the look of wood with better durability, sound reduction, and strength. Built-in rain barriers keep interiors quiet and dry.
+##### 06/ Roof Materials
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b9cd45665704b6a7a_unwind-img-01.webp
+The roof uses 0.4 mm metal sheets with 1-inch PU insulation, providing stronger weather resistance, reduced heat, and less rain noise, all with a clean, modern profile.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b802a0ed904111e67_unwind-img-06.webp
+Structural steel over 2.3 mm thick, certified to TIS standards and up to 1.4x thicker than typical specifications, ensuring long-term strength. Protected with high-performance anti-corrosion coatings from BEGER, and designed and supervised by licensed architects and engineers.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b82786849ab80c623_unwind-img-05.webp
+Steel floor joists are spaced at 40 cm for even load distribution and stability. Finished with 20 mm SCG Smart Board and 5 mm SCG SPC Click Lock flooring, creating a solid and firm surface that feels stable and comfortable underfoot.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b56f80fe66b21adca_unwind-img-04.webp
+Steel framing at 60 cm intervals provides strong, rigid walls with minimal movement. SCG Smart Board is used at 8 mm inside and 10 mm outside, thicker than standard, with 2-inch foil-faced insulation inside the external walls to reduce heat.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b784db25ede0acc8d_unwind-img-03.webp
+Balcony floors and exterior ceilings are finished with premium WPC wood composite for durability against sun and rain. CONWOOD / SHERA panels are used at wall joints for a clean finish and long-term water protection.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6bf5bd4a8396d40ad1_unwind-img-02.webp
+Wood-grain aluminum frames paired with 6 mm clear glass offer the look of wood with better durability, sound reduction, and strength. Built-in rain barriers keep interiors quiet and dry.
+[IMG alt=""] https://cdn.prod.website-files.com/693f3e67a692e733b206630e/694acd6b9cd45665704b6a7a_unwind-img-01.webp
+The roof uses 0.4 mm metal sheets with 1-inch PU insulation, providing stronger weather resistance, reduced heat, and less rain noise, all with a clean, modern profile.
+##### 01/ Structural System
+##### 02/ Flooring System
+##### 03/ Wall Materials
+##### 04/ Outdoor Terrace
+##### 05/ Door & Window
+##### 06/ Roof Materials
+FAQ
+### ทุกเรื่องที่คุณต้องรู้
+##### 1. ทำไมต้องเลือกแบบบ้านโมดูลาร์ รุ่น Unwind Series?
+Unwind Series ถูกออกแบบภายใต้แนวคิดการพักผ่อนที่แท้จริง เน้นดีไซน์ที่โปร่งโล่ง เชื่อมต่อพื้นที่ภายในกับธรรมชาติภายนอกอย่างลงตัว เหมาะสำหรับใช้เป็นบ้านพักตากอากาศ รีสอร์ต หรือบ้านหลังที่สองในสวนส่วนตัว
+##### 2. บ้านโมดูลาร์ราคาเท่าไหร่ และมีแบบไหนให้เลือกบ้าง?
+สำหรับ Unwind Series ของ Clay & Stone เรามีแบบบ้านโมดูลาร์ให้เลือกหลากหลายขนาดเพื่อตอบโจทย์งบประมาณและพื้นที่ของคุณ โดยมีรายละเอียดราคาเบื้องต้นดังนี้ (ราคารวม VAT แล้ว):
+‍
+Standard Type: ราคา 830,000 บาท (พื้นที่ใช้สอย 43.5 ตร.ม.)
+Loft Type: ราคา 1,190,000 บาท (พื้นที่ใช้สอย 47 ตร.ม.)
+1 Bed 2 Bath: ราคา 1,660,000 บาท (พื้นที่ใช้สอยรวม 82 ตร.ม.)
+2 Bed 2 Bath: ราคา 2,660,000 บาท (พื้นที่ใช้สอยกว้างขวางถึง 123 ตร.ม.)
+‍
+การลงทุนกับบ้านระบบโมดูลาร์ นอกจากจะได้วัสดุเกรดพรีเมียมแล้ว ยังช่วยควบคุมงบประมาณไม่ให้บานปลาย และประหยัดเวลาก่อสร้างได้มากกว่าบ้านทั่วไปอย่างมากครับ
+##### 3. หากต้องการพื้นที่ใช้สอยสำหรับครอบครัวขนาดเล็ก ควรเลือกขนาดไหน?
+เราขอแนะนำ
+บ้านโมดูลาร์ Unwind 1 Bed 2 Bath
+  -> (https://youtu.be/G8_2lxRIVV4?si=QGanQKK8C-x7Wuax)
+ซึ่งเป็นรุ่นยอดนิยม พื้นที่ถูกจัดสรรอย่างเป็นสัดส่วน ประกอบด้วยห้องนอนพร้อมห้องน้ำในตัว ห้องน้ำส่วนกลางสำหรับแขก พื้นที่ห้องนั่งเล่นสำหรับการพักผ่อนร่วมกัน และห้องครัวสำหรับทำอาหารภายในครอบครัว ตอบโจทย์การอยู่อาศัยที่ต้องการทั้งความเป็นส่วนตัวและความสะดวกสบายในทุกวัน
+##### 4. บ้านโมดูลาร์ติดตั้งได้ทุกพื้นที่ไหม แล้วถ้าอยากย้ายที่ตั้งในอนาคตทำได้ไหม?
+บ้านสำเร็จรูปของ Clay & Stone
+  -> (https://www.clayandstone.co.th/th)
+ออกแบบมาให้ขนส่งและติดตั้งได้เกือบทุกพื้นที่ทั่วประเทศ เพียงแค่มีทางเข้าที่รถเครนหรือรถบรรทุกสามารถเข้าถึงได้ ทีมวิศวกรจะเข้าประเมินหน้างานก่อนเพื่อให้มั่นใจว่าการติดตั้งจะราบรื่นและปลอดภัยที่สุด หากวันหนึ่งคุณต้องการย้ายบ้านไปติดตั้งในที่ดินแปลงใหม่ก็สามารถทำได้โดยไม่ต้องทุบสร้างใหม่ทั้งหมด ซึ่งเป็นข้อดีหลักของ Modular System เพราะทุก
+โมดูลของ Unwind Series
+  -> (https://youtu.be/0MDRduX63pY?si=TyG9_q_u4MesLR_j)
+ออกแบบมาให้สามารถถอดประกอบและยกย้ายได้
+##### 5. ขั้นตอนและระยะเวลาตั้งแต่สั่งผลิตจนถึงเข้าอยู่จริง ใช้เวลานานแค่ไหน?
+ข้อดีของ บ้านโมดูลาร์ (Modular House) คือความรวดเร็ว เป็นระบบ และสามารถควบคุมคุณภาพได้อย่างมีประสิทธิภาพ โดยกระบวนการของ Clay & Stone แบ่งออกเป็น 4 ขั้นตอนหลัก ดังนี้
+‍
+ขั้นตอนที่ 1 เริ่มงานออกแบบให้ตรงใจ:
+ทีมออกแบบจะทำงานร่วมกับคุณอย่างใกล้ชิด เพื่อพัฒนาแบบบ้านโมดูลาร์ให้ตรงตามฟังก์ชันที่คุณต้องการก่อนเริ่มสั่งซื้อ
+‍
+ขั้นตอนที่ 2 เซ็นสัญญาและเริ่มผลิต:
+เมื่อสรุปแบบและเซ็นสัญญาเรียบร้อย ทีมจะเริ่มกระบวนการผลิตที่โรงงานทันที (ใช้เวลาประมาณ 60-90 วัน ขึ้นอยู่กับคิวงาน) การผลิตในโรงงานช่วยให้สามารถควบคุมมาตรฐานการก่อสร้างได้อย่างแม่นยำ และไม่ต้องพึ่งพาสภาพอากาศหน้างาน ทำให้ระยะเวลาเป็นไปตามแผนที่กำหนด
+ขั้นตอนที่ 3 ขนส่งโมดูลไปยังพื้นที่ติดตั้ง:
+เมื่อการผลิตในโรงงานเสร็จสมบูรณ์ประมาณ 70% โมดูลทั้งหมดจะถูกขนส่งไปยังที่ดินของคุณเพื่อเตรียมการติดตั้ง เนื่องจากโครงสร้างหลักถูกผลิตจากโรงงานแล้ว หน้างานจึงไม่ต้องมีงานก่อสร้างขนาดใหญ่ ช่วยลดฝุ่น ความเลอะเทอะ และผลกระทบต่อสภาพแวดล้อม รวมถึงไม่รบกวนพื้นที่โดยรอบ
+ขั้นตอนที่ 4 ติดตั้ง ประกอบและส่งมอบบ้าน:
+ทีมงานจะดำเนินการติดตั้งและประกอบบ้านโมดูลาร์ที่หน้างาน โดยใช้เวลาประมาณ 15 วัน บ้านของคุณก็พร้อมเข้าอยู่ได้ทันที
+‍
+คุณจึงไม่ต้องเผชิญกับปัญหาการก่อสร้างยืดเยื้อ หรือความไม่แน่นอนเหมือนการสร้างบ้านแบบเดิมครับ
+Contact Us
+### Talk to Clay & Stone Today
+#### ติดต่อทีมงานได้เลยวันนี้
+#### Email :
+#### clay.panitar@gmail.com
+  -> (mailto:clay.panitar@gmail.com)
+#### Tel :
+#### 086-3822116
+  -> (tel:+66863822116)
+#### Line :
+#### @claystone
+  -> (https://lin.ee/5oKztUS)
+Contact Us
+  -> (https://linktr.ee/clayandstone.official)
+Contact Us
+Clay & Stone Office and Showroom
+152/1, Soi Tiwanon 45, Ta Sai, Mueang Nonthaburi District, Nonthaburi 11000
+LINE : @claystone
+Email : clay.panitar@gmail.com
+Tel : 086-3822116
+Home
+  -> (/en)
+About Us
+  -> (/en/about-us)
+Unwind Series
+  -> (/en/products/unwind-series)
+Alive Series
+  -> (/en/products/alive-series)
+Projects
+  -> (/en/projects)
+Process
+  -> (/en/process)
+Good to Know
+  -> (/en/good-to-know)
+Blogs
+  -> (/en/blogs)
+Contact Us
+  -> (/en/contact-us)
+  -> (https://web.facebook.com/ClayxStone/)
+  -> (https://www.instagram.com/clay_andstone/)
+  -> (https://lin.ee/5oKztUS)
+[IFRAME] https://www.googletagmanager.com/ns.html?id=GTM-MZ7NPLT7

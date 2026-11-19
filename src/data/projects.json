@@ -1,0 +1,456 @@
+{
+  "_meta": {
+    "description": "Completed-project photography from /projects, grouped by model as on the live site. The live site does not publish per-project records (no client, date, address or individual project pages). Locations below are those the site itself mentions; they are NOT linked to specific gallery photos unless stated.",
+    "extracted_on": "2026-11-20",
+    "source_url": {
+      "en": "https://www.clayandstone.co.th/en/projects",
+      "th": "https://www.clayandstone.co.th/th/projects"
+    },
+    "rights_status": "unverified - client approval required before redistribution"
+  },
+  "intro": {
+    "en": "Welcome to the Clay & Stone showcase. Every modular house project we deliver is guided by one core philosophy: “Homes Beyond Prefab.” We move beyond conventional knock-down houses through thoughtful architecture, integrating generous terraces, deep roof overhangs, and layouts designed for Thailand’s tropical climate and contemporary living.",
+    "th": "เปิดประสบการณ์การอยู่อาศัยที่เหนือระดับกับโครงการจาก Clay and Stone ศูนย์รวมผลงานการสร้างที่อยู่อาศัยยุคใหม่ที่เราภาคภูมิใจ ในฐานะผู้เชี่ยวชาญด้านการออกแบบและติดตั้งบ้านประกอบสำเร็จรูปที่ผสานความสวยงามเข้ากับโครงสร้างที่ทนทาน ไม่ว่าจะเป็นบ้านสำเร็จรูปชั้นเดียวที่เน้นความอบอุ่นเรียบง่าย หรือบ้านสำเร็จรูป 2 ชั้นที่ตอบโจทย์การใช้ชีวิตของครอบครัวใหญ่ เราพร้อมเปลี่ยนแบบบ้านโมดูลาร์ให้กลายเป็นพื้นที่ใช้สอยและตอบโจทย์การใช้งานจริงในทุกตารางเมตร"
+  },
+  "galleries": [
+    {
+      "id": "unwind-standard",
+      "series": "Unwind",
+      "model": "Standard Type",
+      "model_ref": "products.json#unwind-standard",
+      "cover_floor_plan": "/images/source/projects/696c94af7b535bb0f87f9deb_Standard-Type.webp",
+      "photos": [
+        {
+          "local_path": "/images/source/projects/6973b6693b8e7980743e0415_standard-15.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b6693b8e7980743e0415_standard-15.webp",
+          "width": 1152,
+          "height": 1536
+        },
+        {
+          "local_path": "/images/source/projects/6973b6690794eb32539ccc80_standard-14.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b6690794eb32539ccc80_standard-14.webp",
+          "width": 1512,
+          "height": 1134
+        },
+        {
+          "local_path": "/images/source/projects/6973b669fbc3fdd253829882_standard-13.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b669fbc3fdd253829882_standard-13.webp",
+          "width": 1512,
+          "height": 1134
+        },
+        {
+          "local_path": "/images/source/projects/6973b66925559dec4803719e_standard-12.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b66925559dec4803719e_standard-12.webp",
+          "width": 1512,
+          "height": 1134
+        },
+        {
+          "local_path": "/images/source/projects/6973b6695263655c9f77d841_standard-11.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b6695263655c9f77d841_standard-11.webp",
+          "width": 1512,
+          "height": 1134
+        },
+        {
+          "local_path": "/images/source/projects/6973b66971953ef23c86ccdd_standard-10.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b66971953ef23c86ccdd_standard-10.webp",
+          "width": 1512,
+          "height": 1134
+        },
+        {
+          "local_path": "/images/source/projects/6973b66960cf52b8e61804f0_standard-09.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b66960cf52b8e61804f0_standard-09.webp",
+          "width": 1152,
+          "height": 1536
+        },
+        {
+          "local_path": "/images/source/projects/6973b669c5cc47abc184194b_standard-08.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b669c5cc47abc184194b_standard-08.webp",
+          "width": 1152,
+          "height": 1536
+        },
+        {
+          "local_path": "/images/source/projects/6973b669a84a9e740e476ed4_standard-07.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b669a84a9e740e476ed4_standard-07.webp",
+          "width": 1152,
+          "height": 1536
+        },
+        {
+          "local_path": "/images/source/projects/6973b6696b75b7769e8f9f4a_standard-06.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b6696b75b7769e8f9f4a_standard-06.webp",
+          "width": 1152,
+          "height": 1536
+        },
+        {
+          "local_path": "/images/source/projects/6973b66941412be4346387c5_standard-05.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b66941412be4346387c5_standard-05.webp",
+          "width": 1152,
+          "height": 1536
+        },
+        {
+          "local_path": "/images/source/projects/6973b669a3b0078fe042db67_standard-04.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b669a3b0078fe042db67_standard-04.webp",
+          "width": 1152,
+          "height": 1536
+        },
+        {
+          "local_path": "/images/source/projects/6973b669596c89c738b90a9c_standard-03.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b669596c89c738b90a9c_standard-03.webp",
+          "width": 1152,
+          "height": 1536
+        },
+        {
+          "local_path": "/images/source/projects/6973b6694d3ee8abaef6e46a_standard-02.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b6694d3ee8abaef6e46a_standard-02.webp",
+          "width": 1152,
+          "height": 1536
+        },
+        {
+          "local_path": "/images/source/projects/6973b66927cdf8ccb5137118_standard-01.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b66927cdf8ccb5137118_standard-01.webp",
+          "width": 1152,
+          "height": 1536
+        }
+      ],
+      "photo_count": 15
+    },
+    {
+      "id": "unwind-loft",
+      "series": "Unwind",
+      "model": "Loft Type",
+      "model_ref": "products.json#unwind-loft",
+      "cover_floor_plan": "/images/source/projects/69933e8db80b846a019e665a_Loft-Type.webp",
+      "photos": [
+        {
+          "local_path": "/images/source/projects/6973b8472c0b641bd8960e9a_loft-14.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b8472c0b641bd8960e9a_loft-14.webp",
+          "width": 1122,
+          "height": 1122
+        },
+        {
+          "local_path": "/images/source/projects/6973b8474458238b820645c1_loft-13.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b8474458238b820645c1_loft-13.webp",
+          "width": 1122,
+          "height": 1122
+        },
+        {
+          "local_path": "/images/source/projects/6973b84785fe6f90ef551ccf_loft-12.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b84785fe6f90ef551ccf_loft-12.webp",
+          "width": 1122,
+          "height": 1122
+        },
+        {
+          "local_path": "/images/source/projects/6963ab7654c71bc7ec9d36c9_loft-4.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6963ab7654c71bc7ec9d36c9_loft-4.webp",
+          "width": 1122,
+          "height": 1122
+        },
+        {
+          "local_path": "/images/source/projects/6973b847f44a577ca1a7904b_loft-10.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b847f44a577ca1a7904b_loft-10.webp",
+          "width": 1122,
+          "height": 1122
+        },
+        {
+          "local_path": "/images/source/projects/6973b847607d9207d2a2a18c_loft-09.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b847607d9207d2a2a18c_loft-09.webp",
+          "width": 1122,
+          "height": 1122
+        },
+        {
+          "local_path": "/images/source/projects/6973b847cc0db2e223ae6c36_loft-08.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b847cc0db2e223ae6c36_loft-08.webp",
+          "width": 1152,
+          "height": 1536
+        },
+        {
+          "local_path": "/images/source/projects/6973b84760cf52b8e61855ab_loft-07.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b84760cf52b8e61855ab_loft-07.webp",
+          "width": 1152,
+          "height": 1536
+        },
+        {
+          "local_path": "/images/source/projects/6973b84766f394019dcd7f05_loft-06.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b84766f394019dcd7f05_loft-06.webp",
+          "width": 1152,
+          "height": 1536
+        },
+        {
+          "local_path": "/images/source/projects/6973b848b0cf551ef3dc2105_loft-05.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b848b0cf551ef3dc2105_loft-05.webp",
+          "width": 1512,
+          "height": 1134
+        },
+        {
+          "local_path": "/images/source/projects/6973b847be9db0cf140924a9_loft-04.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b847be9db0cf140924a9_loft-04.webp",
+          "width": 1512,
+          "height": 1134
+        },
+        {
+          "local_path": "/images/source/projects/6973b8471c66218ce168170c_loft-03.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b8471c66218ce168170c_loft-03.webp",
+          "width": 1512,
+          "height": 1134
+        },
+        {
+          "local_path": "/images/source/projects/6973b847319537f555375dc0_loft-02.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b847319537f555375dc0_loft-02.webp",
+          "width": 1152,
+          "height": 1536
+        },
+        {
+          "local_path": "/images/source/projects/6973b84745b3bc110755548e_loft-01.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973b84745b3bc110755548e_loft-01.webp",
+          "width": 1152,
+          "height": 1536
+        }
+      ],
+      "photo_count": 14
+    },
+    {
+      "id": "unwind-1bed-2bath",
+      "series": "Unwind",
+      "model": "1 Bed 2 Bath",
+      "model_ref": "products.json#unwind-1bed-2bath",
+      "cover_floor_plan": "/images/source/projects/69933e85dbadbf529b7d1171_1-Bed-2-Bath.webp",
+      "photos": [
+        {
+          "local_path": "/images/source/projects/6973bab42483e43311742af3_1bed-2bath-16.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab42483e43311742af3_1bed-2bath-16.webp",
+          "width": 1512,
+          "height": 1134
+        },
+        {
+          "local_path": "/images/source/projects/6973bab578367c101ea895f2_1bed-2bath-15.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab578367c101ea895f2_1bed-2bath-15.webp",
+          "width": 1512,
+          "height": 1134
+        },
+        {
+          "local_path": "/images/source/projects/6973bab596eb0953b6c83d71_1bed-2bath-14.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab596eb0953b6c83d71_1bed-2bath-14.webp",
+          "width": 1512,
+          "height": 1134
+        },
+        {
+          "local_path": "/images/source/projects/6973bab5b274825bcd905e0f_1bed-2bath-13.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab5b274825bcd905e0f_1bed-2bath-13.webp",
+          "width": 1512,
+          "height": 1134
+        },
+        {
+          "local_path": "/images/source/projects/6973bab4cc0db2e223aef1a9_1bed-2bath-12.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4cc0db2e223aef1a9_1bed-2bath-12.webp",
+          "width": 1512,
+          "height": 1134
+        },
+        {
+          "local_path": "/images/source/projects/6973bab4f4d3090f50540ba0_1bed-2bath-11.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4f4d3090f50540ba0_1bed-2bath-11.webp",
+          "width": 1122,
+          "height": 1122
+        },
+        {
+          "local_path": "/images/source/projects/6973bab501817e4632a32ccf_1bed-2bath-10.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab501817e4632a32ccf_1bed-2bath-10.webp",
+          "width": 1122,
+          "height": 1122
+        },
+        {
+          "local_path": "/images/source/projects/6973bab4a8948c7ddcd274a7_1bed-2bath-09.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4a8948c7ddcd274a7_1bed-2bath-09.webp",
+          "width": 1122,
+          "height": 1122
+        },
+        {
+          "local_path": "/images/source/projects/6973bab4fd3feb910ead7526_1bed-2bath-08.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4fd3feb910ead7526_1bed-2bath-08.webp",
+          "width": 1122,
+          "height": 1122
+        },
+        {
+          "local_path": "/images/source/projects/6973bab4d476f82d4bdef766_1bed-2bath-07.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4d476f82d4bdef766_1bed-2bath-07.webp",
+          "width": 1122,
+          "height": 1122
+        },
+        {
+          "local_path": "/images/source/projects/6973bab45600efe57dc76332_1bed-2bath-06.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab45600efe57dc76332_1bed-2bath-06.webp",
+          "width": 1122,
+          "height": 1122
+        },
+        {
+          "local_path": "/images/source/projects/6963ae4c608741b4a217121d_1bed-2bath-12.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6963ae4c608741b4a217121d_1bed-2bath-12.webp",
+          "width": 1122,
+          "height": 1122
+        },
+        {
+          "local_path": "/images/source/projects/6973bab4492eae9d9dd1d19e_1bed-2bath-04.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4492eae9d9dd1d19e_1bed-2bath-04.webp",
+          "width": 1122,
+          "height": 1122
+        },
+        {
+          "local_path": "/images/source/projects/6963ae4d516c536fe3ccc941_1bed-2bath-14.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6963ae4d516c536fe3ccc941_1bed-2bath-14.webp",
+          "width": 1122,
+          "height": 1122
+        },
+        {
+          "local_path": "/images/source/projects/6973bab4bf231e1ab18a65e8_1bed-2bath-02.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab4bf231e1ab18a65e8_1bed-2bath-02.webp",
+          "width": 1152,
+          "height": 1536
+        },
+        {
+          "local_path": "/images/source/projects/6973bab48ae039b4c0e3e8b9_1bed-2bath-01.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6973bab48ae039b4c0e3e8b9_1bed-2bath-01.webp",
+          "width": 1152,
+          "height": 1536
+        }
+      ],
+      "photo_count": 16
+    },
+    {
+      "id": "unwind-2bed-2bath",
+      "series": "Unwind",
+      "model": "2 Bed 2 Bath",
+      "model_ref": "products.json#unwind-2bed-2bath",
+      "cover_floor_plan": "/images/source/projects/69933e89074eec2249ff604a_2-Bed-2-Bath.webp",
+      "photos": [
+        {
+          "local_path": "/images/source/projects/6a128b7323be8647e99d22b2_01.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a128b7323be8647e99d22b2_01.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "local_path": "/images/source/projects/6a128b72c517fb01f8baf43e_02.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a128b72c517fb01f8baf43e_02.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "local_path": "/images/source/projects/6a128b720a2225ab7e6b04e6_03.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a128b720a2225ab7e6b04e6_03.webp",
+          "width": 1683,
+          "height": 935
+        },
+        {
+          "local_path": "/images/source/projects/6a128d53431c2637b7121eae_04.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a128d53431c2637b7121eae_04.webp",
+          "width": 1846,
+          "height": 852
+        },
+        {
+          "local_path": "/images/source/projects/6a128d535f224ee69d52ed7e_05.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a128d535f224ee69d52ed7e_05.webp",
+          "width": 1672,
+          "height": 941
+        }
+      ],
+      "photo_count": 5
+    },
+    {
+      "id": "alive-2bed-2bath",
+      "series": "Alive",
+      "model": "2 Bed 2 Bath",
+      "model_ref": "products.json#alive-2bed-2bath",
+      "cover_floor_plan": "/images/source/projects/6a12b15a9e8bf0a84961150a_2-Bed-2-Bath.webp",
+      "photos": [
+        {
+          "local_path": "/images/source/projects/6a12b4bffc3c68b362f659c1_01.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bffc3c68b362f659c1_01.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "local_path": "/images/source/projects/6a12b4bfc62e80f0d1f1506c_02.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bfc62e80f0d1f1506c_02.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "local_path": "/images/source/projects/6a12b4bfa24746699061a83e_03.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bfa24746699061a83e_03.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "local_path": "/images/source/projects/6a12b4bfc517fb01f8bf8690_04.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bfc517fb01f8bf8690_04.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "local_path": "/images/source/projects/6a12b4bfb6e65cc6a38f53cb_05.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bfb6e65cc6a38f53cb_05.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "local_path": "/images/source/projects/6a12b4bf4d223b41045aadfe_06.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bf4d223b41045aadfe_06.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "local_path": "/images/source/projects/6a12b4bf37421d32569efbbf_07.webp",
+          "original_url": "https://cdn.prod.website-files.com/693f3e67a692e733b206630e/6a12b4bf37421d32569efbbf_07.webp",
+          "width": 941,
+          "height": 1300
+        }
+      ],
+      "photo_count": 7
+    }
+  ],
+  "locations_mentioned": [
+    {
+      "model_id": "unwind-standard",
+      "location": "Nonthaburi",
+      "source": "/en (Highlighted Projects: 'Unwind in Nonthaburi')",
+      "image": "/images/source/home/694194b2841123b22b146a53_homepage-img-4.webp",
+      "notes": "Possibly the Nonthaburi showroom unit (unconfirmed)."
+    },
+    {
+      "model_id": "unwind-loft",
+      "location": "Prachinburi",
+      "source": "/en (Highlighted Projects: 'Unwind in Prachinburi')",
+      "image": "/images/source/home/694194b299c682e7e931a374_homepage-img-6.webp"
+    },
+    {
+      "model_id": "unwind-1bed-2bath",
+      "location": "Suphanburi",
+      "source": "/en (Highlighted Projects: 'Unwind in Suphanburi'); testimonial K. Orachorn",
+      "image": "/images/source/home/694194b2ef90983db1337f30_homepage-img-5.webp"
+    },
+    {
+      "model_id": "unwind-loft",
+      "location": "Suphanburi",
+      "source": "/en/about-us testimonial (K. Sujinda, 'Loft Type in Suphanburi')",
+      "image": null
+    },
+    {
+      "model_id": "unwind-standard",
+      "location": "Saraburi",
+      "source": "/en/about-us testimonial (K. Ketskanok, 'Standard Type in Saraburi')",
+      "image": null
+    },
+    {
+      "model_id": "unwind-standard",
+      "location": "Bangkok",
+      "source": "/en/about-us testimonial (K. Pornsak, 'Standard Type in Bangkok')",
+      "image": null
+    }
+  ],
+  "missing": [
+    "Project names",
+    "Completion dates",
+    "Client consent for publication",
+    "Per-project specifications/customisations",
+    "Exact locations beyond province",
+    "Before/after or construction-stage photography per project"
+  ]
+}
