@@ -1,0 +1,717 @@
+{
+  "_meta": {
+    "collection": "project-galleries",
+    "generated_by": "tools/seed/build-seed.mjs",
+    "generated_from": "src/data (Stage 1 extraction, 2026-11-20)",
+    "count": 5
+  },
+  "items": [
+    {
+      "id": "unwind-standard",
+      "model_id": "unwind-standard",
+      "series_id": "unwind",
+      "title": {
+        "th": "Unwind Standard Type",
+        "en": "Unwind Standard Type"
+      },
+      "floor_plan": "/images/source/projects/696c94af7b535bb0f87f9deb_Standard-Type.webp",
+      "photos": [
+        {
+          "src": "/images/source/projects/6973b6693b8e7980743e0415_standard-15.webp",
+          "width": 1152,
+          "height": 1536,
+          "alt": {
+            "th": "บ้าน Unwind Standard Type ผลงานจริงของ Clay & Stone ภาพที่ 1",
+            "en": "Completed Clay & Stone Unwind Standard Type home, photo 1"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b6690794eb32539ccc80_standard-14.webp",
+          "width": 1512,
+          "height": 1134,
+          "alt": {
+            "th": "บ้าน Unwind Standard Type ผลงานจริงของ Clay & Stone ภาพที่ 2",
+            "en": "Completed Clay & Stone Unwind Standard Type home, photo 2"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b669fbc3fdd253829882_standard-13.webp",
+          "width": 1512,
+          "height": 1134,
+          "alt": {
+            "th": "บ้าน Unwind Standard Type ผลงานจริงของ Clay & Stone ภาพที่ 3",
+            "en": "Completed Clay & Stone Unwind Standard Type home, photo 3"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b66925559dec4803719e_standard-12.webp",
+          "width": 1512,
+          "height": 1134,
+          "alt": {
+            "th": "บ้าน Unwind Standard Type ผลงานจริงของ Clay & Stone ภาพที่ 4",
+            "en": "Completed Clay & Stone Unwind Standard Type home, photo 4"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b6695263655c9f77d841_standard-11.webp",
+          "width": 1512,
+          "height": 1134,
+          "alt": {
+            "th": "บ้าน Unwind Standard Type ผลงานจริงของ Clay & Stone ภาพที่ 5",
+            "en": "Completed Clay & Stone Unwind Standard Type home, photo 5"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b66971953ef23c86ccdd_standard-10.webp",
+          "width": 1512,
+          "height": 1134,
+          "alt": {
+            "th": "บ้าน Unwind Standard Type ผลงานจริงของ Clay & Stone ภาพที่ 6",
+            "en": "Completed Clay & Stone Unwind Standard Type home, photo 6"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b66960cf52b8e61804f0_standard-09.webp",
+          "width": 1152,
+          "height": 1536,
+          "alt": {
+            "th": "บ้าน Unwind Standard Type ผลงานจริงของ Clay & Stone ภาพที่ 7",
+            "en": "Completed Clay & Stone Unwind Standard Type home, photo 7"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b669c5cc47abc184194b_standard-08.webp",
+          "width": 1152,
+          "height": 1536,
+          "alt": {
+            "th": "บ้าน Unwind Standard Type ผลงานจริงของ Clay & Stone ภาพที่ 8",
+            "en": "Completed Clay & Stone Unwind Standard Type home, photo 8"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b669a84a9e740e476ed4_standard-07.webp",
+          "width": 1152,
+          "height": 1536,
+          "alt": {
+            "th": "บ้าน Unwind Standard Type ผลงานจริงของ Clay & Stone ภาพที่ 9",
+            "en": "Completed Clay & Stone Unwind Standard Type home, photo 9"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b6696b75b7769e8f9f4a_standard-06.webp",
+          "width": 1152,
+          "height": 1536,
+          "alt": {
+            "th": "บ้าน Unwind Standard Type ผลงานจริงของ Clay & Stone ภาพที่ 10",
+            "en": "Completed Clay & Stone Unwind Standard Type home, photo 10"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b66941412be4346387c5_standard-05.webp",
+          "width": 1152,
+          "height": 1536,
+          "alt": {
+            "th": "บ้าน Unwind Standard Type ผลงานจริงของ Clay & Stone ภาพที่ 11",
+            "en": "Completed Clay & Stone Unwind Standard Type home, photo 11"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b669a3b0078fe042db67_standard-04.webp",
+          "width": 1152,
+          "height": 1536,
+          "alt": {
+            "th": "บ้าน Unwind Standard Type ผลงานจริงของ Clay & Stone ภาพที่ 12",
+            "en": "Completed Clay & Stone Unwind Standard Type home, photo 12"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b669596c89c738b90a9c_standard-03.webp",
+          "width": 1152,
+          "height": 1536,
+          "alt": {
+            "th": "บ้าน Unwind Standard Type ผลงานจริงของ Clay & Stone ภาพที่ 13",
+            "en": "Completed Clay & Stone Unwind Standard Type home, photo 13"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b6694d3ee8abaef6e46a_standard-02.webp",
+          "width": 1152,
+          "height": 1536,
+          "alt": {
+            "th": "บ้าน Unwind Standard Type ผลงานจริงของ Clay & Stone ภาพที่ 14",
+            "en": "Completed Clay & Stone Unwind Standard Type home, photo 14"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b66927cdf8ccb5137118_standard-01.webp",
+          "width": 1152,
+          "height": 1536,
+          "alt": {
+            "th": "บ้าน Unwind Standard Type ผลงานจริงของ Clay & Stone ภาพที่ 15",
+            "en": "Completed Clay & Stone Unwind Standard Type home, photo 15"
+          },
+          "alt_status": "draft"
+        }
+      ],
+      "locations": [
+        {
+          "province": "Nonthaburi",
+          "source": "/en (Highlighted Projects: 'Unwind in Nonthaburi')"
+        },
+        {
+          "province": "Saraburi",
+          "source": "/en/about-us testimonial (K. Ketskanok, 'Standard Type in Saraburi')"
+        },
+        {
+          "province": "Bangkok",
+          "source": "/en/about-us testimonial (K. Pornsak, 'Standard Type in Bangkok')"
+        }
+      ],
+      "flags": [
+        "photos not tagged to locations",
+        "no project names or dates",
+        "asset rights pending"
+      ],
+      "sources": [
+        "/th/projects",
+        "/en/projects"
+      ]
+    },
+    {
+      "id": "unwind-loft",
+      "model_id": "unwind-loft",
+      "series_id": "unwind",
+      "title": {
+        "th": "Unwind Loft Type",
+        "en": "Unwind Loft Type"
+      },
+      "floor_plan": "/images/source/projects/69933e8db80b846a019e665a_Loft-Type.webp",
+      "photos": [
+        {
+          "src": "/images/source/projects/6973b8472c0b641bd8960e9a_loft-14.webp",
+          "width": 1122,
+          "height": 1122,
+          "alt": {
+            "th": "บ้าน Unwind Loft Type ผลงานจริงของ Clay & Stone ภาพที่ 1",
+            "en": "Completed Clay & Stone Unwind Loft Type home, photo 1"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b8474458238b820645c1_loft-13.webp",
+          "width": 1122,
+          "height": 1122,
+          "alt": {
+            "th": "บ้าน Unwind Loft Type ผลงานจริงของ Clay & Stone ภาพที่ 2",
+            "en": "Completed Clay & Stone Unwind Loft Type home, photo 2"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b84785fe6f90ef551ccf_loft-12.webp",
+          "width": 1122,
+          "height": 1122,
+          "alt": {
+            "th": "บ้าน Unwind Loft Type ผลงานจริงของ Clay & Stone ภาพที่ 3",
+            "en": "Completed Clay & Stone Unwind Loft Type home, photo 3"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6963ab7654c71bc7ec9d36c9_loft-4.webp",
+          "width": 1122,
+          "height": 1122,
+          "alt": {
+            "th": "บ้าน Unwind Loft Type ผลงานจริงของ Clay & Stone ภาพที่ 4",
+            "en": "Completed Clay & Stone Unwind Loft Type home, photo 4"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b847f44a577ca1a7904b_loft-10.webp",
+          "width": 1122,
+          "height": 1122,
+          "alt": {
+            "th": "บ้าน Unwind Loft Type ผลงานจริงของ Clay & Stone ภาพที่ 5",
+            "en": "Completed Clay & Stone Unwind Loft Type home, photo 5"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b847607d9207d2a2a18c_loft-09.webp",
+          "width": 1122,
+          "height": 1122,
+          "alt": {
+            "th": "บ้าน Unwind Loft Type ผลงานจริงของ Clay & Stone ภาพที่ 6",
+            "en": "Completed Clay & Stone Unwind Loft Type home, photo 6"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b847cc0db2e223ae6c36_loft-08.webp",
+          "width": 1152,
+          "height": 1536,
+          "alt": {
+            "th": "บ้าน Unwind Loft Type ผลงานจริงของ Clay & Stone ภาพที่ 7",
+            "en": "Completed Clay & Stone Unwind Loft Type home, photo 7"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b84760cf52b8e61855ab_loft-07.webp",
+          "width": 1152,
+          "height": 1536,
+          "alt": {
+            "th": "บ้าน Unwind Loft Type ผลงานจริงของ Clay & Stone ภาพที่ 8",
+            "en": "Completed Clay & Stone Unwind Loft Type home, photo 8"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b84766f394019dcd7f05_loft-06.webp",
+          "width": 1152,
+          "height": 1536,
+          "alt": {
+            "th": "บ้าน Unwind Loft Type ผลงานจริงของ Clay & Stone ภาพที่ 9",
+            "en": "Completed Clay & Stone Unwind Loft Type home, photo 9"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b848b0cf551ef3dc2105_loft-05.webp",
+          "width": 1512,
+          "height": 1134,
+          "alt": {
+            "th": "บ้าน Unwind Loft Type ผลงานจริงของ Clay & Stone ภาพที่ 10",
+            "en": "Completed Clay & Stone Unwind Loft Type home, photo 10"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b847be9db0cf140924a9_loft-04.webp",
+          "width": 1512,
+          "height": 1134,
+          "alt": {
+            "th": "บ้าน Unwind Loft Type ผลงานจริงของ Clay & Stone ภาพที่ 11",
+            "en": "Completed Clay & Stone Unwind Loft Type home, photo 11"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b8471c66218ce168170c_loft-03.webp",
+          "width": 1512,
+          "height": 1134,
+          "alt": {
+            "th": "บ้าน Unwind Loft Type ผลงานจริงของ Clay & Stone ภาพที่ 12",
+            "en": "Completed Clay & Stone Unwind Loft Type home, photo 12"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b847319537f555375dc0_loft-02.webp",
+          "width": 1152,
+          "height": 1536,
+          "alt": {
+            "th": "บ้าน Unwind Loft Type ผลงานจริงของ Clay & Stone ภาพที่ 13",
+            "en": "Completed Clay & Stone Unwind Loft Type home, photo 13"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973b84745b3bc110755548e_loft-01.webp",
+          "width": 1152,
+          "height": 1536,
+          "alt": {
+            "th": "บ้าน Unwind Loft Type ผลงานจริงของ Clay & Stone ภาพที่ 14",
+            "en": "Completed Clay & Stone Unwind Loft Type home, photo 14"
+          },
+          "alt_status": "draft"
+        }
+      ],
+      "locations": [
+        {
+          "province": "Prachinburi",
+          "source": "/en (Highlighted Projects: 'Unwind in Prachinburi')"
+        },
+        {
+          "province": "Suphanburi",
+          "source": "/en/about-us testimonial (K. Sujinda, 'Loft Type in Suphanburi')"
+        }
+      ],
+      "flags": [
+        "photos not tagged to locations",
+        "no project names or dates",
+        "asset rights pending"
+      ],
+      "sources": [
+        "/th/projects",
+        "/en/projects"
+      ]
+    },
+    {
+      "id": "unwind-1bed-2bath",
+      "model_id": "unwind-1bed-2bath",
+      "series_id": "unwind",
+      "title": {
+        "th": "Unwind 1 Bed 2 Bath",
+        "en": "Unwind 1 Bed 2 Bath"
+      },
+      "floor_plan": "/images/source/projects/69933e85dbadbf529b7d1171_1-Bed-2-Bath.webp",
+      "photos": [
+        {
+          "src": "/images/source/projects/6973bab42483e43311742af3_1bed-2bath-16.webp",
+          "width": 1512,
+          "height": 1134,
+          "alt": {
+            "th": "บ้าน Unwind 1 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 1",
+            "en": "Completed Clay & Stone Unwind 1 Bed 2 Bath home, photo 1"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973bab578367c101ea895f2_1bed-2bath-15.webp",
+          "width": 1512,
+          "height": 1134,
+          "alt": {
+            "th": "บ้าน Unwind 1 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 2",
+            "en": "Completed Clay & Stone Unwind 1 Bed 2 Bath home, photo 2"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973bab596eb0953b6c83d71_1bed-2bath-14.webp",
+          "width": 1512,
+          "height": 1134,
+          "alt": {
+            "th": "บ้าน Unwind 1 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 3",
+            "en": "Completed Clay & Stone Unwind 1 Bed 2 Bath home, photo 3"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973bab5b274825bcd905e0f_1bed-2bath-13.webp",
+          "width": 1512,
+          "height": 1134,
+          "alt": {
+            "th": "บ้าน Unwind 1 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 4",
+            "en": "Completed Clay & Stone Unwind 1 Bed 2 Bath home, photo 4"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973bab4cc0db2e223aef1a9_1bed-2bath-12.webp",
+          "width": 1512,
+          "height": 1134,
+          "alt": {
+            "th": "บ้าน Unwind 1 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 5",
+            "en": "Completed Clay & Stone Unwind 1 Bed 2 Bath home, photo 5"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973bab4f4d3090f50540ba0_1bed-2bath-11.webp",
+          "width": 1122,
+          "height": 1122,
+          "alt": {
+            "th": "บ้าน Unwind 1 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 6",
+            "en": "Completed Clay & Stone Unwind 1 Bed 2 Bath home, photo 6"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973bab501817e4632a32ccf_1bed-2bath-10.webp",
+          "width": 1122,
+          "height": 1122,
+          "alt": {
+            "th": "บ้าน Unwind 1 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 7",
+            "en": "Completed Clay & Stone Unwind 1 Bed 2 Bath home, photo 7"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973bab4a8948c7ddcd274a7_1bed-2bath-09.webp",
+          "width": 1122,
+          "height": 1122,
+          "alt": {
+            "th": "บ้าน Unwind 1 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 8",
+            "en": "Completed Clay & Stone Unwind 1 Bed 2 Bath home, photo 8"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973bab4fd3feb910ead7526_1bed-2bath-08.webp",
+          "width": 1122,
+          "height": 1122,
+          "alt": {
+            "th": "บ้าน Unwind 1 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 9",
+            "en": "Completed Clay & Stone Unwind 1 Bed 2 Bath home, photo 9"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973bab4d476f82d4bdef766_1bed-2bath-07.webp",
+          "width": 1122,
+          "height": 1122,
+          "alt": {
+            "th": "บ้าน Unwind 1 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 10",
+            "en": "Completed Clay & Stone Unwind 1 Bed 2 Bath home, photo 10"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973bab45600efe57dc76332_1bed-2bath-06.webp",
+          "width": 1122,
+          "height": 1122,
+          "alt": {
+            "th": "บ้าน Unwind 1 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 11",
+            "en": "Completed Clay & Stone Unwind 1 Bed 2 Bath home, photo 11"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6963ae4c608741b4a217121d_1bed-2bath-12.webp",
+          "width": 1122,
+          "height": 1122,
+          "alt": {
+            "th": "บ้าน Unwind 1 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 12",
+            "en": "Completed Clay & Stone Unwind 1 Bed 2 Bath home, photo 12"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973bab4492eae9d9dd1d19e_1bed-2bath-04.webp",
+          "width": 1122,
+          "height": 1122,
+          "alt": {
+            "th": "บ้าน Unwind 1 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 13",
+            "en": "Completed Clay & Stone Unwind 1 Bed 2 Bath home, photo 13"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6963ae4d516c536fe3ccc941_1bed-2bath-14.webp",
+          "width": 1122,
+          "height": 1122,
+          "alt": {
+            "th": "บ้าน Unwind 1 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 14",
+            "en": "Completed Clay & Stone Unwind 1 Bed 2 Bath home, photo 14"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973bab4bf231e1ab18a65e8_1bed-2bath-02.webp",
+          "width": 1152,
+          "height": 1536,
+          "alt": {
+            "th": "บ้าน Unwind 1 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 15",
+            "en": "Completed Clay & Stone Unwind 1 Bed 2 Bath home, photo 15"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6973bab48ae039b4c0e3e8b9_1bed-2bath-01.webp",
+          "width": 1152,
+          "height": 1536,
+          "alt": {
+            "th": "บ้าน Unwind 1 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 16",
+            "en": "Completed Clay & Stone Unwind 1 Bed 2 Bath home, photo 16"
+          },
+          "alt_status": "draft"
+        }
+      ],
+      "locations": [
+        {
+          "province": "Suphanburi",
+          "source": "/en (Highlighted Projects: 'Unwind in Suphanburi'); testimonial K. Orachorn"
+        }
+      ],
+      "flags": [
+        "photos not tagged to locations",
+        "no project names or dates",
+        "asset rights pending"
+      ],
+      "sources": [
+        "/th/projects",
+        "/en/projects"
+      ]
+    },
+    {
+      "id": "unwind-2bed-2bath",
+      "model_id": "unwind-2bed-2bath",
+      "series_id": "unwind",
+      "title": {
+        "th": "Unwind 2 Bed 2 Bath",
+        "en": "Unwind 2 Bed 2 Bath"
+      },
+      "floor_plan": "/images/source/projects/69933e89074eec2249ff604a_2-Bed-2-Bath.webp",
+      "photos": [
+        {
+          "src": "/images/source/projects/6a128b7323be8647e99d22b2_01.webp",
+          "width": 1672,
+          "height": 941,
+          "alt": {
+            "th": "บ้าน Unwind 2 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 1",
+            "en": "Completed Clay & Stone Unwind 2 Bed 2 Bath home, photo 1"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6a128b72c517fb01f8baf43e_02.webp",
+          "width": 1672,
+          "height": 941,
+          "alt": {
+            "th": "บ้าน Unwind 2 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 2",
+            "en": "Completed Clay & Stone Unwind 2 Bed 2 Bath home, photo 2"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6a128b720a2225ab7e6b04e6_03.webp",
+          "width": 1683,
+          "height": 935,
+          "alt": {
+            "th": "บ้าน Unwind 2 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 3",
+            "en": "Completed Clay & Stone Unwind 2 Bed 2 Bath home, photo 3"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6a128d53431c2637b7121eae_04.webp",
+          "width": 1846,
+          "height": 852,
+          "alt": {
+            "th": "บ้าน Unwind 2 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 4",
+            "en": "Completed Clay & Stone Unwind 2 Bed 2 Bath home, photo 4"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6a128d535f224ee69d52ed7e_05.webp",
+          "width": 1672,
+          "height": 941,
+          "alt": {
+            "th": "บ้าน Unwind 2 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 5",
+            "en": "Completed Clay & Stone Unwind 2 Bed 2 Bath home, photo 5"
+          },
+          "alt_status": "draft"
+        }
+      ],
+      "locations": [],
+      "flags": [
+        "photos not tagged to locations",
+        "no project names or dates",
+        "asset rights pending"
+      ],
+      "sources": [
+        "/th/projects",
+        "/en/projects"
+      ]
+    },
+    {
+      "id": "alive-2bed-2bath",
+      "model_id": "alive-2bed-2bath",
+      "series_id": "alive",
+      "title": {
+        "th": "Alive 2 Bed 2 Bath",
+        "en": "Alive 2 Bed 2 Bath"
+      },
+      "floor_plan": "/images/source/projects/6a12b15a9e8bf0a84961150a_2-Bed-2-Bath.webp",
+      "photos": [
+        {
+          "src": "/images/source/projects/6a12b4bffc3c68b362f659c1_01.webp",
+          "width": 1672,
+          "height": 941,
+          "alt": {
+            "th": "บ้าน Alive 2 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 1",
+            "en": "Completed Clay & Stone Alive 2 Bed 2 Bath home, photo 1"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6a12b4bfc62e80f0d1f1506c_02.webp",
+          "width": 1672,
+          "height": 941,
+          "alt": {
+            "th": "บ้าน Alive 2 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 2",
+            "en": "Completed Clay & Stone Alive 2 Bed 2 Bath home, photo 2"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6a12b4bfa24746699061a83e_03.webp",
+          "width": 1672,
+          "height": 941,
+          "alt": {
+            "th": "บ้าน Alive 2 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 3",
+            "en": "Completed Clay & Stone Alive 2 Bed 2 Bath home, photo 3"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6a12b4bfc517fb01f8bf8690_04.webp",
+          "width": 1672,
+          "height": 941,
+          "alt": {
+            "th": "บ้าน Alive 2 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 4",
+            "en": "Completed Clay & Stone Alive 2 Bed 2 Bath home, photo 4"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6a12b4bfb6e65cc6a38f53cb_05.webp",
+          "width": 1672,
+          "height": 941,
+          "alt": {
+            "th": "บ้าน Alive 2 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 5",
+            "en": "Completed Clay & Stone Alive 2 Bed 2 Bath home, photo 5"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6a12b4bf4d223b41045aadfe_06.webp",
+          "width": 1672,
+          "height": 941,
+          "alt": {
+            "th": "บ้าน Alive 2 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 6",
+            "en": "Completed Clay & Stone Alive 2 Bed 2 Bath home, photo 6"
+          },
+          "alt_status": "draft"
+        },
+        {
+          "src": "/images/source/projects/6a12b4bf37421d32569efbbf_07.webp",
+          "width": 941,
+          "height": 1300,
+          "alt": {
+            "th": "บ้าน Alive 2 Bed 2 Bath ผลงานจริงของ Clay & Stone ภาพที่ 7",
+            "en": "Completed Clay & Stone Alive 2 Bed 2 Bath home, photo 7"
+          },
+          "alt_status": "draft"
+        }
+      ],
+      "locations": [],
+      "flags": [
+        "photos not tagged to locations",
+        "no project names or dates",
+        "asset rights pending"
+      ],
+      "sources": [
+        "/th/projects",
+        "/en/projects"
+      ]
+    }
+  ]
+}

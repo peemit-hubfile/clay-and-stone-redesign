@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "collection": "finder",
+    "authored_by": "hand (not generated)",
+    "description": "Declarative rules for the rules-based Smart Home Finder. Every effect reads a field from seed/models.json, so each recommendation reason is traceable to site data. No AI is involved, and the UI must say so.",
+    "engine_contract": {
+      "require": "Model is excluded if the condition fails (it can still be shown under 'close matches' with the failed reason).",
+      "boost": "Adds `weight` to the score and shows `reason` when the condition passes.",
+      "note": "Shows a neutral note (no score change) when the condition passes.",
+      "ops": ["eq", "in", "includes", "gte", "lte", "missing"],
+      "field_paths": "Dot paths into a model record, e.g. price.display_thb, area_sqm.usable, uses"
+    },
+    "pending": [
+      "Budget bands use price.display_thb (price-card value). While price.status = pending-confirmation, results must show the 'price pending confirmation' badge.",
+      "No minimum plot size data exists, so the plot question only uses plot_fit tags taken from site copy."
+    ]
+  },
+  "items": {
+    "intro": {
+      "title": { "th": "ค้นหาบ้านที่ใช่สำหรับคุณ", "en": "Find the home that fits you" },
+      "lead": { "th": "ตอบคำถามสั้น ๆ 6 ข้อ เราจะแนะนำแบบบ้านจากข้อมูลจริงของ Clay & Stone พร้อมเหตุผลทุกข้อ", "en": "Answer six short questions and we'll suggest homes from Clay & Stone's published range, with the reason behind every match." },
+      "disclaimer": { "th": "เครื่องมือนี้ใช้กฎที่ชัดเจน ไม่ใช่ AI และไม่เก็บข้อมูลส่วนตัว คำตอบของคุณอยู่ในเบราว์เซอร์เท่านั้น", "en": "This guide uses clear rules, not AI, and stores no personal data. Your answers stay in your browser." }
+    },
+    "questions": [
+      {
+        "id": "use",
+        "label": { "th": "คุณจะใช้บ้านหลังนี้เพื่ออะไร", "en": "How will you use this home?" },
+        "type": "single",
+        "options": [
+          { "id": "primary-home", "label": { "th": "บ้านหลักสำหรับอยู่ประจำ", "en": "Main home" },
+            "effects": [{ "type": "boost", "field": "uses", "op": "includes", "value": "primary-home", "weight": 3,
+              "reason": { "th": "เหมาะกับการอยู่อาศัยระยะยาว", "en": "Suited to long-term, everyday living" } }] },
+          { "id": "second-home", "label": { "th": "บ้านพักตากอากาศ / บ้านหลังที่สอง", "en": "Weekend or second home" },
+            "effects": [{ "type": "boost", "field": "uses", "op": "includes", "value": "second-home", "weight": 3,
+              "reason": { "th": "ออกแบบมาเป็นบ้านหลังที่สองหรือบ้านพักผ่อน", "en": "Designed as a second home or retreat" } }] },
+          { "id": "resort", "label": { "th": "ที่พักหรือรีสอร์ต", "en": "Resort or guest accommodation" },
+            "effects": [{ "type": "boost", "field": "uses", "op": "includes", "value": "resort", "weight": 3,
+              "reason": { "th": "Clay & Stone ระบุว่าเหมาะกับการใช้งานแบบรีสอร์ต", "en": "Clay & Stone presents it for resort use" } },
+              { "type": "note", "field": "id", "op": "in", "value": ["unwind-standard", "unwind-loft", "unwind-1bed-2bath", "unwind-2bed-2bath"],
+              "reason": { "th": "สำหรับหลายหลัง กรุณาปรึกษาทีมงานเรื่องราคาและการติดตั้ง", "en": "For multiple units, talk to the team about pricing and installation" } }] },
+          { "id": "studio", "label": { "th": "สตูดิโอ / ห้องทำงานส่วนตัว", "en": "Studio or private workspace" },
+            "effects": [{ "type": "boost", "field": "uses", "op": "includes", "value": "studio", "weight": 3,
+              "reason": { "th": "ผังเปิดโล่ง เหมาะเป็นสตูดิโอส่วนตัว", "en": "Open layout that works as a private studio" } }] }
+        ]
+      },
+      {
+        "id": "household",
+        "label": { "th": "จะมีผู้อยู่อาศัยกี่คน", "en": "Who will live there?" },
+        "type": "single",
+        "options": [
+          { "id": "solo", "label": { "th": "อยู่คนเดียว", "en": "Just me" },
+            "effects": [{ "type": "boost", "field": "area_sqm.usable", "op": "lte", "value": 50, "weight": 2,
+              "reason": { "th": "ขนาดกะทัดรัด ดูแลง่าย", "en": "Compact and easy to look after" } }] },
+          { "id": "couple", "label": { "th": "2 คน", "en": "Two people" },
+            "effects": [{ "type": "boost", "field": "household", "op": "includes", "value": "couple", "weight": 2,
+              "reason": { "th": "Clay & Stone แนะนำรุ่นนี้สำหรับคู่รักหรือผู้เกษียณ", "en": "Recommended by Clay & Stone for couples and retirees" } }] },
+          { "id": "small-family", "label": { "th": "ครอบครัวเล็ก (3–4 คน)", "en": "Small family (3–4)" },
+            "effects": [{ "type": "boost", "field": "household", "op": "includes", "value": "small-family", "weight": 2,
+              "reason": { "th": "Clay & Stone แนะนำสำหรับครอบครัวขนาดเล็ก", "en": "Recommended by Clay & Stone for small families" } },
+              { "type": "require", "field": "bedrooms", "op": "gte", "value": 1,
+              "reason": { "th": "มีห้องนอนแยกอย่างน้อย 1 ห้อง", "en": "Has at least one separate bedroom" } }] },
+          { "id": "family", "label": { "th": "ครอบครัว 5 คนขึ้นไป", "en": "Family of 5 or more" },
+            "effects": [{ "type": "require", "field": "bedrooms", "op": "gte", "value": 2,
+              "reason": { "th": "มี 2 ห้องนอน ซึ่งมากที่สุดในแบบบ้านปัจจุบัน", "en": "Two bedrooms, the most in the current range" } },
+              { "type": "note", "field": "bedrooms", "op": "gte", "value": 2,
+              "reason": { "th": "ครอบครัวใหญ่อาจต้องต่อโมดูลเพิ่ม กรุณาปรึกษาทีมงาน", "en": "Larger families may need extra modules; talk to the team" } }] }
+        ]
+      },
+      {
+        "id": "bedrooms",
+        "label": { "th": "ต้องการห้องนอนแยกกี่ห้อง", "en": "How many separate bedrooms do you need?" },
+        "type": "single",
+        "options": [
+          { "id": "0", "label": { "th": "ไม่จำเป็น (ผังเปิดหรือ Loft ได้)", "en": "None (open plan or loft is fine)" }, "effects": [] },
+          { "id": "1", "label": { "th": "1 ห้อง", "en": "1" },
+            "effects": [{ "type": "require", "field": "bedrooms", "op": "gte", "value": 1,
+              "reason": { "th": "มีห้องนอนแยก", "en": "Has a separate bedroom" } }] },
+          { "id": "2", "label": { "th": "2 ห้อง", "en": "2" },
+            "effects": [{ "type": "require", "field": "bedrooms", "op": "gte", "value": 2,
+              "reason": { "th": "มี 2 ห้องนอน", "en": "Has two bedrooms" } }] }
+        ]
+      },
+      {
+        "id": "budget",
+        "label": { "th": "งบประมาณสำหรับตัวบ้าน (รวม VAT)", "en": "Budget for the home itself (incl. VAT)" },
+        "help": { "th": "ยังไม่รวมฐานราก งานระบบภายนอก และการเตรียมพื้นที่ ซึ่ง Clay & Stone แนะนำให้เผื่อเพิ่ม 20–30%", "en": "Excludes foundation, external utilities and site preparation. Clay & Stone suggests allowing an extra 20–30%." },
+        "type": "single",
+        "options": [
+          { "id": "lte-1m", "label": { "th": "ไม่เกิน 1 ล้านบาท", "en": "Up to ฿1M" },
+            "effects": [{ "type": "require", "field": "price.display_thb", "op": "lte", "value": 1000000,
+              "reason": { "th": "อยู่ในงบ 1 ล้านบาท", "en": "Within ฿1M" } }] },
+          { "id": "lte-1-5m", "label": { "th": "ไม่เกิน 1.5 ล้านบาท", "en": "Up to ฿1.5M" },
+            "effects": [{ "type": "require", "field": "price.display_thb", "op": "lte", "value": 1500000,
+              "reason": { "th": "อยู่ในงบ 1.5 ล้านบาท", "en": "Within ฿1.5M" } }] },
+          { "id": "lte-2m", "label": { "th": "ไม่เกิน 2 ล้านบาท", "en": "Up to ฿2M" },
+            "effects": [{ "type": "require", "field": "price.display_thb", "op": "lte", "value": 2000000,
+              "reason": { "th": "อยู่ในงบ 2 ล้านบาท", "en": "Within ฿2M" } }] },
+          { "id": "lte-3m", "label": { "th": "ไม่เกิน 3 ล้านบาท", "en": "Up to ฿3M" },
+            "effects": [{ "type": "require", "field": "price.display_thb", "op": "lte", "value": 3000000,
+              "reason": { "th": "อยู่ในงบ 3 ล้านบาท", "en": "Within ฿3M" } }] },
+          { "id": "unsure", "label": { "th": "ยังไม่แน่ใจ", "en": "Not sure yet" }, "effects": [] }
+        ]
+      },
+      {
+        "id": "plot",
+        "label": { "th": "ที่ดินของคุณเป็นแบบไหน", "en": "What is your plot like?" },
+        "type": "single",
+        "options": [
+          { "id": "limited", "label": { "th": "พื้นที่จำกัด", "en": "Limited space" },
+            "effects": [{ "type": "boost", "field": "plot_fit", "op": "eq", "value": "limited", "weight": 2,
+              "reason": { "th": "Clay & Stone ระบุว่าเหมาะกับที่ดินจำกัด เพราะขยายพื้นที่ขึ้นด้านบน", "en": "Presented for limited plots, since it gains space vertically" } }] },
+          { "id": "medium-large", "label": { "th": "ขนาดกลางถึงใหญ่", "en": "Medium to large" },
+            "effects": [{ "type": "boost", "field": "plot_fit", "op": "eq", "value": "medium", "weight": 1,
+              "reason": { "th": "Clay & Stone ระบุว่าเหมาะกับที่ดินขนาดกลาง", "en": "Presented for medium-sized plots" } }] },
+          { "id": "unsure", "label": { "th": "ยังไม่แน่ใจ / ยังไม่มีที่ดิน", "en": "Not sure / no land yet" }, "effects": [] }
+        ],
+        "always_note": { "th": "การติดตั้งต้องมีทางให้รถเครนหรือรถบรรทุกเข้าถึง และทีมวิศวกรจะสำรวจหน้างานก่อนเสมอ", "en": "Installation needs crane or truck access, and the engineering team surveys every site first." }
+      },
+      {
+        "id": "lifestyle",
+        "label": { "th": "บรรยากาศแบบไหนที่ตรงกับคุณ", "en": "Which mood suits you?" },
+        "type": "single",
+        "options": [
+          { "id": "calm", "label": { "th": "เงียบสงบ ใกล้ชิดธรรมชาติ", "en": "Calm, close to nature" },
+            "effects": [{ "type": "boost", "field": "lifestyle", "op": "includes", "value": "calm", "weight": 2,
+              "reason": { "th": "Unwind Series ออกแบบเพื่อ Slow Living และการพักผ่อน", "en": "The Unwind Series is designed for slow living and rest" } }] },
+          { "id": "active", "label": { "th": "คล่องตัว ใช้ชีวิตกลางแจ้ง", "en": "Active, outdoor living" },
+            "effects": [{ "type": "boost", "field": "lifestyle", "op": "includes", "value": "active", "weight": 2,
+              "reason": { "th": "Alive Series ออกแบบเพื่อชีวิตกลางแจ้งที่คล่องตัว", "en": "The Alive Series is designed for active, outdoor living" } }] },
+          { "id": "none", "label": { "th": "ไม่มีความชอบเฉพาะ", "en": "No preference" }, "effects": [] }
+        ]
+      }
+    ],
+    "results": {
+      "max_results": 3,
+      "sort": ["score desc", "price.display_thb asc"],
+      "pending_price_badge": { "th": "ราคารอยืนยัน", "en": "Price pending confirmation" },
+      "no_match": {
+        "title": { "th": "ยังไม่มีแบบบ้านที่ตรงกับทุกข้อ", "en": "No home matches every answer yet" },
+        "text": { "th": "ทีมสถาปนิกของเราปรับผังและต่อโมดูลเพิ่มได้ คุยกับเราเพื่อหาทางเลือกที่เหมาะกับคุณ", "en": "Our architects can adapt layouts and add modules. Talk to us to find an option that works for you." },
+        "show_close_matches": true
+      },
+      "cta": {
+        "primary": { "th": "คุยกับทีมงานผ่าน LINE", "en": "Chat with us on LINE" },
+        "secondary": { "th": "ดูรายละเอียดแบบบ้าน", "en": "View this home" },
+        "prefill_message": { "th": "สวัสดีครับ/ค่ะ สนใจบ้าน {model} จากเครื่องมือค้นหาบ้านบนเว็บไซต์", "en": "Hello, I'm interested in the {model} from the Home Finder on your website." }
+      }
+    }
+  }
+}

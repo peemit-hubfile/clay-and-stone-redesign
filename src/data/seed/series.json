@@ -1,0 +1,202 @@
+{
+  "_meta": {
+    "collection": "series",
+    "generated_by": "tools/seed/build-seed.mjs",
+    "generated_from": "src/data (Stage 1 extraction, 2026-11-20)",
+    "count": 3
+  },
+  "items": [
+    {
+      "id": "unwind",
+      "slug": "unwind-series",
+      "legacy_path": "/products/unwind-series",
+      "name": {
+        "th": "Unwind Series",
+        "en": "Unwind Series"
+      },
+      "status": "available",
+      "concept": {
+        "th": "Returning Nature to Living",
+        "en": "Returning Nature to Living"
+      },
+      "tagline": {
+        "th": "Slow Living, Quiet Moments: Designed for those who seek calm in nature.",
+        "en": "Slow Living, Quiet Moments: Designed for those who seek calm in nature."
+      },
+      "headline": {
+        "th": "บ้านโมดูลาร์เพื่อการอยู่อาศัยที่เชื่อมโยงกับธรรมชาติ",
+        "en": "A modular home designed to connect you with nature."
+      },
+      "intro": {
+        "th": "บ้านโมดูลาร์จาก Clay & Stone ที่ออกแบบภายใต้แนวคิด \"Returning Nature to Living\" ผสานความเรียบง่าย สบาย และกลมกลืนกับธรรมชาติ บ้านทุกหลังถูกสร้างด้วย ระบบโมดูลาร์ (Modular System) มาตรฐาน ทำให้ก่อสร้างเร็ว คุ้มค่า และปรับต่อเติมได้ในอนาคต เหมาะสำหรับผู้ที่ต้องการ Modular House ที่มีคุณภาพ ในราคาที่จับต้องได้",
+        "en": "The Unwind Series by Clay & Stone is a collection of modular homes for sale built around one simple idea: living well means living close to nature. Designed using a standardized modular system, each home allows for faster construction, predictable costs, and the flexibility to adapt as life evolves. Whether you're looking for a weekend retreat, a second home on your land, or a resort unit, the Unwind Series offers a modular house design that balances warmth, simplicity, and lasting quality."
+      },
+      "values": [
+        "Simplicity",
+        "Comfort",
+        "Homey",
+        "Harmony with Nature"
+      ],
+      "functions": [
+        "Bedroom",
+        "Party Room",
+        "Kid's room",
+        "Living & Dining Room",
+        "Family Room",
+        "Working Studio"
+      ],
+      "module_combinations": [
+        "Living / Dining & Bedroom",
+        "Living / Dining & Working Studio",
+        "Family & Working Studio",
+        "Family & Party Room",
+        "Family & Kid's Room",
+        "Family & Working Studio (listed twice on source)"
+      ],
+      "images": {
+        "identity": [
+          "/images/source/series-identity/694e06c359f693d74fbc9624_bi-img-1.webp",
+          "/images/source/series-identity/694e06c332789bcc8d3cd096_bi-img-2.webp",
+          "/images/source/series-identity/6973bd5e2146ef02e151edff_bi-img-3.webp",
+          "/images/source/series-identity/694e06c3033fd1da79ed18d9_bi-img-4.webp"
+        ],
+        "size_diagram": [
+          "/images/source/unwind/694acd6bbdf13be6a0809bd0_unwind-img-08.webp",
+          "/images/source/unwind/694acd6bd9f8bd55b66a2a58_unwind-img-09.webp"
+        ],
+        "module_diagram": "/images/source/unwind/696c926e13e832bcb95bac6c_Frame-205.webp"
+      },
+      "model_ids": [
+        "unwind-standard",
+        "unwind-loft",
+        "unwind-1bed-2bath",
+        "unwind-2bed-2bath"
+      ],
+      "starting_price_thb": 849000,
+      "price_status": "pending-confirmation",
+      "show_in_nav": true,
+      "show_in_finder": true,
+      "flags": [
+        "starting_price: card 849,000 vs intro/FAQ 830,000 (pending)"
+      ],
+      "sources": [
+        "https://www.clayandstone.co.th/th/products/unwind-series",
+        "https://www.clayandstone.co.th/en/products/unwind-series"
+      ]
+    },
+    {
+      "id": "alive",
+      "slug": "alive-series",
+      "legacy_path": "/products/alive-series",
+      "name": {
+        "th": "Alive Series",
+        "en": "Alive Series"
+      },
+      "status": "available",
+      "concept": {
+        "th": "Returning Nature to Living",
+        "en": "Returning Nature to Living"
+      },
+      "tagline": {
+        "th": "Compact living, expanded experiences : designed for those who feel most alive outside.",
+        "en": "Compact living, expanded experiences : designed for those who feel most alive outside."
+      },
+      "headline": {
+        "th": "บ้านที่ออกแบบเพื่อการใช้ชีวิตอย่างคล่องตัว ใกล้ชิดธรรมชาติ และเปิดรับประสบการณ์ใหม่",
+        "en": null
+      },
+      "intro": {
+        "th": null,
+        "en": "Alive Series: a compact prefab modular home designed for active, outdoor living. 2 bedrooms, 2 bathrooms, 68 sq.m., starting at 1,690,000 THB (incl. VAT) with free instal..."
+      },
+      "values": [
+        "Dynamic",
+        "Compact",
+        "Active",
+        "Outdoor Living"
+      ],
+      "functions": [
+        "Bedroom",
+        "Bedroom & Kitchen Dining Room",
+        "Master Bedroom & Living Room",
+        "Bedroom & Working Room",
+        "Kids & Kitchen Room",
+        "2 Bedrooms"
+      ],
+      "module_combinations": [
+        "Bedroom + Dining Pantry & Bedroom + Living",
+        "2 Bedroom & Living + Kitchen",
+        "Kids room + Kitchen & Bedroom + Living",
+        "Bedroom + Working & Living + Kitchen",
+        "Bedroom + Living & Bedroom + Dining Pantry",
+        "2 Bedroom & Kids room + Kitchen"
+      ],
+      "images": {
+        "identity": [
+          "/images/source/series-identity/6a12b0d4a2474669906144bd_bi-img-1.webp",
+          "/images/source/series-identity/6a12b0d422ff42301f738e89_bi-img-2.webp",
+          "/images/source/series-identity/6a12ad6bab3ec83c046b4912_bi-img-3.png",
+          "/images/source/series-identity/6a12b0d48f34ca7e12f75e4c_bi-img-4.webp"
+        ],
+        "size_diagram": [
+          "/images/source/alive/6adca2f4744fdbb7b15d8c5a_alive-size-iso.webp",
+          "/images/source/alive/6adca2f3e65018171dadf46b_alive-size-plan.webp"
+        ],
+        "module_diagram": [
+          "/images/source/alive/6adc7fa7eaf072fb5bde2abb_alive-module-isometric-tight.webp",
+          "/images/source/alive/6adc7a82201fda999cc46954_alive-module-plan-split-bg.webp"
+        ]
+      },
+      "model_ids": [
+        "alive-2bed-2bath"
+      ],
+      "starting_price_thb": 1690000,
+      "price_status": "consistent-on-site",
+      "show_in_nav": true,
+      "show_in_finder": true,
+      "flags": [
+        "intro.en: missing (live EN page shows Thai Unwind copy)",
+        "concept copied from Unwind (pending)",
+        "FAQ: none usable"
+      ],
+      "sources": [
+        "https://www.clayandstone.co.th/th/products/alive-series",
+        "https://www.clayandstone.co.th/en/products/alive-series"
+      ]
+    },
+    {
+      "id": "humble",
+      "slug": "humble-series",
+      "legacy_path": "/products/upcoming-product",
+      "name": {
+        "th": "Humble Series",
+        "en": "Humble Series"
+      },
+      "status": "coming-soon",
+      "concept": null,
+      "tagline": null,
+      "headline": null,
+      "intro": {
+        "th": "เตรียมพบ Humble Series บ้านสำเร็จรูประบบโมดูลาร์รุ่นใหม่จาก Clay & Stone ออกแบบโดยสถาปนิก ผลิตจากโรงงาน ติดตั้งเร็ว ติดต่อสอบถามข้อมูลล่วงหน้าได้แล้ววันนี้",
+        "en": "Humble Series, the next prefab modular home from Clay & Stone, is coming soon. Architect-designed, factory-built and quick to install. Contact us for early information."
+      },
+      "values": [],
+      "functions": [],
+      "module_combinations": [],
+      "images": {},
+      "model_ids": [],
+      "starting_price_thb": null,
+      "price_status": null,
+      "show_in_nav": false,
+      "show_in_finder": false,
+      "flags": [
+        "coming soon: no specs, images or date",
+        "show in navigation? (client decision)"
+      ],
+      "sources": [
+        "https://www.clayandstone.co.th/th/products/upcoming-product",
+        "https://www.clayandstone.co.th/en/products/upcoming-product"
+      ]
+    }
+  ]
+}

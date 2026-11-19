@@ -9,7 +9,10 @@ An independent redesign proposal for [clayandstone.co.th](https://www.clayandsto
 ```
 docs/            Discovery reports, asset manifest, source archive, audit evidence
 src/data/        Structured content extracted from the live site (single source of truth)
+src/data/seed/   Prototype-ready CMS-style collections built from src/data (npm run seed:all)
+src/scripts/     Shared front-end logic (finder-engine.js)
 tools/discovery/ Scripts used to crawl and audit the live site
+tools/seed/      Seed build and validation scripts
 public/          Local media (client images/videos are git-ignored until rights are confirmed)
 ```
 

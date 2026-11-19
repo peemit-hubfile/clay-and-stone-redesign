@@ -1,0 +1,117 @@
+{
+  "_meta": {
+    "collection": "articles",
+    "generated_by": "tools/seed/build-seed.mjs",
+    "generated_from": "src/data (Stage 1 extraction, 2026-11-20)",
+    "count": 5
+  },
+  "items": [
+    {
+      "id": "prefab-homes-lifespan",
+      "slug": "prefab-homes-lifespan",
+      "legacy_path": "/blogs/prefab-homes-lifespan",
+      "date": "2026-07-07",
+      "category": "Educated / Informative",
+      "title": {
+        "th": "บ้านสำเร็จรูปอยู่ได้กี่ปี? อายุการใช้งานจริงที่คุณควรรู้",
+        "en": "How Long Do Prefab Homes Last? What You Really Need to Know"
+      },
+      "author_id": "team-1",
+      "source_text": {
+        "th": "docs/source-archive/text/th_blogs_prefab_homes_lifespan.txt",
+        "en": "docs/source-archive/text/en_blogs_prefab_homes_lifespan.txt"
+      },
+      "flags": [],
+      "sources": [
+        "https://www.clayandstone.co.th/th/blogs/prefab-homes-lifespan",
+        "https://www.clayandstone.co.th/en/blogs/prefab-homes-lifespan"
+      ]
+    },
+    {
+      "id": "modular-house-rainy-season-problems",
+      "slug": "modular-house-rainy-season-problems",
+      "legacy_path": "/blogs/modular-house-rainy-season-problems",
+      "date": "2026-06-17",
+      "category": "Educated / Informative",
+      "title": {
+        "th": "บ้านโมดูลาร์อยู่หน้าฝนได้จริงไหม? ออกแบบอย่างไรให้อยู่สบายในสภาพอากาศประเทศไทย",
+        "en": "Can a Modular House Really Handle the Rainy Season? How to Design for Thailand's Climate"
+      },
+      "author_id": "team-1",
+      "source_text": {
+        "th": "docs/source-archive/text/th_blogs_modular_house_rainy_season_problems.txt",
+        "en": "docs/source-archive/text/en_blogs_modular_house_rainy_season_problems.txt"
+      },
+      "flags": [],
+      "sources": [
+        "https://www.clayandstone.co.th/th/blogs/modular-house-rainy-season-problems",
+        "https://www.clayandstone.co.th/en/blogs/modular-house-rainy-season-problems"
+      ]
+    },
+    {
+      "id": "modular-house-price",
+      "slug": "modular-house-price",
+      "legacy_path": "/blogs/modular-house-price",
+      "date": "2026-06-17",
+      "category": "Educated / Informative",
+      "title": {
+        "th": "บ้านโมดูลาร์ราคาเท่าไหร่? เลือกขนาดบ้านอย่างไร และต้องเตรียมงบประมาณอะไรบ้าง",
+        "en": "How Much Does a Modular House Cost? Choosing the Right Size and Budgeting"
+      },
+      "author_id": "team-1",
+      "source_text": {
+        "th": "docs/source-archive/text/th_blogs_modular_house_price.txt",
+        "en": "docs/source-archive/text/en_blogs_modular_house_price.txt"
+      },
+      "flags": [],
+      "sources": [
+        "https://www.clayandstone.co.th/th/blogs/modular-house-price",
+        "https://www.clayandstone.co.th/en/blogs/modular-house-price"
+      ]
+    },
+    {
+      "id": "modular-vs-knockdown-house",
+      "slug": "modular-vs-knockdown-house",
+      "legacy_path": "/blogs/modular-vs-knockdown-house",
+      "date": "2026-06-16",
+      "category": "Educated / Informative",
+      "title": {
+        "th": "บ้านน็อคดาวน์ กับบ้านโมดูลาร์ ต่างกันอย่างไร? ทำความเข้าใจระบบบ้านสำเร็จรูปแต่ละประเภทก่อนตัดสินใจ",
+        "en": "Modular House vs. Knockdown House: What's the Difference? Understanding Prefab Home Types Before You Build"
+      },
+      "author_id": "team-1",
+      "source_text": {
+        "th": "docs/source-archive/text/th_blogs_modular_vs_knockdown_house.txt",
+        "en": "docs/source-archive/text/en_blogs_modular_vs_knockdown_house.txt"
+      },
+      "flags": [],
+      "sources": [
+        "https://www.clayandstone.co.th/th/blogs/modular-vs-knockdown-house",
+        "https://www.clayandstone.co.th/en/blogs/modular-vs-knockdown-house"
+      ]
+    },
+    {
+      "id": "knockdown-house-ideas",
+      "slug": "knockdown-house-ideas",
+      "legacy_path": "/blogs/knockdown-house-ideas",
+      "date": "2023-10-10",
+      "category": "Idea/Inspiration",
+      "title": {
+        "th": "สวยจบในหลังเดียว! 4 ไอเดีย “บ้านน็อคดาวน์” สไตล์รีสอร์ท",
+        "en": "Beautiful finish in one back! 4 “Knockdown House” Resort-Style Ideas"
+      },
+      "author_id": "team-1",
+      "source_text": {
+        "th": "docs/source-archive/text/th_blogs_knockdown_house_ideas.txt",
+        "en": "docs/source-archive/text/en_blogs_knockdown_house_ideas.txt"
+      },
+      "flags": [
+        "EN version reads as machine-translated; EN page carries the Thai SEO title and description."
+      ],
+      "sources": [
+        "https://www.clayandstone.co.th/th/blogs/knockdown-house-ideas",
+        "https://www.clayandstone.co.th/en/blogs/knockdown-house-ideas"
+      ]
+    }
+  ]
+}

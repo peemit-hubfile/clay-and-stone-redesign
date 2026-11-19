@@ -1,0 +1,98 @@
+{
+  "_meta": { "locale": "en", "status": "draft UI copy for review; existing site labels reused where they exist" },
+  "nav": {
+    "homes": "Our Homes",
+    "compare": "Compare Homes",
+    "finder": "Home Finder",
+    "projects": "Projects",
+    "how_we_build": "How We Build",
+    "knowledge": "Good to Know",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Book a Consultation",
+    "menu": "Menu",
+    "close": "Close",
+    "skip": "Skip to main content",
+    "language": "Language"
+  },
+  "cta": {
+    "explore_homes": "Explore Our Homes",
+    "talk_to_us": "Talk to Our Team",
+    "line": "Chat on LINE",
+    "call": "Call us",
+    "email": "Email us",
+    "visit_showroom": "Visit the showroom",
+    "view_home": "View details",
+    "explore_more": "Explore More",
+    "compare_add": "Add to compare",
+    "compare_remove": "Remove from compare",
+    "start_finder": "Start the Home Finder"
+  },
+  "model": {
+    "price_from": "From",
+    "price_incl_vat": "incl. VAT",
+    "currency": "THB",
+    "usable_area": "Usable area",
+    "interior": "Interior + toilet",
+    "terrace": "Terrace",
+    "pet_house": "Outdoor pet house",
+    "sqm": "sqm",
+    "bedrooms": "Bedrooms",
+    "bathrooms": "Bathrooms",
+    "storeys": "Storeys",
+    "open_plan": "Open plan",
+    "loft": "Loft",
+    "floor_plan": "Floor plan",
+    "gallery": "Completed homes",
+    "materials": "Materials",
+    "included": "Included in the price",
+    "customer_prepares": "You prepare",
+    "series": "Series"
+  },
+  "status": {
+    "pending": "Pending confirmation",
+    "price_pending": "Price pending confirmation",
+    "content_pending": "Content pending from client",
+    "coming_soon": "Coming soon",
+    "demo": "Demo mode"
+  },
+  "compare": {
+    "title": "Compare homes",
+    "empty": "Choose 2–3 homes to compare",
+    "max": "You can compare up to 3 homes"
+  },
+  "finder": {
+    "step": "Question {n} of {total}",
+    "back": "Back",
+    "next": "Next",
+    "see_results": "See results",
+    "restart": "Start again",
+    "why": "Why it fits",
+    "close_matches": "Close matches",
+    "not_matched": "Doesn't match"
+  },
+  "timeline": {
+    "production": "{min}–{max} days of factory production",
+    "delivery": "Delivered at about {percent}% production",
+    "onsite": "About {days} days on site"
+  },
+  "form": {
+    "title": "Book a consultation",
+    "name": "Name",
+    "phone": "Phone",
+    "line_id": "LINE ID (optional)",
+    "interest": "Home you're interested in",
+    "message": "Message",
+    "submit": "Send",
+    "required": "Required",
+    "invalid_phone": "Please enter a valid phone number",
+    "demo_notice": "This prototype is in demo mode. Nothing you enter is sent anywhere.",
+    "demo_success": "Submitted (demo). No data was sent."
+  },
+  "footer": {
+    "showroom": "Office and Showroom",
+    "by_appointment": "Visits by appointment",
+    "rights": "© Clay & Stone",
+    "prototype_notice": "Redesign prototype, not the live website"
+  }
+}

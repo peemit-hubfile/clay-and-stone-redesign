@@ -1,0 +1,208 @@
+{
+  "_meta": {
+    "collection": "settings",
+    "generated_by": "tools/seed/build-seed.mjs",
+    "generated_from": "src/data (Stage 1 extraction, 2026-11-20)"
+  },
+  "items": {
+    "brand": {
+      "name": "Clay & Stone",
+      "legal_name": null,
+      "positioning": {
+        "th": "เรามุ่งมั่นสร้างสรรค์ “บ้านสำเร็จรูป” ที่ผ่านการออกแบบอย่างพิถีพิถัน เพื่อยกระดับการอยู่อาศัยในแบบบ้านสำเร็จรูปโมเดิร์น ให้เข้าถึงง่ายสำหรับทุกคน",
+        "en": "We create thoughtfully designed modular homes that elevate modern living and make quality accessible for everyone in Thailand."
+      },
+      "philosophy": {
+        "th": null,
+        "en": "Homes Beyond Prefab"
+      },
+      "description": {
+        "th": "สัมผัสประสบการณ์การอยู่อาศัยที่เหนือระดับกับ Clay & Stone บริษัทสร้างบ้านโมดูลาร์ บ้านสำเร็จรูป ที่มุ่งมั่นออกแบบบ้านด้วยนวัตกรรมที่ตอบโจทย์ไลฟ์สไตล์ยุคใหม่ เรานำเสนอบ้านสำเร็จรูปที่ผสมผสานความสวยงามและความทนทานเข้าด้วยกันอย่างลงตัว ไม่ว่าคุณจะมองหาที่พักอาศัย รีสอร์ท หรือสตูดิโอส่วนตัว",
+        "en": "Experience a higher standard of living with Clay & Stone. We are a modular prefab house builder focused on thoughtful design and lasting quality. Every home we create balances architectural aesthetics with structural integrity, delivering spaces that are both beautiful and built to last. Whether you are looking for a primary residence, a resort retreat, or a private studio, our modular homes are designed to support the way you truly live."
+      },
+      "taglines": [
+        {
+          "th": "\"บ้านสำเร็จรูป....ที่ไม่เหมือนบ้านสำเร็จรูป\"",
+          "en": "\"A prefabricated home... unlike any other prefabricated home.\""
+        },
+        {
+          "th": "\"ตรงแบบ ตรงใจ ในทุกดีเทล\"",
+          "en": "\"Precisely right, perfectly aligned in every detail.\""
+        },
+        {
+          "th": "\"ความอุ่นใจ...ที่ยาวนานกว่าการส่งมอบ\"",
+          "en": "\"Peace of mind... that lasts beyond delivery.\""
+        }
+      ],
+      "flags": [
+        "legal_name: missing",
+        "founding_year: missing",
+        "philosophy.th: missing",
+        "logo_svg: missing"
+      ]
+    },
+    "contact": {
+      "phone": {
+        "display": "086-3822116",
+        "href": "tel:+66863822116"
+      },
+      "email": {
+        "display": "clay.panitar@gmail.com",
+        "href": "mailto:clay.panitar@gmail.com",
+        "notes": "Gmail address used as the business contact; a domain email is a client decision."
+      },
+      "line": {
+        "display": "@claystone",
+        "href": "https://lin.ee/5oKztUS"
+      },
+      "social": {
+        "facebook": "https://web.facebook.com/ClayxStone/",
+        "instagram": "https://www.instagram.com/clay_andstone/",
+        "line": "https://lin.ee/5oKztUS"
+      },
+      "showroom": {
+        "name": {
+          "th": "Clay & Stone Office and Showroom",
+          "en": "Clay & Stone Office and Showroom"
+        },
+        "address": {
+          "th": "152/1, ซอยติวานนท์ 45, ตำบลท่าทราย, อำเภอเมืองนนทบุรี, จังหวัดนนทบุรี, 11000",
+          "en": "152/1, Soi Tiwanon 45, Ta Sai, Mueang Nonthaburi District, Nonthaburi 11000"
+        },
+        "geo": {
+          "lat": 13.8894967,
+          "lng": 100.5023604,
+          "source": "Google Maps embed on /contact-us (approximate pin)"
+        },
+        "by_appointment": true,
+        "opening_hours": null
+      },
+      "flags": [
+        "showroom.opening_hours: missing",
+        "factory_location: missing"
+      ],
+      "sources": [
+        "/th/contact-us",
+        "/en/contact-us",
+        "footer"
+      ]
+    },
+    "offer": {
+      "promotions": [
+        {
+          "th": "วอลเปเปอร์ภายในตัวบ้านทั้งหมด ฟรี",
+          "en": "Free wallpaper for all interior areas."
+        },
+        {
+          "th": "บริการติดตั้งฟรีในระยะทางไม่เกิน 200 กม. จากบริษัท",
+          "en": "Free installation service within a 200 km radius of our facility."
+        },
+        {
+          "th": "รับประกันงานทั่วไป 1 ปี และงานโครงสร้าง 5 ปี พร้อมบริการหลังการขาย",
+          "en": "One-year warranty on general workmanship and a five-year warranty on structural components, including after-sales service."
+        }
+      ],
+      "promotions_status": "pending-confirmation",
+      "warranty": {
+        "general_workmanship_years": 1,
+        "structural_years": 5,
+        "after_sales": {
+          "th": "ดูแลโดยทีม Clay & Stone โดยตรง ไม่ได้โอนให้ผู้รับเหมาภายนอก",
+          "en": "Provided directly by the Clay & Stone team (not outsourced)."
+        }
+      },
+      "free_installation_radius_km": 200,
+      "included": [
+        {
+          "th": "โครงสร้าง",
+          "en": "Structure / framework"
+        },
+        {
+          "th": "ผนัง",
+          "en": "Walls"
+        },
+        {
+          "th": "หลังคา",
+          "en": "Roof"
+        },
+        {
+          "th": "พื้น",
+          "en": "Flooring"
+        },
+        {
+          "th": "งานระบบไฟฟ้า",
+          "en": "Internal electrical system"
+        },
+        {
+          "th": "ระบบสุขาภิบาลภายในบ้าน",
+          "en": "Plumbing (internal)"
+        }
+      ],
+      "customer_prepares": [
+        {
+          "th": "พื้นที่ฐานราก",
+          "en": "Foundation"
+        },
+        {
+          "th": "เชื่อมต่อระบบน้ำ-ไฟภายนอก",
+          "en": "External utility connections (water and electricity)"
+        }
+      ],
+      "budget_guidance": {
+        "extra_percent_min": 20,
+        "extra_percent_max": 30,
+        "text": {
+          "th": null,
+          "en": "As a general rule, set aside an additional 20-30% of the cost of the house itself for site preparation, foundation work, utility systems, and related outdoor work."
+        },
+        "status": "general-guidance"
+      },
+      "foundation": {
+        "th": null,
+        "en": "Customer can engage a local contractor using Clay & Stone specifications, or ask Clay & Stone to coordinate. Blog articles state Clay & Stone offers a factory-made precast foundation (footing) system. An elevated foundation solution is offered for low-lying or waterlogging-prone plots."
+      },
+      "site_requirements": {
+        "th": "ขนส่งและติดตั้งได้เกือบทุกพื้นที่ทั่วประเทศ เพียงแค่มีทางเข้าที่รถเครนหรือรถบรรทุกสามารถเข้าถึงได้ ทีมวิศวกรจะเข้าประเมินหน้างานก่อน",
+        "en": "Installable almost anywhere in Thailand as long as crane or truck access is available. Engineering team assesses every site before installation."
+      },
+      "flags": [
+        "promotions: standing terms or time-limited? (pending)",
+        "free_installation_radius_km: measured from office or factory? (pending)",
+        "foundation price: missing",
+        "minimum plot size: missing"
+      ],
+      "sources": [
+        "/th/products/unwind-series",
+        "/en/projects (FAQ 4-5)",
+        "/en/blogs/modular-house-price"
+      ]
+    },
+    "timeline": {
+      "production_days": {
+        "min": 60,
+        "max": 90
+      },
+      "delivery_at_production_percent": 70,
+      "onsite_assembly_days": 15,
+      "design_phase_days": null,
+      "total_days": null,
+      "flags": [
+        "design_phase_days: missing",
+        "total_days: not published"
+      ],
+      "sources": [
+        "/en/process",
+        "/en/products/unwind-series (FAQ 5)"
+      ]
+    },
+    "module_system": {
+      "main_module_m": "3 x 6",
+      "text": {
+        "th": "ภายในพื้นที่โมดูลหลักขนาด 3 x 6 เมตร สามารถปรับแต่งให้รองรับฟังก์ชันการใช้งานได้หลากหลายตามความต้องการ",
+        "en": "The main 3 × 6 meter modular space can be flexibly customized to support a variety of functions according to individual needs."
+      },
+      "relocatable": true,
+      "expandable": true
+    }
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "_meta": {
+    "collection": "models",
+    "generated_by": "tools/seed/build-seed.mjs",
+    "generated_from": "src/data (Stage 1 extraction, 2026-11-20)",
+    "count": 5,
+    "price_display_rule": "price card value; alternate retained; UI must show a pending badge while status = pending-confirmation"
+  },
+  "items": [
+    {
+      "id": "unwind-standard",
+      "slug": "standard-type",
+      "series_id": "unwind",
+      "path": "/homes/unwind-series/standard-type",
+      "legacy_path": "/products/unwind-series",
+      "name": {
+        "th": "Standard Type",
+        "en": "Standard Type"
+      },
+      "full_name": {
+        "th": "Unwind Series Standard Type",
+        "en": "Unwind Series Standard Type"
+      },
+      "price": {
+        "display_thb": 849000,
+        "alternate_thb": 830000,
+        "vat_included": true,
+        "status": "pending-confirmation",
+        "rule": "Default display = price card (shown in both languages). Alternate kept until client confirms."
+      },
+      "area_sqm": {
+        "usable": 43.5,
+        "interior_incl_toilet": 23,
+        "terrace": 21,
+        "other": null,
+        "status": "pending-confirmation"
+      },
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "sleeping": "open-plan",
+      "storeys": 1,
+      "description": {
+        "th": "บ้านสำเร็จรูปชั้นเดียว ที่ถูกออกแบบมาเพื่อการใช้สอยพื้นที่อย่างคุ้มค่าสูงสุด เหมาะสำหรับที่ดินขนาดกลางหรือผู้ที่มองหา บ้านสำเร็จรูปพร้อมอยู่ ที่ไม่ต้องเสียเวลารอนาน เราคัดสรรฟังก์ชันการใช้งานที่ครบครัน เพื่อให้ทุกตารางเมตรกลายเป็นพื้นที่พักผ่อนที่สมบูรณ์แบบสำหรับคุณ",
+        "en": "A compact single-story modular home designed around simplicity and space efficiency. Thoughtfully planned to include only the essentials, this layout is ideal for a cozy retreat, private studio, or weekend getaway, creating a comfortable space that feels open, functional, and easy to live in."
+      },
+      "features": null,
+      "uses": [
+        "second-home",
+        "studio",
+        "retreat"
+      ],
+      "household": [],
+      "plot_fit": "medium",
+      "lifestyle": [
+        "calm",
+        "nature"
+      ],
+      "tag_basis": {
+        "uses": "/en/projects (\"cozy retreat, private studio, or weekend getaway\")",
+        "plot_fit": "/th/projects (\"เหมาะสำหรับที่ดินขนาดกลาง\")"
+      },
+      "images": {
+        "cover": "/images/source/projects/6973b6690794eb32539ccc80_standard-14.webp",
+        "floor_plan": "/images/source/projects/696c94af7b535bb0f87f9deb_Standard-Type.webp",
+        "gallery_id": "unwind-standard"
+      },
+      "video_youtube_id": null,
+      "claims": [],
+      "show_in_finder": true,
+      "show_in_compare": true,
+      "flags": [
+        "price: card 849,000 vs FAQ/blog 830,000 (pending)",
+        "area breakdown: Standard 23+21≠43.5; terrace 21 vs 23 (pending)",
+        "bedrooms: derived",
+        "footprint / min plot size: missing"
+      ],
+      "sources": [
+        "https://www.clayandstone.co.th/en/products/unwind-series"
+      ]
+    },
+    {
+      "id": "unwind-loft",
+      "slug": "loft-type",
+      "series_id": "unwind",
+      "path": "/homes/unwind-series/loft-type",
+      "legacy_path": "/products/unwind-series",
+      "name": {
+        "th": "Loft Type",
+        "en": "Loft Type"
+      },
+      "full_name": {
+        "th": "Unwind Series Loft Type",
+        "en": "Unwind Series Loft Type"
+      },
+      "price": {
+        "display_thb": 1210000,
+        "alternate_thb": 1190000,
+        "vat_included": true,
+        "status": "pending-confirmation",
+        "rule": "Default display = price card (shown in both languages). Alternate kept until client confirms."
+      },
+      "area_sqm": {
+        "usable": 47,
+        "interior_incl_toilet": 26,
+        "terrace": 15.5,
+        "other": {
+          "pet_house": 5.5
+        },
+        "status": "consistent-on-site"
+      },
+      "bedrooms": null,
+      "bathrooms": 1,
+      "sleeping": "loft",
+      "storeys": 2,
+      "description": {
+        "th": "ยกระดับการอยู่อาศัยด้วยบ้านสำเร็จรูป 2 ชั้นในสไตล์ Loft ด้วยการเพิ่มพื้นที่ใช้สอยด้านบน มอบความรู้สึกโปร่งโล่งและทันสมัย ตอบโจทย์ที่ดินจำกัดแต่ต้องการพื้นที่ส่วนตัวเพิ่มขึ้น ด้วยนวัตกรรมบ้านประกอบสำเร็จรูปที่เน้นความรวดเร็วในการติดตั้งแต่ยังคงความแข็งแรงในทุกรายละเอียด",
+        "en": "Elevate your living experience with a 2-story, loft-style prefab home. By expanding vertically, this design delivers an incredibly airy, modern feel, making it the ideal solution for limited land plots that require extra private space. Built with innovative prefabrication techniques, it guarantees rapid installation on-site while maintaining absolute structural strength in every detail."
+      },
+      "features": null,
+      "uses": [
+        "second-home",
+        "retreat"
+      ],
+      "household": [],
+      "plot_fit": "limited",
+      "lifestyle": [
+        "calm",
+        "nature"
+      ],
+      "tag_basis": {
+        "uses": "Unwind series intended use",
+        "plot_fit": "/en/projects (\"ideal solution for limited land plots\")"
+      },
+      "images": {
+        "cover": "/images/source/projects/6973b848b0cf551ef3dc2105_loft-05.webp",
+        "floor_plan": "/images/source/projects/696c94afbae329ca4a95543e_Loft-Type.webp",
+        "gallery_id": "unwind-loft"
+      },
+      "video_youtube_id": null,
+      "claims": [],
+      "show_in_finder": true,
+      "show_in_compare": true,
+      "flags": [
+        "price: card 1,210,000 vs FAQ/blog 1,190,000 (pending)",
+        "bedrooms: missing",
+        "footprint / min plot size: missing"
+      ],
+      "sources": [
+        "https://www.clayandstone.co.th/en/products/unwind-series"
+      ]
+    },
+    {
+      "id": "unwind-1bed-2bath",
+      "slug": "1-bed-2-bath",
+      "series_id": "unwind",
+      "path": "/homes/unwind-series/1-bed-2-bath",
+      "legacy_path": "/products/unwind-series",
+      "name": {
+        "th": "1 Bed 2 Bath",
+        "en": "1 Bed 2 Bath"
+      },
+      "full_name": {
+        "th": "Unwind Series 1 Bed 2 Bath",
+        "en": "Unwind Series 1 Bed 2 Bath"
+      },
+      "price": {
+        "display_thb": 1690000,
+        "alternate_thb": 1660000,
+        "vat_included": true,
+        "status": "pending-confirmation",
+        "rule": "Default display = price card (shown in both languages). Alternate kept until client confirms."
+      },
+      "area_sqm": {
+        "usable": 82,
+        "interior_incl_toilet": 45.5,
+        "terrace": 36.5,
+        "other": null,
+        "status": "consistent-on-site"
+      },
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "sleeping": "separate",
+      "storeys": 1,
+      "description": {
+        "th": "แบบบ้านโมดูลาร์ ขนาดกะทัดรัดที่มาพร้อมฟังก์ชัน 1 ห้องนอน 2 ห้องน้ำ ออกแบบมาเพื่อผู้ที่หลงใหลในบ้านหลังเล็กคุณภาพพรีเมียม ไม่ว่าจะให้เป็นบ้านพักตากอากาศสุดหรู บ้านสวนส่วนตัว หรือที่พักอาศัยในต่างจังหวัดที่เน้นความสะดวกสบายและดีไซน์ที่โดดเด่น",
+        "en": "Designed as a compact layout with complete living functionality, this modular home combines smart planning with everyday comfort. A separate bedroom, two bathrooms, kitchen space, and dedicated laundry area create a home that supports real family living, thoughtfully designed to feel efficient, comfortable, and easy to live in."
+      },
+      "features": {
+        "en": [
+          "Master bedroom with en-suite bathroom",
+          "Guest restroom",
+          "Central living area",
+          "Dedicated kitchen space",
+          "Dedicated laundry area"
+        ],
+        "th": null
+      },
+      "uses": [
+        "primary-home",
+        "second-home",
+        "resort"
+      ],
+      "household": [
+        "couple",
+        "small-family",
+        "retirees"
+      ],
+      "plot_fit": null,
+      "lifestyle": [
+        "calm",
+        "nature"
+      ],
+      "tag_basis": {
+        "uses": "/en/blogs/modular-house-price (\"genuinely livable second home for the long term\"), /en/blogs/knockdown-house-ideas (\"accommodates resort use\")",
+        "household": "/en/products/unwind-series FAQ 3, /en/blogs/modular-house-price"
+      },
+      "images": {
+        "cover": "/images/source/projects/6973bab42483e43311742af3_1bed-2bath-16.webp",
+        "floor_plan": "/images/source/misc/696c94af40a2517c51c3fe0d_1-Bed-2-Bath.webp",
+        "gallery_id": "unwind-1bed-2bath"
+      },
+      "video_youtube_id": "G8_2lxRIVV4",
+      "claims": [
+        {
+          "en": "Our most popular model",
+          "source": "/en/products/unwind-series (FAQ 3)",
+          "status": "unverified-claim"
+        }
+      ],
+      "show_in_finder": true,
+      "show_in_compare": true,
+      "flags": [
+        "price: card 1,690,000 vs FAQ/blog 1,660,000 (pending)",
+        "storeys: derived from floor plan",
+        "footprint / min plot size: missing"
+      ],
+      "sources": [
+        "https://www.clayandstone.co.th/en/products/unwind-series"
+      ]
+    },
+    {
+      "id": "unwind-2bed-2bath",
+      "slug": "2-bed-2-bath",
+      "series_id": "unwind",
+      "path": "/homes/unwind-series/2-bed-2-bath",
+      "legacy_path": "/products/unwind-series",
+      "name": {
+        "th": "2 Bed 2 Bath",
+        "en": "2 Bed 2 Bath"
+      },
+      "full_name": {
+        "th": "Unwind Series 2 Bed 2 Bath",
+        "en": "Unwind Series 2 Bed 2 Bath"
+      },
+      "price": {
+        "display_thb": 2690000,
+        "alternate_thb": 2660000,
+        "vat_included": true,
+        "status": "pending-confirmation",
+        "rule": "Default display = price card (shown in both languages). Alternate kept until client confirms."
+      },
+      "area_sqm": {
+        "usable": 123,
+        "interior_incl_toilet": 72,
+        "terrace": 51,
+        "other": null,
+        "status": "consistent-on-site"
+      },
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sleeping": "separate",
+      "storeys": 1,
+      "description": {
+        "th": "บ้านสำเร็จรูป ขนาดเริ่มต้นสำหรับครอบครัวที่รองรับการอยู่อาศัยจริงได้อย่างเต็มรูปแบบ ด้วยฟังก์ชัน 2 ห้องนอน 2 ห้องน้ำ ที่จัดวางเลย์เอาต์อย่างลงตัว ผ่านกระบวนการผลิตที่ได้มาตรฐานจากโรงงาน และส่งมอบในฐานะบ้านประกอบสำเร็จรูปพร้อมอยู่ที่พร้อมให้คุณเริ่มต้นบทใหม่ของชีวิตได้ทันที",
+        "en": "The ideal starter prefab home for families looking for a fully functional, long-term living space. With a perfectly optimized 2-bedroom, 2-bathroom layout, this home is manufactured under strict factory standards. Delivered as a complete, ready-to-move-in modular house project, it allows you to begin the next chapter of your life immediately."
+      },
+      "features": null,
+      "uses": [
+        "primary-home",
+        "second-home"
+      ],
+      "household": [
+        "small-family",
+        "family"
+      ],
+      "plot_fit": null,
+      "lifestyle": [
+        "calm",
+        "nature"
+      ],
+      "tag_basis": {
+        "uses": "/en/projects (\"long-term living space\"), /en/blogs/modular-house-price",
+        "household": "/en/projects, /en/blogs/modular-house-price"
+      },
+      "images": {
+        "cover": "/images/source/projects/6a128d53431c2637b7121eae_04.webp",
+        "floor_plan": "/images/source/misc/69ea4eede3bfbd091ca58b4c_2-Bed-2-Bath.webp",
+        "gallery_id": "unwind-2bed-2bath"
+      },
+      "video_youtube_id": null,
+      "claims": [],
+      "show_in_finder": true,
+      "show_in_compare": true,
+      "flags": [
+        "price: card 2,690,000 vs FAQ/blog 2,660,000 (pending)",
+        "storeys: derived from floor plan",
+        "footprint / min plot size: missing"
+      ],
+      "sources": [
+        "https://www.clayandstone.co.th/en/products/unwind-series"
+      ]
+    },
+    {
+      "id": "alive-2bed-2bath",
+      "slug": "2-bed-2-bath",
+      "series_id": "alive",
+      "path": "/homes/alive-series/2-bed-2-bath",
+      "legacy_path": "/products/alive-series",
+      "name": {
+        "th": "2 Bed 2 Bath",
+        "en": "2 Bed 2 Bath"
+      },
+      "full_name": {
+        "th": "Alive Series 2 Bed 2 Bath",
+        "en": "Alive Series 2 Bed 2 Bath"
+      },
+      "price": {
+        "display_thb": 1690000,
+        "alternate_thb": null,
+        "vat_included": true,
+        "status": "consistent-on-site",
+        "rule": "Default display = price card (shown in both languages). Alternate kept until client confirms."
+      },
+      "area_sqm": {
+        "usable": 68,
+        "interior_incl_toilet": 45,
+        "terrace": 23,
+        "other": null,
+        "status": "consistent-on-site"
+      },
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sleeping": "separate",
+      "storeys": 1,
+      "description": {
+        "th": null,
+        "en": null
+      },
+      "features": null,
+      "uses": [
+        "primary-home",
+        "second-home"
+      ],
+      "household": [],
+      "plot_fit": null,
+      "lifestyle": [
+        "active",
+        "outdoor"
+      ],
+      "tag_basis": {
+        "uses": "derived: 2 bedrooms / 2 bathrooms (no use-case copy on site)",
+        "lifestyle": "Alive tagline + values (Dynamic, Compact, Active, Outdoor Living)"
+      },
+      "images": {
+        "cover": "/images/source/projects/6a12b4bffc3c68b362f659c1_01.webp",
+        "floor_plan": "/images/source/projects/6a12b15a9e8bf0a84961150a_2-Bed-2-Bath.webp",
+        "gallery_id": "alive-2bed-2bath"
+      },
+      "video_youtube_id": null,
+      "claims": [],
+      "show_in_finder": true,
+      "show_in_compare": true,
+      "flags": [
+        "storeys: derived from floor plan",
+        "description.en: missing",
+        "description.th: missing",
+        "footprint / min plot size: missing"
+      ],
+      "sources": [
+        "https://www.clayandstone.co.th/en/products/alive-series"
+      ]
+    }
+  ]
+}

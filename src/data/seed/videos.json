@@ -1,0 +1,143 @@
+{
+  "_meta": {
+    "collection": "videos",
+    "generated_by": "tools/seed/build-seed.mjs",
+    "generated_from": "src/data (Stage 1 extraction, 2026-11-20)",
+    "count": 7
+  },
+  "items": [
+    {
+      "id": "ep-1",
+      "order": 1,
+      "youtube_id": "Uo16eHa15rk",
+      "title": {
+        "th": "EP.1 : บ้านสำเร็จรูป",
+        "en": "EP.1: Modular House"
+      },
+      "topic": "basics",
+      "thumbnail": "https://i.ytimg.com/vi/Uo16eHa15rk/hqdefault.jpg",
+      "upload_date": null,
+      "flags": [
+        "upload_date: needed for VideoObject schema"
+      ],
+      "sources": [
+        "/th/good-to-know",
+        "/en/good-to-know"
+      ]
+    },
+    {
+      "id": "ep-2",
+      "order": 2,
+      "youtube_id": "wrJKrBmhS58",
+      "title": {
+        "th": "EP.2 : บ้านสำเร็จรูปแตกต่างจากบ้านทั่วไปยังไง",
+        "en": "EP.2: Prefab Homes vs Traditional"
+      },
+      "topic": "basics",
+      "thumbnail": "https://i.ytimg.com/vi/wrJKrBmhS58/hqdefault.jpg",
+      "upload_date": null,
+      "flags": [
+        "upload_date: needed for VideoObject schema"
+      ],
+      "sources": [
+        "/th/good-to-know",
+        "/en/good-to-know"
+      ]
+    },
+    {
+      "id": "ep-3",
+      "order": 3,
+      "youtube_id": "gJMY5oSiwbQ",
+      "title": {
+        "th": "EP.3 : ความแข็งแรงของบ้านสำเร็จรูป",
+        "en": "EP.3 : Strength of Prefab Houses"
+      },
+      "topic": "strength",
+      "thumbnail": "https://i.ytimg.com/vi/gJMY5oSiwbQ/hqdefault.jpg",
+      "upload_date": null,
+      "flags": [
+        "upload_date: needed for VideoObject schema"
+      ],
+      "sources": [
+        "/th/good-to-know",
+        "/en/good-to-know"
+      ]
+    },
+    {
+      "id": "ep-4",
+      "order": 4,
+      "youtube_id": "oUIimGhSgyA",
+      "title": {
+        "th": "EP.4 : การป้องกันน้ำรั่ว",
+        "en": "EP.4 : Water Leak Prevention"
+      },
+      "topic": "strength",
+      "thumbnail": "https://i.ytimg.com/vi/oUIimGhSgyA/hqdefault.jpg",
+      "upload_date": null,
+      "flags": [
+        "upload_date: needed for VideoObject schema"
+      ],
+      "sources": [
+        "/th/good-to-know",
+        "/en/good-to-know"
+      ]
+    },
+    {
+      "id": "ep-5",
+      "order": 5,
+      "youtube_id": "0MDRduX63pY",
+      "title": {
+        "th": "EP.5 : จากโมดูล...สู่บ้านทั้งหลัง",
+        "en": "EP.5 : From a Module... to a Complete Home"
+      },
+      "topic": "homes",
+      "thumbnail": "https://i.ytimg.com/vi/0MDRduX63pY/hqdefault.jpg",
+      "upload_date": null,
+      "flags": [
+        "upload_date: needed for VideoObject schema"
+      ],
+      "sources": [
+        "/th/good-to-know",
+        "/en/good-to-know"
+      ]
+    },
+    {
+      "id": "ep-6",
+      "order": 6,
+      "youtube_id": "G8_2lxRIVV4",
+      "title": {
+        "th": "EP.6 : พาชมบรรยากาศ Unwind 1 Bed 2 Bath Type",
+        "en": "EP.6: Experience Unwind 1 Bed 2 Bath Type"
+      },
+      "topic": "homes",
+      "thumbnail": "https://i.ytimg.com/vi/G8_2lxRIVV4/hqdefault.jpg",
+      "upload_date": null,
+      "flags": [
+        "upload_date: needed for VideoObject schema"
+      ],
+      "sources": [
+        "/th/good-to-know",
+        "/en/good-to-know"
+      ]
+    },
+    {
+      "id": "ep-7",
+      "order": 7,
+      "youtube_id": "Y3KcE5FpbS4",
+      "title": {
+        "th": "EP.7 : Precast Footing System",
+        "en": "EP.7 : Precast Footing System"
+      },
+      "topic": "land",
+      "thumbnail": "https://i.ytimg.com/vi/Y3KcE5FpbS4/hqdefault.jpg",
+      "upload_date": null,
+      "flags": [
+        "upload_date: needed for VideoObject schema"
+      ],
+      "sources": [
+        "/th/good-to-know",
+        "/en/good-to-know"
+      ]
+    }
+  ]
+}

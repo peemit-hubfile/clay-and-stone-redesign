@@ -1,0 +1,162 @@
+{
+  "_meta": {
+    "collection": "materials",
+    "generated_by": "tools/seed/build-seed.mjs",
+    "generated_from": "src/data (Stage 1 extraction, 2026-11-20)",
+    "count": 6
+  },
+  "items": [
+    {
+      "id": "structural-system",
+      "order": 1,
+      "name": {
+        "th": "Structural System",
+        "en": "Structural System"
+      },
+      "text": {
+        "th": "โครงสร้างเหล็กหนามากกว่า 2.3 มม. ได้มาตรฐาน มอก. และมีความหนามากกว่าทั่วไปถึง 1.4 เท่า เคลือบสีกันสนิมเกรดสูงจาก BEGER ทั้งระบบ GLIPTECH และ RUST GUARD (Epoxy) ในจุดที่สัมผัสแดดและฝน ควบคุมงานโดยสถาปนิกและวิศวกรระดับสามัญ จึงมั่นใจได้ในคุณภาพของโครงสร้าง ความแข็งแรง และความทนทานในระยะยาว",
+        "en": "Structural steel over 2.3 mm thick, certified to TIS standards and up to 1.4x thicker than typical specifications, ensuring long-term strength. Protected with high-performance anti-corrosion coatings from BEGER, and designed and supervised by licensed architects and engineers."
+      },
+      "image": "/images/source/unwind/694acd6b802a0ed904111e67_unwind-img-06.webp",
+      "applies_to": [
+        "unwind",
+        "alive"
+      ],
+      "status": "pending-confirmation",
+      "flags": [
+        "TH mentions RUST GUARD (Epoxy) and 'วิศวกรระดับสามัญ' (senior-level licence) not in EN; the detail panel says 'from 2.3 mm' (ตั้งแต่) vs 'over 2.3 mm'. EN detail panel adds 'GLIPTECH system together with a two-layer protective topcoat'.",
+        "applies_to alive: live Alive page reuses the Unwind block (pending)"
+      ],
+      "sources": [
+        "/th/products/unwind-series",
+        "/en/products/unwind-series"
+      ]
+    },
+    {
+      "id": "flooring-system",
+      "order": 2,
+      "name": {
+        "th": "Flooring System",
+        "en": "Flooring System"
+      },
+      "text": {
+        "th": "โครงรับพื้นวางถี่ทุก 40 ซม. เพื่อการกระจายน้ำหนักที่สม่ำเสมอและมั่นคง ปิดผิวด้วย Smart Board SCG หนา 20 มม. และ SPC Click Lock SCG หนา 5 มม. ช่วยให้พื้นแน่น แข็งแรง และเดินได้อย่างมั่นใจ",
+        "en": "Steel floor joists are spaced at 40 cm for even load distribution and stability. Finished with 20 mm SCG Smart Board and 5 mm SCG SPC Click Lock flooring, creating a solid and firm surface that feels stable and comfortable underfoot."
+      },
+      "image": "/images/source/unwind/694acd6b82786849ab80c623_unwind-img-05.webp",
+      "applies_to": [
+        "unwind",
+        "alive"
+      ],
+      "status": "consistent-on-site",
+      "flags": [
+        "applies_to alive: live Alive page reuses the Unwind block (pending)"
+      ],
+      "sources": [
+        "/th/products/unwind-series",
+        "/en/products/unwind-series"
+      ]
+    },
+    {
+      "id": "wall-materials",
+      "order": 3,
+      "name": {
+        "th": "Wall Materials",
+        "en": "Wall Materials"
+      },
+      "text": {
+        "th": "ผนังโครงเหล็กวางระยะทุก 60 ซม. เพื่อความแข็งแรง ไม่สั่น ไม่ยวบ ใช้ Smart Board SCG หนา 8 มม. สำหรับผนังภายใน และหนา 10 มม. สำหรับผนังภายนอกซึ่งหนากว่าระดับทั่วไป ช่วยให้ผนังแน่น แข็งแรง ไม่เปราะบาง เสริมด้วยฉนวนใยแก้วหุ้มฟอยล์หนา 2 นิ้ว ซ่อนภายในผนังภายนอก ช่วยลดความร้อนจากภายนอกได้อย่างมีประสิทธิภาพ",
+        "en": "Steel framing at 60 cm intervals provides strong, rigid walls with minimal movement. SCG Smart Board is used at 8 mm inside and 10 mm outside, thicker than standard, with 2-inch foil-faced insulation inside the external walls to reduce heat."
+      },
+      "image": "/images/source/unwind/694acd6b56f80fe66b21adca_unwind-img-04.webp",
+      "applies_to": [
+        "unwind",
+        "alive"
+      ],
+      "status": "consistent-on-site",
+      "flags": [
+        "applies_to alive: live Alive page reuses the Unwind block (pending)"
+      ],
+      "sources": [
+        "/th/products/unwind-series",
+        "/en/products/unwind-series"
+      ]
+    },
+    {
+      "id": "outdoor-terrace",
+      "order": 4,
+      "name": {
+        "th": "Outdoor Terrace",
+        "en": "Outdoor Terrace"
+      },
+      "text": {
+        "th": "พื้นระเบียงและฝ้าภายนอกปูด้วยไม้เทียม WPC เกรดพรีเมียม ทนแดด ทนฝนและคงรูปได้ดี เก็บรอยต่อผนังด้วย CONWOOD / SHERA เพื่อความเรียบร้อยและช่วยป้องกันปัญหาน้ำซึมในระยะยาว",
+        "en": "Balcony floors and exterior ceilings are finished with premium WPC wood composite for durability against sun and rain. CONWOOD / SHERA panels are used at wall joints for a clean finish and long-term water protection."
+      },
+      "image": "/images/source/unwind/694acd6b784db25ede0acc8d_unwind-img-03.webp",
+      "applies_to": [
+        "unwind",
+        "alive"
+      ],
+      "status": "consistent-on-site",
+      "flags": [
+        "applies_to alive: live Alive page reuses the Unwind block (pending)"
+      ],
+      "sources": [
+        "/th/products/unwind-series",
+        "/en/products/unwind-series"
+      ]
+    },
+    {
+      "id": "door-window",
+      "order": 5,
+      "name": {
+        "th": "Door & Window",
+        "en": "Door & Window"
+      },
+      "text": {
+        "th": "ประตู–หน้าต่างอลูมิเนียมลายไม้ให้ความสวยงามเสมือนไม้จริงโดยไม่ซีดจาง ใช้กระจกใสหนา 6 มม. ช่วยลดเสียงรบกวนและเพิ่มความแข็งแรง พร้อมรางลดระดับป้องกันน้ำฝนเข้าสู่ภายในเพื่อความเงียบ สบาย และแห้งสนิทในทุกสภาพอากาศ",
+        "en": "Wood-grain aluminum frames paired with 6 mm clear glass offer the look of wood with better durability, sound reduction, and strength. Built-in rain barriers keep interiors quiet and dry."
+      },
+      "image": "/images/source/unwind/694acd6bf5bd4a8396d40ad1_unwind-img-02.webp",
+      "applies_to": [
+        "unwind",
+        "alive"
+      ],
+      "status": "consistent-on-site",
+      "flags": [
+        "applies_to alive: live Alive page reuses the Unwind block (pending)"
+      ],
+      "sources": [
+        "/th/products/unwind-series",
+        "/en/products/unwind-series"
+      ]
+    },
+    {
+      "id": "roof-materials",
+      "order": 6,
+      "name": {
+        "th": "Roof Materials",
+        "en": "Roof Materials"
+      },
+      "text": {
+        "th": "หลังคา Metal Sheet หนา 0.4 มม. แข็งแรงกว่าทั่วไปถึง 1.35 เท่า ทนทานต่อแรงลมและฝนได้ดีพร้อมฉนวน PU หนา 1 นิ้ว ในตัวแผ่นช่วยลดทั้งความร้อนและเสียงจากฝนกระทบ ดีไซน์ลอนพิเศษช่วยเสริมภาพลักษณ์เรียบหรู มอบบรรยากาศภายในที่เย็นสบายและเงียบกว่าหลังคาทั่วไป",
+        "en": "The roof uses 0.4 mm metal sheets with 1-inch PU insulation, providing stronger weather resistance, reduced heat, and less rain noise, all with a clean, modern profile."
+      },
+      "image": "/images/source/unwind/694acd6b9cd45665704b6a7a_unwind-img-01.webp",
+      "applies_to": [
+        "unwind",
+        "alive"
+      ],
+      "status": "pending-confirmation",
+      "flags": [
+        "TH claims '1.35x stronger than typical'; EN does not. Comparative claims need a client-supplied basis before reuse.",
+        "applies_to alive: live Alive page reuses the Unwind block (pending)"
+      ],
+      "sources": [
+        "/th/products/unwind-series",
+        "/en/products/unwind-series"
+      ]
+    }
+  ]
+}

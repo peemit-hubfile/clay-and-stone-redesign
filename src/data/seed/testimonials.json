@@ -1,0 +1,153 @@
+{
+  "_meta": {
+    "collection": "testimonials",
+    "generated_by": "tools/seed/build-seed.mjs",
+    "generated_from": "src/data (Stage 1 extraction, 2026-11-20)",
+    "count": 6
+  },
+  "items": [
+    {
+      "id": "t1",
+      "name": {
+        "th": "Sujinda Limpanichpackdee",
+        "en": "Sujinda Limpanichpackdee"
+      },
+      "model_id": null,
+      "province": null,
+      "quote": {
+        "th": null,
+        "en": "Professional team! I visited the showroom and met an architect (I believe he is the owner) he provided all information and explained every single detail which I wondered about"
+      },
+      "photo": "/images/source/misc/6963b907599c2da933680d0f_Mask-group-1.png",
+      "consent": "pending",
+      "featured": false,
+      "flags": [
+        "republication consent pending",
+        "quote.th: missing (English review on both language pages)",
+        "Format suggests an imported online review - unconfirmed. Same English text on TH page."
+      ],
+      "sources": [
+        "/th/about-us",
+        "/en/about-us"
+      ]
+    },
+    {
+      "id": "t2",
+      "name": {
+        "th": "Wonngarm",
+        "en": "Wonngarm"
+      },
+      "model_id": null,
+      "province": null,
+      "quote": {
+        "th": null,
+        "en": "Beautiful house with high-quality materials. I love the veranda and would like to have one in my garden."
+      },
+      "photo": "/images/source/misc/6963b907a0f413f269550cd6_Mask-group.png",
+      "consent": "pending",
+      "featured": false,
+      "flags": [
+        "republication consent pending",
+        "quote.th: missing (English review on both language pages)",
+        "Format suggests an imported online review - unconfirmed. Same English text on TH page."
+      ],
+      "sources": [
+        "/th/about-us",
+        "/en/about-us"
+      ]
+    },
+    {
+      "id": "t3",
+      "name": {
+        "th": "คุณอรชร (คุณเก๋)",
+        "en": "K. Orachorn (K. Kae)"
+      },
+      "model_id": "unwind-1bed-2bath",
+      "province": "Suphanburi",
+      "quote": {
+        "th": "ชอบรูปลักษณ์ของตัวบ้านตั้งแต่แรกเพราะตรงกับคอนเซ็ปต์ที่อยากได้พอดี และการได้บ้านตัวอย่างกับเจ้าของและสถาปนิกของ Clay & Stone โดยตรงทำให้มั่นใจในคุณภาพ รวมถึงระยะเวลาการก่อสร้างที่สมเหตุสมผล จึงเชื่อว่าจะได้บ้านที่มีคุณภาพในราคาที่ยุติธรรมค่ะ ไม่ผิดหวังที่ได้เป็นลูกค้าค่ะ ทุกวันนี้ยังมีเพื่อนบ้านทั้งในและนอกโครงการมาสอบถามรายละเอียดของบ้านอยู่ตลอด บ้านอยู่ได้จริง อยู่สบาย พร้อมฟังก์ชันที่รองรับการใช้งานได้อย่างคุ้มค่าและที่สำคัญคือบริการหลังการขายที่ดีเยี่ยมมากค่ะ",
+        "en": "I loved the design of the house from the very beginning, as it perfectly matched the concept I was looking for. Visiting the show house with the owner and architect of Clay & Stone gave me confidence in the quality of the materials, as well as the reasonable construction timeline. It made me feel assured that I would receive a high-quality home at a fair price. I have never regretted my decision. The house is comfortable, functional, and truly livable, with outstanding after-sales service."
+      },
+      "photo": "/images/source/testimonials/6974c69c094fb83e9a1511fc_Screenshot-2569-01-24-at-17.08.20.png",
+      "consent": "pending",
+      "featured": true,
+      "flags": [
+        "republication consent pending"
+      ],
+      "sources": [
+        "/th/about-us",
+        "/en/about-us"
+      ]
+    },
+    {
+      "id": "t4",
+      "name": {
+        "th": "คุณสุจินดา (คุณเล็ก)",
+        "en": "K. Sujinda (K. Lek)"
+      },
+      "model_id": "unwind-loft",
+      "province": "Suphanburi",
+      "quote": {
+        "th": "ได้พูดคุยกับเจ้าของบริษัทโดยตรง ซึ่งเป็นผู้ออกแบบและควบคุมงาน ทำให้ได้ข้อมูลที่ชัดเจนรวมทั้งได้เห็นถึง ทัศนคติ แนวคิด และความละเอียดของเจ้าของแบรนด์จึงทำให้มั่นใจในการตัดสินใจซื้อ CLAY & STONE หลังได้รับมอบบ้านรู้สึกภูมิใจที่ตัดสินใจให้ CLAY & STONE สร้างบ้านให้ และสบายใจที่บริษัทยังคงติดตามดูแลอย่างต่อเนื่องแม้หลังการขาย",
+        "en": "Speaking directly with the company owner, who oversees both design and construction, gave me clear and thorough information. It also allowed me to see the brand's attitude, design philosophy, and attention to detail, which made me confident in my decision to choose CLAY & STONE. After the handover, I felt proud of my decision and reassured by the continued care and support after sales."
+      },
+      "photo": "/images/source/testimonials/6974c69c7a4fc9e79c618954_Screenshot-2569-01-24-at-17.08.26.png",
+      "consent": "pending",
+      "featured": true,
+      "flags": [
+        "republication consent pending"
+      ],
+      "sources": [
+        "/th/about-us",
+        "/en/about-us"
+      ]
+    },
+    {
+      "id": "t5",
+      "name": {
+        "th": "คุณเกศกนก (คุณเหมี่ยว)",
+        "en": "K. Ketskanok (K. Miew)"
+      },
+      "model_id": "unwind-standard",
+      "province": "Saraburi",
+      "quote": {
+        "th": "บ้านออกแบบได้อย่างมีสไตล์ ทันสมัย เรียบง่าย และเลือกใช้วัสดุที่ได้มาตรฐาน เป็นบ้านสำเร็จรูปที่อยู่อาศัยได้อย่างมั่นใจ พื้นแน่น กันความร้อนได้ดีไม่ต้องกังวลปัญหาในระยะยาว บริษัทรับผิดชอบ ดูแล และให้คำปรึกษาหลังการขายเป็นอย่างดี ขอขอบคุณคุณเทพและทีมงาน Clay & Stone ที่ส่งมอบบ้านที่มีคุณภาพให้นะคะ",
+        "en": "The house features a stylish yet simple design, built with high-standard materials. It feels solid, comfortable, and well insulated, making it suitable for long-term living. The company is responsible and attentive, offering reliable after-sales care and consultation. Many thanks to Khun Thep and the Clay & Stone team for delivering a quality home."
+      },
+      "photo": "/images/source/testimonials/6974c69c22bf4018cd646d94_Screenshot-2569-01-24-at-17.08.33.png",
+      "consent": "pending",
+      "featured": true,
+      "flags": [
+        "republication consent pending"
+      ],
+      "sources": [
+        "/th/about-us",
+        "/en/about-us"
+      ]
+    },
+    {
+      "id": "t6",
+      "name": {
+        "th": "คุณพรศักดิ์ (คุณป๊อก)",
+        "en": "K. Pornsak (K. Pok)"
+      },
+      "model_id": "unwind-standard",
+      "province": "Bangkok",
+      "quote": {
+        "th": "เห็นแบบบ้านและวัสดุที่ใช้ก็น่าสนใจ เมื่อตอนไปดูแบบบ้าน คุณเทพสามารถตอบข้อสงสัยต่างๆ ได้ชัดเจน พร้อมให้ความช่วยเหลือและคำแนะนำเป็นอย่างดีจึงทำให้ตัดสินใจเลือก Clay & Stone อย่างมั่นใจ",
+        "en": "The house design and materials were interesting. When we visited the show house, Khun Thep was able to answer our questions clearly and provided helpful assistance and advice. This made us feel confident in choosing Clay & Stone."
+      },
+      "photo": null,
+      "consent": "pending",
+      "featured": true,
+      "flags": [
+        "republication consent pending",
+        "photo: placeholder on live site"
+      ],
+      "sources": [
+        "/th/about-us",
+        "/en/about-us"
+      ]
+    }
+  ]
+}

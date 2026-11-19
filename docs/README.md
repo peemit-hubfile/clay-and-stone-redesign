@@ -61,3 +61,7 @@ Supporting evidence:
 ## Next stages (not started)
 
 Stage 2 benchmark + PRD → Stage 3/4 design system and IA sign-off → Stage 5 prototype build → Stage 6 QA, Lighthouse, Playwright and Vercel preview.
+
+## Seed data (added after Stage 1)
+
+Prototype-ready, CMS-shaped content collections are in [`/src/data/seed`](../src/data/seed). They include labelled defaults for the pending decisions above. See [seed-data.md](seed-data.md). Rebuild and check with `npm run seed:all`.

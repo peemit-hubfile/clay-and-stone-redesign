@@ -1,0 +1,42 @@
+{
+  "_meta": {
+    "collection": "project-highlights",
+    "generated_by": "tools/seed/build-seed.mjs",
+    "generated_from": "src/data (Stage 1 extraction, 2026-11-20)",
+    "count": 3
+  },
+  "items": [
+    {
+      "id": "highlight-1",
+      "model_id": "unwind-standard",
+      "province": "Nonthaburi",
+      "image": "/images/source/home/694194b2841123b22b146a53_homepage-img-4.webp",
+      "sources": [
+        "/en (Highlighted Projects: 'Unwind in Nonthaburi')"
+      ],
+      "flags": [
+        "Possibly the Nonthaburi showroom unit (unconfirmed)."
+      ]
+    },
+    {
+      "id": "highlight-2",
+      "model_id": "unwind-loft",
+      "province": "Prachinburi",
+      "image": "/images/source/home/694194b299c682e7e931a374_homepage-img-6.webp",
+      "sources": [
+        "/en (Highlighted Projects: 'Unwind in Prachinburi')"
+      ],
+      "flags": []
+    },
+    {
+      "id": "highlight-3",
+      "model_id": "unwind-1bed-2bath",
+      "province": "Suphanburi",
+      "image": "/images/source/home/694194b2ef90983db1337f30_homepage-img-5.webp",
+      "sources": [
+        "/en (Highlighted Projects: 'Unwind in Suphanburi'); testimonial K. Orachorn"
+      ],
+      "flags": []
+    }
+  ]
+}

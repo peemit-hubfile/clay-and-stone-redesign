@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "collection": "process-steps",
+    "generated_by": "tools/seed/build-seed.mjs",
+    "generated_from": "src/data (Stage 1 extraction, 2026-11-20)",
+    "count": 4
+  },
+  "items": [
+    {
+      "id": "step-1",
+      "order": 1,
+      "title": {
+        "th": "เริ่มงานออกแบบให้ตรงใจ",
+        "en": "Begin a Design Tailored to Your Needs"
+      },
+      "text": {
+        "th": "แจ้งความต้องการและระบุฟังก์ชันที่อยากได้ ทีมออกแบบจะทำงานร่วมกับคุณอย่างใกล้ชิด เพื่อพัฒนาแบบบ้านให้ตรงตามความต้องการก่อนสั่งซื้อ",
+        "en": "Tell us how you want to live, and our design team will turn your ideas into a home that truly fits you - before you even place an order."
+      },
+      "duration": null,
+      "image": "/images/source/process/69471406a1a321bf471ee220_process-img-1.webp",
+      "sources": [
+        "/th/process",
+        "/en/process"
+      ]
+    },
+    {
+      "id": "step-2",
+      "order": 2,
+      "title": {
+        "th": "เซ็นสัญญาและเริ่มผลิต",
+        "en": "Sign the Contract and Begin Production"
+      },
+      "text": {
+        "th": "เซ็นสัญญาสั่งผลิตและชำระเงินงวดแรก จากนั้นทีมงานเริ่มกระบวนการผลิตที่โรงงานตามแบบที่อนุมัติ",
+        "en": "Once the contract is signed and the initial payment is completed, our team begins manufacturing your home at the factory based on the finalized design."
+      },
+      "duration": "60-90 days (from Unwind FAQ 5; depends on production queue)",
+      "image": "/images/source/process/69471406798f62cda028eef1_process-img-2.webp",
+      "sources": [
+        "/th/process",
+        "/en/process"
+      ]
+    },
+    {
+      "id": "step-3",
+      "order": 3,
+      "title": {
+        "th": "ขนส่งโมดูลถึงพื้นที่",
+        "en": "Module Delivery to the Site"
+      },
+      "text": {
+        "th": "เมื่อการผลิตเสร็จสมบูรณ์ประมาณ 70% โมดูลของบ้านจะถูกขนส่งไปยังที่ดินของคุณเพื่อเตรียมประกอบหน้างาน",
+        "en": "Once manufacturing is about 70% complete, your home modules are delivered to the site, ready for onsite assembly."
+      },
+      "duration": null,
+      "image": "/images/source/process/6947140674a0c42e1ddd8700_process-img-3.webp",
+      "sources": [
+        "/th/process",
+        "/en/process"
+      ]
+    },
+    {
+      "id": "step-4",
+      "order": 4,
+      "title": {
+        "th": "ประกอบและส่งมอบบ้าน",
+        "en": "On-Site Assembly and Home Handover"
+      },
+      "text": {
+        "th": "ติดตั้งและประกอบโมดูลทั้งหมดที่หน้างาน ใช้เวลาประมาณ 15 วัน ก่อนส่งมอบบ้านสำเร็จรูปที่เสร็จสมบูรณ์พร้อมเข้าอยู่",
+        "en": "All modules are assembled on-site in about 15 days, delivering a fully completed home that's ready for you to move in."
+      },
+      "duration": "~15 days",
+      "image": "/images/source/process/694714063e7ac6bfe43e87fd_process-img-4.webp",
+      "sources": [
+        "/th/process",
+        "/en/process"
+      ]
+    }
+  ]
+}

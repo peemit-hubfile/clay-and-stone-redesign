@@ -1,0 +1,13 @@
+{
+  "name": "clay-and-stone-redesign",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Clay & Stone redesign prototype (independent of the production Webflow site)",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "seed": "node tools/seed/build-seed.mjs",
+    "seed:validate": "node tools/seed/validate-seed.mjs",
+    "seed:all": "node tools/seed/build-seed.mjs && node tools/seed/validate-seed.mjs"
+  }
+}

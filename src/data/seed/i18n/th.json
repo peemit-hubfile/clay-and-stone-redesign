@@ -1,0 +1,98 @@
+{
+  "_meta": { "locale": "th", "status": "draft UI copy for review by a native Thai copywriter; existing site labels reused where they exist" },
+  "nav": {
+    "homes": "แบบบ้าน",
+    "compare": "เปรียบเทียบแบบบ้าน",
+    "finder": "ค้นหาบ้านที่ใช่",
+    "projects": "โปรเจค",
+    "how_we_build": "กระบวนการ",
+    "knowledge": "สิ่งที่ควรรู้",
+    "about": "เกี่ยวกับเรา",
+    "contact": "ติดต่อเรา",
+    "cta": "นัดปรึกษา",
+    "menu": "เมนู",
+    "close": "ปิด",
+    "skip": "ข้ามไปยังเนื้อหาหลัก",
+    "language": "ภาษา"
+  },
+  "cta": {
+    "explore_homes": "ดูแบบบ้านทั้งหมด",
+    "talk_to_us": "คุยกับทีมงาน",
+    "line": "แชตผ่าน LINE",
+    "call": "โทรหาเรา",
+    "email": "ส่งอีเมล",
+    "visit_showroom": "นัดชมโชว์รูม",
+    "view_home": "ดูรายละเอียด",
+    "explore_more": "ดูเพิ่มเติม",
+    "compare_add": "เพิ่มเพื่อเปรียบเทียบ",
+    "compare_remove": "นำออกจากการเปรียบเทียบ",
+    "start_finder": "เริ่มค้นหาบ้านที่ใช่"
+  },
+  "model": {
+    "price_from": "ราคาเริ่มต้น",
+    "price_incl_vat": "รวม VAT",
+    "currency": "บาท",
+    "usable_area": "พื้นที่ใช้สอย",
+    "interior": "ตัวบ้าน + ห้องน้ำ",
+    "terrace": "ระเบียง",
+    "pet_house": "บ้านสัตว์เลี้ยงกลางแจ้ง",
+    "sqm": "ตร.ม.",
+    "bedrooms": "ห้องนอน",
+    "bathrooms": "ห้องน้ำ",
+    "storeys": "ชั้น",
+    "open_plan": "ผังเปิด",
+    "loft": "ชั้นลอย",
+    "floor_plan": "แปลนบ้าน",
+    "gallery": "ผลงานจริง",
+    "materials": "วัสดุ",
+    "included": "สิ่งที่รวมในราคา",
+    "customer_prepares": "สิ่งที่ลูกค้าเตรียม",
+    "series": "ซีรีส์"
+  },
+  "status": {
+    "pending": "รอยืนยัน",
+    "price_pending": "ราคารอยืนยัน",
+    "content_pending": "รอข้อมูลจากลูกค้า",
+    "coming_soon": "เร็ว ๆ นี้",
+    "demo": "โหมดสาธิต"
+  },
+  "compare": {
+    "title": "เปรียบเทียบแบบบ้าน",
+    "empty": "เลือกแบบบ้าน 2–3 หลังเพื่อเปรียบเทียบ",
+    "max": "เปรียบเทียบได้สูงสุด 3 หลัง"
+  },
+  "finder": {
+    "step": "ข้อ {n} จาก {total}",
+    "back": "ย้อนกลับ",
+    "next": "ถัดไป",
+    "see_results": "ดูผลลัพธ์",
+    "restart": "เริ่มใหม่",
+    "why": "ทำไมถึงเหมาะกับคุณ",
+    "close_matches": "ตัวเลือกใกล้เคียง",
+    "not_matched": "ไม่ตรงกับ"
+  },
+  "timeline": {
+    "production": "ผลิตในโรงงาน {min}–{max} วัน",
+    "delivery": "ขนส่งเมื่อผลิตเสร็จประมาณ {percent}%",
+    "onsite": "ติดตั้งหน้างานประมาณ {days} วัน"
+  },
+  "form": {
+    "title": "นัดปรึกษากับทีมงาน",
+    "name": "ชื่อ",
+    "phone": "เบอร์โทรศัพท์",
+    "line_id": "LINE ID (ไม่บังคับ)",
+    "interest": "แบบบ้านที่สนใจ",
+    "message": "ข้อความ",
+    "submit": "ส่งข้อมูล",
+    "required": "จำเป็นต้องกรอก",
+    "invalid_phone": "กรุณากรอกเบอร์โทรศัพท์ให้ถูกต้อง",
+    "demo_notice": "ต้นแบบนี้อยู่ในโหมดสาธิต ข้อมูลจะไม่ถูกส่งไปที่ใด",
+    "demo_success": "ส่งข้อมูลสำเร็จ (สาธิต) ไม่มีข้อมูลถูกส่งออกไป"
+  },
+  "footer": {
+    "showroom": "สำนักงานและโชว์รูม",
+    "by_appointment": "เข้าชมโดยนัดหมายล่วงหน้า",
+    "rights": "© Clay & Stone",
+    "prototype_notice": "ต้นแบบการออกแบบใหม่ ไม่ใช่เว็บไซต์จริง"
+  }
+}
