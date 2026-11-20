@@ -60,7 +60,8 @@
         "plot_fit": "/th/projects (\"เหมาะสำหรับที่ดินขนาดกลาง\")"
       },
       "images": {
-        "cover": "/images/source/projects/6973b6690794eb32539ccc80_standard-14.webp",
+        "cover": "/images/source/projects/6973b6695263655c9f77d841_standard-11.webp",
+        "cover_is_visualisation": false,
         "floor_plan": "/images/source/projects/696c94af7b535bb0f87f9deb_Standard-Type.webp",
         "gallery_id": "unwind-standard"
       },
@@ -132,7 +133,8 @@
         "plot_fit": "/en/projects (\"ideal solution for limited land plots\")"
       },
       "images": {
-        "cover": "/images/source/projects/6973b848b0cf551ef3dc2105_loft-05.webp",
+        "cover": "/images/source/projects/6973b847f44a577ca1a7904b_loft-10.webp",
+        "cover_is_visualisation": false,
         "floor_plan": "/images/source/projects/696c94afbae329ca4a95543e_Loft-Type.webp",
         "gallery_id": "unwind-loft"
       },
@@ -216,6 +218,7 @@
       },
       "images": {
         "cover": "/images/source/projects/6973bab42483e43311742af3_1bed-2bath-16.webp",
+        "cover_is_visualisation": false,
         "floor_plan": "/images/source/misc/696c94af40a2517c51c3fe0d_1-Bed-2-Bath.webp",
         "gallery_id": "unwind-1bed-2bath"
       },
@@ -294,6 +297,7 @@
       },
       "images": {
         "cover": "/images/source/projects/6a128d53431c2637b7121eae_04.webp",
+        "cover_is_visualisation": true,
         "floor_plan": "/images/source/misc/69ea4eede3bfbd091ca58b4c_2-Bed-2-Bath.webp",
         "gallery_id": "unwind-2bed-2bath"
       },
@@ -304,7 +308,8 @@
       "flags": [
         "price: card 2,690,000 vs FAQ/blog 2,660,000 (pending)",
         "storeys: derived from floor plan",
-        "footprint / min plot size: missing"
+        "footprint / min plot size: missing",
+        "images: gallery appears to be 3D visualisations, not completed-home photos (pending)"
       ],
       "sources": [
         "https://www.clayandstone.co.th/en/products/unwind-series"
@@ -363,6 +368,7 @@
       },
       "images": {
         "cover": "/images/source/projects/6a12b4bffc3c68b362f659c1_01.webp",
+        "cover_is_visualisation": true,
         "floor_plan": "/images/source/projects/6a12b15a9e8bf0a84961150a_2-Bed-2-Bath.webp",
         "gallery_id": "alive-2bed-2bath"
       },
@@ -374,7 +380,8 @@
         "storeys: derived from floor plan",
         "description.en: missing",
         "description.th: missing",
-        "footprint / min plot size: missing"
+        "footprint / min plot size: missing",
+        "images: gallery appears to be 3D visualisations, not completed-home photos (pending)"
       ],
       "sources": [
         "https://www.clayandstone.co.th/en/products/alive-series"

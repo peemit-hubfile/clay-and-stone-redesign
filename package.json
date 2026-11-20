@@ -4,10 +4,29 @@
   "private": true,
   "type": "module",
   "description": "Clay & Stone redesign prototype (independent of the production Webflow site)",
-  "engines": { "node": ">=18" },
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
+    "dev": "node node_modules/vite/bin/vite.js",
+    "build": "node tools/build/fonts.mjs && node tools/build/images.mjs && node node_modules/vite/bin/vite.js build && node tools/build/prune-dist.mjs",
+    "preview": "node node_modules/vite/bin/vite.js preview --port 4173",
+    "images": "node tools/build/images.mjs",
+    "render": "node tools/build/render.mjs",
     "seed": "node tools/seed/build-seed.mjs",
     "seed:validate": "node tools/seed/validate-seed.mjs",
-    "seed:all": "node tools/seed/build-seed.mjs && node tools/seed/validate-seed.mjs"
+    "seed:all": "node tools/seed/build-seed.mjs && node tools/seed/validate-seed.mjs",
+    "test:smoke": "node tests/qa-smoke.mjs",
+    "fonts": "node tools/build/fonts.mjs"
+  },
+  "devDependencies": {
+    "@fontsource-variable/manrope": "^5.1.1",
+    "@fontsource/ibm-plex-sans-thai": "^5.1.1",
+    "playwright-core": "^1.49.1",
+    "sharp": "^0.33.5",
+    "vite": "^6.0.7"
+  },
+  "dependencies": {
+    "gsap": "^3.12.7"
   }
 }

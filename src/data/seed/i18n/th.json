@@ -1,5 +1,8 @@
 {
-  "_meta": { "locale": "th", "status": "draft UI copy for review by a native Thai copywriter; existing site labels reused where they exist" },
+  "_meta": {
+    "locale": "th",
+    "status": "draft UI copy for review by a native Thai copywriter; existing site labels reused where they exist"
+  },
   "nav": {
     "homes": "แบบบ้าน",
     "compare": "เปรียบเทียบแบบบ้าน",
@@ -54,7 +57,8 @@
     "price_pending": "ราคารอยืนยัน",
     "content_pending": "รอข้อมูลจากลูกค้า",
     "coming_soon": "เร็ว ๆ นี้",
-    "demo": "โหมดสาธิต"
+    "demo": "โหมดสาธิต",
+    "visualisation": "ภาพจำลอง"
   },
   "compare": {
     "title": "เปรียบเทียบแบบบ้าน",
@@ -94,5 +98,30 @@
     "by_appointment": "เข้าชมโดยนัดหมายล่วงหน้า",
     "rights": "© Clay & Stone",
     "prototype_notice": "ต้นแบบการออกแบบใหม่ ไม่ใช่เว็บไซต์จริง"
+  },
+  "home": {
+    "hero_eyebrow": "บ้านโมดูลาร์ ออกแบบโดยสถาปนิก",
+    "hero_lead": "บ้านโมดูลาร์ที่ออกแบบเพื่อสภาพอากาศเมืองไทย ผลิตในโรงงาน และติดตั้งหน้างานประมาณ 15 วัน",
+    "facts_onsite": "ติดตั้งหน้างานประมาณ 15 วัน",
+    "facts_warranty": "รับประกันโครงสร้าง 5 ปี",
+    "facts_install": "ติดตั้งฟรีในระยะ 200 กม.",
+    "homes_title": "เลือกบ้านที่ใช่สำหรับชีวิตคุณ",
+    "homes_lead": "2 ซีรีส์ 5 แบบบ้าน ตั้งแต่บ้านพักผ่อนขนาดกะทัดรัดไปจนถึงบ้านสำหรับครอบครัว",
+    "filter_all": "ทั้งหมด",
+    "filter_label": "กรองตามซีรีส์",
+    "finder_eyebrow": "Smart Home Finder",
+    "why_title": "วัสดุที่เลือกมาเพื่ออยู่ได้นาน",
+    "why_lead": "โครงสร้างและวัสดุทุกชิ้นถูกเลือกเพื่อความทนทานในสภาพอากาศร้อนชื้นของไทย และดูแลโดยสถาปนิกและวิศวกร",
+    "projects_title": "บ้านที่สร้างเสร็จแล้วจริง",
+    "projects_lead": "ภาพจากบ้าน Clay & Stone ที่ส่งมอบแล้ว",
+    "projects_locations": "ติดตั้งแล้วที่",
+    "process_title": "จากแบบบ้าน สู่บ้านที่พร้อมอยู่",
+    "process_lead": "4 ขั้นตอนที่ชัดเจน พร้อมระยะเวลาที่คาดการณ์ได้",
+    "faq_title": "คำถามที่พบบ่อย",
+    "faq_more": "ดูคำถามทั้งหมด",
+    "contact_title": "คุยเรื่องบ้านของคุณกับเรา",
+    "contact_lead": "สอบถามแบบบ้าน ราคา หรือนัดชมบ้านตัวอย่างที่โชว์รูมนนทบุรี",
+    "testimonial_label": "เสียงจากเจ้าของบ้าน",
+    "finder_noscript": "เครื่องมือนี้ต้องใช้ JavaScript กรุณาเปิดหน้าค้นหาบ้านที่ใช่"
   }
 }

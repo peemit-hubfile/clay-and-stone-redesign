@@ -65,3 +65,8 @@ Stage 2 benchmark + PRD → Stage 3/4 design system and IA sign-off → Stage 5 
 ## Seed data (added after Stage 1)
 
 Prototype-ready, CMS-shaped content collections are in [`/src/data/seed`](../src/data/seed). They include labelled defaults for the pending decisions above. See [seed-data.md](seed-data.md). Rebuild and check with `npm run seed:all`.
+
+## Prototype
+
+- [design-system.md](design-system.md): tokens, type, components, states, motion, Webflow mapping
+- [prototype-iteration-1.md](prototype-iteration-1.md): what was built, design decisions, executed QA and performance results, limitations

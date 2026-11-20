@@ -23,3 +23,12 @@ playwright-report/
 
 # Audit screenshots contain client photography (rights unverified)
 docs/audit-evidence/screenshots/
+
+# Generated at build time
+src/th/
+src/en/
+src/index.html
+src/.routes.json
+src/data/generated/
+# Image derivatives of client media (rights unverified)
+public/images/opt/

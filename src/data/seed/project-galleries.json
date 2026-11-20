@@ -15,6 +15,7 @@
         "en": "Unwind Standard Type"
       },
       "floor_plan": "/images/source/projects/696c94af7b535bb0f87f9deb_Standard-Type.webp",
+      "media_type": "photograph",
       "photos": [
         {
           "src": "/images/source/projects/6973b6693b8e7980743e0415_standard-15.webp",
@@ -200,6 +201,7 @@
         "en": "Unwind Loft Type"
       },
       "floor_plan": "/images/source/projects/69933e8db80b846a019e665a_Loft-Type.webp",
+      "media_type": "photograph",
       "photos": [
         {
           "src": "/images/source/projects/6973b8472c0b641bd8960e9a_loft-14.webp",
@@ -371,6 +373,7 @@
         "en": "Unwind 1 Bed 2 Bath"
       },
       "floor_plan": "/images/source/projects/69933e85dbadbf529b7d1171_1-Bed-2-Bath.webp",
+      "media_type": "photograph",
       "photos": [
         {
           "src": "/images/source/projects/6973bab42483e43311742af3_1bed-2bath-16.webp",
@@ -558,6 +561,7 @@
         "en": "Unwind 2 Bed 2 Bath"
       },
       "floor_plan": "/images/source/projects/69933e89074eec2249ff604a_2-Bed-2-Bath.webp",
+      "media_type": "visualisation-suspected",
       "photos": [
         {
           "src": "/images/source/projects/6a128b7323be8647e99d22b2_01.webp",
@@ -614,7 +618,8 @@
       "flags": [
         "photos not tagged to locations",
         "no project names or dates",
-        "asset rights pending"
+        "asset rights pending",
+        "images appear to be 3D visualisations; must be labelled, not shown as completed projects"
       ],
       "sources": [
         "/th/projects",
@@ -630,6 +635,7 @@
         "en": "Alive 2 Bed 2 Bath"
       },
       "floor_plan": "/images/source/projects/6a12b15a9e8bf0a84961150a_2-Bed-2-Bath.webp",
+      "media_type": "visualisation-suspected",
       "photos": [
         {
           "src": "/images/source/projects/6a12b4bffc3c68b362f659c1_01.webp",
@@ -706,7 +712,8 @@
       "flags": [
         "photos not tagged to locations",
         "no project names or dates",
-        "asset rights pending"
+        "asset rights pending",
+        "images appear to be 3D visualisations; must be labelled, not shown as completed projects"
       ],
       "sources": [
         "/th/projects",

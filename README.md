@@ -2,7 +2,13 @@
 
 An independent redesign proposal for [clayandstone.co.th](https://www.clayandstone.co.th). This repository is separate from the production Webflow site, which is **never modified** from here.
 
-**Current stage:** Stage 1 (Discovery) complete. Awaiting approval. See [`docs/README.md`](docs/README.md).
+**Current stage:** Iteration 1 of the prototype (design system + homepage, TH/EN). See [`docs/prototype-iteration-1.md`](docs/prototype-iteration-1.md). Discovery: [`docs/README.md`](docs/README.md).
+
+```
+npm install
+npm run dev        # http://localhost:5173
+npm run build      # production build to dist/
+```
 
 ## Repository layout
 

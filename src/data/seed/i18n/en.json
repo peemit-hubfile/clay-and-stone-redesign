@@ -1,5 +1,8 @@
 {
-  "_meta": { "locale": "en", "status": "draft UI copy for review; existing site labels reused where they exist" },
+  "_meta": {
+    "locale": "en",
+    "status": "draft UI copy for review; existing site labels reused where they exist"
+  },
   "nav": {
     "homes": "Our Homes",
     "compare": "Compare Homes",
@@ -54,7 +57,8 @@
     "price_pending": "Price pending confirmation",
     "content_pending": "Content pending from client",
     "coming_soon": "Coming soon",
-    "demo": "Demo mode"
+    "demo": "Demo mode",
+    "visualisation": "Visualisation"
   },
   "compare": {
     "title": "Compare homes",
@@ -94,5 +98,30 @@
     "by_appointment": "Visits by appointment",
     "rights": "© Clay & Stone",
     "prototype_notice": "Redesign prototype, not the live website"
+  },
+  "home": {
+    "hero_eyebrow": "Architect-designed modular homes",
+    "hero_lead": "Modular homes designed for Thailand’s climate, built in a factory and assembled on site in about 15 days.",
+    "facts_onsite": "About 15 days on site",
+    "facts_warranty": "5-year structural warranty",
+    "facts_install": "Free installation within 200 km",
+    "homes_title": "Find the home that fits your life",
+    "homes_lead": "Two series and five homes, from compact retreats to family houses.",
+    "filter_all": "All",
+    "filter_label": "Filter by series",
+    "finder_eyebrow": "Smart Home Finder",
+    "why_title": "Materials chosen to last",
+    "why_lead": "Every structural system and material is selected for durability in Thailand’s hot, humid climate, and supervised by architects and engineers.",
+    "projects_title": "Homes we have built",
+    "projects_lead": "Photos of completed Clay & Stone homes.",
+    "projects_locations": "Installed in",
+    "process_title": "From plan to move-in",
+    "process_lead": "Four clear steps with predictable timing.",
+    "faq_title": "Frequently asked questions",
+    "faq_more": "See all questions",
+    "contact_title": "Talk to Clay & Stone Today",
+    "contact_lead": "Ask about our homes and prices, or book a visit to the show home in Nonthaburi.",
+    "testimonial_label": "From our homeowners",
+    "finder_noscript": "This tool needs JavaScript. Please open the Home Finder page."
   }
 }

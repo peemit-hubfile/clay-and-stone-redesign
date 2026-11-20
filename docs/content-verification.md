@@ -135,6 +135,20 @@ The brand calls its homes **"modular"** and explains why modular ≠ knockdown (
 
 **Question for client:** Which term is the primary category for users and search? Our recommendation is "modular home" (บ้านโมดูลาร์), with prefab (บ้านสำเร็จรูป) as a supporting keyword.
 
+## 11. Project imagery that appears to be visualisations (🔴 Blocker for "Projects")
+
+A visual review on 20 Nov 2026 found that **both galleries below look like 3D renders or visualisations, not photographs of completed homes.** The signs are idealised mountain backdrops, uniform golden-hour light and staged interiors. The live Projects page nonetheless presents them alongside real completed homes.
+
+| Gallery | Images | Assessment |
+|---|---:|---|
+| Unwind 2 Bed 2 Bath (`6a128…_01–05.webp`) | 5 | Visualisation (suspected) |
+| Alive 2 Bed 2 Bath (`6a12b4bf…_01–07.webp`) | 7 | Visualisation (suspected) |
+| Standard, Loft, 1 Bed 2 Bath galleries | 45 | Real photographs |
+
+**Prototype handling:** these galleries carry `media_type: "visualisation-suspected"` in `seed/project-galleries.json`. They are shown only on model pages with a visible "ภาพจำลอง / Visualisation" label, and never in Projects or as proof of completed work.
+
+**Question for client:** Are these renders? Has a 2 Bed 2 Bath (Unwind or Alive) been built, and are photos available?
+
 ---
 
 ## Client confirmation checklist
@@ -158,3 +172,4 @@ Please confirm or correct each item. The prototype will not present any of these
 15. ☐ Project-to-location mapping for gallery photos
 16. ☐ Humble Series: show "coming soon" in the new navigation or keep it hidden?
 17. ☐ Primary category term: modular (โมดูลาร์) or prefab (สำเร็จรูป)
+18. ☐ Are the Unwind 2B2B and Alive gallery images renders? Are real photos available?

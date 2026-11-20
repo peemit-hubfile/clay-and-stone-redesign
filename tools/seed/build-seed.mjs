@@ -182,6 +182,18 @@ const MODEL_EXTRA = {
 };
 const LIFESTYLE = { unwind: ['calm', 'nature'], alive: ['active', 'outdoor'] };
 
+// Galleries whose images look like 3D renders/visualisations rather than photos
+// of completed homes (visual review, 2026-11-20). The live Projects page presents
+// them as completed projects; the prototype must label them as visualisations.
+const RENDER_GALLERIES = new Set(['unwind-2bed-2bath', 'alive-2bed-2bath']);
+
+// Hand-picked covers: real exterior photographs where they exist.
+const COVER = {
+  'unwind-standard': '/images/source/projects/6973b6695263655c9f77d841_standard-11.webp',
+  'unwind-loft': '/images/source/projects/6973b847f44a577ca1a7904b_loft-10.webp',
+  'unwind-1bed-2bath': '/images/source/projects/6973bab42483e43311742af3_1bed-2bath-16.webp',
+};
+
 const models = [];
 for (const s of seriesRaw) {
   for (const m of s.models ?? []) {
@@ -196,6 +208,7 @@ for (const s of seriesRaw) {
     if (!m.description?.en) flags.push('description.en: missing');
     if (!m.description?.th) flags.push('description.th: missing');
     flags.push('footprint / min plot size: missing');
+    if (RENDER_GALLERIES.has(m.id)) flags.push('images: gallery appears to be 3D visualisations, not completed-home photos (pending)');
     models.push({
       id: m.id,
       slug: x.slug,
@@ -230,7 +243,8 @@ for (const s of seriesRaw) {
       lifestyle: x.lifestyle ?? LIFESTYLE[s.id] ?? [],
       tag_basis: x.basis ?? {},
       images: {
-        cover: pickCover(gallery[m.id]),
+        cover: COVER[m.id] ?? pickCover(gallery[m.id]),
+        cover_is_visualisation: RENDER_GALLERIES.has(m.id),
         floor_plan: m.floor_plan_image,
         gallery_id: m.id,
       },
@@ -281,6 +295,7 @@ const galleries = projects.galleries.map((g) => ({
   series_id: g.series.toLowerCase(),
   title: L(`${g.series} ${g.model}`, `${g.series} ${g.model}`),
   floor_plan: g.cover_floor_plan,
+  media_type: RENDER_GALLERIES.has(g.id) ? 'visualisation-suspected' : 'photograph',
   photos: g.photos.map((p, i) => ({
     src: p.local_path,
     width: p.width,
@@ -292,7 +307,8 @@ const galleries = projects.galleries.map((g) => ({
   locations: projects.locations_mentioned
     .filter((l) => l.model_id === g.model_id || l.model_id === g.model_ref.split('#')[1])
     .map((l) => ({ province: l.location, source: l.source })),
-  flags: ['photos not tagged to locations', 'no project names or dates', 'asset rights pending'],
+  flags: ['photos not tagged to locations', 'no project names or dates', 'asset rights pending',
+    ...(RENDER_GALLERIES.has(g.id) ? ['images appear to be 3D visualisations; must be labelled, not shown as completed projects'] : [])],
   sources: ['/th/projects', '/en/projects'],
 }));
 write('project-galleries.json', galleries);
