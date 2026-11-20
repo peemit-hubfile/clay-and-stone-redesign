@@ -3,9 +3,8 @@ import { html, raw, attrs } from '../lib/html.js';
 import { makeT, pick } from '../lib/content.js';
 import { icon } from './icons.js';
 
-const SITE_URL = (process.env.SITE_URL || 'http://localhost:5173').replace(/\/$/, '');
+export const SITE_URL = (process.env.SITE_URL || 'http://localhost:5173').replace(/\/$/, '');
 export const href = (lang, path = '') => `/${lang}/${path ? path.replace(/^\/|\/$/g, '') + '/' : ''}`;
-const other = (lang) => (lang === 'th' ? 'en' : 'th');
 
 export const NAV = [
   { key: 'homes', path: 'homes' },
@@ -14,6 +13,14 @@ export const NAV = [
   { key: 'knowledge', path: 'knowledge' },
   { key: 'about', path: 'about' },
 ];
+
+// "TH / EN": current language shown as text, the other one is the link.
+function langSwitch({ lang, t, path, className = '' }) {
+  const item = (code) => (code === lang
+    ? html`<span class="lang-switch__item" aria-current="true"><span aria-hidden="true">${code.toUpperCase()}</span><span class="visually-hidden">${code === 'th' ? 'ภาษาไทย' : 'English'}</span></span>`
+    : html`<a class="lang-switch__item" href="${href(code, path)}" hreflang="${code}" lang="${code}"><span aria-hidden="true">${code.toUpperCase()}</span><span class="visually-hidden">${code === 'th' ? 'ภาษาไทย' : 'English'}</span></a>`);
+  return html`<div class="lang-switch ${className}" role="group" aria-label="${t('nav.language')}">${item('th')}<span class="lang-switch__sep" aria-hidden="true">/</span>${item('en')}</div>`;
+}
 
 function header({ lang, t, path, content }) {
   const line = content.settings.contact.line.href;
@@ -29,33 +36,29 @@ function header({ lang, t, path, content }) {
       </ul>
     </nav>
     <div class="site-header__actions">
-      <a class="lang-switch" href="${href(other(lang), path)}" hreflang="${other(lang)}" lang="${other(lang)}">
-        ${icon('globe', { size: 16 })}<span>${other(lang) === 'th' ? 'ไทย' : 'EN'}</span>
-        <span class="visually-hidden">${lang === 'th' ? 'Switch to English' : 'เปลี่ยนเป็นภาษาไทย'}</span>
-      </a>
-      <a class="btn btn--primary btn--sm site-header__cta" href="${href(lang, 'contact')}" data-track="click_contact">${t('nav.cta')}</a>
+      ${langSwitch({ lang, t, path, className: 'site-header__lang' })}
+      <a class="btn btn--line btn--sm btn--rect site-header__cta" href="${href(lang, 'contact')}" data-track="click_contact">${t('nav.cta')}</a>
       <a class="menu-toggle" href="#site-menu" aria-controls="site-menu" aria-expanded="false" data-menu-toggle>
-        ${icon('menu', { size: 22 })}<span class="visually-hidden">${t('nav.menu')}</span>
+        <span class="menu-toggle__label">${t('nav.menu')}</span><span class="menu-toggle__bars" aria-hidden="true"></span>
       </a>
     </div>
   </div>
   <dialog class="mobile-menu" id="site-menu" aria-label="${t('nav.menu')}">
     <div class="mobile-menu__top container">
       <span class="wordmark" aria-hidden="true"><span class="wordmark__clay">CLAY</span><span class="wordmark__stone">&amp; stone</span></span>
-      <button class="menu-close" type="button" data-menu-close>${icon('x', { size: 24 })}<span class="visually-hidden">${t('nav.close')}</span></button>
+      <button class="menu-close" type="button" data-menu-close><span class="menu-toggle__label">${t('nav.close')}</span>${icon('x', { size: 22 })}</button>
     </div>
     <nav class="mobile-menu__nav container" aria-label="${lang === 'th' ? 'เมนูหลัก' : 'Main'}">
-      <ul role="list">
-        <li><a href="${href(lang, 'homes')}">${t('nav.homes')}</a></li>
-        <li><a href="${href(lang, 'compare')}">${t('nav.compare')}</a></li>
-        <li><a href="${href(lang, 'home-finder')}">${t('nav.finder')}</a></li>
-        ${NAV.slice(1).map((n) => html`<li><a href="${href(lang, n.path)}">${t(`nav.${n.key}`)}</a></li>`)}
-        <li><a href="${href(lang, 'contact')}">${t('nav.contact')}</a></li>
-      </ul>
+      <ol class="mobile-menu__list" role="list">
+        ${[
+          ['homes', 'homes'], ['compare', 'compare'], ['home-finder', 'finder'],
+          ...NAV.slice(1).map((n) => [n.path, n.key]), ['contact', 'contact'],
+        ].map(([p, key], i) => html`<li><a${attrs({ href: href(lang, p), 'aria-current': path === p ? 'page' : null })}><span class="mobile-menu__num" aria-hidden="true">${String(i + 1).padStart(2, '0')}</span>${t(`nav.${key}`)}</a></li>`)}
+      </ol>
       <div class="mobile-menu__actions">
-        <a class="btn btn--primary" href="${line}" rel="noopener" data-track="click_line">${icon('chat')}${t('cta.line')}</a>
-        <a class="btn btn--ghost" href="${content.settings.contact.phone.href}" data-track="click_phone">${icon('phone')}${content.settings.contact.phone.display}</a>
-        <a class="lang-switch" href="${href(other(lang), path)}" hreflang="${other(lang)}" lang="${other(lang)}">${icon('globe', { size: 16 })}${other(lang) === 'th' ? 'ภาษาไทย' : 'English'}</a>
+        <a class="btn btn--primary btn--rect" href="${line}" rel="noopener" data-track="click_line">${icon('chat')}${t('cta.line')}</a>
+        <a class="btn btn--line btn--rect" href="${content.settings.contact.phone.href}" data-track="click_phone">${icon('phone')}${content.settings.contact.phone.display}</a>
+        ${langSwitch({ lang, t, path, className: 'mobile-menu__lang' })}
       </div>
     </nav>
   </dialog>

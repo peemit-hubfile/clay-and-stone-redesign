@@ -73,3 +73,24 @@ export function modelCard(m, { t, lang, content, picture, priority = false, leve
   </a>
 </article>`;
 }
+
+// Closing contact band (LINE first, then phone, email, showroom).
+export function contactCta({ t, content, picture }) {
+  const c = content.settings.contact;
+  return html`
+<section class="contact-cta" id="contact" aria-labelledby="contact-title">
+  <div class="contact-cta__media">${picture('/images/source/projects/6973b669a84a9e740e476ed4_standard-07.webp', { alt: '', sizes: '100vw' })}</div>
+  <div class="container contact-cta__inner">
+    <div class="contact-cta__text">
+      <h2 id="contact-title">${t('home.contact_title')}</h2>
+      <p>${t('home.contact_lead')}</p>
+    </div>
+    <ul class="contact-options" role="list">
+      <li><a class="contact-option contact-option--primary" href="${c.line.href}" rel="noopener" data-track="click_line">${icon('chat', { size: 22 })}<span><strong>${t('cta.line')}</strong>${c.line.display}</span></a></li>
+      <li><a class="contact-option" href="${c.phone.href}" data-track="click_phone">${icon('phone', { size: 22 })}<span><strong>${t('cta.call')}</strong>${c.phone.display}</span></a></li>
+      <li><a class="contact-option" href="${c.email.href}" data-track="click_email">${icon('mail', { size: 22 })}<span><strong>${t('cta.email')}</strong>${c.email.display}</span></a></li>
+      <li><a class="contact-option" href="https://www.google.com/maps/search/?api=1&amp;query=${c.showroom.geo.lat},${c.showroom.geo.lng}" rel="noopener" data-track="click_map">${icon('map-pin', { size: 22 })}<span><strong>${t('cta.visit_showroom')}</strong>${t('footer.by_appointment')}</span></a></li>
+    </ul>
+  </div>
+</section>`;
+}

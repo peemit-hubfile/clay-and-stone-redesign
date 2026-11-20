@@ -2,7 +2,7 @@ import { bindTracking, track } from './track.js';
 
 bindTracking();
 
-// Header: solid once the page scrolls past the top (transparent over the home hero).
+// Header: hairline appears once the page scrolls past the top.
 const header = document.querySelector('[data-header]');
 if (header) {
   const sentinel = document.createElement('div');
@@ -26,20 +26,9 @@ if (toggle && menu?.showModal) {
   menu.addEventListener('click', (e) => { if (e.target.closest('a')) menu.close(); });
 }
 
-// Series filter on the homes grid.
-const filter = document.querySelector('[data-filter]');
-if (filter) {
-  filter.hidden = false;
-  const blocks = [...document.querySelectorAll('[data-series-block]')];
-  filter.addEventListener('click', (e) => {
-    const btn = e.target.closest('[data-filter-value]');
-    if (!btn) return;
-    const v = btn.dataset.filterValue;
-    filter.querySelectorAll('[data-filter-value]').forEach((b) => b.setAttribute('aria-pressed', String(b === btn)));
-    blocks.forEach((b) => { b.hidden = v !== 'all' && b.dataset.seriesBlock !== v; });
-    track('filter_homes', { series: v });
-  });
-}
+// Our Homes listing: filters, sorting, photo/plan toggle (loaded only where present).
+const homesRoot = document.querySelector('[data-homes]');
+if (homesRoot) import('./homes.js').then((m) => m.initHomes(homesRoot));
 
 // Home Finder (loaded only where present).
 const finderRoot = document.querySelector('[data-finder]');

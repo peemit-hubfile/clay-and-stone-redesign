@@ -1,12 +1,18 @@
 import { html, raw, attrs } from '../lib/html.js';
-import { makeT, pick, formatTHB, formatSqm } from '../lib/content.js';
+import { makeT, pick } from '../lib/content.js';
 import { makePicture } from '../lib/picture.js';
 import { page, href } from '../components/layout.js';
 import { icon } from '../components/icons.js';
-import { sectionHead, modelCard, badge } from '../components/ui.js';
+import { sectionHead, modelSpecs, badge, contactCta } from '../components/ui.js';
 
-const HERO_DESKTOP = '/images/source/misc/694722e5b5351c705601b75d_contact-banner.webp';
-const HERO_MOBILE = '/images/source/projects/6973b6693b8e7980743e0415_standard-15.webp';
+// Hero: one real completed home (Unwind 1 Bed 2 Bath). No renders, no poles or wires.
+const HERO_IMAGE = '/images/source/projects/6973bab5b274825bcd905e0f_1bed-2bath-13.webp';
+// Discover Our Homes: the three models with real completed-home photography.
+const DISCOVER = [
+  { model: 'unwind-standard', src: '/images/source/projects/6973b669fbc3fdd253829882_standard-13.webp', shape: 'wide' },
+  { model: 'unwind-loft', src: '/images/source/projects/6973b8474458238b820645c1_loft-13.webp', shape: 'tall' },
+  { model: 'unwind-1bed-2bath', src: '/images/source/projects/6973bab42483e43311742af3_1bed-2bath-16.webp', shape: 'pano' },
+];
 const INTRO_IMAGES = [
   '/images/source/projects/6973b847f44a577ca1a7904b_loft-10.webp',
   '/images/source/projects/6973bab4f4d3090f50540ba0_1bed-2bath-11.webp',
@@ -29,40 +35,30 @@ export function renderHome({ lang, content }) {
   const { settings, models, series } = content;
   const L = (v) => pick(v, lang).text;
   const available = models.filter((m) => m.show_in_finder);
-  const minPrice = Math.min(...available.map((m) => m.price.display_thb));
-  const minModel = available.find((m) => m.price.display_thb === minPrice);
   const seo = {
     th: { title: 'บ้านโมดูลาร์ บ้านสำเร็จรูป ดีไซน์โมเดิร์น พร้อมติดตั้ง | Clay & Stone', description: 'เลือกชมแบบบ้านสำเร็จรูป หลากหลายสไตล์ในระบบ Modular มาตรฐานจากบริษัทสร้างบ้านสำเร็จรูปพร้อมติดตั้งที่ตอบโจทย์ทุกการอยู่อาศัย' },
     en: { title: 'Modern Modular Houses in Thailand | Clay & Stone', description: 'Experience the future of living with premium modular homes and modern modular house designs featuring precision engineering and trusted quality.' },
   }[lang];
 
-  /* 01 Hero ------------------------------------------------------------- */
+  /* 01 Hero: headline, one sentence, one CTA, one photograph (see docs/hero-v3.md) */
+  // A newline in the copy = line break; "|" = allowed Thai break point (phrases never split inside).
+  const heroLines = t('home.hero_title').split('\n');
   const hero = html`
 <section class="hero" aria-labelledby="hero-title">
-  <div class="hero__media" data-hero-media>
-    ${picture(HERO_DESKTOP, { alt: lang === 'th' ? 'บ้าน Unwind Standard Type ของ Clay & Stone พร้อมระเบียงไม้และชายคายื่นยาว' : 'A Clay & Stone Unwind Standard Type home with a timber deck and deep eaves', sizes: '100vw', priority: true, art: [{ media: '(max-width: 47.99em)', src: HERO_MOBILE }] })}
-  </div>
-  <div class="hero__content container">
-    <p class="eyebrow eyebrow--light" data-reveal-hero>${t('home.hero_eyebrow')}</p>
-    <h1 class="hero__title" id="hero-title" data-reveal-hero>${L(settings.brand.taglines[0]).replace(/^"|"$/g, '').split(/\.{3,}\s*/).map((part, i) => (i ? html`<span class="hero__title-line">…${part}</span>` : html`<span class="hero__title-line">${part}</span>`))}</h1>
-    <p class="hero__lead" data-reveal-hero>${t('home.hero_lead')}</p>
-    <p class="hero__price" data-reveal-hero>
-      ${t('model.price_from')} <strong>${formatTHB(minPrice, lang)} ${t('model.currency')}</strong> <span>(${t('model.price_incl_vat')})</span>
-      ${minModel.price.status === 'pending-confirmation' ? badge(t('status.price_pending'), 'pending-light') : ''}
-    </p>
-    <div class="hero__actions" data-reveal-hero>
-      <a class="btn btn--light" href="#homes" data-track="hero_explore">${t('cta.explore_homes')} ${icon('arrow-right', { size: 18 })}</a>
-      <a class="btn btn--outline-light" href="#contact" data-track="hero_contact">${t('cta.talk_to_us')}</a>
+  <div class="hero__inner">
+    <div class="hero__text">
+      <h1 class="hero__title" id="hero-title">${heroLines.map((line) => html`<span class="hero__line">${line.split('|').map((ph) => html`<span class="hero__phrase">${ph}</span>`)}</span>`)}</h1>
+      <p class="hero__lead">${lang === 'th' ? t('home.hero_lead').split(' ').map((ph, i) => html`${i ? ' ' : ''}<span class="hero__phrase">${ph}</span>`) : t('home.hero_lead')}</p>
+      <a class="btn btn--primary btn--rect hero__cta" href="${href(lang, 'homes')}" data-track="hero_explore">${t('home.hero_cta')} ${icon('arrow-right', { size: 18 })}</a>
+    </div>
+    <div class="hero__media">
+      ${picture(HERO_IMAGE, { alt: lang === 'th' ? 'บ้าน Unwind Series 1 Bed 2 Bath ที่ส่งมอบแล้ว หลังคาจั่วชายคายื่นยาว ผนังกระจกสูงจรดฝ้า' : 'A completed Unwind Series 1 Bed 2 Bath home with a deep gabled roof and full-height glazing', sizes: '(min-width: 64em) 62vw, 100vw', priority: true })}
     </div>
   </div>
-  <ul class="hero__facts container" role="list" data-reveal-hero>
-    <li>${icon('clock')}${t('home.facts_onsite')}</li>
-    <li>${icon('shield')}${t('home.facts_warranty')}</li>
-    <li>${icon('truck')}${t('home.facts_install')}</li>
-  </ul>
 </section>`;
 
   /* 02 Brand intro ----------------------------------------------------------- */
+  const pendingWhy = lang === 'th' ? 'เว็บไซต์ปัจจุบันแสดงเป็นโปรโมชั่น รอยืนยันเงื่อนไข' : 'Listed as a promotion on the live site; terms awaiting confirmation';
   const strengths = [
     { title: { th: 'มาตรฐานใหม่ของ "บ้านสำเร็จรูป"', en: 'Modular Homes Beyond Prefab' }, text: { th: 'Clay & Stone ออกแบบบ้านสำเร็จรูปที่ฉีกทุกกฎเดิมๆ ด้วยดีไซน์โดดเด่น ทั้งชายคายื่นยาว ระเบียงกว้าง และฟังก์ชันที่สวยงามลงตัว', en: "Extended roof overhangs, spacious verandas and balanced designs that respond to the real lifestyles of Thai people." } },
     { title: { th: 'งานได้มาตรฐาน ตรงตามแบบที่เลือก', en: 'Built True to Design' }, text: { th: 'ทุกขั้นตอนการออกแบบและก่อสร้าง อยู่ภายใต้การดูแลของสถาปนิกและวิศวกรมืออาชีพ', en: 'Every stage of design, construction and installation is overseen by professional architects and engineers.' } },
@@ -72,7 +68,7 @@ export function renderHome({ lang, content }) {
 <section class="section intro" aria-labelledby="intro-title">
   <div class="container intro__grid">
     <div class="intro__text" data-reveal>
-      <p class="eyebrow">Homes Beyond Prefab</p>
+      <p class="eyebrow">Clay &amp; Stone</p>
       <h2 class="intro__statement" id="intro-title">${L(settings.brand.positioning)}</h2>
       <p class="intro__body">${L(settings.brand.description)}</p>
     </div>
@@ -84,35 +80,41 @@ export function renderHome({ lang, content }) {
   <ol class="container strengths" role="list">
     ${strengths.map((s, i) => html`<li class="strength" data-reveal><span class="strength__num">0${i + 1}</span><h3>${L(s.title)}</h3><p>${L(s.text)}</p></li>`)}
   </ol>
+  <ul class="container key-facts" role="list" aria-label="${t('home.facts_label')}" data-reveal>
+    <li>${icon('clock', { size: 18 })}<span>${t('home.facts_onsite')}</span></li>
+    <li>${icon('shield', { size: 18 })}<span>${t('home.facts_warranty')}</span>${badge(t('status.pending'), 'pending', pendingWhy)}</li>
+    <li>${icon('truck', { size: 18 })}<span>${t('home.facts_install')}</span>${badge(t('status.pending'), 'pending', pendingWhy)}</li>
+  </ul>
 </section>`;
 
-  /* 03 Our homes ------------------------------------------------------------- */
-  const live = series.filter((s) => s.status === 'available');
-  const homes = html`
-<section class="section homes" id="homes" aria-labelledby="homes-title">
+  /* 02 Discover Our Homes: large photography, minimal facts, clear links ----------- */
+  const others = models.filter((m) => !DISCOVER.some((d) => d.model === m.id));
+  const seriesName = (m) => L(series.find((x) => x.id === m.series_id).name);
+  const discover = html`
+<section class="section discover" id="homes" aria-labelledby="discover-title">
   <div class="container">
-    <div class="homes__head">
-      ${sectionHead({ eyebrow: t('nav.homes'), title: t('home.homes_title'), lead: t('home.homes_lead'), id: 'homes-title' })}
-      <div class="filter" role="group" aria-label="${t('home.filter_label')}" data-filter hidden>
-        <button type="button" class="chip" aria-pressed="true" data-filter-value="all">${t('home.filter_all')}</button>
-        ${live.map((s) => html`<button type="button" class="chip" aria-pressed="false" data-filter-value="${s.id}">${L(s.name)}</button>`)}
+    <h2 class="discover__title" id="discover-title">${t('home.discover_title')}</h2>
+    <div class="discover__grid">
+      ${DISCOVER.map((d) => {
+        const m = models.find((x) => x.id === d.model);
+        const specs = modelSpecs(m, { t, lang });
+        return html`
+      <article class="discover-item discover-item--${d.shape}" data-reveal>
+        <a class="discover-item__link" href="${href(lang, m.path)}" data-track="view_product" data-model="${m.id}">
+          <div class="discover-item__media">${picture(d.src, { alt: '', sizes: d.shape === 'wide' ? '(min-width: 64em) 62vw, 92vw' : d.shape === 'tall' ? '(min-width: 64em) 30vw, 92vw' : '(min-width: 64em) 55vw, 92vw' })}</div>
+          <div class="discover-item__meta">
+            <h3 class="discover-item__name"><span class="discover-item__series">${seriesName(m)}</span>${L(m.name)}</h3>
+            <p class="discover-item__facts">${specs[0].text} · ${specs[1].text}</p>
+            ${icon('arrow-up-right', { size: 20 })}
+          </div>
+        </a>
+      </article>`;
+      })}
+      <div class="discover__more" data-reveal>
+        <p>${t('home.discover_more_note', { names: others.map((m) => `${seriesName(m)} ${L(m.name)}`).join(lang === 'th' ? ' และ ' : ' and ') })}</p>
+        <a class="link-arrow" href="${href(lang, 'homes')}">${t('home.discover_more', { n: models.length })} ${icon('arrow-right', { size: 18 })}</a>
       </div>
     </div>
-    ${live.map((s) => {
-      const ms = available.filter((m) => m.series_id === s.id);
-      const from = Math.min(...ms.map((m) => m.price.display_thb));
-      return html`
-    <div class="series-block${ms.length === 1 ? ' series-block--single' : ''}" data-series-block="${s.id}">
-      <header class="series-block__head">
-        <h3 class="series-block__name">${L(s.name)}</h3>
-        <p class="series-block__tagline">${s.tagline.en}</p>
-        <p class="series-block__meta">${s.values.join(' · ')}</p>
-        <p class="series-block__meta">${ms.length} ${lang === 'th' ? 'แบบ' : ms.length > 1 ? 'homes' : 'home'} · ${t('model.price_from')} ${formatTHB(from, lang)} ${t('model.currency')}</p>
-      </header>
-      <div class="model-grid">${ms.map((m) => modelCard(m, { t, lang, content, picture, level: 4 }))}</div>
-    </div>`;
-    })}
-    <p class="homes__more"><a class="link-arrow" href="${href(lang, 'compare')}">${t('nav.compare')} ${icon('arrow-right', { size: 18 })}</a></p>
   </div>
 </section>`;
 
@@ -247,26 +249,10 @@ export function renderHome({ lang, content }) {
 </section>`;
 
   /* 09 Contact ------------------------------------------------------------------- */
-  const c = settings.contact;
-  const contact = html`
-<section class="contact-cta" id="contact" aria-labelledby="contact-title">
-  <div class="contact-cta__media">${picture('/images/source/projects/6973b669a84a9e740e476ed4_standard-07.webp', { alt: '', sizes: '100vw' })}</div>
-  <div class="container contact-cta__inner">
-    <div class="contact-cta__text">
-      <h2 id="contact-title">${t('home.contact_title')}</h2>
-      <p>${t('home.contact_lead')}</p>
-    </div>
-    <ul class="contact-options" role="list">
-      <li><a class="contact-option contact-option--primary" href="${c.line.href}" rel="noopener" data-track="click_line">${icon('chat', { size: 22 })}<span><strong>${t('cta.line')}</strong>${c.line.display}</span></a></li>
-      <li><a class="contact-option" href="${c.phone.href}" data-track="click_phone">${icon('phone', { size: 22 })}<span><strong>${t('cta.call')}</strong>${c.phone.display}</span></a></li>
-      <li><a class="contact-option" href="${c.email.href}" data-track="click_email">${icon('mail', { size: 22 })}<span><strong>${t('cta.email')}</strong>${c.email.display}</span></a></li>
-      <li><a class="contact-option" href="https://www.google.com/maps/search/?api=1&amp;query=${c.showroom.geo.lat},${c.showroom.geo.lng}" rel="noopener" data-track="click_map">${icon('map-pin', { size: 22 })}<span><strong>${t('cta.visit_showroom')}</strong>${t('footer.by_appointment')}</span></a></li>
-    </ul>
-  </div>
-</section>`;
+  const contact = contactCta({ t, content, picture });
 
   return page({
     lang, content, path: '', title: seo.title, description: seo.description, bodyClass: 'page-home',
-    body: [hero, intro, homes, finder, why, projectsSec, process, faq, contact],
+    body: [hero, discover, intro, finder, why, projectsSec, process, faq, contact],
   });
 }

@@ -1,4 +1,4 @@
-// GSAP motion: hero reveal + gentle section reveals.
+// GSAP motion: gentle section reveals (the hero entrance is CSS, see home.css).
 // Initial (hidden) states are set by JS only, so content is always visible
 // if scripts fail, and nothing animates for prefers-reduced-motion users.
 import { gsap } from 'gsap';

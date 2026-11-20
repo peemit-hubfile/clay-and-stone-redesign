@@ -1,6 +1,7 @@
 // Route table: one entry per page; each renders in every language.
 import { renderHome } from './home.js';
 import { renderStub } from './stub.js';
+import { renderHomes } from './homes.js';
 
 const L = (th, en) => ({ th, en });
 
@@ -8,7 +9,7 @@ export function buildRoutes(content) {
   const routes = [{ path: '', render: renderHome }];
   const stub = (path, title, lead = null, extra = {}) => routes.push({ path, title, lead, render: renderStub, ...extra });
 
-  stub('homes', L('แบบบ้านทั้งหมด', 'Our Homes'), L('2 ซีรีส์ 5 แบบบ้าน ตั้งแต่บ้านพักผ่อนขนาดกะทัดรัดไปจนถึงบ้านสำหรับครอบครัว', 'Two series and five homes, from compact retreats to family houses.'));
+  routes.push({ path: 'homes', render: renderHomes });
   for (const s of content.series.filter((x) => x.status === 'available')) {
     stub(`homes/${s.slug}`, s.name, s.tagline);
   }

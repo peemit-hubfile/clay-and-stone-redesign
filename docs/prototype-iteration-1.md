@@ -56,8 +56,9 @@ Fixes made during QA:
 
 ## Known limitations / next steps
 
-- ⚠ **Mobile TH LCP 2.68 s** is just above the 2.5 s goal under harsh emulation. Next levers: inline critical CSS, drop the Thai 600 weight (8 → 6 font files), and test real-device field data after deployment.
-- Inner pages (Our Homes, model detail, Compare, Projects, How We Build, Good to Know, About, Contact form) are placeholders.
+- ✓ **Mobile TH LCP** was 2.68 s; with the v3 hero it is **2.15 s** under the same emulation (v2: 1.83 s; see [hero-v3.md](hero-v3.md)).
+- **Our Homes (`/homes`) is now designed** (iteration 1b): stats header; series and bedroom filters plus sort, mirrored in the URL; one row per home with a photo/floor-plan toggle, specs, area breakdown and price; a specs-and-price table; what the price covers and what you prepare, with the 20–30% budget guidance; series overview with Humble "coming soon"; and a Finder prompt. Smoke QA: 32 routes × 2 viewports, 0 failures.
+- Other inner pages (model detail, series, Compare, Projects, How We Build, Good to Know, About, Contact form) are still placeholders.
 - Not yet run: Lighthouse, axe-core automated accessibility audit, screen-reader pass, real-device testing, structured-data validation in Google's Rich Results Test.
 - The wordmark is a typographic placeholder until the client supplies the SVG logo.
 - All "pending" items from the content-verification checklist still apply (prices, Alive copy, renders vs photos, testimonial consent, asset rights).
