@@ -87,9 +87,26 @@ if (toggle && menu?.showModal) {
     menu.showModal();
     toggle.setAttribute('aria-expanded', 'true');
   });
-  menu.addEventListener('close', () => { toggle.setAttribute('aria-expanded', 'false'); toggle.focus(); });
-  menu.querySelector('[data-menu-close]').addEventListener('click', () => menu.close());
-  menu.addEventListener('click', (e) => { if (e.target.closest('a')) menu.close(); });
+  menu.addEventListener('close', () => { menu.classList.remove('is-closing'); toggle.setAttribute('aria-expanded', 'false'); toggle.focus(); });
+  // Play the closing animation first (CSS .is-closing), then close the dialog.
+  const closeMenu = () => {
+    if (!menu.open || menu.classList.contains('is-closing')) return;
+    if (matchMedia('(prefers-reduced-motion: reduce)').matches) { menu.close(); return; }
+    menu.classList.add('is-closing');
+    const done = () => { clearTimeout(fallback); menu.removeEventListener('animationend', onEnd); menu.close(); };
+    const onEnd = (e) => { if (e.target === menu) done(); };
+    const fallback = setTimeout(done, 400);
+    menu.addEventListener('animationend', onEnd);
+  };
+  menu.addEventListener('cancel', (e) => { e.preventDefault(); closeMenu(); }); // Escape
+  menu.querySelector('[data-menu-close]').addEventListener('click', closeMenu);
+  menu.addEventListener('click', (e) => {
+    const a = e.target.closest('a');
+    if (!a) return;
+    // In-page links close with the animation; links to other pages just navigate.
+    if (a.getAttribute('href')?.startsWith('#') || e.defaultPrevented) closeMenu();
+    else menu.close();
+  });
 }
 
 // Brand Vision: each phrase darkens once it rises above 70% of the viewport height, so

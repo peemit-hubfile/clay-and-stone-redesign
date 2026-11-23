@@ -63,6 +63,26 @@ function megaHomes({ lang, t, content }) {
   <div class="mega-scrim" data-mega-scrim hidden></div>`;
 }
 
+// Mobile menu: the models as a swipeable row of small photo cards, so the menu opens
+// on the homes themselves rather than on a list of words.
+function mobileHomes({ lang, t, content, path }) {
+  const picture = makePicture(content.images);
+  const L = (v) => pick(v, lang).text;
+  return html`<section class="mm-homes" aria-labelledby="mm-homes-title">
+    <div class="mm-head container">
+      <h2 class="mm-label" id="mm-homes-title">${t('nav.homes')} <span>${content.models.length}</span></h2>
+      <a${attrs({ class: 'mm-all', href: href(lang, 'homes'), 'aria-current': path === 'homes' ? 'page' : null })}>${lang === 'th' ? 'ดูทั้งหมด' : 'View all'} ${icon('arrow-right', { size: 14 })}</a>
+    </div>
+    <ul class="mm-rail" role="list">
+      ${content.models.map((m, i) => html`<li style="--i:${i}"><a class="mm-card" href="${href(lang, m.path)}">
+        <span class="mm-card__photo">${picture(MEGA_PHOTOS[m.id] ?? m.images.cover, { alt: '', sizes: '11rem' })}</span>
+        <span class="mm-card__name">${L(m.name)}</span>
+        <span class="mm-card__meta">${m.area_sqm.usable} ${t('model.sqm')} · ${formatTHB(m.price.display_thb, lang)}</span>
+      </a></li>`)}
+    </ul>
+  </section>`;
+}
+
 // Real photographs for the panel where the cover is a render or a tight crop.
 const MEGA_PHOTOS = {
   'unwind-standard': '/images/source/projects/6973b669fbc3fdd253829882_standard-13.webp',
@@ -95,21 +115,23 @@ function header({ lang, t, path, content }) {
   <dialog class="mobile-menu" id="site-menu" aria-label="${t('nav.menu')}">
     <div class="mobile-menu__top container">
       <span class="wordmark" aria-hidden="true"><span class="wordmark__clay">CLAY</span><span class="wordmark__stone">&amp; stone</span></span>
-      <button class="menu-close" type="button" data-menu-close><span class="menu-toggle__label">${t('nav.close')}</span>${icon('x', { size: 22 })}</button>
+      ${langSwitch({ lang, t, path, className: 'mobile-menu__lang' })}
+      <button class="menu-close" type="button" data-menu-close aria-label="${t('nav.close')}">${icon('x', { size: 20 })}</button>
     </div>
-    <nav class="mobile-menu__nav container" aria-label="${lang === 'th' ? 'เมนูหลัก' : 'Main'}">
-      <ol class="mobile-menu__list" role="list">
-        ${[
-          ['homes', 'homes'], ['compare', 'compare'], ['home-finder', 'finder'],
-          ...NAV.slice(1).map((n) => [n.path, n.key]), ['contact', 'contact'],
-        ].map(([p, key], i) => html`<li><a${attrs({ href: href(lang, p), 'aria-current': path === p ? 'page' : null })}><span class="mobile-menu__num" aria-hidden="true">${String(i + 1).padStart(2, '0')}</span>${t(`nav.${key}`)}</a></li>`)}
-      </ol>
-      <div class="mobile-menu__actions">
-        <a class="btn btn--primary btn--rect" href="${line}" rel="noopener" data-track="click_line">${icon('chat')}${t('cta.line')}</a>
-        <a class="btn btn--line btn--rect" href="${content.settings.contact.phone.href}" data-track="click_phone">${icon('phone')}${content.settings.contact.phone.display}</a>
-        ${langSwitch({ lang, t, path, className: 'mobile-menu__lang' })}
+    <nav class="mobile-menu__body" aria-label="${lang === 'th' ? 'เมนูหลัก' : 'Main'}">
+      ${mobileHomes({ lang, t, content, path })}
+      <div class="mm-tiles container">
+        <a${attrs({ class: 'mm-tile', href: href(lang, 'compare'), 'aria-current': path === 'compare' ? 'page' : null, style: '--i:1' })}>${icon('layers', { size: 20 })}<span class="mm-tile__name">${t('nav.compare')}</span><span class="mm-tile__hint">${lang === 'th' ? 'เทียบขนาดและราคา' : 'Size and price side by side'}</span></a>
+        <a${attrs({ class: 'mm-tile', href: href(lang, 'home-finder'), 'aria-current': path === 'home-finder' ? 'page' : null, style: '--i:2' })}>${icon('key', { size: 20 })}<span class="mm-tile__name">${t('nav.finder')}</span><span class="mm-tile__hint">${lang === 'th' ? 'ตอบคำถามสั้น ๆ' : 'Answer a few questions'}</span></a>
       </div>
+      <ul class="mm-links container" role="list">
+        ${[...NAV.slice(1).map((n) => [n.path, n.key]), ['contact', 'contact']].map(([p, key], i) => html`<li style="--i:${i + 3}"><a${attrs({ href: href(lang, p), 'aria-current': path === p ? 'page' : null })}>${t(`nav.${key}`)}${icon('arrow-right', { size: 16 })}</a></li>`)}
+      </ul>
     </nav>
+    <div class="mobile-menu__bar container">
+      <a class="btn btn--primary" href="${line}" rel="noopener" data-track="click_line">${icon('chat', { size: 18 })}${t('cta.line')}</a>
+      <a class="btn btn--line mm-call" href="${content.settings.contact.phone.href}" data-track="click_phone" aria-label="${content.settings.contact.phone.display}">${icon('phone', { size: 18 })}</a>
+    </div>
   </dialog>
 </header>`;
 }
@@ -133,29 +155,29 @@ function footer({ lang, t, content }) {
     </div>
 
     <div class="site-footer__grid">
-      <nav aria-labelledby="footer-homes">
+      <nav class="site-footer__col site-footer__col--homes" aria-labelledby="footer-homes">
         <h2 class="site-footer__heading" id="footer-homes">${t('nav.homes')}</h2>
         <ul class="site-footer__list" role="list">
           ${content.models.map((m) => html`<li><a href="${href(lang, m.path)}"><span class="site-footer__series">${seriesName(m)}</span> ${L(m.name)}</a></li>`)}
           <li><a class="site-footer__more" href="${href(lang, 'homes')}">${t('footer.all_homes')} ${icon('arrow-right', { size: 16 })}</a></li>
         </ul>
       </nav>
-      <nav aria-labelledby="footer-menu" id="footer-nav">
+      <nav class="site-footer__col site-footer__col--menu" aria-labelledby="footer-menu" id="footer-nav">
         <h2 class="site-footer__heading" id="footer-menu">${t('footer.menu')}</h2>
         <ul class="site-footer__list" role="list">
           ${NAV.slice(1).map((n) => html`<li><a href="${href(lang, n.path)}">${t(`nav.${n.key}`)}</a></li>`)}
           <li><a href="${href(lang, 'contact')}">${t('nav.contact')}</a></li>
         </ul>
       </nav>
-      <div>
+      <div class="site-footer__col site-footer__col--contact">
         <h2 class="site-footer__heading">${t('nav.contact')}</h2>
         <ul class="site-footer__list site-footer__contact" role="list">
-          <li><a href="${c.line.href}" rel="noopener" data-track="click_line">${icon('chat', { size: 18 })}<span>LINE ${c.line.display}</span></a></li>
-          <li><a href="${c.phone.href}" data-track="click_phone">${icon('phone', { size: 18 })}<span>${c.phone.display}</span></a></li>
-          <li><a href="${c.email.href}" data-track="click_email">${icon('mail', { size: 18 })}<span>${c.email.display}</span></a></li>
+          <li><a href="${c.line.href}" rel="noopener" data-track="click_line">${icon('chat', { size: 18 })}<span>LINE ${c.line.display}</span>${icon('arrow-up-right', { size: 16 })}</a></li>
+          <li><a href="${c.phone.href}" data-track="click_phone">${icon('phone', { size: 18 })}<span>${c.phone.display}</span>${icon('arrow-up-right', { size: 16 })}</a></li>
+          <li><a href="${c.email.href}" data-track="click_email">${icon('mail', { size: 18 })}<span>${c.email.display}</span>${icon('arrow-up-right', { size: 16 })}</a></li>
         </ul>
       </div>
-      <div>
+      <div class="site-footer__col site-footer__col--visit">
         <h2 class="site-footer__heading">${t('footer.showroom')}</h2>
         <address class="site-footer__address">${L(c.showroom.address)}</address>
         <p class="site-footer__note">${t('footer.by_appointment')}</p>

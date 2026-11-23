@@ -44,3 +44,9 @@ An earlier version hid the header on scroll down; that was removed at the client
 - No overflow and no page errors.
 
 Smoke QA (32 routes × 2 viewports): 0 failures.
+
+## Mobile menu v2, mobile footer and mobile hero
+
+- **Mobile menu:** compact top bar (wordmark, TH/EN, round close button), the models as a swipeable row of photo cards, two shortcut tiles (compare, Home Finder), the other pages as a short list, and LINE + phone pinned to the bottom. Opens with a fade, the cards slide in one after another and the rest rises; closes with a short fade (`.is-closing`, `main.js`; Escape too). Off with reduced motion.
+- **Footer below 48em:** contact first as a card of large tap rows, the showroom as a compact card, homes as wrapping pills, the menu in two columns.
+- **Hero below 48em:** the photo fills the screen under the header; the headline sits on it in white over a deep bottom shade (checked by `tests/a11y-overlay.mjs`) and the house name is a glass chip in the top corner.

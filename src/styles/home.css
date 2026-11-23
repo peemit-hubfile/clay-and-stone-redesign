@@ -40,6 +40,30 @@
 /* Below desktop the panel covers that corner, so the caption is left out (the alt text names the house). */
 @media (max-width: 63.99em) { .hero__caption { display: none; } }
 
+/* Phones: one immersive screen. The photo fills the view below the header and the
+   headline sits on it in white over a deep shade at the bottom; the house name is a
+   glass chip in the top corner. Contrast is checked by tests/a11y-overlay.mjs. */
+@media (max-width: 47.99em) {
+  .hero > * { grid-area: 1 / 1; }
+  .hero__media { block-size: clamp(34rem, calc(100svh - var(--header-h)), 46rem); }
+  .hero__media img { object-position: 62% 50%; }
+  .hero__media::after { block-size: 78%; background: linear-gradient(to top, rgb(20 19 19 / 0.9) 0%, rgb(20 19 19 / 0.72) 38%, rgb(20 19 19 / 0.3) 70%, transparent); }
+  .hero__frame { align-content: end; }
+  .hero__panel { margin: 0; padding: 0 0 var(--space-7); background: none; color: #fff; }
+  .hero__eyebrow { display: flex; align-items: center; gap: var(--space-3); color: rgb(255 255 255 / 0.82); }
+  .hero__eyebrow::before { content: ''; inline-size: 1.75rem; block-size: 1px; background: currentColor; }
+  .hero__title { font-size: clamp(2.125rem, 1.4rem + 3.6vw, 2.75rem); }
+  :lang(th) .hero__title { font-size: clamp(2rem, 1.3rem + 3.4vw, 2.5rem); }
+  .hero__lead { color: rgb(255 255 255 / 0.86); }
+  .hero__caption { display: grid; inset-block-start: var(--space-4); inset-inline-end: 0; }
+  /* A short line at the foot of the photo hints that the page continues. */
+  .hero__frame::after { content: ''; position: absolute; inset-block-end: var(--space-4); inset-inline-start: 0; inline-size: 2.5rem; block-size: 2px; background: rgb(255 255 255 / 0.5); transform-origin: left; }
+}
+@media (max-width: 47.99em) and (prefers-reduced-motion: no-preference) {
+  .hero__frame::after { animation: hero-cue 2.4s 1.2s var(--ease-in-out) 2 both; } /* under 5s: WCAG 2.2.2 */
+}
+@keyframes hero-cue { 0% { transform: scaleX(0.2); opacity: 0.4; } 50% { transform: scaleX(1); opacity: 1; } 100% { transform: scaleX(0.2); opacity: 0.4; } }
+
 @media (min-width: 48em) {
   .hero__media { block-size: min(70svh, 40rem); }
   .hero__panel { max-inline-size: 36rem; margin-block-start: -9rem; margin-inline: 0; padding: var(--space-7) var(--space-7) var(--space-6) 0; }
