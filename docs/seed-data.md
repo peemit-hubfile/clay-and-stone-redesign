@@ -26,7 +26,7 @@ npm run seed:validate   # checks only
 | `team.json` | 3 | ✓ | **Team** |
 | `articles.json` | 5 | ✓ | **Articles** (ref → Team) |
 | `videos.json` | 7 | ✓ | **Videos** |
-| `finder.json` | 6 questions | ✗ hand-authored | Custom code (JSON embed) |
+| `finder.json` | 4 steps (v2; see home-finder-v2.md) | ✗ hand-authored | Custom code (JSON embed) |
 | `i18n/th.json`, `i18n/en.json` | UI strings | ✗ hand-authored | Static text per locale |
 
 Generated files are overwritten by `npm run seed`, so edit `src/data/*.json` or `tools/seed/build-seed.mjs`, not the output. Hand-authored files are never overwritten.
@@ -59,7 +59,7 @@ These let the build proceed. Each one is reversible by editing a single value.
 
 ## Home Finder
 
-`finder.json` declares 6 questions (use, household, bedrooms, budget, plot, mood). Each answer carries `require`, `boost` or `note` effects that read **one field** of a model record. The engine is [`src/scripts/finder-engine.js`](../src/scripts/finder-engine.js), a pure function the prototype UI will reuse.
+`finder.json` declares 4 steps (use, space, budget, optional priority); v1 had 6 (use, household, bedrooms, budget, plot, mood). See [home-finder-v2.md](home-finder-v2.md). Each answer carries `require`, `boost` or `note` effects that read **one field** of a model record. The engine is [`src/scripts/finder-engine.js`](../src/scripts/finder-engine.js), a pure function the prototype UI will reuse.
 
 Every recommendation reason comes from site data. Finder tags on each model (`uses`, `household`, `plot_fit`, `lifestyle`) carry a `tag_basis` naming the source sentence.
 

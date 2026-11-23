@@ -17,11 +17,13 @@
     "seed:validate": "node tools/seed/validate-seed.mjs",
     "seed:all": "node tools/seed/build-seed.mjs && node tools/seed/validate-seed.mjs",
     "test:smoke": "node tests/qa-smoke.mjs",
-    "fonts": "node tools/build/fonts.mjs"
+    "fonts": "node tools/build/fonts.mjs",
+    "build:showcase": "node tools/build/showcase.mjs"
   },
   "devDependencies": {
     "@fontsource-variable/manrope": "^5.1.1",
     "@fontsource/ibm-plex-sans-thai": "^5.1.1",
+    "axe-core": "^4.10.2",
     "playwright-core": "^1.49.1",
     "sharp": "^0.33.5",
     "vite": "^6.0.7"

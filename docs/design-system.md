@@ -12,20 +12,22 @@
 
 ## 2. Colour
 
+**Palette v4 (2026-11-23):** the client said the warm beige and olive tones looked generic and AI-made. The palette now follows the live site: white, light neutral grey bands, charcoal text and a near-black inverse band. Warmth comes from the photography only. Timber is kept as a small highlight. The token names are unchanged (`stone`, `olive`), so no component CSS had to change.
+
 | Token | Value | Use | Contrast |
 |---|---|---|---|
-| `--c-paper` / `--color-bg` | `#f6f3ee` | Page background (warm off-white) | — |
-| `--c-stone-100` / `--color-surface` | `#efeae2` | Alternating sections, hovers | — |
-| `--c-stone-200` / `--color-surface-2` | `#e4ddd2` | Image placeholders, neutral badges | — |
-| `--c-charcoal` / `--color-ink` | `#24211e` | Text, primary buttons | 14.5:1 on paper |
-| `--c-grey-500` / `--color-ink-muted` | `#635c54` | Secondary text | 5.95 paper · 5.50 stone-100 · 4.88 stone-200 |
-| `--c-olive` / `--color-accent` | `#575a40` | Eyebrows, icons, accents | 6.45:1 on paper |
-| `--c-timber` / `--color-highlight` | `#8a5a34` | Timeline durations | 5.28:1 on paper |
-| `--c-night` / `--color-inverse-bg` | `#1b1916` | Footer, Finder, overlays | paper text 15.9:1 |
-| `--color-pending-bg` / `-ink` | `#f6e7c8` / `#6b4a10` | "Pending confirmation" badges | 6.58:1 |
-| `--color-focus` | `#2f5bd3` | Focus ring only (3px, offset 3px) | 5.33:1 on paper |
+| `--c-paper` / `--color-bg` | `#ffffff` (was `#f6f3ee`) | Page background | — |
+| `--c-stone-100` / `--color-surface` | `#efefee` (was `#efeae2`) | Alternating sections such as Finder and Projects (live site `#ededed`) | — |
+| `--c-stone-200` / `--color-surface-2` | `#e4e4e3` (was `#e4ddd2`) | Image placeholders, neutral badges | — |
+| `--c-charcoal` / `--color-ink` | `#1f1d1e` (was `#24211e`) | Text, primary buttons (live site dark-900) | 16.8:1 on white |
+| `--c-grey-500` / `--color-ink-muted` | `#5e5c5b` (was `#635c54`) | Secondary text | 6.65 white · 5.68 stone-100 · 5.18 stone-200 |
+| `--c-olive` / `--color-accent` | `#484848` (was olive `#575a40`) | Eyebrows, labels, icons (live site brand-500) | 9.15:1 on white |
+| `--c-timber` / `--color-highlight` | `#8a5a34` | Timeline durations only | 5.85 white · 4.99 stone-100 |
+| `--c-night` / `--color-inverse-bg` | `#1f1d1e` (was `#1b1916`) | Discover band, contact, footer | white text 16.8:1 |
+| `--color-pending-bg` / `-ink` | `#f6e7c8` / `#6b4a10` | "Pending confirmation" badges, the only tinted UI colour | 6.58:1 |
+| `--color-focus` | `#2f5bd3` | Focus ring only (3px, offset 3px) | 5.33:1 on white |
 
-All text pairings meet **WCAG 2.2 AA** (≥4.5:1 for body text), checked by calculation. The original site's grey palette (`#484848`, `#1f1d1e`, `#ededed`) was warmed toward the materials seen in the photography.
+All text pairings meet **WCAG 2.2 AA** (≥4.5:1 for body text), checked by calculation.
 
 ## 3. Typography
 

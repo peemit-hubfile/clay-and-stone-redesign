@@ -67,14 +67,19 @@ for (const [vpName, vp] of Object.entries(VIEWPORTS)) {
     const page = await ctx.newPage();
     await page.goto(`${BASE}/${lang}/#finder`, { waitUntil: 'networkidle' });
     const qs = await page.$$eval('[data-finder-form] fieldset', (f) => f.map((x) => x.dataset.q));
-    const picks = { use: 'second-home', household: 'couple', bedrooms: '1', budget: 'lte-2m', plot: 'unsure', lifestyle: 'calm' };
+    // v2 flow: 4 steps (use, space, budget, optional priority). A click auto-advances;
+    // if the step is still showing, press Next (the last step always needs Next).
+    const picks = { use: 'second-home', space: '1', budget: 'lte-2m', priority: 'nature' };
+    const visibleQ = () => page.evaluate(() => [...document.querySelectorAll('[data-q]')].find((f) => !f.hidden)?.dataset.q);
     for (const q of qs) {
       await page.locator(`[data-q="${q}"] input[value="${picks[q]}"]`).check();
-      await page.waitForTimeout(260);
+      await page.waitForTimeout(400);
+      if ((await visibleQ()) === q) await page.locator('[data-finder-next]').click();
     }
-    await page.locator('[data-finder-next]').click();
     const out = await page.locator('[data-finder-results]').innerText();
-    const ok = /Unwind Series 1 Bed 2 Bath/.test(out) && /#1/.test(out);
+    const best = await page.locator('[data-finder-results] .result--best .result__name').innerText().catch(() => '');
+    const reasons = (await page.locator('[data-finder-results] .result--best [data-result-why]').innerText().catch(() => '')).trim().length;
+    const ok = /Unwind Series 1 Bed 2 Bath/.test(best) && reasons > 0 && out.length > 0;
     if (!ok) fail(`finder ${lang} ${vpName}: expected Unwind 1 Bed 2 Bath in results`);
     if (await page.locator('[data-finder-form]').isVisible()) fail(`finder ${lang} ${vpName}: form still visible after results`);
     // Keyboard: on a fresh load, the first Tab stop is the skip link.

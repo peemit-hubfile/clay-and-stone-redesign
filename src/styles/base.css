@@ -49,6 +49,7 @@ dialog { color: inherit; }
 .container { width: min(100% - 2 * var(--gutter), var(--container)); margin-inline: auto; }
 .section { padding-block: var(--section-y); }
 .muted { color: var(--color-ink-muted); }
+.nowrap { white-space: nowrap; }
 
 .eyebrow {
   font-family: var(--font-latin);

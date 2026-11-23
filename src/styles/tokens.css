@@ -1,21 +1,21 @@
 /* ==========================================================================
    Clay & Stone design tokens
    Maps 1:1 to Webflow Variables (see docs/design-system.md).
-   Palette: warm off-white, natural stone, soft beige, charcoal, muted olive,
-   warm grey, plus a timber accent taken from the homes' WPC/aluminium wood tones.
+   Palette v4: the live site's neutral white / light grey / charcoal. Warmth comes from
+   the photography; timber is kept only as a small highlight (timeline durations).
    ========================================================================== */
 :root {
   /* Colour: primitives */
-  --c-paper: #f6f3ee;      /* warm off-white */
-  --c-stone-100: #efeae2;  /* natural stone, light */
-  --c-stone-200: #e4ddd2;  /* soft beige */
-  --c-stone-300: #cfc5b7;
-  --c-grey-500: #635c54;   /* warm grey: secondary text (≥4.5:1 on paper, stone-100, stone-200) */
-  --c-grey-700: #4f4942;
-  --c-charcoal: #24211e;   /* ink */
-  --c-night: #1b1916;      /* inverse surface */
-  --c-olive: #575a40;      /* muted olive: accent, links */
-  --c-olive-200: #dfe0d0;
+  --c-paper: #ffffff;      /* white, as on the live site */
+  --c-stone-100: #efefee;  /* light neutral grey band (live site #ededed) */
+  --c-stone-200: #e4e4e3;  /* neutral grey: placeholders, chips */
+  --c-stone-300: #c9c9c8;
+  --c-grey-500: #5e5c5b;   /* secondary text: 6.65 white · 5.68 stone-100 · 5.18 stone-200 */
+  --c-grey-700: #484848;   /* live site brand-500 */
+  --c-charcoal: #1f1d1e;   /* ink (live site dark-900) */
+  --c-night: #1f1d1e;      /* inverse surface */
+  --c-olive: #484848;      /* accent: brand charcoal (was muted olive; v4 palette, docs/design-system.md) */
+  --c-olive-200: #e4e4e3;
   --c-timber: #8a5a34;     /* timber accent */
   --c-timber-100: #f1e6da;
   --c-white: #ffffff;
@@ -28,6 +28,7 @@
   --color-ink-muted: var(--c-grey-500);
   --color-line: color-mix(in srgb, var(--c-charcoal) 14%, transparent);
   --color-line-strong: color-mix(in srgb, var(--c-charcoal) 28%, transparent);
+  --color-control: #8a8887;  /* control outlines (radio, select, chip): 3.5:1 on white, WCAG 1.4.11 */
   --color-accent: var(--c-olive);
   --color-accent-soft: var(--c-olive-200);
   --color-highlight: var(--c-timber);

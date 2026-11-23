@@ -10,7 +10,8 @@ import { toString } from '../../src/lib/html.js';
 
 const SRC = join(dirname(fileURLToPath(import.meta.url)), '..', '..', 'src');
 const content = loadContent();
-const routes = buildRoutes(content);
+// SHOWCASE=1 renders the homepage only (docs/showcase.md).
+const routes = buildRoutes(content).filter((r) => process.env.SHOWCASE !== '1' || r.path === '');
 
 for (const lang of LANGS) rmSync(join(SRC, lang), { recursive: true, force: true });
 

@@ -34,12 +34,16 @@ The TH copy is the brief's proposal. The EN copy is a proposed translation. The 
 - **Thai sentence:** breaks only at the spaces between phrases, so no orphaned "หน้างาน".
 - **EN H1:** Manrope 300, `clamp(2.125rem, -0.5rem + 4.1vw, 3.25rem)`. The size tracks the column, so "designed for real life." stays on one line from 1024px to 1872px.
 
-## 5. Discover Our Homes
+## 5. Discover Our Homes (revised: "too plain" feedback)
 
-- The three models that have real completed-home photography: Standard (wide 4:3), Loft (tall 4:5, offset down) and 1 Bed 2 Bath (16:9 panorama).
-- Each item shows the series, model name, usable area and rooms, plus an arrow. The whole card links to the model page.
-- A short note names the other two homes (Unwind 2 Bed 2 Bath and Alive, which have renders only) and links to "View all 5 homes" (`/homes`), where prices, plans and pending badges live.
-- Prices are no longer shown on the homepage. They are on `/homes` and the model pages.
+- **Dark band** (`--color-inverse-bg`) after the paper hero, so the page has rhythm and the photographs stand out.
+- **Header:** an eyebrow, a large title, and a one-line intro built from the data (5 homes, 2 series). On the right are ← / → buttons and "View all 5 homes". The buttons are hidden on phones, where swiping is natural.
+- **Rail of all 5 homes:** it starts on the page grid, bleeds off the right edge and snaps card by card. It is user-controlled, with no autoplay.
+- **Card:** a 4:3 photograph, number (01–05), series, model name, specs (area · rooms · bathrooms · storeys) and starting price with its "pending" badge, plus "View details".
+- **Floor plan on hover:** on devices that can hover, hovering or focusing a card swaps the photograph for the floor plan. On touch devices the plan is not loaded at all.
+- **Honest imagery:** the three Unwind homes use real completed-home photos. Unwind 2 Bed 2 Bath and Alive use their cover renders with a "Visualisation" badge, which hides while the plan shows.
+- Cards use CSS subgrid, so the number, name, specs, price and link rows line up across every card. The pending badge always sits on its own line under the price, so cards with and without it stay aligned. There are no divider lines.
+- The rail script (`src/scripts/rail.js`, under 1 KB) only adds the arrow buttons. Without JS the rail still scrolls.
 
 ## 6. Motion and navigation
 
@@ -57,3 +61,17 @@ The TH copy is the brief's proposal. The EN copy is a proposed translation. The 
 | CLS | 0 |
 
 These are lab numbers on an emulated network, not field data. The mobile TH LCP rose from v2 because the mobile photograph is now a larger square crop. If needed, a 4:3 crop on phones would bring it back down.
+
+## 8. About Clay & Stone (V4 brief)
+
+- **Desktop:** photograph 55% / text 45%, vertically centred, inside the page container. **Tablet:** 1:1. **Mobile:** full-bleed portrait photograph, then text.
+- **Photo:** a completed Unwind Loft Type interior (double height, timber stair, mezzanine, daylight from the deck), with a small caption. It is a real photo, cropped on the stair.
+- **Content:** label, H2, one paragraph and a text link to `/about/`. The About page is still a placeholder.
+- **Copy (proposed, needs brand approval):**
+  - TH: เกี่ยวกับ Clay & Stone / บ้านที่ออกแบบด้วยความเข้าใจในการอยู่อาศัย / Clay & Stone ออกแบบและสร้างบ้านโมดูลาร์ที่ผสานความสวยงาม การใช้งาน และความทนทาน… / รู้จัก Clay & Stone ↗
+  - EN: About Clay & Stone / Homes designed with an understanding of how people live / … / Get to know Clay & Stone ↗
+- **Removed from this section:** the long brand positioning and description (they belong on the About page), the key-figures row and the three principles.
+  - The timeline figures (60–90 days, ~15 days) still appear in the process section.
+  - The 5-year structural warranty and 200 km free installation are no longer on the homepage. They are still pending confirmation and can return beside the contact or process sections once confirmed.
+- **Thai line breaks:** the headline breaks only between phrases. In the paragraph, "หลากหลาย" and "อยู่อาศัย" are kept unbroken.
+
